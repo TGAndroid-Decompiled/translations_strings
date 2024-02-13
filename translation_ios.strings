@@ -10228,7 +10228,7 @@ Sorry for the inconvenience.";
 "ReassignBoost.OtherGroupsAndChannels_any" = "%@ other groups and channels";
 
 "ChannelBoost.MoreBoosts.Title" = "More Boosts Needed";
-"ChannelBoost.MoreBoosts.Text" = "To boost **%1$@** again, gift **Telegram Premium** to a friend and get **%2$@** additional boosts.";
+"ChannelBoost.MoreBoosts.Text" = "To boost **%1$@**, gift **Telegram Premium** to a friend and get **%2$@** additional boosts.";
 "ChannelBoost.MoreBoosts.Gift" = "Gift Premium";
 
 "BoostGift.Title" = "Boosts via Gifts";
@@ -10770,8 +10770,8 @@ Sorry for the inconvenience.";
 "Wallpaper.ChannelRemoveBackground" = "Remove Wallpaper";
 "Wallpaper.NoWallpaper" = "No\nWallpaper";
 
-"ChatList.PremiumXmasGiftTitle" = "Send gifts to **your family and friends**! 🧧";
-"ChatList.PremiumXmasGiftText" = "Gift Telegram Premium for the Lunar New Year.";
+"ChatList.PremiumXmasGiftTitle" = "Send gifts to **your loved ones**! ❤️";
+"ChatList.PremiumXmasGiftText" = "Gift Telegram Premium for Valentine's Day.";
 
 "ReassignBoost.DescriptionWithLink" = "To boost **%1$@**, reassign a previous boost or [gift Telegram Premium]() to a friend to get **%2$@** additional boosts.";
 

@@ -6024,7 +6024,7 @@
     <string name="GiftPremiumAboutThisLink">This link allows you or **anyone you choose** to activate a %1$s.</string>
     <string name="GiftPremiumAboutThisLinkEnd">**Telegram Premium** subscription</string>
     <string name="GiftPremiumWhatsIncluded">What\'s included</string>
-    <string name="GiftPremiumEventAdsTitle">Send gifts **to your friends!** &#127876;</string>
+    <string name="GiftPremiumEventAdsTitle">Send gifts **to your loved ones!** &#10084;&#65039;</string>
     <string name="GiftTelegramPremiumTitle">Gift Telegram Premium</string>
     <string name="GiftTelegramPremiumDescription">Give **%1$s** access to exclusive features with **Telegram Premium**.</string>
     <string name="TelegramPremium">Telegram Premium</string>
@@ -7486,7 +7486,7 @@ list of reactions.</string>
     <string name="BoostingShareThisLink">Share this link with your subsсribers to get more boosts.</string>
     <string name="BoostingShareThisLinkGroup">Share this link with your members to get more boosts.</string>
     <string name="BoostingGetMoreBoosts">Get more boosts for your channel by gifting Premium to your subscribers.</string>
-    <string name="BoostingGetMoreBoostsGroup">Get more boosts for your group by gifting Premium to your subscribers.</string>
+    <string name="BoostingGetMoreBoostsGroup">Get more boosts for your group by gifting Premium to your members.</string>
     <string name="BoostingStartGiveaway">Start Giveaway</string>
     <string name="BoostingBoostForGroups">Boosts for Groups</string>
     <string name="BoostingBoostForChannels">Boosts for Channels</string>
@@ -7777,8 +7777,8 @@ list of reactions.</string>
     <string name="BoostingReassignBoostTextPluralWithLink_one">To boost **%2$s**, reassign a previous boost or %3$s to a friend to get **%1$d** additional boost.</string>
     <string name="BoostingReassignBoostTextPluralWithLink_other">To boost **%2$s**, reassign a previous boost or %3$s to a friend to get **%1$d** additional boosts.</string>
     <string name="BoostingReassignBoostTextLink">**gift Telegram Premium**</string>
-    <string name="BoostingPremiumChristmasTitle">Send gifts **to your family and friends**!</string>
-    <string name="BoostingPremiumChristmasSubTitle">Give Telegram Premium for the Lunar New Year.</string>
+    <string name="BoostingPremiumChristmasTitle">Send gifts **to your loved ones**! &#10084;&#65039;</string>
+    <string name="BoostingPremiumChristmasSubTitle">Give Telegram Premium for Valentine\'s Day.</string>
     <string name="BoostingPremiumChristmasToast">You can gift Telegram Premium later from Settings</string>
     <string name="BoostingRemoveBoostFrom">Remove your boost from</string>
     <string name="BoostingAvailableIn">available in %1$s</string>
