@@ -10988,8 +10988,8 @@ Sorry for the inconvenience.";
 "ChannelBoost.MaxLevelReached.Text" = "**%1$@** reached **Level %2$@**.";
 
 "ChannelBoost.MoreBoostsNeeded.Boosted.Text" = "%@ needed to unlock new features.";
-"ChannelBoost.MoreBoostsNeeded.Boosted.Level.Text" = "This channel reached **%@** and unlocked new features.";
-"GroupBoost.MoreBoostsNeeded.Boosted.Level.Text" = "This group reached **%@** and unlocked new features.";
+"ChannelBoost.MoreBoostsNeeded.Boosted.Level.Text" = "This channel reached **Level %@** and unlocked new features.";
+"GroupBoost.MoreBoostsNeeded.Boosted.Level.Text" = "This group reached **Level %@** and unlocked new features.";
 
 "ContactList.Context.Delete" = "Delete Contact";
 "ContactList.Context.Select" = "Select";
@@ -11303,9 +11303,34 @@ Sorry for the inconvenience.";
 "Channel.AdminLog.MessageChangedGroupEmojiPack" = "%@ changed group emoji pack";
 "Channel.AdminLog.MessageRemovedGroupEmojiPack" = "%@ removed group emoji pack";
 
-"Group.Appearance.EmojiPackUpdated" = "Group emoji pack updated.";
-
 "Attachment.BoostToUnlock" = "Boost to Unlock";
+
+"Story.GroupCommentingRestrictedPlaceholder" = "Comments restricted. Boost the group to unlock.";
+"Story.GroupCommentingRestrictedPlaceholderAction" = "Learn More...";
+
+"GroupBoost.Table.Group.VoiceToText" = "Voice-to-Text Conversion";
+"GroupBoost.Table.Group.EmojiPack" = "Custom Emojipack";
+
+
+
+
+            
+
+"Premium.Business.Hours.Text" = "Show to your customers when you are
+open for business.";
+
+
+"Premium.Business.Replies.Text" = "Set up shortcuts with rich text and media
+to respond to messages faster.";
+
+
+
+
+
+
+
+
+
 
 
 /* new from translations.telegram.org */
@@ -11883,6 +11908,7 @@ Sorry for the inconvenience.";
 "GlobalAutodeleteSettings.ApplyChatsSubject_2" = "%@ chats";
 "GlobalAutodeleteSettings.ApplyChatsSubject_3_10" = "%@ chats";
 "GlobalAutodeleteSettings.ApplyChatsSubject_many" = "%@ chats";
+"Group.Appearance.EmojiPackUpdated" = "Group emoji pack updated.";
 "GroupBoost.BoostToUnrestrict.Times_0" = "**%@** times";
 "GroupBoost.BoostToUnrestrict.Times_2" = "**%@** times";
 "GroupBoost.BoostToUnrestrict.Times_3_10" = "**%@** times";
