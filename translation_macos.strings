@@ -3133,6 +3133,8 @@
 
 "PrivacyAndSecurity.Confirm.ClearCloudDrafts" = "Are you sure you want to delete all cloud drafts?";
 
+"Location.Set.Location" = "Set This Location";
+
 
 "Location.Send.MyLocation" = "Send My Current Location";
 "Location.Send.ThisLocation" = "Send This Location";
@@ -8141,6 +8143,8 @@
 "Story.Input.CantShare" = "You can't share this story";
 "Story.Input.Placeholder" = "Reply Privately...";
 
+"Story.Input.Group.Placeholder" = "Comment Story...";
+
 "Story.Input.Attach" = "Photo or Video";
 "Story.Input.File" = "File";
 
@@ -8209,6 +8213,8 @@
 
 
 "Story.StealthMode.Placeholder" = "Stealth Mode - %@";
+
+"Story.SlowMode.Placeholder" = "Slow Mode - %@";
 
 
 "PremiumBoarding.Stories.PriorityOrder.Title" = "Priority Order";
@@ -8401,11 +8407,40 @@
 "ChannelBoost.EnableWallpapersText.Group" = "Your group needs **%1$@ level** to change wallpaper.\n\nAsk your **Premium** subscribers to boost your group with this link:";
 
 
-"ChannelBoost.UnblockText.Group" = "Boost the group **%1$@** times to remove messaging restrictions. Your boosts will help **%2$@** to unlock new features.";
-"ChannelBoost.UnblockText.Group.Full" = "Boost the group **%1$@** times to remove messaging restrictions.";
+"ChannelBoost.UnblockText.Group_countable" = "%d %@";
 
-"ChannelBoost.UnblockSlowmode.Group" = "Boost the group **%1$@** times to remove slow mode restrictions. Your boosts will help **%2$@** to unlock new features.";
-"ChannelBoost.UnblockSlowmode.Group.Full" = "Boost the group **%1$@** times to remove slow mode restrictions.";
+
+
+
+
+
+
+
+"ChannelBoost.UnblockText.Group.Full_countable" = "%d";
+
+
+
+
+
+
+
+
+"ChannelBoost.UnblockSlowmode.Group_countable" = "%d %@";
+
+
+
+
+
+
+
+
+
+"ChannelBoost.UnblockSlowmode.Group.Full_countable" = "%d";
+
+
+
+
+
 
 
 "ChannelBoost.EnableReactions" = "Custom Reactions";
@@ -9583,6 +9618,10 @@
 "ChannelBoost.IncreaseLimitText" = "Your channel needs %1$@ to post %2$@.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
 "ChannelBoost.MaxLevelReachedText" = "This channel reached **Level %1$@** and can now post %2$@.";
 "ChannelBoost.MaxLevelReachedTextAuthor" = "%1$@ reached **Level %2$@** and can now post %3$@.";
+"ChannelBoost.UnblockSlowmode.Group" = "Boost the group **%1$@** times to remove slow mode restrictions. Your boosts will help **%2$@** to unlock new features.";
+"ChannelBoost.UnblockSlowmode.Group.Full" = "Boost the group **%1$@** times to remove slow mode restrictions.";
+"ChannelBoost.UnblockText.Group" = "Boost the group **%1$@** times to remove messaging restrictions. Your boosts will help **%2$@** to unlock new features.";
+"ChannelBoost.UnblockText.Group.Full" = "Boost the group **%1$@** times to remove messaging restrictions.";
 "ChannelEventFilter.Calls" = "Calls";
 "ChannelVisibility.Forwarding.ChannelInfo" = "Subscribers will be able to copy, save and forward content from this channel.";
 "ChannelVisibility.Forwarding.Disabled" = "Restrict Saving Content";
