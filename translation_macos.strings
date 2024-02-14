@@ -8369,8 +8369,8 @@
 "ChannelBoost.ZeroLevelText.Group" = "Your group needs %1$@ to get access to features.\n\nAsk your **Premium** subscribers to boost your group with this link:";
 
 
-"ChannelBoost.IncreaseLimitText.Channel" = "Your channel needs %1$@ to get access to featrues.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
-"ChannelBoost.IncreaseLimitText.Group" = "Your group needs %1$@ to get access to featrues.\n\nAsk your **Premium** subscribers to boost your group with this link:";
+"ChannelBoost.IncreaseLimitText.Channel" = "Your channel needs %1$@ to get access to features.\n\nAsk your **Premium** members to boost your channel with this link:";
+"ChannelBoost.IncreaseLimitText.Group" = "Your group needs %1$@ to get access to features.\n\nAsk your **Premium** members to boost your group with this link:";
 
 
 "ChannelBoost.EnableColors" = "Enable Colors";
