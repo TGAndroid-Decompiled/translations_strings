@@ -11311,6 +11311,12 @@ Sorry for the inconvenience.";
 "GroupBoost.Table.Group.VoiceToText" = "Voice-to-Text Conversion";
 "GroupBoost.Table.Group.EmojiPack" = "Custom Emojipack";
 
+"ChannelBoost.Header.Boost" = "boost";
+"ChannelBoost.Header.Giveaway" = "giveaway";
+"ChannelBoost.Header.Features" = "features";
+
+
+
 
 
 
@@ -11322,6 +11328,25 @@ open for business.";
 
 "Premium.Business.Replies.Text" = "Set up shortcuts with rich text and media
 to respond to messages faster.";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
