@@ -8375,7 +8375,7 @@
 "ChannelBoost.ZeroLevelText.Group" = "Your group needs %1$@ to get access to features.\n\nAsk your **Premium** subscribers to boost your group with this link:";
 
 
-"ChannelBoost.IncreaseLimitText.Channel" = "Your channel needs %1$@ to get access to features.\n\nAsk your **Premium** members to boost your channel with this link:";
+"ChannelBoost.IncreaseLimitText.Channel" = "Your channel needs %1$@ to get access to features.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
 "ChannelBoost.IncreaseLimitText.Group" = "Your group needs %1$@ to get access to features.\n\nAsk your **Premium** members to boost your group with this link:";
 
 
@@ -8391,15 +8391,15 @@
 
 "ChannelBoost.ProfileIcon" = "Set Cover Icon";
 "ChannelBoost.EnableProfileIconLevelText" = "Your channel needs **Level %1$@** to change channel cover icon.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
-"ChannelBoost.EnableProfileIconLevelText.Group" = "Your group needs **Level %1$@** to change channel cover icon.\n\nAsk your **Premium** subscribers to boost your group with this link:";
+"ChannelBoost.EnableProfileIconLevelText.Group" = "Your group needs **Level %1$@** to change group cover icon.\n\nAsk your **Premium** members to boost your group with this link:";
 
 "ChannelBoost.EmojiStatus" = "Use Emoji Statuses";
 "ChannelBoost.EnableEmojiStatusLevelText" = "Your channel needs **Level %1$@** to use emoji statuses.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
-"ChannelBoost.EnableEmojiStatusLevelText.Group" = "Your group needs **Level %1$@** to use emoji statuses.\n\nAsk your **Premium** subscribers to boost your grpup with this link:";
+"ChannelBoost.EnableEmojiStatusLevelText.Group" = "Your group needs **Level %1$@** to use emoji statuses.\n\nAsk your **Premium** members to boost your group with this link:";
 
 
 "ChannelBoost.EmojiPack" = "Use Emoji Pack";
-"ChannelBoost.EnableEmojiStatusLevelText.Group" = "Your group needs **Level %1$@** to use emoji statuses.\n\nAsk your **Premium** subscribers to boost your grpup with this link:";
+"ChannelBoost.EnableEmojiStatusLevelText.Group" = "Your group needs **Level %1$@** to use emoji statuses.\n\nAsk your **Premium** members to boost your group with this link:";
 
 
 "ChannelBoost.EnableWallpapers" = "Enable Wallpapers";
@@ -8481,7 +8481,7 @@
 
 
 "ChannelBoost.AdditionalFeatures.Title" = "Additional Features";
-"ChannelBoost.AdditionalFeatures.Text" = "By gaining boosts, your group levels and unlocks more features.";
+"ChannelBoost.AdditionalFeatures.Text" = "By gaining boosts, your group reaches higher levels and unlocks more features.";
 
 
 "Stats.Statistics" = "Statistics";
@@ -8711,7 +8711,7 @@
 
 
 "Giveaway.Channels.Header" = "CHANNELS INCLUDED IN THE GIVEAWAY";
-"Giveaway.Channels.Header.Group" = "GROUPS AND CHANNEL INCLUDED IN THE GIVEAWAY";
+"Giveaway.Channels.Header.Group" = "GROUPS AND CHANNELS INCLUDED IN THE GIVEAWAY";
 
 "Giveaway.Channels.BoostReceive_countable" = "%d";
 "Giveaway.Channels.BoostReceive_zero" = "this channel will receive %d boosts";
@@ -8746,7 +8746,7 @@
 "Giveaway.Channels.Add.SelectChannel.Group" = "Select Group";
 
 "Giveway.Channels.Info" = "Choose the channels users need to join to take part in the giveaway.";
-"Giveway.Channels.Info.Group" = "Choose the groups or channels users need to be subscribed to take part in the giveaway.";
+"Giveway.Channels.Info.Group" = "Choose additional groups and channels users need to join to take part in the giveaway.";
 
 
 "Giveaway.ReceiverType.Title" = "USERS ELIGIBLE FOR THE GIVEAWAY";
@@ -8774,7 +8774,7 @@
 "Giveaway.Date.SelectDate.OK" = "OK";
 
 "Giveaway.Date.Info" = "Choose when subscribers of your channel will be randomly selected to receive Telegram Premium.";
-"Giveaway.Date.Info.Group" = "Choose when subscribers of your group will be randomly selected to receive Telegram Premium.";
+"Giveaway.Date.Info.Group" = "Choose when members of your group will be randomly selected to receive Telegram Premium.";
 
 "Giveaway.PaymentOptions.Title" = "DURATION OF PREMIUM SUBSCRIPTIONS";
 "Giveaway.PaymentOptions.Info" = "You can review the list of features and more details about Telegram Premium [here](premium).";

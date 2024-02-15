@@ -2259,7 +2259,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_giveaway_recipients_deselect" = "Deselect All";
 "lng_giveaway_maximum_countries_error#one" = "You can select up to {count} country.";
 "lng_giveaway_maximum_countries_error#other" = "You can select up to {count} countries.";
-"lng_giveaway_maximum_channels_error#one" = "You can select  {count} channel.";
+"lng_giveaway_maximum_channels_error#one" = "You can select {count} channel.";
 "lng_giveaway_maximum_channels_error#other" = "You can select up to {count} channels.";
 "lng_giveaway_maximum_users_error#one" = "You can select up to {count} subscribers.";
 "lng_giveaway_maximum_users_error#other" = "You can select up to {count} subscribers.";

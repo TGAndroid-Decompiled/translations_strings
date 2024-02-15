@@ -7605,7 +7605,7 @@ list of reactions.</string>
     <string name="BoostingQuantityPrizes">Quantity of prizes</string>
     <string name="BoostingChooseHowMany">Choose how many Premium subscriptions to give away and boosts to receive.</string>
     <string name="BoostingChannelsGroupsIncludedGiveaway">Groups and channels included</string>
-    <string name="BoostingChooseChannelsGroupsNeedToJoin">Choose groups and channels the users need to join to take part in the giveaway.</string>
+    <string name="BoostingChooseChannelsGroupsNeedToJoin">Choose additional groups and channels the users need to join to take part in the giveaway.</string>
     <string name="BoostingEligibleUsers">Users eligible for the giveaway</string>
     <string name="BoostingChooseLimitGiveaway">Choose if you want to limit the giveaway only to those who joined the channel after the giveaway started or to users from specific countries.</string>
     <string name="BoostingChooseLimitGiveawayGroups">Choose if you want to limit the giveaway only to those who joined the group after the giveaway started or to users from specific countries.</string>
@@ -7878,7 +7878,7 @@ list of reactions.</string>
     <string name="YouBoostedChannel2">You boosted %s!</string>
     <string name="PremiumNeeded">Premium needed</string>
     <string name="PremiumNeededForBoosting">Only **Telegram Premium** subscribers can boost channels. Do you want to subscribe to **Telegram Premium**?</string>
-    <string name="PremiumNeededForBoostingGroup">Only **Telegram Premium** subscribers can boost groups. Do you want subscribe to **Telegram Premium?**</string>
+    <string name="PremiumNeededForBoostingGroup">Only **Telegram Premium** subscribers can boost groups. Do you want to subscribe to **Telegram Premium**?</string>
     <string name="Replace">Replace</string>
     <string name="ReplaceBoostChannelDescription">You currently boost **%1$s**. Do you want to boost **%2$s** instead?</string>
     <string name="CantBoostTooOften">Can\'t boost too often!</string>

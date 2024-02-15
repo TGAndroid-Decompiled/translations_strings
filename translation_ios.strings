@@ -11043,7 +11043,7 @@ Sorry for the inconvenience.";
 "ChannelBoost.Table.Group.Wallpaper_any" = "%@ Group Backgrounds";
 "ChannelBoost.Table.Group.CustomWallpaper" = "Custom Group Background";
 
-"Premium.Group.BoostByGiftDescription" = "Boost your group by gifting your subscribers Telegram Premium. [Get boosts >]()";
+"Premium.Group.BoostByGiftDescription" = "Boost your group by gifting your members Telegram Premium. [Get boosts >]()";
 
 "Conversation.BoostGroup" = "BOOST";
 
@@ -11294,8 +11294,8 @@ Sorry for the inconvenience.";
 
 "Story.SendReactionAsGroupMessage" = "Send reaction as a message";
 
-"StoryList.TooltipStoriesSavedToGroup_1" = "Story saved to groups's profile";
-"StoryList.TooltipStoriesSavedToGroup_any" = "%d stories saved to groups's profile.";
+"StoryList.TooltipStoriesSavedToGroup_1" = "Story saved to group's profile.";
+"StoryList.TooltipStoriesSavedToGroup_any" = "%d stories saved to group's profile.";
 "Story.ToastRemovedFromGroupText" = "Story removed from the group page";
 "Story.ToastSavedToGroupTitle" = "Story saved to the group page";
 "Story.ToastSavedToGroupText" = "Posted stories can be viewed by others on the group page until an admin removes them.";
@@ -11309,7 +11309,7 @@ Sorry for the inconvenience.";
 "Story.GroupCommentingRestrictedPlaceholderAction" = "Learn More...";
 
 "GroupBoost.Table.Group.VoiceToText" = "Voice-to-Text Conversion";
-"GroupBoost.Table.Group.EmojiPack" = "Custom Emojipack";
+"GroupBoost.Table.Group.EmojiPack" = "Custom Emoji Pack";
 
 "ChannelBoost.Header.Boost" = "boost";
 "ChannelBoost.Header.Giveaway" = "giveaway";
@@ -12684,10 +12684,10 @@ to respond to messages faster.";
 "StoryList.TooltipStoriesSavedToChannel_2" = "%d stories saved to channel's profile.";
 "StoryList.TooltipStoriesSavedToChannel_3_10" = "%d stories saved to channel's profile.";
 "StoryList.TooltipStoriesSavedToChannel_many" = "%d stories saved to channel's profile.";
-"StoryList.TooltipStoriesSavedToGroup_0" = "%d stories saved to groups's profile.";
-"StoryList.TooltipStoriesSavedToGroup_2" = "%d stories saved to groups's profile.";
-"StoryList.TooltipStoriesSavedToGroup_3_10" = "%d stories saved to groups's profile.";
-"StoryList.TooltipStoriesSavedToGroup_many" = "%d stories saved to groups's profile.";
+"StoryList.TooltipStoriesSavedToGroup_0" = "%d stories saved to group's profile.";
+"StoryList.TooltipStoriesSavedToGroup_2" = "%d stories saved to group's profile.";
+"StoryList.TooltipStoriesSavedToGroup_3_10" = "%d stories saved to group's profile.";
+"StoryList.TooltipStoriesSavedToGroup_many" = "%d stories saved to group's profile.";
 "StoryList.TooltipStoriesSavedToProfile_0" = "%d stories posted on your profile.";
 "StoryList.TooltipStoriesSavedToProfile_2" = "%d stories posted on your profile.";
 "StoryList.TooltipStoriesSavedToProfile_3_10" = "%d stories posted on your profile.";
