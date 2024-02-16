@@ -8371,8 +8371,8 @@
 "ChannelBoost.EnableStories" = "Enable Stories";
 "ChannelBoost.EnableStoriesText" = "Your channel needs %1$@ to enable posting stories.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
 
-"ChannelBoost.ZeroLevelText.Channel" = "Your channel needs %1$@ to get access to features.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
-"ChannelBoost.ZeroLevelText.Group" = "Your group needs %1$@ to get access to features.\n\nAsk your **Premium** subscribers to boost your group with this link:";
+"ChannelBoost.ZeroLevelText.Channel" = "Your channel needs %1$@ to get access to features.\n\nAsk your **Premium** members to boost your channel with this link:";
+"ChannelBoost.ZeroLevelText.Group" = "Your group needs %1$@ to get access to features.\n\nAsk your **Premium** members to boost your group with this link:";
 
 
 "ChannelBoost.IncreaseLimitText.Channel" = "Your channel needs %1$@ to get access to features.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
@@ -8387,7 +8387,7 @@
 
 "ChannelBoost.ProfileColor" = "Set Cover Color";
 "ChannelBoost.EnableProfileColorLevelText" = "Your channel needs **Level %1$@** to change channel cover color.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
-"ChannelBoost.EnableProfileColorLevelText.Group" = "Your group needs **Level %1$@** to change group cover color.\n\nAsk your **Premium** subscribers to boost your group with this link:";
+"ChannelBoost.EnableProfileColorLevelText.Group" = "Your group needs **Level %1$@** to change group cover color.\n\nAsk your **Premium** members to boost your group with this link:";
 
 "ChannelBoost.ProfileIcon" = "Set Cover Icon";
 "ChannelBoost.EnableProfileIconLevelText" = "Your channel needs **Level %1$@** to change channel cover icon.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
@@ -8404,7 +8404,7 @@
 
 "ChannelBoost.EnableWallpapers" = "Enable Wallpapers";
 "ChannelBoost.EnableWallpapersText" = "Your channel needs **%1$@ level** to change wallpaper.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
-"ChannelBoost.EnableWallpapersText.Group" = "Your group needs **%1$@ level** to change wallpaper.\n\nAsk your **Premium** subscribers to boost your group with this link:";
+"ChannelBoost.EnableWallpapersText.Group" = "Your group needs **Level %1$@** to change wallpaper.\n\nAsk your **Premium** members to boost your group with this link:";
 
 
 "ChannelBoost.UnblockText.Group_countable" = "%d %@";
@@ -8445,7 +8445,7 @@
 
 "ChannelBoost.EnableReactions" = "Custom Reactions";
 "ChannelBoost.EnableReactionsText" = "Your channel needs to reach **%1$@ level** to add %2$@ custom emoji as reactions.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
-"ChannelBoost.EnableReactionsText.Group" = "Your group needs to reach **%1$@ level** to add %2$@ custom emoji as reactions.\n\nAsk your **Premium** subscribers to boost your group with this link:";
+"ChannelBoost.EnableReactionsText.Group" = "Your group needs to reach **%1$@ level** to add %2$@ custom emoji as reactions.\n\nAsk your **Premium** members to boost your group with this link:";
 
 
 "ChannelBoost.EnableStoriesForChannel" = "Enable Stories for This Channel";
