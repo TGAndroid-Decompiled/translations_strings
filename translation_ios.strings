@@ -10366,7 +10366,7 @@ Sorry for the inconvenience.";
 "Chat.Giveaway.Info.Months_any" = "**%@** months";
 "Chat.Giveaway.Info.ActivatedLinks_1" = "%@ winner already used their gift link.";
 "Chat.Giveaway.Info.ActivatedLinks_any" = "%@ of the winners already used their gift links.";
-"Chat.Giveaway.Info.Refunded" = "The channel cancelled the prizes by refunding the payment for them.";
+"Chat.Giveaway.Info.Refunded" = "The channel canceled the prizes by refunding the payment for them.";
 "Chat.Giveaway.Info.Won" = "You won a prize in this giveaway. %@";
 "Chat.Giveaway.Info.DidntWin" = "You didn't win a prize in this giveaway.";
 "Chat.Giveaway.Info.ViewPrize" = "View My Prize";

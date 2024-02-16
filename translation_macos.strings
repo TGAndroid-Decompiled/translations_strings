@@ -126,6 +126,8 @@
 "PeerInfo.Action.VoiceChat" = "Video Chat";
 "PeerInfo.Action.LiveStream" = "Live Stream";
 
+"PeerInfo.Action.AcrhivedStories" = "Acrhived Stories";
+
 
 "PeerInfo.Confirm.DeleteGroupConfirmation" = "Deleting this group will remove all members and all messages will be lost. Do you want to delete the group?";
 
@@ -4978,6 +4980,8 @@
 "Call.Toast.MicroOff" = "%@'s microphone is off";
 "Call.Toast.LowBattery" = "%@'s battery is low";
 
+"Call.Toast.MicroOff.Your" = "Your microphone is off";
+
 
 "Message.Text.CopyMusicTitle" = "Copy Track Name";
 
@@ -8371,7 +8375,7 @@
 "ChannelBoost.EnableStories" = "Enable Stories";
 "ChannelBoost.EnableStoriesText" = "Your channel needs %1$@ to enable posting stories.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
 
-"ChannelBoost.ZeroLevelText.Channel" = "Your channel needs %1$@ to get access to features.\n\nAsk your **Premium** members to boost your channel with this link:";
+"ChannelBoost.ZeroLevelText.Channel" = "Your channel needs %1$@ to get access to features.\n\nAsk your **Premium** subscribers to boost your channel with this link:";
 "ChannelBoost.ZeroLevelText.Group" = "Your group needs %1$@ to get access to features.\n\nAsk your **Premium** members to boost your group with this link:";
 
 
@@ -8939,7 +8943,7 @@
 "Chat.Giveaway.Info.NotQualifiedMany" = "To take part in this giveaway please join the channel **%1$@** (and %2$@) before **%3$@**.";
 "Chat.Giveaway.Info.Participating" = "You are participating in this giveaway because you joined the channel **%1$@**.";
 "Chat.Giveaway.Info.ParticipatingMany" = "You are participating in this giveaway because you joined the channel **%1$@** (and %2$@).";
-"Chat.Giveaway.Info.Refunded" = "The channel cancelled the prizes by refunding the payment for them.";
+"Chat.Giveaway.Info.Refunded" = "The channel canceled the prizes by refunding the payment for them.";
 "Chat.Giveaway.Info.Won" = "You won a prize in this giveaway. %@";
 "Chat.Giveaway.Info.DidntWin" = "You didn't win a prize in this giveaway.";
 "Chat.Giveaway.Info.ViewPrize" = "View My Prize";

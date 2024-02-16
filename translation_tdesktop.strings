@@ -2426,8 +2426,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_prizes_you_won" = "You won a prize in this giveaway {cup}";
 "lng_prizes_view_prize" = "View my prize";
 "lng_prizes_you_didnt" = "You didn't win a prize in this giveaway.";
-"lng_prizes_cancelled" = "The channel cancelled the prizes by refunding the payment for them.";
-"lng_prizes_cancelled_group" = "The group cancelled the prizes by refunding the payment for them.";
+"lng_prizes_cancelled" = "The channel canceled the prizes by refunding the payment for them.";
+"lng_prizes_cancelled_group" = "The group canceled the prizes by refunding the payment for them.";
 "lng_prizes_badge" = "x{amount}";
 
 "lng_prizes_results_title" = "Winners Selected!";

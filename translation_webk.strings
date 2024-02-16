@@ -1408,7 +1408,7 @@
 "BoostingGiveawayNotEligibleCountry" = "You are not eligible to participate in this giveaway, because your country is not included in the terms of the giveaway.";
 "BoostingGiveawayUsedLinksPlural_other" = "**%1$d** of the winners already used their gift links.";
 "BoostingGiveawayViewPrize" = "View my prize";
-"BoostingGiveawayCanceledByPayment" = "The channel cancelled the prizes by reversing the payment for them.";
+"BoostingGiveawayCanceledByPayment" = "The channel canceled the prizes by reversing the payment for them.";
 "BoostingGiveawayEnd" = "Giveaway ended";
 "BoostingCongratulations" = "Congratulations!";
 "BoostingReceivedPrizeFrom" = "You won a prize in a giveaway organized by **%s**.";

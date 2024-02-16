@@ -5088,7 +5088,7 @@
   <string name="GiveawayEnded">Giveaway ended</string>
   <string name="GiveawayEndedYouWon">You won a prize in this giveaway</string>
   <string name="GiveawayEndedYouLose">You didn’t win a prize in this giveaway</string>
-  <string name="GiveawayEndedRefunded">The channel cancelled the prizes by refunding the payment for them</string>
+  <string name="GiveawayEndedRefunded">The channel canceled the prizes by refunding the payment for them</string>
 
   <string name="GiveawayOngoing">Giveaway ongoing</string>
   <string name="GiveawayOngoingYouParticipating">You are participating in this giveaway</string>
