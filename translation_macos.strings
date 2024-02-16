@@ -8466,8 +8466,8 @@
 "ChannelBoost.BoostedChannelMoreRequired.New" = "%1$@ needed to unlock new features.";
 
 "ChannelBoost.MaxLevelReached" = "Maximum Level Reached";
-"ChannelBoost.MaxLevelReachedText.Channel" = "This channel reached **Level %1$@** and have access to all features.";
-"ChannelBoost.MaxLevelReachedText.Group" = "This group reached **Level %1$@** and have access to all features.";
+"ChannelBoost.MaxLevelReachedText.Channel" = "This channel reached **Level %1$@** and has access to all features.";
+"ChannelBoost.MaxLevelReachedText.Group" = "This group reached **Level %1$@** and has access to all features.";
 
 
 
