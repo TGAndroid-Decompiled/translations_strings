@@ -126,7 +126,7 @@
 "PeerInfo.Action.VoiceChat" = "Video Chat";
 "PeerInfo.Action.LiveStream" = "Live Stream";
 
-"PeerInfo.Action.AcrhivedStories" = "Acrhived Stories";
+"PeerInfo.Action.AcrhivedStories" = "Archived Stories";
 
 
 "PeerInfo.Confirm.DeleteGroupConfirmation" = "Deleting this group will remove all members and all messages will be lost. Do you want to delete the group?";

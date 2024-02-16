@@ -439,7 +439,7 @@
 "SimilarChannelsCount_one" = "%d similar channel";
 "SimilarChannelsCount_other" = "%d similar channels";
 "Reactions.Tag.Description" = "Tag the message with an emoji for quick search";
-"Reaction.Tag.From" = "This tag is from **%s pack.**";
+"Reaction.Tag.From" = "This tag is from **%s pack**.";
 "Reactions.Tag.PremiumHint" = "Organize your Saved Messages with tags\nfor quicker access. **[Learn more…]()**";
 "GroupsAndChannelsLimitTitle" = "Groups and Channels";
 "GroupsAndChannelsLimitSubtitle" = "Join up to %d channels and large groups";
