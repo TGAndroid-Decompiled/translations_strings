@@ -3,7 +3,7 @@
     <string name="SmsJobsMenu">SMS Statistics</string>
 
     <string name="SmsJobsPremiumHintTitle">Premium Subscription **for free**</string>
-    <string name="SmsJobsPremiumHintMessage">Help Telegram send SMS codes and get a free premium subscription.</string>
+    <string name="SmsJobsPremiumHintMessage">Help Telegram send SMS codes and get a free Premium subscription.</string>
 
     <string name="SmsSubscribeTitle">Premium for Free</string>
     <string name="SmsSubscribeMessage">You are one of **0.01%** users eligible to take part in Telegram\'s **Premium for SMS** initiative!</string>
@@ -12,23 +12,23 @@
     <string name="SmsSubscribeFeature2Title">Get Telegram Premium</string>
     <string name="SmsSubscribeFeature2Message">Receive 1-month **Premium subscription** each month.</string>
     <string name="SmsSubscribeFeature3Title">Share Premium with Friends</string>
-    <string name="SmsSubscribeFeature3Message">Send gift links granting Telegram subscriptions to your friends.</string>
+    <string name="SmsSubscribeFeature3Message">Send gift links granting Premium subscriptions to your friends.</string>
 
     <string name="SmsSubscribeAccept">I accept the **Terms of Service for P2PLP**</string>
     <string name="SmsSubscribeActivate">Activate</string>
-    <string name="SmsSubscribeActivateText">Sending SMS can result in charges. Please read **Terms of Service for Peer-to-Peer Login Program.**</string>
+    <string name="SmsSubscribeActivateText">Sending SMS can result in charges. Please read **Terms of Service for Peer-to-Peer Login Program**.</string>
 
     <string name="SmsPremiumActivated">Premium for SMS activated!</string>
     <string name="SmsPremiumActivatedText">Telegram will now try to use your device to automatically send SMS codes in your country (**%s**).</string>
     <string name="SmsPremiumActivatedTextUnknown">Telegram will now try to use your device to automatically send SMS codes in your country.</string>
     <string name="SmsPremiumActivatedText2">Check **SMS Statistics** in the left-side menu to see how many SMS have been sent or change settings for this Program.</string>
     <string name="SmsPermissionText">To join the **Premium for SMS** program, please allow Telegram to send out SMS from your device</string>
-    <string name="SmsPermissionTextSMSSettings">To join the **Premium for SMS** program, please allow Telegram to send out SMS from your device.\n\nTap Settings -&gt; Permissions, and turn **SMS** on.</string>
-    <string name="SmsPermissionTextPhoneSettings">To join the **Premium for SMS** program, please allow Telegram to read phone SIM card info.\n\nTap Settings -&gt; Permissions, and turn **Phone** permission on.</string>
-    <string name="SmsPermissionTextSMSPhoneSettings">To join the **Premium for SMS** program, please allow Telegram to send out SMS and read phone SIM card info.\n\nTap Settings -&gt; Permissions, and turn **SMS** and **Phone** permissions on.</string>
+    <string name="SmsPermissionTextSMSSettings">To join the **Premium for SMS** program, please allow Telegram to send out SMS from your device.\n\nTap Settings &gt; Permissions, and turn **SMS** on.</string>
+    <string name="SmsPermissionTextPhoneSettings">To join the **Premium for SMS** program, please allow Telegram to read phone SIM card info.\n\nTap Settings &gt; Permissions, and turn **Phone** permission on.</string>
+    <string name="SmsPermissionTextSMSPhoneSettings">To join the **Premium for SMS** program, please allow Telegram to send out SMS and read phone SIM card info.\n\nTap Settings &gt; Permissions, and turn **SMS** and **Phone** permissions on.</string>
 
     <string name="SmsStatusSending">%1$d of %2$d SMS Sent</string>
-    <string name="SmsStatusSendingSubtitle_other">Only **%d** SMS left to send to received your **Telegram Premium** gift link.</string>
+    <string name="SmsStatusSendingSubtitle_other">Only **%d** SMS left to send to receive your **Telegram Premium** gift link.</string>
 
     <string name="SmsStatusFirst">Premium for SMS</string>
     <string name="SmsStatusFirstSubtitle">Help Telegram send SMS login codes and get **Telegram Premium** gift links.</string>
@@ -1324,7 +1324,7 @@
   <string name="BoostingChooseRandom_many">Choose when %d subscribers of your channel will be randomly selected to receive Telegram Premium.</string>
   <string name="BoostingChooseRandom_other">Choose when %d subscribers of your channel will be randomly selected to receive Telegram Premium.</string>
   <string name="BoostingChooseRandomGroup_zero">Choose when %d members of your group will be randomly selected to receive Telegram Premium.</string>
-  <string name="BoostingChooseRandomGroup_one">Choose when %d members of your group will be randomly selected to receive Telegram Premium.</string>
+  <string name="BoostingChooseRandomGroup_one">Choose when %d member of your group will be randomly selected to receive Telegram Premium.</string>
   <string name="BoostingChooseRandomGroup_two">Choose when %d members of your group will be randomly selected to receive Telegram Premium.</string>
   <string name="BoostingChooseRandomGroup_few">Choose when %d members of your group will be randomly selected to receive Telegram Premium.</string>
   <string name="BoostingChooseRandomGroup_many">Choose when %d members of your group will be randomly selected to receive Telegram Premium.</string>
@@ -1702,7 +1702,7 @@
   <string name="BoostingPreparedGiveaways">Prepaid giveaways</string>
   <string name="BoostingQuantityPrizes">Quantity of prizes</string>
   <string name="BoostingReason">Reason</string>
-  <string name="BoostingReassignBoost">Reassign Boost</string>
+  <string name="BoostingReassignBoost">Reassign Boosts</string>
   <string name="BoostingReassignBoostText">To boost **%1$s**, reassign a previous boost or gift **Telegram Premium** to a friend to get **%2$d** additional boosts.</string>
   <string name="BoostingReassignBoostTextLink">**gift Telegram Premium**</string>
   <string name="BoostingReassignBoostTextPlural_zero">To boost **%2$s**, reassign a previous boost or gift **Telegram Premium** to a friend to get **%1$d** additional boosts.</string>
@@ -7222,11 +7222,11 @@
   <string name="SmartNotificationsDisabled">Disable</string>
   <string name="SmartNotificationsInfo">%1$d / %2$s</string>
   <string name="SmsAvailableIn">You can request an SMS in %1$d:%2$02d</string>
-  <string name="SmsStatusSendingSubtitle_zero">Only **%d** SMS left to send to received your **Telegram Premium** gift link.</string>
+  <string name="SmsStatusSendingSubtitle_zero">Only **%d** SMS left to send to receive your **Telegram Premium** gift link.</string>
   <string name="SmsStatusSendingSubtitle_one"></string>
-  <string name="SmsStatusSendingSubtitle_two">Only **%d** SMS left to send to received your **Telegram Premium** gift link.</string>
-  <string name="SmsStatusSendingSubtitle_few">Only **%d** SMS left to send to received your **Telegram Premium** gift link.</string>
-  <string name="SmsStatusSendingSubtitle_many">Only **%d** SMS left to send to received your **Telegram Premium** gift link.</string>
+  <string name="SmsStatusSendingSubtitle_two">Only **%d** SMS left to send to receive your **Telegram Premium** gift link.</string>
+  <string name="SmsStatusSendingSubtitle_few">Only **%d** SMS left to send to receive your **Telegram Premium** gift link.</string>
+  <string name="SmsStatusSendingSubtitle_many">Only **%d** SMS left to send to receive your **Telegram Premium** gift link.</string>
   <string name="SmsSubscribeFeature1Message_zero">Let Telegram use your phone to send %d login SMS per month.</string>
   <string name="SmsSubscribeFeature1Message_one"></string>
   <string name="SmsSubscribeFeature1Message_two">Let Telegram use your phone to send %d login SMS per month.</string>

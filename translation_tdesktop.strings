@@ -2573,7 +2573,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_report_spam" = "Report Spam";
 "lng_report_spam_and_leave" = "Report spam and leave";
 "lng_report_spam_done" = "Thank you for your report";
-"lng_report_spam_sure_group" = "Are you sure you want to report spam in this group?";
+"lng_report_spam_sure_group" = "Are you sure you want to report this group for spam?";
 "lng_report_spam_sure_channel" = "Are you sure you want to report spam in this channel?";
 "lng_report_spam_ok" = "Report";
 "lng_new_contact_block" = "Block user";
