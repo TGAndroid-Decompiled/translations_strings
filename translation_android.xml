@@ -1687,8 +1687,8 @@
   <string name="BoostingNoRecipient">No recipient</string>
   <string name="BoostingOnlyGiveawayCreatorSeeLink">Only the giveaway creator can see the link.</string>
   <string name="BoostingOnlyRecipientCode">Only the recipient can see the link.</string>
-  <string name="BoostingPremiumChristmasSubTitle">Give Telegram Premium for Valentine\'s Day.</string>
-  <string name="BoostingPremiumChristmasTitle">Send gifts **to your loved ones**! &#10084;&#65039;</string>
+  <string name="BoostingPremiumChristmasSubTitle">Send gifts to your close ones.</string>
+  <string name="BoostingPremiumChristmasTitle">Give Telegram Premium! &#127881;</string>
   <string name="BoostingPremiumChristmasToast">You can gift Telegram Premium later from Settings</string>
   <string name="BoostingPremiumUserCanBoostGroupWithLink">**Premium** users can boost your group with this link:</string>
   <string name="BoostingPreparedGiveawayOne">Prepaid giveaway</string>
@@ -3886,7 +3886,7 @@
   <string name="GiftPremiumActivateErrorTitle">You already have Telegram Premium</string>
   <string name="GiftPremiumActivateForFree">Activate For Free</string>
   <string name="GiftPremiumChooseRecipientsBtn">Choose Recipients</string>
-  <string name="GiftPremiumEventAdsTitle">Send gifts **to your loved ones!** &#10084;&#65039;</string>
+  <string name="GiftPremiumEventAdsTitle">Give Telegram Premium &#127881;</string>
   <string name="GiftPremiumFrequentContacts">Frequent Contacts</string>
   <string name="GiftPremiumGifting">Gift Premium</string>
   <string name="GiftPremiumGiftsSent_zero">Gifts Sent!</string>
