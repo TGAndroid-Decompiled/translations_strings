@@ -8415,7 +8415,7 @@ list of reactions.</string>
     <string name="BusinessRepliesDeleteMessage_other">Are you sure you want to remove %d quick replies?</string>
     <string name="BusinessRepliesHint">To use this quick reply in a chat, type / and select the shortcut from the list.</string>
     <string name="BusinessRepliesRemoveTitle">Remove shortcut</string>
-    <string name="BusinessRepliesRemoveMessage">You didn\'t create a quick reply message. Do you want to exit this page and remote the shortcut?</string>
+    <string name="BusinessRepliesRemoveMessage">You didn\'t create a quick reply message. Do you want to exit this page and remove the shortcut?</string>
     <string name="BusinessReplies">Quick Replies</string>
     <string name="BusinessRepliesInfo">Set up shortcuts with rich text and media to respond to messages faster.</string>
     <string name="BusinessRepliesAdd">Add Quick Reply</string>
