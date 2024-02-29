@@ -1334,6 +1334,7 @@
     <string name="DiscardVideoMessageTitle">Discard Video Message</string>
     <string name="DiscardVideoMessageDescription">Are you sure you want to stop recording and discard your video message?</string>
     <string name="DiscardVoiceMessageAction">Discard</string>
+    
     <string name="AttachMediaRestricted">The admins of this group have restricted your ability to send media until %1$s.</string>
     <string name="AttachAudioRestricted">The admins of this group have restricted you from sending music here until %1$s.</string>
     <string name="AttachPhotoRestricted">The admins of this group have restricted you from sending photos here until %1$s.</string>
@@ -3090,6 +3091,8 @@
     <string name="StopLiveLocationAlertAllText">Do you want to stop sharing your live location?</string>
     <string name="SendLiveLocationInfo">Updated in real time as you move</string>
     <string name="SendSelectedLocation">Send selected location</string>
+    
+    
     <string name="ShareLocation">Location</string>
     <string name="SharedPlace">Place</string>
     <string name="AccurateTo">Accurate to %1$s</string>
@@ -3137,6 +3140,7 @@
     <string name="ChatSetThisLocation">Set this location</string>
     <string name="ChatSetLocationInfo">People will be able to find your group in the \"People Nearby\" section.</string>
     <string name="PlacesInThisArea">Places in this area</string>
+    
     <string name="LocationNotifiation">Proximity alert</string>
     <string name="LocationNotifiationButtonUser">Notify when %1$s is within %2$s</string>
     <string name="LocationNotifiationButtonGroup">Notify when someone is within %1$s</string>
@@ -3800,6 +3804,7 @@
     <string name="AttachLocation">Location</string>
     <string name="AttachLiveLocation">Live Location</string>
     <string name="AttachContact">Contact</string>
+    
     <string name="AttachDocument">File</string>
     <string name="AttachSticker">Sticker</string>
     <string name="AttachAudio">Voice message</string>
@@ -6200,6 +6205,12 @@
     <string name="PremiumPreviewWallpaperDescription">Set custom wallpapers for you and your chat partner.</string>
     <string name="PremiumPreviewProfileColor">Name and Profile Colors</string>
     <string name="PremiumPreviewProfileColorDescription">Choose a color and logo for your profile and replies to your messages.</string>
+    
+    
+    
+    
+    
+    
     <string name="MicrophoneForVoiceMessages">Microphone for voice messages</string>
     <string name="MicrophoneForVoiceMessagesBuiltIn">Built-In</string>
     <string name="MicrophoneForVoiceMessagesSco">Headset</string>
@@ -7084,8 +7095,9 @@
     <string name="VideoConvertFail">Failed to process video file.</string>
     <string name="PreparingVideo">Preparing video…</string>
     <string name="NoStoriesTitle">No posted stories</string>
-    <string name="NoPublicStoriesTitle">No public stories</string>
-    <string name="NoStoriesSubtitle">Open the \'Archive\' tab to select stories you want to be displayed on your profile.</string>
+    
+    
+    
     <string name="NoArchivedStoriesTitle">No stories yet…</string>
     <string name="NoArchivedStoriesSubtitle">Upload a new story to view it here.</string>
     <string name="StorySave">Post to profile</string>
@@ -7333,6 +7345,8 @@
     <string name="SaveStoryToGalleryPremiumHint">**Subscribe to Premium** to save other people\'s stories that are not protected.</string>
     <string name="PremiumPreviewStories">Stories</string>
     <string name="PremiumPreviewStoriesDescription">Unlimited posting, priority order, stealth mode, permanent view history and more.</string>
+    
+    
     <string name="PremiumStoriesPriority">Priority Order</string>
     <string name="PremiumStoriesPriorityDescription">Get more views as your stories are always displayed first.</string>
     <string name="PremiumStoriesStealth">Stealth Mode</string>
@@ -7884,6 +7898,8 @@ list of reactions.</string>
     <string name="BoostingAdditionalFeaturesTitle">Additional Features</string>
     <string name="BoostingAdditionalFeaturesSubtitle">By gaining **boosts**, your group reaches higher levels and unlocks more features.</string>
     <string name="BoostingAdditionalFeaturesSubtitleChannel">By gaining **boosts**, your channel reaches higher levels and unlocks more features.</string>
+    
+    
     <string name="BoostingRemoveRestrictionsSubtitle_one">Boost the group **%1$d** time to remove messaging restrictions. Your boosts will help **%2$s** to unlock new features.</string>
     <string name="BoostingRemoveRestrictionsSubtitle_other">Boost the group **%1$d** times to remove messaging restrictions. Your boosts will help **%2$s** to unlock new features.</string>
     <string name="BotWebAppDisclaimerSubtitle">You are about to use a mini app operated by an independent party **not affiliated with Telegram**. You must agree to the Terms of Use for mini apps to continue.</string>
@@ -8271,6 +8287,154 @@ list of reactions.</string>
     <string name="PremiumPreviewLastSeenDescription">View the last seen and read times of others even if you hide yours.</string>
     <string name="PremiumPreviewMessagePrivacy">Message Privacy</string>
     <string name="PremiumPreviewMessagePrivacyDescription">Restrict people you don\'t know from sending you messages.</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
   <!-- new from translations.telegram.org -->
 
@@ -8756,7 +8920,9 @@ list of reactions.</string>
   <string name="NoBlockedChannel">Banned users are removed from the channel and can only come back if added by an admin. Invite links don\'t work for them.</string>
   <string name="NoBlockedGroup">Banned users are removed from the group and can only come back if added by an admin. Invite links don\'t work for them.</string>
   <string name="NoCallLog">No calls here yet...</string>
+  <string name="NoPublicStoriesTitle">No public stories</string>
   <string name="NoRecentPhotos">No recent photos</string>
+  <string name="NoStoriesSubtitle">Open the \'Archive\' tab to select stories you want to be displayed on your profile.</string>
   <string name="NotificationActionPinnedContact">%1$s pinned a contact in the group %2$s</string>
   <string name="NotificationActionPinnedContactChannel">%1$s pinned a contact</string>
   <string name="NotificationActionPinnedPoll">%1$s pinned a poll in the group %2$s</string>
