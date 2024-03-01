@@ -8338,8 +8338,8 @@ list of reactions.</string>
     <string name="BusinessHoursProfileOpensInHours_other">opens in %d hours</string>
     <string name="BusinessHoursProfileOpensInDays_one">opens tomorrow</string>
     <string name="BusinessHoursProfileOpensInDays_other">opens in %d days</string>
-    <string name="BusinessHoursProfileInYourTime">%s in your time</string>
-    <string name="BusinessHoursProfileTheirTime">it\'s now %s there</string>
+    <string name="BusinessHoursProfileSwitchLocal">local time</string>
+    <string name="BusinessHoursProfileSwitchMy">my time</string>
     <string name="BusinessHoursUnsavedChanges">You have changed the business working hours. Apply changes?</string>
     <string name="BusinessBots">Chatbots</string>
     <string name="BusinessBotsInfo">Add a bot to your account to help you automatically process and respond to the messages you receive. **Learn more &gt;**</string>
@@ -8390,6 +8390,7 @@ list of reactions.</string>
     <string name="BusinessAwayOnlyOffline">Only if Offline</string>
     <string name="BusinessAwayOnlyOfflineInfo">Don’t send the away message if you’ve recently been online.</string>
     <string name="BusinessLocation">Location</string>
+    <string name="BusinessProfileLocation">Location</string>
     <string name="BusinessLocationInfo">Display the location of your business on your account.</string>
     <string name="BusinessLocationAddress">Enter Address</string>
     <string name="BusinessLocationMap">Set Location on Map</string>
@@ -8427,15 +8428,16 @@ list of reactions.</string>
     <string name="BusinessRepliesEditMessage">Edit a name for a shortcut.</string>
     <string name="BusinessRepliesNamePlaceholder">Shortcut</string>
     <string name="BusinessRepliesNameBusy">This shortcut already exists.</string>
-    <string name="BusinessRepliesNameReserved">This shortcut name is reserved.</string>
     <string name="BusinessRepliesSearch">Search replies</string>
     <string name="BusinessHoursCopyHeader">%s\'s opening hours:</string>
+    <string name="BusinessHoursCopyFooter">In %s timezone</string>
     <string name="BusinessHoursCopied">Business hours copied</string>
     <string name="BusinessLocationCopied">Business address copied</string>
     <string name="BusinessInReplies">in %1$s</string>
     <string name="TimezoneTitle">Time Zone</string>
     <string name="TimezoneDetectAutomatically">Detect automatically</string>
     <string name="TimezoneDetectAutomaticallyInfo">The time zone for your business is set to %s.</string>
+    <string name="TimezoneNotFound">Timezone not found</string>
     <string name="TimezoneHeader">Select your time zone</string>
     <string name="FilterExistingChats">Existing chats</string>
     <string name="FilterNewChats">New chats</string>
@@ -8782,6 +8784,7 @@ list of reactions.</string>
   <string name="BotMultiContactsSelectorLimit_few">You can select maximum %1$d users.</string>
   <string name="BotMultiContactsSelectorLimit_many">You can select maximum %1$d users.</string>
   <string name="BotStartButton">Start bot</string>
+  <string name="BusinessHoursProfileInYourTime">%s in your time</string>
   <string name="BusinessHoursProfileOpensInDays_zero">opens in %d days</string>
   <string name="BusinessHoursProfileOpensInDays_two">opens in %d days</string>
   <string name="BusinessHoursProfileOpensInDays_few">opens in %d days</string>
@@ -8794,6 +8797,7 @@ list of reactions.</string>
   <string name="BusinessHoursProfileOpensInMinutes_two">opens in %d minutes</string>
   <string name="BusinessHoursProfileOpensInMinutes_few">opens in %d minutes</string>
   <string name="BusinessHoursProfileOpensInMinutes_many">opens in %d minutes</string>
+  <string name="BusinessHoursProfileTheirTime">it\'s now %s there</string>
   <string name="BusinessRepliesDeleteMessage_zero">Are you sure you want to remove %d quick replies?</string>
   <string name="BusinessRepliesDeleteMessage_two">Are you sure you want to remove %d quick replies?</string>
   <string name="BusinessRepliesDeleteMessage_few">Are you sure you want to remove %d quick replies?</string>
@@ -8812,6 +8816,7 @@ list of reactions.</string>
   <string name="BusinessRepliesMore_two">+%d more</string>
   <string name="BusinessRepliesMore_few">+%d more</string>
   <string name="BusinessRepliesMore_many">+%d more</string>
+  <string name="BusinessRepliesNameReserved">This shortcut name is reserved.</string>
   <string name="BusinessRepliesToastLimit_zero">Limit of **%d** messages reached.</string>
   <string name="BusinessRepliesToastLimit_one"></string>
   <string name="BusinessRepliesToastLimit_two">Limit of **%d** messages reached.</string>

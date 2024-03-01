@@ -9832,7 +9832,7 @@
 "ChatList.Folder.PremiumAlert" = "Subscribe to Telegram Premium to add colors for your folders.";
 
 
-"ChatList.Folder.Tags" = "Show Folders Tags";
+"ChatList.Folder.Tags" = "Show Folder Tags";
 "ChatList.Folder.Tags.Info" = "Display folder names for each chat in the chat list.";
 
 
