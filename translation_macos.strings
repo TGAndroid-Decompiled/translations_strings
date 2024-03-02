@@ -9719,7 +9719,7 @@
 "Business.GreetingMessage.Enable" = "Send Greeting Message";
 
 
-"Business.GreetingMessage.NoActivity.Info" = "Choose how many days should pass after your last interaction with a recepient to send them the greeting in response to their message.";
+"Business.GreetingMessage.NoActivity.Info" = "Choose how many days should pass after your last interaction with a recipient to send them the greeting in response to their message.";
 "Business.GreetingMessage.NoActivity.Title" = "PERIOD OF NO ACTIVITY";
 
 
@@ -9839,6 +9839,13 @@
 "Business.Away.OnlyOffline" = "Only if Offline";
 "Business.Away.OnlyOffline.Info" = "Don't send the away message if you've recently been online.";
 
+
+
+"Business.Hours.24Hours" = "24 hours";
+"Business.Hours.Closed" = "Closed";
+
+
+"AccountSettings.TelegramBusiness" = "Telegram Business";
 
 
 /* new from translations.telegram.org */
