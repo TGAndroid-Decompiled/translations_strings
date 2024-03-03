@@ -11316,6 +11316,14 @@ Sorry for the inconvenience.";
 "ChannelBoost.Header.Giveaway" = "giveaway";
 "ChannelBoost.Header.Features" = "features";
 
+
+"GroupBoost.Table.Group.VoiceToText" = "Voice-to-Text Conversion";
+"GroupBoost.Table.Group.EmojiPack" = "Custom Emoji Pack";
+
+"ChannelBoost.Header.Boost" = "boost";
+"ChannelBoost.Header.Giveaway" = "giveaway";
+"ChannelBoost.Header.Features" = "features";
+
 "Premium.FolderTags" = "Folder Tags";
 "Premium.FolderTagsInfo" = "Add colorful labels to chats for faster access with Telegram Premium.";
 "Premium.FolderTagsStandaloneInfo" = "Add colorful labels to chats for faster access with Telegram Premium.";
@@ -11328,12 +11336,10 @@ Sorry for the inconvenience.";
 "Premium.Business.Location.Text" = "Display the location of your business on your account.";
             
 "Premium.Business.Hours.Title" = "Opening Hours";
-"Premium.Business.Hours.Text" = "Show to your customers when you are
-open for business.";
+"Premium.Business.Hours.Text" = "Show to your customers when you are open for business.";
 
 "Premium.Business.Replies.Title" = "Quick Replies";
-"Premium.Business.Replies.Text" = "Set up shortcuts with rich text and media
-to respond to messages faster.";
+"Premium.Business.Replies.Text" = "Set up shortcuts with rich text and media to respond to messages faster.";
 
 "Premium.Business.Greetings.Title" = "Greeting Messages";
 "Premium.Business.Greetings.Text" = "Create greetings that will be automatically sent to new customers.";
@@ -11577,6 +11583,9 @@ to respond to messages faster.";
 
 "ChatbotSetup.BotAddAction" = "ADD";
 "ChatbotSetup.BotNotFoundStatus" = "Chatbot not found";
+
+
+
 
 
 /* new from translations.telegram.org */
