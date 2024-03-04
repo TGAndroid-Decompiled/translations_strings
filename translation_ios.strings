@@ -11443,8 +11443,8 @@ Sorry for the inconvenience.";
 "Chat.QuickReplyMessageLimitReachedText_any" = "Limit of %d messages reached";
 
 "Chat.EmptyState.QuickReply.Title" = "New Quick Reply";
-"Chat.EmptyState.QuickReply.Text1" = "· Enter a message below that will be sent in chats when you type \"**/%@\"**.";
-"Chat.EmptyState.QuickReply.Text2" = "· You can access Quick Replies in any chat by typing \"/\" or using the Attachment menu.";
+"Chat.EmptyState.QuickReply.Text1" = "• Enter a message below that will be sent in chats when you type \"**/%@**\".";
+"Chat.EmptyState.QuickReply.Text2" = "• You can access Quick Replies in any chat by typing \"/\" or using the Attachment menu.";
 "EmptyState.GreetingMessage.Title" = "New Greeting Message";
 "EmptyState.GreetingMessage.Text" = "Create greetings that will be automatically sent to new customers";
 "EmptyState.AwayMessage.Title" = "New Away Message";
