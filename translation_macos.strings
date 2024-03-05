@@ -662,13 +662,13 @@
 "Weekday.ShortTuesday" = "Tue";
 "Weekday.ShortWednesday" = "Wed";
 
-
-
-
-
-
-
-
+"Weekday.Friday" = "Friday";
+"Weekday.Monday" = "Monday";
+"Weekday.Saturday" = "Saturday";
+"Weekday.Sunday" = "Sunday";
+"Weekday.Thursday" = "Thursday";
+"Weekday.Tuesday" = "Tuesday";
+"Weekday.Wednesday" = "Wednesday";
 
 
 
