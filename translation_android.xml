@@ -8289,7 +8289,9 @@ list of reactions.</string>
     <string name="PremiumPreviewMessagePrivacyDescription">Restrict people you don\'t know from sending you messages.</string>
     <string name="TelegramBusiness">Telegram Business</string>
     <string name="TelegramBusinessSubtitle">Subscribe to **Telegram Premium** to unlock these additional business features.</string>
+    <string name="TelegramBusinessSubtitleTemp">Turn your account into a **business page** with these additional features.\nThe benefits of Telegram Business are **temporarily included** with Telegram Premium.</string>
     <string name="TelegramBusinessSubscribedSubtitle">You have now unlocked these additional business features.</string>
+    <string name="TelegramBusinessSubscribedSubtitleTemp">You have now unlocked Telegram Business features. These features are **temporarily included** with your Premium Subscription.</string>
     <string name="TelegramBusinessSubtitle2">Turn your account to a business page with these additional features.</string>
     <string name="PremiumPreviewBusinessDescription">Upgrade your account with business features such as location, opening hours and quick replies.</string>
     <string name="PremiumBusinessLocation">Location</string>
@@ -8302,7 +8304,7 @@ list of reactions.</string>
     <string name="PremiumBusinessGreetingMessagesDescription">Create greetings that will be automatically sent to new customers.</string>
     <string name="PremiumBusinessAwayMessages">Away Messages</string>
     <string name="PremiumBusinessAwayMessagesDescription">Define messages that are automatically sent when you are off.</string>
-    <string name="PremiumBusinessChatbots">Chatbots</string>
+    <string name="PremiumBusinessChatbots">Coming Later</string>
     <string name="PremiumBusinessChatbotsDescription">Add any third party chatbots that will process customer interactions.</string>
     <string name="FolderShowTags">Show Folder Tags</string>
     <string name="FolderShowTagsInfo">Display folder names for each chat in the chat list.</string>

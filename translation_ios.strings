@@ -11336,10 +11336,12 @@ Sorry for the inconvenience.";
 "Premium.Business.Location.Text" = "Display the location of your business on your account.";
             
 "Premium.Business.Hours.Title" = "Opening Hours";
-"Premium.Business.Hours.Text" = "Show to your customers when you are open for business.";
+"Premium.Business.Hours.Text" = "Show to your customers when you are
+open for business.";
 
 "Premium.Business.Replies.Title" = "Quick Replies";
-"Premium.Business.Replies.Text" = "Set up shortcuts with rich text and media to respond to messages faster.";
+"Premium.Business.Replies.Text" = "Set up shortcuts with rich text and media
+to respond to messages faster.";
 
 "Premium.Business.Greetings.Title" = "Greeting Messages";
 "Premium.Business.Greetings.Text" = "Create greetings that will be automatically sent to new customers.";
@@ -11347,19 +11349,19 @@ Sorry for the inconvenience.";
 "Premium.Business.Away.Title" = "Away Messages";
 "Premium.Business.Away.Text" = "Define messages that are automatically sent when you are off.";
 
-"Premium.Business.Chatbots.Title" = "Chatbots";
+"Premium.Business.Chatbots.Title" = "Coming Later";
 "Premium.Business.Chatbots.Text" = "Add any third party chatbots that will process customer interactions.";
 
 "Business.Title" = "Telegram Business";
-"Business.Description" = "Turn your account into a **business page** with these additional features.";
-"Business.SubscribedDescription" = "You have now unlocked these additional business features.";
+"Business.Description" = "Turn your account into a **business page** with these additional features. The benefits of Telegram Business are **temporarily included** with Telegram Premium.";
+"Business.SubscribedDescription" = "You have now unlocked Telegram Business features. These features are **temporarily included** with your Premium Subscription.";
 
 "Business.Location" = "Location";
 "Business.OpeningHours" = "Opening Hours";
 "Business.QuickReplies" = "Quick Replies";
 "Business.GreetingMessages" = "Greeting Messages";
 "Business.AwayMessages" = "Away Messages";
-"Business.Chatbots" = "Chatbots";
+"Business.Chatbots" = "Coming Later";
 
 "Business.LocationInfo" = "Display the location of your business on your account.";
 "Business.OpeningHoursInfo" = "Show to your customers when you are open for business.";
@@ -11565,7 +11567,7 @@ Sorry for the inconvenience.";
 "BusinessLocationSetup.ErrorAddressEmpty.Text" = "Address can't be empty.";
 "BusinessLocationSetup.ErrorAddressEmpty.ResetAction" = "Delete";
 
-"ChatbotSetup.Title" = "Chatbots";
+"ChatbotSetup.Title" = "Coming Later";
 "ChatbotSetup.Text" = "Add a bot to your account to help you automatically process and respond to the messages you receive. [Learn More >]()";
 "ChatbotSetup.TextLink" = "https://telegram.org";
 
@@ -11584,8 +11586,8 @@ Sorry for the inconvenience.";
 "ChatbotSetup.BotAddAction" = "ADD";
 "ChatbotSetup.BotNotFoundStatus" = "Chatbot not found";
 
-
-
+"Chat.QuickReply.ServiceHeader1" = "To edit or delete your quick reply, tap and hold on it.";
+"Chat.QuickReply.ServiceHeader2" = "To use this quick reply in a chat, type / and select the shortcut from the list.";
 
 
 /* new from translations.telegram.org */
@@ -12673,6 +12675,8 @@ Sorry for the inconvenience.";
 "PollResults.ShowMore_2" = "Show More (%@)";
 "PollResults.ShowMore_3_10" = "Show More (%@)";
 "PollResults.ShowMore_many" = "Show More (%@)";
+"Premium.Business.Hours.Text" = "Show to your customers when you are open for business.";
+"Premium.Business.Replies.Text" = "Set up shortcuts with rich text and media to respond to messages faster.";
 "Premium.Gift.GiftMultipleSubscriptions_0" = "Gift %@ Subscriptions";
 "Premium.Gift.GiftMultipleSubscriptions_2" = "Gift %@ Subscriptions";
 "Premium.Gift.GiftMultipleSubscriptions_3_10" = "Gift %@ Subscriptions";

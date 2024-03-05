@@ -9675,8 +9675,8 @@
 "PremiumBoarding.TagFolders.Info" = "Add colorful labels to chats for faster access in chat list.";
 
 
-"PremiumBoarding.Business.TelegramBusiness.HeaderInfo1" = "You have now unlocked these additional business features.";
-"PremiumBoarding.Business.TelegramBusiness.HeaderInfo2" = "Turn your account into a business page with these additional features.";
+"PremiumBoarding.Business.TelegramBusiness.HeaderInfo1" = "You have now unlocked these additional business features. These features are temporarily included with your Premium Subscription.";
+"PremiumBoarding.Business.TelegramBusiness.HeaderInfo2" = "Turn your account into a business page with these additional features. The benefits of Telegram Business are temporarily included with Telegram Premium.";
 
 
 
@@ -9723,7 +9723,13 @@
 "Business.GreetingMessage.NoActivity.Title" = "PERIOD OF NO ACTIVITY";
 
 
-"Business.GreetingMessage.NoActivity.Days" = "%d Days";
+"Business.GreetingMessage.NoActivity.Days_countable" = "%d";
+
+
+
+
+
+
 
 "Business.Message.Contact" = "contact";
 "Business.Message.NonContact" = "non contact";
@@ -9869,6 +9875,7 @@
 "ApplyLanguage.ChangeLanguageUnofficialText" = "You are about to apply the custom language pack **%@** that is %@% complete.\n\nThis will translate the entire interface. You can suggest corrections on the [translation platform]().\n\nYou can change your language back at any time in Settings.";
 "AutoremoveMessages.Day" = "After 1 Day";
 "AutoremoveMessages.Week" = "After 1 Week";
+"Business.GreetingMessage.NoActivity.Days" = "%d Days";
 "Business.QuickReply.More" = "+%d MORE";
 "Call.Confirm.DiscardCurrent.Description" = "Finish the call with %@ and start a new one with %@?";
 "Call.Confirm.DiscardCurrent.Header" = "Call in Progress";
