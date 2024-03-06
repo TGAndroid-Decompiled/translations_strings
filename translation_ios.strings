@@ -11336,12 +11336,10 @@ Sorry for the inconvenience.";
 "Premium.Business.Location.Text" = "Display the location of your business on your account.";
             
 "Premium.Business.Hours.Title" = "Opening Hours";
-"Premium.Business.Hours.Text" = "Show to your customers when you are
-open for business.";
+"Premium.Business.Hours.Text" = "Show to your customers when you are open for business.";
 
 "Premium.Business.Replies.Title" = "Quick Replies";
-"Premium.Business.Replies.Text" = "Set up shortcuts with rich text and media
-to respond to messages faster.";
+"Premium.Business.Replies.Text" = "Set up shortcuts with rich text and media to respond to messages faster.";
 
 "Premium.Business.Greetings.Title" = "Greeting Messages";
 "Premium.Business.Greetings.Text" = "Create greetings that will be automatically sent to new customers.";
@@ -11424,6 +11422,8 @@ to respond to messages faster.";
 "PeerInfo.BusinessHours.StatusOpensInHours_1" = "Opens in one hour";
 "PeerInfo.BusinessHours.StatusOpensInHours_any" = "Opens in %d hours";
 "PeerInfo.BusinessHours.StatusOpensOnDate" = "Opens %@";
+"PeerInfo.BusinessHours.StatusOpensTodayAt" = "Opens today at %@";
+"PeerInfo.BusinessHours.StatusOpensTomorrowAt" = "Opens tomorrow at %@";
 "PeerInfo.BusinessHours.TimezoneSwitchMy" = "my time";
 "PeerInfo.BusinessHours.TimezoneSwitchBusiness" = "local time";
 "PeerInfo.BusinessHours.Label" = "business hours";
@@ -11567,6 +11567,9 @@ to respond to messages faster.";
 "BusinessLocationSetup.ErrorAddressEmpty.Text" = "Address can't be empty.";
 "BusinessLocationSetup.ErrorAddressEmpty.ResetAction" = "Delete";
 
+"BusinessLocationSetup.AlertUnsavedChanges.Text" = "You have unsaved changes.";
+"BusinessLocationSetup.AlertUnsavedChanges.ResetAction" = "Undo";
+
 "ChatbotSetup.Title" = "Coming Later";
 "ChatbotSetup.Text" = "Add a bot to your account to help you automatically process and respond to the messages you receive. [Learn More >]()";
 "ChatbotSetup.TextLink" = "https://telegram.org";
@@ -11588,6 +11591,9 @@ to respond to messages faster.";
 
 "Chat.QuickReply.ServiceHeader1" = "To edit or delete your quick reply, tap and hold on it.";
 "Chat.QuickReply.ServiceHeader2" = "To use this quick reply in a chat, type / and select the shortcut from the list.";
+
+"Chat.QuickReplyMediaMessageLimitReachedText_1" = "There can be at most %d message in this chat.";
+"Chat.QuickReplyMediaMessageLimitReachedText_any" = "There can be at most %d messages in this chat.";
 
 
 /* new from translations.telegram.org */
@@ -11914,6 +11920,10 @@ to respond to messages faster.";
 "Chat.OutgoingContextReactionCount_3_10" = "%@ reacted";
 "Chat.OutgoingContextReactionCount_many" = "%@ reacted";
 "Chat.PsaTooltip.psa" = "This is an official message from the CEO of Telegram regarding the ongoing conflict.";
+"Chat.QuickReplyMediaMessageLimitReachedText_0" = "There can be at most %d messages in this chat.";
+"Chat.QuickReplyMediaMessageLimitReachedText_2" = "There can be at most %d messages in this chat.";
+"Chat.QuickReplyMediaMessageLimitReachedText_3_10" = "There can be at most %d messages in this chat.";
+"Chat.QuickReplyMediaMessageLimitReachedText_many" = "There can be at most %d messages in this chat.";
 "Chat.QuickReplyMessageLimitReachedText_0" = "Limit of %d messages reached";
 "Chat.QuickReplyMessageLimitReachedText_2" = "Limit of %d messages reached";
 "Chat.QuickReplyMessageLimitReachedText_3_10" = "Limit of %d messages reached";
@@ -12675,8 +12685,6 @@ to respond to messages faster.";
 "PollResults.ShowMore_2" = "Show More (%@)";
 "PollResults.ShowMore_3_10" = "Show More (%@)";
 "PollResults.ShowMore_many" = "Show More (%@)";
-"Premium.Business.Hours.Text" = "Show to your customers when you are open for business.";
-"Premium.Business.Replies.Text" = "Set up shortcuts with rich text and media to respond to messages faster.";
 "Premium.Gift.GiftMultipleSubscriptions_0" = "Gift %@ Subscriptions";
 "Premium.Gift.GiftMultipleSubscriptions_2" = "Gift %@ Subscriptions";
 "Premium.Gift.GiftMultipleSubscriptions_3_10" = "Gift %@ Subscriptions";
