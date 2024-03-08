@@ -2274,12 +2274,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 
 
-
-
-
-
-
-
+"lng_chatbots_all_except" = "All 1-to-1 Chats Except...";
+"lng_chatbots_selected" = "Only Selected Chats";
+"lng_chatbots_excluded_title" = "Excluded chats";
+"lng_chatbots_exclude_button" = "Exclude Chats";
+"lng_chatbots_included_title" = "Included chats";
+"lng_chatbots_include_button" = "Select Chats";
 
 
 
@@ -4863,8 +4863,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_boosts_prepaid_giveaway_status#one" = "{count} subscription {duration}";
 "lng_boosts_prepaid_giveaway_status#other" = "{count} subscriptions {duration}";
 
-
-
+"lng_contact_add" = "Add";
+"lng_contact_send_message" = "Message";
 
 // Wnd specific
 
