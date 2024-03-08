@@ -919,7 +919,7 @@
 "Activity.UploadingPhoto" = "sending a photo";
 "Activity.UploadingVideo" = "sending a video";
 "Activity.UploadingDocument" = "sending a file";
-"Activity.RecordingAudio" = "recording";
+"Activity.RecordingAudio" = "recording voice";
 "Activity.RecordingVideoMessage" = "recording video";
 
 

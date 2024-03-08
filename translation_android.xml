@@ -1135,8 +1135,8 @@
     <string name="IsSendingVideo">%1$s is sending a video...</string>
     <string name="IsRecordingVideo">%1$s is recording a video...</string>
     <string name="IsSendingFile">%1$s is sending a file...</string>
-    <string name="RecordingAudio">recording voice message...</string>
-    <string name="RecordingRound">recording video message...</string>
+    <string name="RecordingAudio">recording voice...</string>
+    <string name="RecordingRound">recording video...</string>
     <string name="SendingAudio">sending audio...</string>
     <string name="SendingPhoto">sending a photo...</string>
     <string name="SendingGame">playing a game...</string>
