@@ -2178,7 +2178,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_business_subtitle_opening_hours" = "Opening Hours";
 "lng_business_about_opening_hours" = "Show to your customers when you are open for business.";
 "lng_business_subtitle_quick_replies" = "Quick Replies";
-"lng_business_about_quick_replies" = "Set up shortcuts up to 20 messages each to respond to customers faster.";
+"lng_business_about_quick_replies" = "Set up shortcuts with rich text and media to respond to messages faster.";
 "lng_business_subtitle_greeting_messages" = "Greeting Messages";
 "lng_business_about_greeting_messages" = "Create greetings that will be automatically sent to new customers.";
 "lng_business_subtitle_away_messages" = "Away Messages";
