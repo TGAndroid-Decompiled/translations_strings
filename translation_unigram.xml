@@ -3425,7 +3425,7 @@
     <string name="ResendCodeInfo">The verification code was sent to your email.</string>
     <string name="EnabledPasswordText">You have enabled Two-Step verification.\nYou\'ll need the password you set up here to log in to your Telegram account.</string>
     <string name="AddEmailTitle">Choose a login email</string>
-    <string name="AddEmailSubtitle">You will now receive Telegram login codes via email and not SMS. Please enter an email address to which you have access.</string>
+    <string name="AddEmailSubtitle">You will receive Telegram login codes via email and not SMS. Please enter an email address to which you have access.</string>
     <string name="EnterNewEmail">Enter New Email</string>
     
     <string name="CheckYourEmail">Check Your Email</string>

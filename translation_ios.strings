@@ -8064,7 +8064,7 @@ Sorry for the inconvenience.";
 "Login.EnterCodeTelegramTitle" = "Enter Code";
 "Login.EnterCodeTelegramText" = "We've sent the code to the **Telegram app** for %@ on your other device.";
 "Login.AddEmailTitle" = "Choose a login email";
-"Login.AddEmailText" = "You will now receive Telegram login codes via email and not SMS. Please enter an email address to which you have access.";
+"Login.AddEmailText" = "You will receive Telegram login codes via email and not SMS. Please enter an email address to which you have access.";
 "Login.AddEmailPlaceholder" = "Enter your email";
 "Login.EnterCodeEmailTitle" = "Check Your Email";
 "Login.EnterCodeEmailText" = "Please enter the code we have sent to your email %@.";
