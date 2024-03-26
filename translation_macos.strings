@@ -8669,7 +8669,7 @@
 "PeerInfo.ChannelAppearance" = "Appearance";
 
 
-"PeerInfo.StatAndBoosts" = "Statistics and Boosts";
+"PeerInfo.StatAndBoosts" = "Statistics";
 
 "ChatInput.EditLink.AboveTheMessage" = "Above the Message";
 "ChatInput.EditLink.BelowTheMessage" = "Below the Message";
