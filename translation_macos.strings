@@ -9830,7 +9830,7 @@
 
 "Business.Chatbots.Permission.Header" = "BOT PERMISSION";
 "Business.Chatbots.Permission" = "Reply to Messages";
-"Business.Chatbots.Permission.Info" = "The bot will be able to view all new incoming messages, but not the messages that had been sent before you added the bot.";
+"Business.Chatbots.Permission.Info" = "The bot can only reply on your behalf in chats that were active during the last 24h.";
 
 
 "Business.Chatbots.Permission.RemoveBot" = "Remove Bot";
