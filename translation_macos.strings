@@ -3499,7 +3499,7 @@
 "ApplyLanguage.ChangeLanguageUnofficialText1" = "You are about to apply the custom language pack **%1$@** that is %2$@% complete.\n\nThis will translate the entire interface. You can suggest corrections on the [translation platform]().\n\nYou can change your language back at any time in Settings.";
 "ApplyLanguage.ChangeLanguageOfficialText" = "You are about to apply the language pack **%@**.\n\nThis will translate the entire interface. You can suggest corrections in the [translation panel]().\n\nYou can change your language back at any time in Settings.";
 "ApplyLanguage.ChangeLanguageAction" = "Change";
-"ApplyLanguage.ApplyLanguageAction" = "Change";
+"ApplyLanguage.ApplyLanguageAction" = "Apply Language";
 "ApplyLanguage.ChangeLanguageAlreadyActive" = "The language %@ is already active.";
 
 "Language.OfficialTransationsHeader" = "OFFICIAL TRANSLATIONS";
@@ -9723,7 +9723,7 @@
 "PremiumBoarding.Business.GreetingMessages" = "Greeting Messages";
 "PremiumBoarding.Business.AwayMessages" = "Away Messages";
 "PremiumBoarding.Business.ChatBots" = "ChatBots";
-"PremiumBoarding.Business.Intro" = "Intro";
+"PremiumBoarding.Business.Intro" = "Start Page";
 "PremiumBoarding.Business.Links" = "Links to Chat";
 "PremiumBoarding.Business.TelegramBusiness" = "Telegram Business";
 
@@ -9762,7 +9762,7 @@
 "Chat.Empty.Business.AwayMessage.Info" = "Add messages that are automatically sent when you are off.";
 
 "Chat.Empty.Business.QuickReply.Info1" = "• Enter a message below that\nwill be sent in chats when you type **\"/%@\"**";
-"Chat.Empty.Business.QuickReply.Info2" = "• You can access Quick Replies\nin any chat by typing \"/\" or using the Attach menu.";
+"Chat.Empty.Business.QuickReply.Info2" = "• You can access Quick Replies\nin any chat by typing \"/\" or using the Attachment menu.";
 
 
 "Peer.ReportStory" = "Repost Story";
@@ -10054,8 +10054,8 @@
 "PeerInfo.PersonalChannel.Title" = "CHANNEL";
 
 
-"Business.Intro.Title" = "Intro";
-"Business.Intro.Info" = "CUSTOMIZE YOUR INTRO";
+"Business.Intro.Title" = "Start Page";
+"Business.Intro.Info" = "CUSTOMIZE YOUR START PAGE";
 "Business.Intro.Reset" = "Reset To Default";
 
 

@@ -3798,7 +3798,7 @@ Unused sets are archived when you add more.";
 "ApplyLanguage.ChangeLanguageUnofficialText" = "You are about to apply a custom language pack (**%1$@**) that is %2$@% complete.\n\nThis will translate the entire interface. You can suggest corrections via the [translation platform]().\n\nYou can change your language back at any time in Settings.";
 "ApplyLanguage.ChangeLanguageOfficialText" = "You are about to apply a language pack (**%1$@**).\n\nThis will translate the entire interface. You can suggest corrections via the [translation platform]().\n\nYou can change your language back at any time in Settings.";
 "ApplyLanguage.ChangeLanguageAction" = "Change";
-"ApplyLanguage.ApplyLanguageAction" = "Change";
+"ApplyLanguage.ApplyLanguageAction" = "Apply Language";
 "ApplyLanguage.UnsufficientDataTitle" = "Insufficient Data";
 "ApplyLanguage.UnsufficientDataText" = "Unfortunately, this custom language pack (%1$@) doesn't contain data for Telegram iOS. You can contribute to this language pack using the [translation platform]().";
 "ApplyLanguage.LanguageNotSupportedError" = "Sorry, this language doesn't seem to exist.";
@@ -11355,7 +11355,7 @@ Sorry for the inconvenience.";
 "Premium.Business.Links.Title" = "Links";
 "Premium.Business.Links.Text" = "Create links that start a chat with you, suggesting the first message.";
 
-"Premium.Business.Intro.Title" = "Intro";
+"Premium.Business.Intro.Title" = "Start Page";
 "Premium.Business.Intro.Text" = "Customize the message people see before they start a chat with you.";
 
 "Premium.Business.Chatbots.Title" = "Chatbots";
@@ -11371,7 +11371,7 @@ Sorry for the inconvenience.";
 "Business.GreetingMessages" = "Greeting Messages";
 "Business.AwayMessages" = "Away Messages";
 "Business.ChatbotsItem" = "Chatbots";
-"Business.Intro" = "Intro";
+"Business.Intro" = "Start Page";
 
 "Business.LocationInfo" = "Display the location of your business on your account.";
 "Business.OpeningHoursInfo" = "Show to your customers when you are open for business.";
@@ -11770,7 +11770,7 @@ Sorry for the inconvenience.";
 "PrivacySettings.ValueCloseFriendsAndPremiumPlus" = "Close Friends, Premium +%@";
 "PrivacySettings.ValuePremium" = "Premium Users";
 "PrivacySettings.ValuePremiumPlus" = "Premium Users +%@";
-"PrivacySettings.ValuePremiumAndContacts" = "Premium & Contacts";
+"PrivacySettings.ValuePremiumAndContacts" = "Contacts & Premium";
 
 "PrivacySettings.InviteItem" = "Invites";
 "PrivacySettings.InviteSectionFooter" = "You can restrict which users are allowed to add you to groups and channels.";
@@ -11808,7 +11808,7 @@ Sorry for the inconvenience.";
 "SendInviteLink.PremiumOrSendSectionSeparator" = "or";
 
 "SendInviteLink.TextSendInviteLink" = "You can try to send an invite link instead.";
-"SendInviteLink.StatusAvailableToPremiumOnly" = "Available only to premium users";
+"SendInviteLink.StatusAvailableToPremiumOnly" = "Available only to Premium users";
 
 "Business.Links.ItemNoClicks" = "no clicks";
 "Business.Links.ItemClickCount_1" = "1 click";
@@ -11837,12 +11837,12 @@ Sorry for the inconvenience.";
 "Business.Links.EditLinkTitle" = "Link to Chat";
 "Business.Links.EditLinkToastSaved" = "Preset message saved.";
 
-"Business.Intro.Title" = "Intro";
+"Business.Intro.Title" = "Start Page";
 "Business.Intro.IntroTitlePlaceholder" = "Title";
 "Business.Intro.IntroTextPlaceholder" = "Enter Message";
 "Business.Intro.IntroSticker" = "Choose Sticker";
 "Business.Intro.IntroStickerValueRandom" = "Random";
-"Business.Intro.CustomizeSectionHeader" = "CUSTOMIZE YOUR INTRO";
+"Business.Intro.CustomizeSectionHeader" = "CUSTOMIZE YOUR START PAGE";
 "Business.Intro.CustomizeSectionFooter" = "You can customize the message people see before they start a chat with you.";
 "Business.Intro.ResetToDefault" = "Reset to Default";
 
