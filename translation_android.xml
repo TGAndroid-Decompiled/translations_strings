@@ -8630,7 +8630,7 @@ list of reactions.</string>
     <string name="ProfileBirthdayToday">Birthday today</string>
     <string name="PrivacyBirthday">Date of Birth</string>
     <string name="PrivacyBirthdayTitle">Who can see my birthday?</string>
-    <string name="PrivacyBirthdayInfo">You can restrict who can see you birthday with granular precision.</string>
+    <string name="PrivacyBirthdayInfo">You can restrict who can see your birthday with granular precision.</string>
     <string name="PrivacyBirthdayInfo3">You can add users or entire groups as exception that will override the settings above.</string>
     <string name="PrivacyBirthdaySet">You haven’t entered your date of birth yet.\n**Add my birthday &gt;**</string>
     <string name="PrivacyBirthdaySetDone">Date of birth added.</string>

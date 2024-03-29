@@ -11812,7 +11812,7 @@ Sorry for the inconvenience.";
 
 "Business.Links.ItemNoClicks" = "no clicks";
 "Business.Links.ItemClickCount_1" = "1 click";
-"Business.Links.ItemClickCount_any" = "%2 clicks";
+"Business.Links.ItemClickCount_any" = "%d clicks";
 "Business.Links.ItemNoText" = "No text";
 "Business.Links.ItemActionShare" = "Share";
 
@@ -11824,9 +11824,9 @@ Sorry for the inconvenience.";
 "Business.Links.CreateAction" = "Create a Link to Chat";
 "Business.Links.LinksSectionHeader" = "LINKS TO CHAT";
 
-"Business.Links.SimpleLinkInfoUsernamePhone" = "You can also use a simple link for a chat with you — [t.me/%1$@](username) or [t.me/\\u{2060}+\\u{2060}%2$@](phone).";
+"Business.Links.SimpleLinkInfoUsernamePhone" = "You can also use a simple link for a chat with you — [t.me/%1$@](username) or [t.me/⁠+⁠%2$@](phone).";
 "Business.Links.SimpleLinkInfoUsername" = "You can also use a simple link for a chat with you — [t.me/%@](username).";
-"Business.Links.SimpleLinkInfoPhone" = "You can also use a simple link for a chat with you — [t.me/\\u{2060}+\\u{2060}%@](phone).";
+"Business.Links.SimpleLinkInfoPhone" = "You can also use a simple link for a chat with you — [t.me/⁠+⁠%@](phone).";
 
 "Business.Links.LinkNameTitle" = "Link Name";
 "Business.Links.LinkNameText" = "Add a name for this link that only you will see.";
@@ -11947,10 +11947,10 @@ Sorry for the inconvenience.";
 "BoostGift.QuantityBoosts_3_10" = "%@ BOOSTS";
 "BoostGift.QuantityBoosts_many" = "%@ BOOSTS";
 "Business.Chatbots" = "Coming Later";
-"Business.Links.ItemClickCount_0" = "%2 clicks";
-"Business.Links.ItemClickCount_2" = "%2 clicks";
-"Business.Links.ItemClickCount_3_10" = "%2 clicks";
-"Business.Links.ItemClickCount_many" = "%2 clicks";
+"Business.Links.ItemClickCount_0" = "%d clicks";
+"Business.Links.ItemClickCount_2" = "%d clicks";
+"Business.Links.ItemClickCount_3_10" = "%d clicks";
+"Business.Links.ItemClickCount_many" = "%d clicks";
 "CHANNEL_MESSAGES" = "%1$@ posted %2$@ messages";
 "CHANNEL_MESSAGES_SEPARATED" = "%1$@|posted %2$@ messages";
 "CHANNEL_MESSAGE_AUDIO" = "%1$@ posted a voice message";
