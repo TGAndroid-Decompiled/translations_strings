@@ -8362,7 +8362,7 @@
     <string name="PremiumBusinessChatbotsDescription">Add any third party chatbots that will process customer interactions.</string>
     <string name="PremiumBusinessChatLinks">Links to Chat</string>
     <string name="PremiumBusinessChatLinksDescription">Create links that start a chat with you, suggesting the first message.</string>
-    <string name="PremiumBusinessIntro">Custom Intro</string>
+    <string name="PremiumBusinessIntro">Start Page</string>
     <string name="PremiumBusinessIntroDescription">Customize the message people see before they start a chat with you.</string>
     <string name="FolderShowTags">Show Folder Tags</string>
     <string name="FolderShowTagsInfo">Display folder names for each chat in the chat list.</string>

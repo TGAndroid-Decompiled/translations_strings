@@ -1141,7 +1141,7 @@
     <string name="RevenueSharingAdsInfo4Title">Can I Launch an Ad?</string>
     <string name="RevenueSharingAdsInfo4Subtitle2">Anyone can create an ad to display in this channel — with minimal budgets. Check out the **Telegram Ad Platform** for details. %1$s</string>
     <string name="RevenueSharingAdsInfo4SubtitleLearnMore">**Learn More &gt;**</string>
-    <string name="RevenueSharingAdsUnderstood">Understood</string>
+    <string name="RevenueSharingAdsAlertButton">Understood</string>
     <string name="PromoteUrl">https://ads.telegram.org</string>
     <string name="InstantViewNightMode">The dark theme will automatically turn on at night</string>
     <string name="InstantViewReference">Reference</string>
@@ -8365,7 +8365,7 @@ list of reactions.</string>
     <string name="PremiumBusinessChatbotsDescription">Add any third party chatbots that will process customer interactions.</string>
     <string name="PremiumBusinessChatLinks">Links to Chat</string>
     <string name="PremiumBusinessChatLinksDescription">Create links that start a chat with you, suggesting the first message.</string>
-    <string name="PremiumBusinessIntro">Custom Intro</string>
+    <string name="PremiumBusinessIntro">Start Page</string>
     <string name="PremiumBusinessIntroDescription">Customize the message people see before they start a chat with you.</string>
     <string name="FolderShowTags">Show Folder Tags</string>
     <string name="FolderShowTagsInfo">Display folder names for each chat in the chat list.</string>
@@ -9306,6 +9306,7 @@ list of reactions.</string>
   <string name="Reposts_two">%d reposts</string>
   <string name="Reposts_few">%d reposts</string>
   <string name="Reposts_many">%d reposts</string>
+  <string name="RevenueSharingAdsUnderstood">Understood</string>
   <string name="RoamingUsage">Roaming Data Usage</string>
   <string name="SavedDialogsTabCount_zero">%d chats</string>
   <string name="SavedDialogsTabCount_two">%d chats</string>

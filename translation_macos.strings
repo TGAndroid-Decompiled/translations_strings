@@ -10084,7 +10084,7 @@
 
 
 "Chat.BotManager.Paused" = "bot stopped";
-"Chat.BotManager.ReadOnly" = "bot manages this chat";
+"Chat.BotManager.ReadOnly" = "bot reads this chat";
 "Chat.BotManager.FullAccess" = "bot manages this chat";
 
 "Chat.BotManager.Start" = "START";
