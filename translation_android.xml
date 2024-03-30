@@ -1138,7 +1138,7 @@
     <string name="RevenueSharingAdsInfo3Title">Can Be Removed</string>
     <string name="RevenueSharingAdsInfo3Subtitle">You can turn off ads by subscribing to **Telegram Premium**, and Level %1$s channels can remove them for their subscribers.</string>
     <string name="RevenueSharingAdsInfo4Title">Can I Launch an Ad?</string>
-    <string name="RevenueSharingAdsInfo4Subtitle">Anyone can create an ad to display in this channel — with minimal budgets. Check out the **Telegram Ad Platform** for details. %1$s</string>
+    
     <string name="RevenueSharingAdsInfo4SubtitleLearnMore">**Learn More &gt;**</string>
     <string name="RevenueSharingAdsUnderstood">Understood</string>
     <string name="PromoteUrl">https://ads.telegram.org</string>
