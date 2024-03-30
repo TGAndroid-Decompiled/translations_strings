@@ -9056,7 +9056,7 @@ Sorry for the inconvenience.";
 "SendInviteLink.ActionInvite" = "Send Invite Link";
 "SendInviteLink.ActionClose" = "Close";
 
-"Chat.ContextMenu.AdSponsorInfo" = "Sponsor Info";
+"Chat.ContextMenu.AdSponsorInfo" = "Advertiser Info";
 "Chat.ContextMenu.AdSponsorInfoCopied" = "Text copied.";
 
 "Settings.PowerSaving" = "Power Saving";
