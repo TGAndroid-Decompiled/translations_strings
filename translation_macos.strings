@@ -7789,12 +7789,12 @@
 
 
 "InviteFailed.Premium.Text.MultipleAnd_countable" = "%@ %d";
-"InviteFailed.Premium.Text.MultipleAnd_zero" = "**%1$@** and %2$d accepts more people invitations to groups from contacts and **Premium** users";
-"InviteFailed.Premium.Text.MultipleAnd_one" = "**%1$@** and %2$d accepts more person invitations to groups from contacts and **Premium** users";
-"InviteFailed.Premium.Text.MultipleAnd_two" = "**%1$@** and %2$d accepts more people invitations to groups from contacts and **Premium** users";
-"InviteFailed.Premium.Text.MultipleAnd_few" = "**%1$@** and %2$d accepts more people invitations to groups from contacts and **Premium** users";
-"InviteFailed.Premium.Text.MultipleAnd_many" = "**%1$@** and %2$d accepts more people invitations to groups from contacts and **Premium** users";
-"InviteFailed.Premium.Text.MultipleAnd_other" = "**%1$@** and %2$d accepts more people invitations to groups from contacts and **Premium** users";
+"InviteFailed.Premium.Text.MultipleAnd_zero" = "**%1$@** and %2$d more people accept invitations to groups from contacts and **Premium** users";
+"InviteFailed.Premium.Text.MultipleAnd_one" = "**%1$@** and %2$d more person accept invitations to groups from contacts and **Premium** users";
+"InviteFailed.Premium.Text.MultipleAnd_two" = "**%1$@** and %2$d more people accept invitations to groups from contacts and **Premium** users";
+"InviteFailed.Premium.Text.MultipleAnd_few" = "**%1$@** and %2$d more people accept invitations to groups from contacts and **Premium** users";
+"InviteFailed.Premium.Text.MultipleAnd_many" = "**%1$@** and %2$d more people accept invitations to groups from contacts and **Premium** users";
+"InviteFailed.Premium.Text.MultipleAnd_other" = "**%1$@** and %2$d more people accept invitations to groups from contacts and **Premium** users";
 
 
 
@@ -9671,7 +9671,7 @@
 "ChatInput.Business.Greeting" = "Greeting Message...";
 "ChatInput.Business.QuickReply" = "Quick Reply Message...";
 
-"ChatInput.Business.Link" = "Add a present message...";
+"ChatInput.Business.Link" = "Add a preset message...";
 
 
 "Chat.InputContext.EditQuickReply" = "Edit Quick Replies";
@@ -10010,7 +10010,7 @@
 
 "ChatList.BirthdayMultipleTitle_countable" = "%d";
 "ChatList.BirthdayMultipleTitle_zero" = "%d contacts have **birthdays** today! 🎂";
-"ChatList.BirthdayMultipleTitle_one" = "%d contact have **birthdays** today! 🎂";
+"ChatList.BirthdayMultipleTitle_one" = "%d contact has a **birthday** today! 🎂";
 "ChatList.BirthdayMultipleTitle_two" = "%d contacts have **birthdays** today! 🎂";
 "ChatList.BirthdayMultipleTitle_few" = "%d contacts have **birthdays** today! 🎂";
 "ChatList.BirthdayMultipleTitle_many" = "%d contacts have **birthdays** today! 🎂";
@@ -10032,7 +10032,7 @@
 "Fragment.AdsInfo.Option1.Info" = "Ads on Telegram do not use your personal information and are based on the channel in which you see them.";
 
 "Fragment.AdsInfo.Option2.Title" = "Help the Channel Creator";
-"Fragment.AdsInfo.Option2.Info" = "50%% ot the revenue from Telegram Ads goes to the owner of the channel where they are displayed.";
+"Fragment.AdsInfo.Option2.Info" = "50%% of the revenue from Telegram Ads goes to the owner of the channel where they are displayed.";
 
 "Fragment.AdsInfo.Option3.Title" = "Can Be Removed";
 "Fragment.AdsInfo.Option3.Info" = "You can turn off ads by subscribing to Telegram Premium, and Level 50 channels can remove them for their subscribers.";
@@ -10209,9 +10209,9 @@
 
 
 "CollectibleItemInfo.UsernameTitle" = "[%@]() is a collectible username\nthat belongs to";
-"CollectibleItemInfo.UsernameText" = "The **@%1$@** username was acquired on\nFragment on %2$@ for %3$@** %4$@** (~%5$@).\n\n[Copy Link]()";
+"CollectibleItemInfo.UsernameText" = "The **@%1$@** username was acquired on\nFragment on %2$@ for %3$@ **%4$@** (~%5$@).\n\n[Copy Link]()";
 "CollectibleItemInfo.PhoneTitle" = "[%@]() is a collectible phone number\nthat belongs to";
-"CollectibleItemInfo.PhoneText" = "The phone number **@%1$@** was acquired on\nFragment on %2$@ for %3$@** %4$@** (~%5$@).\n\n[Copy Link]()";
+"CollectibleItemInfo.PhoneText" = "The phone number **%1$@** was acquired on\nFragment on %2$@ for %3$@ **%4$@** (~%5$@).\n\n[Copy Link]()";
 "CollectibleItemInfo.ButtonOpenInfo" = "Learn More";
 
 
