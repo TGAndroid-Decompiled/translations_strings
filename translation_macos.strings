@@ -9898,7 +9898,7 @@
 "Business.Hours.UTC" = "UTC";
 
 
-"Business.Chatbots.Header" = "Add a bot to your account to help you automatically process and respond to the messages you receive. [Learn More >](https://telegram.org)";
+"Business.Chatbots.Header" = "Add a bot to your account to help you automatically process and respond to the messages you receive. [Learn More >](https://telegram.org/blog/telegram-business#chatbots-for-business)";
 "Business.Chatbots.NotFound" = "No bots found";
 
 "Business.Chatbots.ChatTypes" = "CHATS ACCESSIBLE FOR THE BOT";
@@ -10185,7 +10185,7 @@
 "Monetization.Intro.Withdrawal.Text" = "You can withdraw your TON any time.";
 
 "Monetization.Intro.Info.Title" = "What's %@ TON?";
-"Monetization.Intro.Info.Text" = "TON is a blockchain platform and cryptocurrency that Telegram uses for its high speed and low commissions on transactions. [Learn More >](https://telegram.org/blog/monetization-for-channels)";
+"Monetization.Intro.Info.Text" = "TON is a blockchain platform and cryptocurrency that Telegram uses for its high speed and low commissions on transactions. [Learn More >](ton.org)";
 
 "Monetization.Intro.Understood" = "Understood";
 
