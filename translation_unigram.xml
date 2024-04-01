@@ -1144,6 +1144,7 @@
     
     
     
+    
     <string name="IsSendingGame">{0} is playing a game...</string>
     
     
@@ -7990,7 +7991,7 @@
     <string name="ChannelBoostsJustReachedLevel1">This channel reached **Level&#160;1** and can now post stories.</string>
     <string name="ChannelBoostsJustReachedLevelNext">This channel reached **Level&#160;{0}** and can now post {1} per day.</string>
     <string name="GroupNeedBoostsForColorDescription">Your group needs to reach **Level {0}** to change group color to selected. **Premium** users can boost your group with this link:</string>
-    <string name="GroupNeedBoostsForProfileColorDescription">Your group needs to reach **Level {0}** to change group profile color to selected.\n\nAsk your **Premium** members to boost your group with this link:</string>
+    <string name="GroupNeedBoostsForProfileColorDescription">Your group needs to reach **Level {0}** to change group profile color to selected. **Premium** users can boost your group with this link:</string>
     <string name="GroupNeedBoostsForReplyIconDescription">Your group needs to reach **Level {0}** to change group link style icon.\n\n**Premium** users can boost your group with this link:</string>
     <string name="GroupNeedBoostsForProfileIconDescription">Your group needs to reach **Level {0}** to change group profile icon.\n\n**Premium** users can boost your group with this link:</string>
     <string name="GroupNeedBoostsForEmojiStatusDescription">Your group needs to reach **Level {0}** to set group emoji status.\n\n**Premium** users can boost your group with this link:</string>
@@ -8594,6 +8595,8 @@
     
     
     
+    
+    
     <string name="GreetingHow">{0} added the message above for all empty chats **how?**</string>
     
     
@@ -8627,7 +8630,7 @@
     <string name="ProfileBirthday">Date of Birth</string>
     <string name="ProfileBirthdayToday">Birthday today</string>
     <string name="PrivacyBirthday">Date of Birth</string>
-    <string name="PrivacyBirthdayTitle">Who can see my birthday?</string>
+    <string name="PrivacyBirthdayTitle">Who can see my date of birth?</string>
     <string name="PrivacyBirthdayInfo">You can restrict who can see your date of birth with granular precision.</string>
     <string name="PrivacyBirthdayInfo3">You can add users or entire groups as exception that will override the settings above.</string>
     <string name="PrivacyBirthdaySet">You haven’t entered your date of birth yet.\n**Add my birthday &gt;**</string>
@@ -9293,6 +9296,7 @@
   <string name="ReactionReachLvlForReactionShort_few">Your channel needs to reach Level **{1}** to add **{0}** custom emoji as reactions.</string>
   <string name="ReactionReachLvlForReactionShort_many">Your channel needs to reach Level **{1}** to add **{0}** custom emoji as reactions.</string>
   <string name="RegisterText">Enter your first and last name</string>
+  
   
   
   

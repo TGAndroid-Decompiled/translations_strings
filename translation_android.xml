@@ -8407,7 +8407,7 @@ list of reactions.</string>
     <string name="BusinessHoursUnsavedChanges">You have changed the business working hours. Apply changes?</string>
     <string name="BusinessBots">Chatbots</string>
     <string name="BusinessBotsInfo">Add a bot to your account to help you automatically process and respond to the messages you receive. **Learn more &gt;**</string>
-    <string name="BusinessBotsInfoLink">https://core.telegram.org/bots/api#march-31-2024</string>
+    <string name="BusinessBotsInfoLink">https://telegram.org/blog/telegram-business#chatbots-for-business</string>
     <string name="BusinessBotLink">Bot Username or URL</string>
     <string name="BusinessBotNotFound">Chatbot not found</string>
     <string name="BusinessBotLinkInfo">Enter the link to the Telegram bot that you want to automatically process your chats.</string>
