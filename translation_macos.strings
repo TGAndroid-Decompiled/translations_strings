@@ -9080,7 +9080,7 @@
 "ChatMessage.Sponsored.Report.Success" = "Telegram moderators will review your report. Thank you.";
 
 
-"ChatMessage.Sponsored.Report.LearnMore" = "Learn more about [Telegram Ad Policies and Guidelines](telegram.org).";
+"ChatMessage.Sponsored.Report.LearnMore" = "Learn more about [Telegram Ad Policies and Guidelines](https://ads.telegram.org/guidelines).";
 
 "Message.GiveawayOngoing" = "Giveaway: %1$@ on %2$@";
 

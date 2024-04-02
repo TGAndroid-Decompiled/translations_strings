@@ -8343,6 +8343,7 @@
     <string name="PremiumPreviewMessagePrivacyDescription">Restrict people you don\'t know from sending you messages.</string>
     <string name="TelegramBusiness">Telegram Business</string>
     <string name="TelegramBusinessSubtitle">Subscribe to **Telegram Premium** to unlock these additional business features.</string>
+    <string name="TelegramBusinessSubtitle2">Turn your account to a business page with these additional features.</string>
     <string name="TelegramBusinessSubtitleTemp">Turn your account into a **business page** with these additional features.\nThe benefits of Telegram Business are **temporarily included** with Telegram Premium.</string>
     <string name="TelegramBusinessSubscribedSubtitle">You have now unlocked these additional business features.</string>
     <string name="TelegramBusinessSubscribedSubtitleTemp">You have now unlocked Telegram Business features. These features are **temporarily included** with your Premium Subscription.</string>
@@ -8359,7 +8360,7 @@
     <string name="PremiumBusinessAwayMessages">Away Messages</string>
     <string name="PremiumBusinessAwayMessagesDescription">Define messages that are automatically sent when you are off.</string>
     <string name="PremiumBusinessChatbots">Coming Later</string>
-    
+    <string name="PremiumBusinessChatbots2">Chatbots</string>
     <string name="PremiumBusinessChatbotsDescription">Add any third party chatbots that will process customer interactions.</string>
     <string name="PremiumBusinessChatLinks">Links to Chat</string>
     <string name="PremiumBusinessChatLinksDescription">Create links that start a chat with you, suggesting the first message.</string>
@@ -9622,7 +9623,7 @@
   <string name="DownloadPath">Download Path</string>
   <string name="DownloadSelected">Download Selected</string>
   <string name="EditInformation">Edit Information</string>
-  <string name="EditProfile">Edit profile</string>
+  <string name="EditProfile">Edit Profile</string>
   <string name="EmojiSet">Emoji Style</string>
   <string name="EnableFullScreenGallery">Enable Full-Screen Gallery</string>
   <string name="ExperimentalSettings">Experimental Settings</string>
@@ -9748,4 +9749,30 @@
   <string name="VoipPlatformUnsupportedTitle">Feature not supported</string>
   <string name="VoipStreamWith">Stream with...</string>
   <string name="YourNameColor">Your Name Color</string>
+
+  <string name="EditProfileChannel">Your channel</string>
+  <string name="EditProfileChannelTitle">Personal channel</string>
+  <string name="EditProfileChannelSelect">Select your channel</string>
+  <string name="EditProfileChannelHide">Hide Personal Channel</string>
+  <string name="EditProfileChannelAdd">Add</string>
+  <string name="EditProfileChannelStartNew">Start a Channel</string>
+  <string name="EditProfileChannelSet">Personal channel added.</string>
+
+  <string name="PremiumPreviewBusinessDescription">Upgrade your account with business features such as location, opening hours and quick replies.</string>
+
+  <string name="PremiumPreviewFolderTags">Tag Your Chats</string>
+  <string name="PremiumPreviewFolderTagsDescription">Display folder names for each chat in the chat list.</string>
+  <string name="PremiumPreviewBusinessEmojiStatus">Set Emoji Status</string>
+  <string name="PremiumPreviewBusinessEmojiStatusDescription">Display the current status of your business next to your name.</string>
+  <string name="PremiumPreviewBusinessStories">Add a Post</string>
+  <string name="PremiumPreviewBusinessStoriesDescription">Publish photos and videos of your goods or services on your page.</string>
+
+  <string name="PremiumTierAnnual">Annual</string>
+  
+  <string name="PremiumTierMonthly">Monthly</string>
+
+  <string name="GiftPremiumOptionDiscount">-{0}%</string>
+  <string name="PricePerMonthMe">{0}/month</string>
+  <string name="PricePerYear">{0}/year</string>
+
 </resources>

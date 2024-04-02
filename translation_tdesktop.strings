@@ -2351,12 +2351,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_chatbots_exclude_about" = "Select chats or entire chat categories which the bot will not have access to.";
 "lng_chatbots_permissions_title" = "Bot permissions";
 "lng_chatbots_reply" = "Reply to Messages";
-"lng_chatbots_reply_about" = "The bot will be able to view all new incoming messages, but not the messages that had been sent before you added the bot.";
+"lng_chatbots_reply_about" = "The bot can only reply on your behalf in chats that were active during the last 24h.";
 "lng_chatbots_remove" = "Remove Bot";
 "lng_chatbots_not_found" = "Chatbot not found.";
 "lng_chatbots_not_supported" = "This bot doesn't support Telegram Business yet.";
 "lng_chatbots_add" = "Add";
-"lng_chatbots_info_url" = "https://telegram.org/privacy";
+"lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbot_status_can_reply" = "bot manages this chat";
 "lng_chatbot_status_paused" = "bot stopped";
 "lng_chatbot_status_views" = "bot has access to this chat";
@@ -2366,8 +2366,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_chatbot_menu_remove" = "Remove bot from this chat";
 "lng_chatbot_menu_revoke" = "Revoke access to this chat";
 
-"lng_chat_intro_title" = "Custom Intro";
-"lng_chat_intro_subtitle" = "Customize your intro";
+"lng_chat_intro_title" = "Start Page";
+"lng_chat_intro_subtitle" = "Customize your start page";
 "lng_chat_intro_default_title" = "No messages here yet...";
 "lng_chat_intro_default_message" = "Send a message or click on the greeting below";
 "lng_chat_intro_enter_title" = "Enter Title";
@@ -4695,7 +4695,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_sponsored_menu_revenued_report" = "Report Ad";
 "lng_sponsored_revenued_subtitle" = "Telegram Ads are very different from ads on other platforms. Ads such as this one:";
 "lng_sponsored_revenued_info1_title" = "Respect Your Privacy";
-"lng_sponsored_revenued_info1_description" = "Ads on Telegram do not use your personal information and are abased on the channel in which you see them.";
+"lng_sponsored_revenued_info1_description" = "Ads on Telegram do not use your personal information and are based on the channel in which you see them.";
 "lng_sponsored_revenued_info2_title" = "Help the Channel Creator";
 "lng_sponsored_revenued_info2_description" = "50% of the revenue from Telegram Ads goes to the owner of the channel where they are displayed.";
 "lng_sponsored_revenued_info3_title" = "Can Be Removed";
