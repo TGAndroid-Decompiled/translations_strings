@@ -1861,7 +1861,7 @@
 "Chat.Message.ViewGroup" = "VIEW GROUP";
 "Chat.Message.SendMessage" = "SEND MESSAGE";
 "Chat.Message.Sponsored.What" = "What are sponsored messages?";
-"Chat.Message.Sponsored.Link" = "https://promote.telegram.org";
+"Chat.Message.Sponsored.Link" = "https://ads.telegram.org";
 "Chat.Voice.Transribe.Error" = "No speech detected";
 "Chat.VoiceChat.JoinLink.Participants_ZeroValueHolder" = "no one joined yet";
 "Checkout.2FA.Text" = "Saving payment details is only available with 2-Step Verification.";

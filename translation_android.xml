@@ -1130,7 +1130,7 @@
     <string name="SponsoredMessageAlertTitle">Sponsored messages</string>
     <string name="SponsoredMessageAlertText">Unlike other apps, Telegram never uses your private data to target ads. No user data is mined or analyzed to display ads, and every user viewing a channel on Telegram sees the same sponsored message. We believe that everyone has the right to privacy, and technological platforms should respect that.</string>
     <string name="SponsoredMessageAlertLearnMore">LEARN MORE</string>
-    <string name="SponsoredMessageAlertLearnMoreUrl">https://promote.telegram.org</string>
+    <string name="SponsoredMessageAlertLearnMoreUrl">https://ads.telegram.org</string>
     <string name="RevenueSharingAdsAlertSubtitle">Telegram Ads are very different from ads on other platforms. Ads such as this one:</string>
     <string name="RevenueSharingAdsInfo1Title">Respect Your Privacy</string>
     <string name="RevenueSharingAdsInfo1Subtitle">Ads on Telegram do not use your personal information and are based on the channel in which you see them.</string>
