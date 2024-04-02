@@ -1598,7 +1598,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_report_thanks" = "Thank you! Your report will be reviewed by our team.";
 
 "lng_report_sponsored_hidden" = "Sponsored messages will be hidden.";
-"lng_report_sponsored_reported" = "We will review this ad to ensure it matches out {link}.";
+"lng_report_sponsored_reported" = "We will review this ad to ensure it matches our {link}.";
 "lng_report_sponsored_reported_link" = "Ad Policies and Guidelines";
 "lng_report_sponsored_reported_learn" = "Learn more about our {link}.";
 
@@ -2304,7 +2304,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_greeting_enable" = "Send Greeting Message";
 "lng_greeting_create" = "Create a Greeting Message";
 "lng_greeting_recipients" = "Recipients";
-"lng_greeting_select" = "Select chats or entire chat categories for sending a greeting message.";
+"lng_greeting_select" = "Select chats or entire chat categories for sending greeting messages.";
 "lng_greeting_period_title" = "Period of no activity";
 "lng_greeting_period_about" = "Choose how many days should pass after your last interaction with a recipient to send them a greeting in response to their message.";
 "lng_greeting_empty_title" = "New Greeting Message";
@@ -2358,7 +2358,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_chatbots_add" = "Add";
 "lng_chatbots_info_url" = "https://telegram.org/blog/telegram-business#chatbots-for-business";
 "lng_chatbot_status_can_reply" = "bot manages this chat";
-"lng_chatbot_status_paused" = "bot stopped";
+"lng_chatbot_status_paused" = "bot paused";
 "lng_chatbot_status_views" = "bot has access to this chat";
 "lng_chatbot_button_pause" = "Stop";
 "lng_chatbot_button_resume" = "Start";
@@ -5009,7 +5009,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channel_earn_balance_button" = "Withdraw";
 "lng_channel_earn_balance_password_title" = "Two-step verification";
 "lng_channel_earn_balance_password_description" = "Please enter your password to withdraw.";
-"lng_channel_earn_balance_about" = "Collect your reward using Fragment, a third-party platform used by the advertiser to pay for the ad. {link}";
+"lng_channel_earn_balance_about" = "Collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. {link}";
 "lng_channel_earn_balance_about_temp" = "In the coming weeks you will be able to collect your reward using Fragment, a third-party platform used by advertisers to pay ads. {link}";
 "lng_channel_earn_transfer_sure_about1" = "Check the address of the recipient:";
 "lng_channel_earn_transfer_sure_about2" = "This action can not be undone. If the address above is incorrect you will lose your TON.";
@@ -5054,13 +5054,13 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_iv_window_title" = "Instant View";
 
 "lng_limit_download_title" = "Download speed limited";
-"lng_limit_download_subscribe" = "Subscribe to {link} and increase download speed {increase}.";
+"lng_limit_download_subscribe" = "Subscribe to {link} to increase download speed {increase}.";
 "lng_limit_download_increase_times#one" = "**{count}** time";
 "lng_limit_download_increase_times#other" = "**{count}** times";
 "lng_limit_download_increase_speed" = "by **{percent}**";
 "lng_limit_download_subscribe_link" = "Telegram Premium";
 "lng_limit_upload_title" = "Upload speed limited";
-"lng_limit_upload_subscribe" = "Subscribe to {link} and increase upload speed {increase}.";
+"lng_limit_upload_subscribe" = "Subscribe to {link} to increase upload speed {increase}.";
 "lng_limit_upload_increase_times#one" = "**{count}** time";
 "lng_limit_upload_increase_times#other" = "**{count}** times";
 "lng_limit_upload_increase_speed" = "by **{percent}**";

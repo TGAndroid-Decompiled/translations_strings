@@ -493,6 +493,7 @@
 "PeerMedia.CommonGroups" = "Groups";
 "PeerMedia.Gifs" = "GIFs";
 "PeerMedia.Stories" = "Posts";
+"PeerMedia.ArchivePosts" = "Archived Posts";
 "PeerMedia.Posts" = "Posts";
 "PeerMedia.SavedMessages" = "Chats";
 "PeerMedia.Saved" = "Saved";
@@ -1602,7 +1603,7 @@
 
 
 "PrivacySettingsController.Birthday.WhoCanSee" = "WHO CAN SEE MY DATE OF BIRTH";
-"PrivacySettingsController.Birthday.CustomHelp" = "You can restrict who can see your birth with granular precision.";
+"PrivacySettingsController.Birthday.CustomHelp" = "You can restrict who can see your date of birth with granular precision.";
 "PrivacySettingsController.Birthday.AlwaysShareWith.Title" = "Always Share With";
 "PrivacySettingsController.Birthday.NeverShareWith.Title" = "Never Share With";
 
@@ -8098,6 +8099,7 @@
 
 
 "AccountSettings.MyStories" = "My Stories";
+"AccountSettings.MyProfile" = "My Profile";
 
 
 "ChatList.ArchiveStory.Count_countable" = "%d";
@@ -9945,11 +9947,11 @@
 "EditAccount.Birthday.Info.Nobody" = "Nobody will see your birthday. [Change >]()";
 
 
-"EditAccount.Birthday.Date" = "Date of Birthday";
+"EditAccount.Birthday.Date" = "Date of Birth";
 "EditAccount.Birthday.Remove" = "Remove";
 "EditAccount.Birthday.Add" = "Add";
 
-"Birthday.Alert.Added" = "Date of birth added";
+"Birthday.Alert.Added" = "Date of birth added.";
 
 
 "PremiumBoarding.MoreBusinessHeader_countable" = "%d";
@@ -9966,21 +9968,21 @@
 
 "Chat.DownloadLimit.Title" = "Download speed limited";
 "Chat.DownloadLimit.Text_countable" = "%d";
-"Chat.DownloadLimit.Text_zero" = "Subscribe to [Telegram Premium]() and increase download speeds %d times.";
-"Chat.DownloadLimit.Text_one" = "Subscribe to [Telegram Premium]() and increase download speeds %d time.";
-"Chat.DownloadLimit.Text_two" = "Subscribe to [Telegram Premium]() and increase download speeds %d times.";
-"Chat.DownloadLimit.Text_few" = "Subscribe to [Telegram Premium]() and increase download speeds %d times.";
-"Chat.DownloadLimit.Text_many" = "Subscribe to [Telegram Premium]() and increase download speeds %d times.";
-"Chat.DownloadLimit.Text_other" = "Subscribe to [Telegram Premium]() and increase download speeds %d times.";
+"Chat.DownloadLimit.Text_zero" = "Subscribe to [Telegram Premium]() to increase download speeds %d times.";
+"Chat.DownloadLimit.Text_one" = "Subscribe to [Telegram Premium]() to increase download speeds %d time.";
+"Chat.DownloadLimit.Text_two" = "Subscribe to [Telegram Premium]() to increase download speeds %d times.";
+"Chat.DownloadLimit.Text_few" = "Subscribe to [Telegram Premium]() to increase download speeds %d times.";
+"Chat.DownloadLimit.Text_many" = "Subscribe to [Telegram Premium]() to increase download speeds %d times.";
+"Chat.DownloadLimit.Text_other" = "Subscribe to [Telegram Premium]() to increase download speeds %d times.";
 
 "Chat.UploadLimit.Title" = "Upload speed limited";
 "Chat.UploadLimit.Text_countable" = "%d";
-"Chat.UploadLimit.Text_zero" = "Subscribe to [Telegram Premium]() and increase upload speeds %d times.";
-"Chat.UploadLimit.Text_one" = "Subscribe to [Telegram Premium]() and increase upload speeds %d time.";
-"Chat.UploadLimit.Text_two" = "Subscribe to [Telegram Premium]() and increase upload speeds %d times.";
-"Chat.UploadLimit.Text_few" = "Subscribe to [Telegram Premium]() and increase upload speeds %d times.";
-"Chat.UploadLimit.Text_many" = "Subscribe to [Telegram Premium]() and increase upload speeds %d times.";
-"Chat.UploadLimit.Text_other" = "Subscribe to [Telegram Premium]() and increase upload speeds %d times.";
+"Chat.UploadLimit.Text_zero" = "Subscribe to [Telegram Premium]() to increase upload speeds %d times.";
+"Chat.UploadLimit.Text_one" = "Subscribe to [Telegram Premium]() to increase upload speeds %d time.";
+"Chat.UploadLimit.Text_two" = "Subscribe to [Telegram Premium]() to increase upload speeds %d times.";
+"Chat.UploadLimit.Text_few" = "Subscribe to [Telegram Premium]() to increase upload speeds %d times.";
+"Chat.UploadLimit.Text_many" = "Subscribe to [Telegram Premium]() to increase upload speeds %d times.";
+"Chat.UploadLimit.Text_other" = "Subscribe to [Telegram Premium]() to increase upload speeds %d times.";
 
 
 "Birthday.YearsOld_countable" = "%d";
@@ -10042,7 +10044,7 @@
 "Fragment.AdsInfo.OK" = "Understood";
 
 
-"PersonalChannel.Hide" = "Hide Personal Channel";
+"PersonalChannel.Hide" = "Hide Channel";
 "PersonalChannel.Title" = "Personal Channel";
 "PersonalChannel.Info" = "select your channel";
 
@@ -10084,7 +10086,7 @@
 "Chat.BotManager.Context.Revoke" = "Revoke access";
 
 
-"Chat.BotManager.Paused" = "bot stopped";
+"Chat.BotManager.Paused" = "bot paused";
 "Chat.BotManager.ReadOnly" = "bot reads this chat";
 "Chat.BotManager.FullAccess" = "bot manages this chat";
 
@@ -10101,7 +10103,7 @@
 
 "Business.Links.Block" = "LINKS TO CHAT";
 
-"Business.Links.Create" = "Create Link to Chat";
+"Business.Links.Create" = "Create a Link to Chat";
 
 "Business.Links.CreateInfo.Full" = "You can also use a simple link for a chat with you — %1$@ or %2$@.";
 "Business.Links.CreateInfo.Phone" = "You can also use a simple link for a chat with you — %1$@.";
@@ -10113,7 +10115,7 @@
 "Business.Links.Item.EditName" = "Edit Name";
 "Business.Links.Item.Share" = "Share";
 "Business.Links.Item.Copy" = "Copy";
-"Business.Links.Item.Delete" = "Remove";
+"Business.Links.Item.Delete" = "Delete";
 
 
 "Business.Links.Item.Clicks_countable" = "%d";
@@ -10126,7 +10128,7 @@
 "Business.Links.Item.Clicks_ZeroValueHolder" = "no clicks";
 
 
-"Business.Links.ConfirmRemove" = "Are you sure you want to remove this link?";
+"Business.Links.ConfirmRemove" = "Are you sure you want to delete this link?";
 
 
 "Business.Links.Name.Title" = "Link Name";
@@ -10141,7 +10143,7 @@
 "Monetization.AdRevenueTitle" = "AD REVENUE";
 "Monetization.OverviewTitle" = "PROCEEDS OVERVIEW";
 "Monetization.BalanceTitle" = "AVAILABLE BALANCE";
-"Monetization.BalanceInfo" = "You will be able to collect rewards using Fragment, a third-party platform used by the advertizer to pay for the ad. [Learn More >](telegram.org)";
+"Monetization.BalanceInfo" = "You will be able to collect rewards using Fragment, a third-party platform used by advertisers to pay for ads. [Learn More >](https://telegram.org/blog/monetization-for-channels)";
 "Monetization.Balance.ComingLaterInfo" = "In the coming weeks, you will be able to collect rewards using Fragment, a third-party platform used by advertisers to pay for ads. [Learn More >](telegram.org)";
 "Monetization.BalanceInfo_URL" = "https://telegram.org/blog/monetization-for-channels";
 "Monetization.BalanceWithdraw" = "Withdraw via Fragment";
@@ -10194,6 +10196,7 @@
 
 
 "Business.ChatBots.BotNotSupported" = "This bot doesn't support Telegram Business yet.";
+"Business.ChatBots.Footer" = "Enter the username or URL of the Telegram bot that you want to automatically process your chats.";
 
 
 "ChatList.Filter.PremiumUsers" = "Premium Users";
@@ -10231,6 +10234,108 @@
 
 
 "GeneralSettings.ShowProfileId.Text" = "Show Peer IDs in Profile";
+
+
+
+"SharedMedia.MediaCount_countable" = "%d";
+"SharedMedia.MediaCount_zero" = "%d medias";
+"SharedMedia.MediaCount_one" = "%d media";
+"SharedMedia.MediaCount_two" = "%d medias";
+"SharedMedia.MediaCount_few" = "%d medias";
+"SharedMedia.MediaCount_many" = "%d medias";
+"SharedMedia.MediaCount_other" = "%d medias";
+
+"SharedMedia.GifCount_countable" = "%d";
+"SharedMedia.GifCount_zero" = "%d GIFs";
+"SharedMedia.GifCount_one" = "%d GIF";
+"SharedMedia.GifCount_two" = "%d GIFs";
+"SharedMedia.GifCount_few" = "%d GIFs";
+"SharedMedia.GifCount_many" = "%d GIFs";
+"SharedMedia.GifCount_other" = "%d GIFs";
+
+"SharedMedia.FileCount_countable" = "%d";
+"SharedMedia.FileCount_zero" = "%d files";
+"SharedMedia.FileCount_one" = "%d file";
+"SharedMedia.FileCount_two" = "%d files";
+"SharedMedia.FileCount_few" = "%d files";
+"SharedMedia.FileCount_many" = "%d files";
+"SharedMedia.FileCount_other" = "%d files";
+
+"SharedMedia.MusicCount_countable" = "%d";
+"SharedMedia.MusicCount_zero" = "%d music files";
+"SharedMedia.MusicCount_one" = "%d music file";
+"SharedMedia.MusicCount_two" = "%d music files";
+"SharedMedia.MusicCount_few" = "%d music files";
+"SharedMedia.MusicCount_many" = "%d music files";
+"SharedMedia.MusicCount_other" = "%d music files";
+
+"SharedMedia.VoiceCount_countable" = "%d";
+"SharedMedia.VoiceCount_zero" = "%d voice messages";
+"SharedMedia.VoiceCount_one" = "%d voice message";
+"SharedMedia.VoiceCount_two" = "%d voice messages";
+"SharedMedia.VoiceCount_few" = "%d voice messages";
+"SharedMedia.VoiceCount_many" = "%d voice messages";
+"SharedMedia.VoiceCount_other" = "%d voice messages";
+
+"SharedMedia.LinkCount_countable" = "%d";
+"SharedMedia.LinkCount_zero" = "%d links";
+"SharedMedia.LinkCount_one" = "%d link";
+"SharedMedia.LinkCount_two" = "%d links";
+"SharedMedia.LinkCount_few" = "%d links";
+"SharedMedia.LinkCount_many" = "%d links";
+"SharedMedia.LinkCount_other" = "%d links";
+
+"SharedMedia.StoryCount_countable" = "%d";
+"SharedMedia.StoryCount_zero" = "%d posts";
+"SharedMedia.StoryCount_one" = "%d post";
+"SharedMedia.StoryCount_two" = "%d posts";
+"SharedMedia.StoryCount_few" = "%d posts";
+"SharedMedia.StoryCount_many" = "%d posts";
+"SharedMedia.StoryCount_other" = "%d posts";
+
+"SharedMedia.ArchiveStoryCount_countable" = "%d";
+"SharedMedia.ArchiveStoryCount_zero" = "%d archived posts";
+"SharedMedia.ArchiveStoryCount_one" = "%d archived post";
+"SharedMedia.ArchiveStoryCount_two" = "%d archived posts";
+"SharedMedia.ArchiveStoryCount_few" = "%d archived posts";
+"SharedMedia.ArchiveStoryCount_many" = "%d archived posts";
+"SharedMedia.ArchiveStoryCount_other" = "%d archived posts";
+
+
+"SharedMedia.SavedCount_countable" = "%d";
+"SharedMedia.SavedCount_zero" = "%d messages";
+"SharedMedia.SavedCount_one" = "%d message";
+"SharedMedia.SavedCount_two" = "%d messages";
+"SharedMedia.SavedCount_few" = "%d messages";
+"SharedMedia.SavedCount_many" = "%d messages";
+"SharedMedia.SavedCount_other" = "%d messages";
+
+
+"SharedMedia.SavedMessagesCount_countable" = "%d";
+"SharedMedia.SavedMessagesCount_zero" = "%d chats";
+"SharedMedia.SavedMessagesCount_one" = "%d chat";
+"SharedMedia.SavedMessagesCount_two" = "%d chats";
+"SharedMedia.SavedMessagesCount_few" = "%d chats";
+"SharedMedia.SavedMessagesCount_many" = "%d chats";
+"SharedMedia.SavedMessagesCount_other" = "%d chats";
+
+
+"SharedMedia.CommonGroupsCount_countable" = "%d";
+"SharedMedia.CommonGroupsCount_zero" = "%d groups in common";
+"SharedMedia.CommonGroupsCount_one" = "%d group in common";
+"SharedMedia.CommonGroupsCount_two" = "%d groups in common";
+"SharedMedia.CommonGroupsCount_few" = "%d groups in common";
+"SharedMedia.CommonGroupsCount_many" = "%d groups in common";
+"SharedMedia.CommonGroupsCount_other" = "%d groups in common";
+
+
+"SharedMedia.SimilarCount_countable" = "%d";
+"SharedMedia.SimilarCount_zero" = "%d similar channels";
+"SharedMedia.SimilarCount_one" = "%d similar channel";
+"SharedMedia.SimilarCount_two" = "%d similar channels";
+"SharedMedia.SimilarCount_few" = "%d similar channels";
+"SharedMedia.SimilarCount_many" = "%d similar channels";
+"SharedMedia.SimilarCount_other" = "%d similar channels";
 
 
 /* new from translations.telegram.org */

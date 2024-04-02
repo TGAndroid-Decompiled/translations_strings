@@ -11462,7 +11462,7 @@ Sorry for the inconvenience.";
 
 "Chat.EmptyState.QuickReply.Title" = "New Quick Reply";
 "Chat.EmptyState.QuickReply.Text1" = "• Enter a message below that will be sent in chats when you type \"**/%@**\".";
-"Chat.EmptyState.QuickReply.Text2" = "• You can access Quick Replies in any chat by typing \"/\" or using the Attachment menu.";
+"Chat.EmptyState.QuickReply.Text2" = "• You can access Quick Replies in any chat by typing \"/\" or using the attachment menu.";
 "EmptyState.GreetingMessage.Title" = "New Greeting Message";
 "EmptyState.GreetingMessage.Text" = "Create greetings that will be automatically sent to new customers";
 "EmptyState.AwayMessage.Title" = "New Away Message";
@@ -11543,7 +11543,7 @@ Sorry for the inconvenience.";
 
 "BusinessMessageSetup.Recipients.IncludedSectionHeader" = "INCLUDED CHATS";
 "BusinessMessageSetup.Recipients.ExcludedSectionHeader" = "EXCLUDED CHATS";
-"BusinessMessageSetup.Recipients.GreetingMessageFooter" = "Choose chats or entire chat categories for sending a greeting message.";
+"BusinessMessageSetup.Recipients.GreetingMessageFooter" = "Select chats or entire chat categories for sending greeting messages.";
 "BusinessMessageSetup.Recipients.AwayMessageFooter" = "Choose chats or entire chat categories for sending an away message.";
 
 "BusinessMessageSetup.InactivitySectionHeader" = "PERIOD OF NO ACTIVITY";
@@ -11664,7 +11664,7 @@ Sorry for the inconvenience.";
 "ChatList.BirthdayMultipleTitle_any" = "%@ contacts have **birthdays** today! 🎂";
 "ChatList.BirthdayMultipleText" = "Gift them Telegram Premium.";
 
-"ChatList.BirthdayInSettingsInfo" = "You can set your date of birth later in **Settings**.";
+"ChatList.BirthdayInSettingsInfo" = "You can always set your birthday in **Settings**.";
 
 "UserInfo.Birthday" = "date of birth";
 "UserInfo.BirthdayToday" = "birthday today";
@@ -11755,7 +11755,7 @@ Sorry for the inconvenience.";
 
 "AdsInfo.Launch.Title" = "Can I Launch an Ad?";
 "AdsInfo.Launch.Text" = "Anyone can create ads to display in this channel – with minimal budgets. Check out the Telegram Ad Platform for details. [Learn More >]()";
-"AdsInfo.Launch.Text_URL" = "https://promote.telegram.org";
+"AdsInfo.Launch.Text_URL" = "https://ads.telegram.org";
 
 "AdsInfo.Understood" = "Understood";
 
@@ -11816,7 +11816,7 @@ Sorry for the inconvenience.";
 "Business.Links.ItemNoText" = "No text";
 "Business.Links.ItemActionShare" = "Share";
 
-"Business.Links.ErrorTooManyLinks" = "You can't create more links";
+"Business.Links.ErrorTooManyLinks" = "Sorry, you can't create more links.";
 "Business.Links.DeleteItemConfirmationAction" = "Delete Link";
 
 "Business.Links.Text" = "Give your customers short links that start a chat with you — and suggest the first message from them to you.";
@@ -11864,12 +11864,12 @@ Sorry for the inconvenience.";
 "Chat.ToastPhoneNumberCopied" = "Phone number copied to clipboard.";
 
 "Chat.SpeedLimitAlert.Download.Title" = "Download speed limited";
-"Chat.SpeedLimitAlert.Download.Text" = "Subscribe to [Telegram Premium]() and increase download speeds %@ times.";
+"Chat.SpeedLimitAlert.Download.Text" = "Subscribe to [Telegram Premium]() to increase download speeds %@ times.";
 
 "Chat.SpeedLimitAlert.Upload.Title" = "Upload speed limited";
-"Chat.SpeedLimitAlert.Upload.Text" = "Subscribe to [Telegram Premium]() and increase upload speeds %@ times.";
+"Chat.SpeedLimitAlert.Upload.Text" = "Subscribe to [Telegram Premium]() to increase upload speeds %@ times.";
 
-"Chat.BusinessBotMessageTooltip" = "Only you can see that this\nmessage was sent by the bot.";
+"Chat.BusinessBotMessageTooltip" = "Only you can see that this\nmessage was sent by a bot.";
 
 "Chat.BusinessBotPanel.ActionStart" = "START";
 "Chat.BusinessBotPanel.ActionStop" = "STOP";

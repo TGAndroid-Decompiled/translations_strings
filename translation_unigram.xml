@@ -2116,7 +2116,7 @@
     <string name="ColorThemes">Color Themes</string>
     <string name="ShowAllThemes">Show all Themes</string>
     
-    <string name="ThemeNotSupported">Sorry, this color theme doesn’t support your device yet.</string>
+    <string name="ThemeNotSupported">Sorry, this color theme doesn\'t support your device yet.</string>
     <string name="CreateNewThemeMenu">Create New Theme</string>
     
     
@@ -8435,7 +8435,7 @@
     <string name="BusinessRecipientsRemoveExcludeMessage">Are you sure you want to remove \"{0}\" from excluding list?</string>
     <string name="BusinessRecipientsRemoveIncludeTitle">Remove recipient</string>
     <string name="BusinessRecipientsRemoveIncludeMessage">Are you sure you want to remove \"{0}\" from including list?</string>
-    <string name="BusinessGreetRecipientsInfo">Select chats or entire chat categories for sending a greeting message.</string>
+    <string name="BusinessGreetRecipientsInfo">Select chats or entire chat categories for sending greeting messages.</string>
     <string name="BusinessGreetPeriod">Period of no activity</string>
     <string name="BusinessGreetPeriodInfo">Choose how many days should pass after your last interaction with a recipient to send them a greeting in response to their message.</string>
     <string name="BusinessAway">Away Message</string>
@@ -8471,7 +8471,7 @@
     <string name="BusinessAwayEnter">Add Away Message</string>
     <string name="BusinessRepliesIntroTitle">New Quick Reply</string>
     <string name="BusinessRepliesIntro1">Enter a message below that will be sent in chat when you type \"/**{0}**\".</string>
-    <string name="BusinessRepliesIntro2">You can access Quick Replies in any chat by typing \"/\" or using Attachment menu.</string>
+    <string name="BusinessRepliesIntro2">You can access Quick Replies in any chat by typing \"/\" or using the attachment menu.</string>
     <string name="BusinessRepliesEnter">Add Quick Reply</string>
     <string name="BusinessRepliesLimit_other">Limit of **{0}** messages reached.</string>
     
@@ -8507,7 +8507,7 @@
     <string name="BusinessIntroStickerRandom">Random</string>
     <string name="BusinessIntroInfo">You can customize the message people see before they start a chat with you.</string>
     <string name="BusinessIntroReset">Reset to Default</string>
-    <string name="BusinessIntroUnsavedChanges">You have changed your intro message. Apply changes?</string>
+    <string name="BusinessIntroUnsavedChanges">You have changed your start page. Apply changes?</string>
     <string name="BusinessLink">Link to Chat</string>
     <string name="BusinessLinks">Links to Chat</string>
     <string name="BusinessLinksInfo">Give your customers short links that start a chat with you — and suggest the first message from them to you.</string>
@@ -9753,7 +9753,7 @@
   <string name="EditProfileChannel">Your channel</string>
   <string name="EditProfileChannelTitle">Personal channel</string>
   <string name="EditProfileChannelSelect">Select your channel</string>
-  <string name="EditProfileChannelHide">Hide Personal Channel</string>
+  <string name="EditProfileChannelHide">Hide Channel</string>
   <string name="EditProfileChannelAdd">Add</string>
   <string name="EditProfileChannelStartNew">Start a Channel</string>
   <string name="EditProfileChannelSet">Personal channel added.</string>
