@@ -10338,6 +10338,9 @@
 "SharedMedia.SimilarCount_other" = "%d similar channels";
 
 
+"Chat.Ad.WhatThis" = "what's this?";
+
+
 /* new from translations.telegram.org */
 
 "Admins.Creator" = "Owner";
