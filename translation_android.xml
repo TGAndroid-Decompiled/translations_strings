@@ -8219,7 +8219,7 @@ list of reactions.</string>
     <string name="ChannelWallpaperInfo">Upload your own background image for the channel.</string>
     <string name="GroupWallpaperInfo">Upload your own background image for the group.</string>
     <string name="ChannelWallpaper2Info">Set a wallpaper that will be visible for everyone reading your channel.</string>
-    <string name="GroupWallpaper2Info">Set a wallpaper that will be visible for viewing your group.</string>
+    <string name="GroupWallpaper2Info">Set a wallpaper that will be visible for everyone viewing your group.</string>
     <string name="ReadMore">Read More</string>
     <string name="RepostedToProfile">Message reposted to your profile.</string>
     <string name="RepostedToChannelProfile">Message reposted to **%s**.</string>

@@ -11362,7 +11362,7 @@ Sorry for the inconvenience.";
 "Premium.Business.Chatbots.Text" = "Add any third party chatbots that will process customer interactions.";
 
 "Business.Title" = "Telegram Business";
-"Business.Description" = "Turn your account into a **business page** with these additional features. The benefits of Telegram Business are **temporarily included** with Telegram Premium.";
+"Business.Description" = "Turn your account into a **business page** with these additional features by subscribing to **Telegram Premium**.";
 "Business.SubscribedDescription" = "You have now unlocked Telegram Business features. These features are **temporarily included** with your Premium Subscription.";
 
 "Business.Location" = "Location";
