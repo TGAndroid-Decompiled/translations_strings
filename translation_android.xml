@@ -7536,7 +7536,7 @@ list of reactions.</string>
     <string name="BoostingGiveawayShortStatusEnded">This giveaway has ended.</string>
     <string name="BoostingCongratulations">Congratulations!</string>
     <string name="BoostingReceivedGiftFrom">You\'ve received a gift\nfrom **%s**.</string>
-    <string name="BoostingReceivedGiftNoName">You\'ve received a gift.</string>
+    <string name="BoostingReceivedGiftNoName">You received a gift.</string>
     <string name="BoostingReceivedGiftDuration">Your gift is a **Telegram Premium**\nsubscription for %s.</string>
     <string name="BoostingUnclaimedPrize">Unclaimed Prize</string>
     <string name="BoostingYouHaveUnclaimedPrize">You have an unclaimed prize from a giveaway by **%s**.</string>
@@ -8219,7 +8219,7 @@ list of reactions.</string>
     <string name="ChannelWallpaperInfo">Upload your own background image for the channel.</string>
     <string name="GroupWallpaperInfo">Upload your own background image for the group.</string>
     <string name="ChannelWallpaper2Info">Set a wallpaper that will be visible for everyone reading your channel.</string>
-    <string name="GroupWallpaper2Info">Set a wallpaper that will be visible for everyone reading your group.</string>
+    <string name="GroupWallpaper2Info">Set a wallpaper that will be visible for viewing your group.</string>
     <string name="ReadMore">Read More</string>
     <string name="RepostedToProfile">Message reposted to your profile.</string>
     <string name="RepostedToChannelProfile">Message reposted to **%s**.</string>
@@ -8494,7 +8494,7 @@ list of reactions.</string>
     <string name="BusinessRepliesNewTitle">New Quick Reply</string>
     <string name="BusinessRepliesNewMessage">Add a shortcut for your reply.</string>
     <string name="BusinessRepliesEditTitle">Edit Shortcut</string>
-    <string name="BusinessRepliesEditMessage">Edit a name for a shortcut.</string>
+    <string name="BusinessRepliesEditMessage">Change the name of your shortcut.</string>
     <string name="BusinessRepliesNamePlaceholder">Shortcut</string>
     <string name="BusinessRepliesNameBusy">This shortcut already exists.</string>
     <string name="BusinessRepliesSearch">Search replies</string>

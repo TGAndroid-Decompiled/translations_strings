@@ -7531,7 +7531,7 @@
     
     <string name="BoostingCongratulations">Congratulations!</string>
     <string name="BoostingReceivedGiftFrom">You\'ve received a gift\nfrom **{0}**.</string>
-    <string name="BoostingReceivedGiftNoName">You\'ve received a gift.</string>
+    <string name="BoostingReceivedGiftNoName">You received a gift.</string>
     
     <string name="BoostingUnclaimedPrize">Unclaimed Prize</string>
     <string name="BoostingYouHaveUnclaimedPrize">You have an unclaimed prize from a giveaway by **{0}**.</string>
@@ -8214,7 +8214,7 @@
     
     
     <string name="ChannelWallpaper2Info">Set a wallpaper that will be visible for everyone reading your channel.</string>
-    <string name="GroupWallpaper2Info">Set a wallpaper that will be visible for everyone reading your group.</string>
+    <string name="GroupWallpaper2Info">Set a wallpaper that will be visible for everyone viewing your group.</string>
     
     
     

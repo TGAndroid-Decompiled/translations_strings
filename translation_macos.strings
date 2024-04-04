@@ -10238,12 +10238,12 @@
 
 
 "SharedMedia.MediaCount_countable" = "%d";
-"SharedMedia.MediaCount_zero" = "%d medias";
+"SharedMedia.MediaCount_zero" = "%d media";
 "SharedMedia.MediaCount_one" = "%d media";
-"SharedMedia.MediaCount_two" = "%d medias";
-"SharedMedia.MediaCount_few" = "%d medias";
-"SharedMedia.MediaCount_many" = "%d medias";
-"SharedMedia.MediaCount_other" = "%d medias";
+"SharedMedia.MediaCount_two" = "%d media";
+"SharedMedia.MediaCount_few" = "%d media";
+"SharedMedia.MediaCount_many" = "%d media";
+"SharedMedia.MediaCount_other" = "%d media";
 
 "SharedMedia.GifCount_countable" = "%d";
 "SharedMedia.GifCount_zero" = "%d GIFs";

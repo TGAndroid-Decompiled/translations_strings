@@ -11169,7 +11169,7 @@ Sorry for the inconvenience.";
 "Group.Appearance.StatusFooter" = "Choose a status that will be shown next to the group's name.";
 
 "Group.Appearance.Wallpaper" = "Group Wallpaper";
-"Group.Appearance.WallpaperFooter" = "Set a wallpaper that will be visible for everyone in your group.";
+"Group.Appearance.WallpaperFooter" = "Set a wallpaper that will be visible for everyone viewing your group.";
 
 "Group.Appearance.ChooseFromGallery" = "Choose From Gallery";
 
@@ -11453,7 +11453,7 @@ Sorry for the inconvenience.";
 
 "Conversation.EditingQuickReplyPanelTitle" = "Edit Quick Reply";
 
-"Chat.Placeholder.QuickReply" = "Add quick reply..";
+"Chat.Placeholder.QuickReply" = "Add quick reply…";
 "Chat.Placeholder.GreetingMessage" = "Add greeting message...";
 "Chat.Placeholder.AwayMessage" = "Add away message...";
 
@@ -11761,7 +11761,7 @@ Sorry for the inconvenience.";
 
 "Chat.ContextMenu.AboutAd" = "About This Ad";
 "Chat.ContextMenu.ReportAd" = "Report Ad";
-"Chat.ContextMenu.RemoveAd" = "Remove Ad";
+"Chat.ContextMenu.RemoveAd" = "Remove Ads";
 
 "Settings.BotListSettings" = "Bot Settings";
 "Settings.BotSettings.Biometry" = "Biometry";

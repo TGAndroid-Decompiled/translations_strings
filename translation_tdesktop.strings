@@ -689,7 +689,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_channel_no_yet" = "You don't have any public channels yet.";
 "lng_settings_channel_start" = "Start a Channel";
 "lng_settings_channel_saved" = "Your personal channel was updated.";
-"lng_settings_channel_removed" = "Your personal channel was removed.";
+"lng_settings_channel_removed" = "Personal channel removed.";
 "lng_settings_add_account_about" = "You can add up to four accounts with different phone numbers.";
 "lng_settings_peer_to_peer_about" = "Disabling peer-to-peer will relay all calls through Telegram servers to avoid revealing your IP address, but may decrease audio and video quality.";
 "lng_settings_advanced" = "Advanced";
@@ -2449,7 +2449,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_boost_channel_post_stories#other" = "post **{count} stories** per day";
 "lng_boost_channel_features" = "Your boosts will help {channel} to unlock new features.";
 "lng_boost_group_lift_restrictions" = "Boost the group to remove messaging restrictions.";
-"lng_boost_group_lift_restrictions_many#one" = "Boost the group **{count} times** to remove messaging restrictions.";
+"lng_boost_group_lift_restrictions_many#one" = "Boost the group **{count} time** to remove messaging restrictions.";
 "lng_boost_group_lift_restrictions_many#other" = "Boost the group **{count} times** to remove messaging restrictions.";
 "lng_boost_error_gifted_title" = "Can't boost with gifted Premium!";
 "lng_boost_error_gifted_text" = "Because your **Telegram Premium** subscription was gifted to you, you can't use it to boost channels.";
@@ -3318,7 +3318,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_edit_channel_wallpaper" = "Channel wallpaper";
 "lng_edit_channel_wallpaper_about" = "Set a wallpaper that will be visible for everyone reading your channel.";
 "lng_edit_channel_wallpaper_group" = "Set Group Wallpaper";
-"lng_edit_channel_wallpaper_about_group" = "Set a wallpaper that will be visible for everyone participating in your group.";
+"lng_edit_channel_wallpaper_about_group" = "Set a wallpaper that will be visible for everyone viewing your group.";
 "lng_edit_channel_status" = "Channel emoji status";
 "lng_edit_channel_status_about" = "Choose a status that will be shown next to the channel's name.";
 "lng_edit_channel_status_group" = "Set Group Emoji Status";
