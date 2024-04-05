@@ -970,7 +970,7 @@
 "RestrictSavingContentInfoChannel" = "Subscribers won't be able to copy, save or forward content from this channel.";
 "ClearOtherSessionsHelp" = "Logs out all devices except for this one.";
 "SessionsListInfo" = "The official Telegram app is available for Android, iPhone, iPad, Windows, macOS and Linux.";
-"SponsoredMessage" = "sponsored";
+"SponsoredMessage" = "ad";
 "OpenChannelPost" = "VIEW POST";
 "FilterNameHint" = "Folder name";
 "BotStart" = "START";

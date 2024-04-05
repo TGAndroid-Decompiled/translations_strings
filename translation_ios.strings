@@ -6921,7 +6921,7 @@ Sorry for the inconvenience.";
 
 "Chat.NavigationNoChannels" = "You have no unread channels";
 
-"Message.SponsoredLabel" = "sponsored";
+"Message.SponsoredLabel" = "ad";
 "Message.RecommendedLabel" = "recommended";
 
 "Stickers.Favorites" = "Favorites";
@@ -10523,7 +10523,7 @@ Sorry for the inconvenience.";
 
 "Conversation.LaunchApp" = "LAUNCH APP";
 
-"Message.AdSponsoredLabel" = "Sponsored";
+"Message.AdSponsoredLabel" = "Ad";
 "Message.AdRecommendedLabel" = "Recommended";
 "Message.AdWhatIsThis" = "what's this?";
 

@@ -785,7 +785,7 @@
 "Answer_other" = "{count} answers";
 "Vote" = "Vote";
 "MessageRecommendedLabel" = "recommended";
-"SponsoredMessage" = "sponsored";
+"SponsoredMessage" = "ad";
 "PremiumStickerTooltip" = "This set contains premium stickers like this one.";
 "ViewAction" = "View";
 "Loading" = "Loading...";

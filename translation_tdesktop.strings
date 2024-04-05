@@ -1068,6 +1068,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_faq_button" = "Go to FAQ";
 "lng_settings_ask_ok" = "Ask a Volunteer";
 "lng_settings_faq" = "Telegram FAQ";
+"lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
 "lng_settings_features" = "Telegram Features";
 "lng_settings_logout" = "Log out";
 "lng_sure_logout" = "Are you sure you want to log out?";
@@ -1991,7 +1992,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_forwarded_hidden" = "The account was hidden by the user.";
 "lng_forwarded_imported" = "This message was imported from another app. It may not be real.";
 "lng_signed_author" = "Author: {user}";
-"lng_sponsored_message_title" = "Sponsored";
+"lng_sponsored_message_title" = "Ad";
 "lng_sponsored_message_revenue_button" = "what's this?";
 "lng_recommended_message_title" = "Recommended";
 "lng_edited" = "edited";
@@ -5050,6 +5051,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channel_earn_learn_coin_title" = "What is {emoji} TON?";
 "lng_channel_earn_learn_coin_about" = "TON is a blockchain platform and cryptocurrency that Telegram uses for its high speed and low commissions on transactions. {link}";
 "lng_channel_earn_learn_close" = "Got it";
+"lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
 "lng_channel_earn_chart_top_hours" = "Ad impressions";
 "lng_channel_earn_chart_revenue" = "Ad revenue";
 "lng_channel_earn_chart_overriden_detail_currency" = "Revenue in TON";
@@ -6998,7 +7000,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_slowmode_seconds#two" = "{count} seconds";
 "lng_slowmode_seconds#few" = "{count} seconds";
 "lng_slowmode_seconds#many" = "{count} seconds";
-"lng_sponsored" = "sponsored";
+"lng_sponsored" = "ad";
 "lng_sponsored_revenued_info3_description#zero" = "You can turn off ads by subscribing to {link}, and Level {count} channels can remove them for their subscribers.";
 "lng_sponsored_revenued_info3_description#two" = "You can turn off ads by subscribing to {link}, and Level {count} channels can remove them for their subscribers.";
 "lng_sponsored_revenued_info3_description#few" = "You can turn off ads by subscribing to {link}, and Level {count} channels can remove them for their subscribers.";

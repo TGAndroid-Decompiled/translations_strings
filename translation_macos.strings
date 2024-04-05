@@ -6273,7 +6273,7 @@
 "_NS:82.title" = "View";
 "_NS:168.title" = "Window";
 
-"Chat.Message.Sponsored" = "sponsored";
+"Chat.Message.Sponsored" = "ad";
 "Chat.Message.Recommended" = "recommended";
 
 
@@ -9070,7 +9070,7 @@
 "ChannelReactions.Placeholder" = "Add Reactions...";
 
 
-"ChatMessage.Sponsored.Title" = "Sponsored";
+"ChatMessage.Sponsored.Title" = "Ad";
 "ChatMessage.Recommended.Title" = "Recommended";
 
 
@@ -9781,7 +9781,7 @@
 "Business.GreetingMessage.Title" = "Greeting Message";
 
 "Business.AwayMessage.CreateMessage" = "Create an Away Message";
-"Business.GreetingMessage.CreateMessage" = "Create an Greeting Message";
+"Business.GreetingMessage.CreateMessage" = "Create a Greeting Message";
 
 "Business.AwayMessage.Header" = "Automatically reply with a message when you are away.";
 "Business.GreetingMessage.Header" = "Greet customers when they message you the first time or after a period of no activity.";
