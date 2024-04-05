@@ -8636,6 +8636,7 @@
     <string name="PrivacyBirthdayInfo3">You can add users or entire groups as exception that will override the settings above.</string>
     <string name="PrivacyBirthdaySet">You haven’t entered your date of birth yet.\n**Add my birthday &gt;**</string>
     <string name="PrivacyBirthdaySetDone">Date of birth added.</string>
+    <string name="ProfileChannel">Channel</string>
     
     
     <string name="BirthdaySetupTitle">Add your birthday! &#127874;</string>
@@ -9774,5 +9775,32 @@
   <string name="GiftPremiumOptionDiscount">-{0}%</string>
   <string name="PricePerMonthMe">{0}/month</string>
   <string name="PricePerYear">{0}/year</string>
+
+  <string name="PrivacyInvites">Invites</string>
+  <string name="PrivacyPremium">Premium Users</string>
+  <string name="PrivacyPremiumText">all Telegram Premium subscribers</string>
+  <string name="PrivacyPremiumAnd">Premium &amp; {0}</string>
+  <string name="LastSeenContactsPremium">Contacts &amp; Premium</string>
+  <string name="LastSeenNobodyPremium">Premium users</string>
+
+  <string name="MyProfile">My Profile</string>
+
+  <string name="BusinessHoursProfile">Business hours</string>
+  <string name="BusinessHoursProfileClose">closed</string>
+  <string name="BusinessHoursProfileFullOpen">open 24/7</string>
+  <string name="BusinessHoursProfileNowClosed">Closed</string>
+  <string name="BusinessHoursProfileNowOpen">Open</string>
+  <string name="BusinessHoursProfileOpen">open 24 hours</string>
+  <string name="BusinessHoursProfileOpensInDays_one">opens tomorrow</string>
+  <string name="BusinessHoursProfileOpensInDays_other">opens in {0} days</string>
+  <string name="BusinessHoursProfileOpensInHours_one">opens in {0} hour</string>
+  <string name="BusinessHoursProfileOpensInHours_other">opens in {0} hours</string>
+  <string name="BusinessHoursProfileOpensInMinutes_one">opens in {0} minute</string>
+  <string name="BusinessHoursProfileOpensInMinutes_other">opens in {0} minutes</string>
+  <string name="BusinessHoursProfileSwitchLocal">local time</string>
+  <string name="BusinessHoursProfileSwitchMy">my time</string>
+
+  <string name="BusinessHoursNextDay">{0} (Next day)</string>
+  <string name="BusinessHoursNextDayPicker">Next day, {0}</string>
 
 </resources>
