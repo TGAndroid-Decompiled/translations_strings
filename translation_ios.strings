@@ -10775,8 +10775,8 @@ Sorry for the inconvenience.";
 "Wallpaper.ChannelRemoveBackground" = "Remove Wallpaper";
 "Wallpaper.NoWallpaper" = "No\nWallpaper";
 
-"ChatList.PremiumXmasGiftTitle" = "Give **Telegram Premium**! 🌷";
-"ChatList.PremiumXmasGiftText" = "Send gifts to your close ones, friends and colleagues.";
+"ChatList.PremiumXmasGiftTitle" = "Eid Mubarak! ✨";
+"ChatList.PremiumXmasGiftText" = "Celebrate with your family and friends by giving them Telegram Premium.";
 
 "ReassignBoost.DescriptionWithLink" = "To boost **%1$@**, reassign a previous boost or [gift Telegram Premium]() to a friend to get **%2$@** additional boosts.";
 
@@ -11352,7 +11352,7 @@ Sorry for the inconvenience.";
 "Premium.Business.Away.Title" = "Away Messages";
 "Premium.Business.Away.Text" = "Define messages that are automatically sent when you are off.";
 
-"Premium.Business.Links.Title" = "Links";
+"Premium.Business.Links.Title" = "Links to Chat";
 "Premium.Business.Links.Text" = "Create links that start a chat with you, suggesting the first message.";
 
 "Premium.Business.Intro.Title" = "Start Page";
@@ -11742,7 +11742,7 @@ Sorry for the inconvenience.";
 "ReportAd.Help" = "Learn more about [Telegram Ad Policies and Guidelines]().";
 "ReportAd.Help_URL" = "https://ads.telegram.org/guidelines";
 "ReportAd.Reported" = "We will review this ad to ensure it matches our [Ad Policies and Guidelines]().";
-"ReportAd.Hidden" = "Ads are hidden now.";
+"ReportAd.Hidden" = "You will no longer see ads from Telegram.";
 
 "AdsInfo.Title" = "About These Ads";
 "AdsInfo.Info" = "Telegram Ads are very different from ads on other platforms. Ads such as this one:";
