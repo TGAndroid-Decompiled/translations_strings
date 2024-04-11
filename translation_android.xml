@@ -2268,7 +2268,7 @@
     <string name="ChangeChatBackground">Change Chat Wallpaper</string>
     <string name="ChangeUserNameColor">Change Name Color</string>
     <string name="ChangeChannelNameColor2">Appearance</string>
-    <string name="ChangeGroupAppearance">Appearance &amp; Emoji</string>
+    <string name="ChangeGroupAppearance">Appearance</string>
     <string name="ChatBackground">Chat Wallpaper</string>
     <string name="ResetChatBackgrounds">Reset Chat Wallpapers</string>
     <string name="ResetChatBackgroundsInfo">Remove all uploaded wallpapers and restore the pre-installed ones.</string>
