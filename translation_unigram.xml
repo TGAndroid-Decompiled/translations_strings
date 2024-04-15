@@ -295,7 +295,7 @@
     
     
     
-    <string name="ViewPackPreview">View Pack</string>
+    <string name="ViewPackPreview">View Sticker Set</string>
     <string name="PinToTop">Pin to top</string>
     
     
@@ -6708,7 +6708,7 @@
     <string name="LitePowerSaver">Save Power on Low Battery</string>
     <string name="LitePowerSaverInfo">Automatically switch to low power usage when your system is in Battery Saving Mode.</string>
     <string name="DynamicPackOrder">Dynamic Pack Order</string>
-    <string name="DynamicPackOrderInfo">Automatically place recently used sticker packs above others.</string>
+    <string name="DynamicPackOrderInfo">Automatically place recently used sticker sets above others.</string>
     
     
     
@@ -8535,7 +8535,7 @@
     <string name="Clicks_many">{0} clicks</string>
     <string name="Clicks_other">{0} clicks</string>
     
-    
+    <string name="NoText">No text</string>
     
     
     
@@ -9422,7 +9422,7 @@
   
   
   <string name="StealthMode">Stealth Mode</string>
-  <string name="StickersNameInfo">Manage your sticker packs, emoji and reactions.</string>
+  <string name="StickersNameInfo">Manage your sticker sets, emoji and reactions.</string>
   
   
   
@@ -9553,7 +9553,13 @@
   
   <string name="VoipGroupStartAs">Start Video Chat as...</string>
   
-  
+  <string name="BizBotStatusManages">bot manages this chat</string>
+  <string name="BizBotStatusStopped">bot paused</string>
+  <string name="BizBotStatusAccess">bot has access to this chat</string>
+  <string name="BizBotStart">Start</string>
+  <string name="BizBotStop">Stop</string>
+  <string name="BizBotManage">Manage bot</string>
+  <string name="BizBotRemove">Remove bot\nfrom this chat</string>
   
   
   
@@ -9769,7 +9775,7 @@
   <string name="PremiumPreviewBusinessStoriesDescription">Publish photos and videos of your goods or services on your page.</string>
 
   <string name="PremiumTierAnnual">Annual</string>
-  
+  <string name="PremiumTierSemiannual">Semiannual</string>
   <string name="PremiumTierMonthly">Monthly</string>
 
   <string name="GiftPremiumOptionDiscount">-{0}%</string>
@@ -9802,5 +9808,10 @@
 
   <string name="BusinessHoursNextDay">{0} (Next day)</string>
   <string name="BusinessHoursNextDayPicker">Next day, {0}</string>
+
+  <string name="DownloadSpeedLimited">Download speed limited</string>
+  <string name="DownloadSpeedLimitedMessage">Subscribe to **Telegram Premium** to increase download speeds {0} times.</string>
+  <string name="UploadSpeedLimited">Upload speed limited</string>
+  <string name="UploadSpeedLimitedMessage">Subscribe to **Telegram Premium** to increase upload speeds {0} times.</string>
 
 </resources>

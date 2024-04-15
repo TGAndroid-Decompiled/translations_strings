@@ -1471,7 +1471,7 @@
 "Alert.PrivateChannel.AccessError" = "Unfortunately, you can't access this message. You aren't a member of the chat where it was posted.";
 
 "InstalledStickers.DynamicPackOrder" = "Dynamic Pack Order";
-"InstalledStickers.DynamicPackOrderInfo" = "Recently used sticker packs will be displayed above the older ones.";
+"InstalledStickers.DynamicPackOrderInfo" = "Recently used sticker sets will be displayed above the older ones.";
 
 
 "InAppLinks.Confirm.OpenExternalNew" = "Do you want to open \"%@\"?";
@@ -7191,7 +7191,7 @@
 
 "Premium.Boarding.Subscribe" = "Subscribe for %@ per month";
 
-"Sticker.Premium.Click.Info" = "This pack contains premium stickers like this one. [View Pack]()";
+"Sticker.Premium.Click.Info" = "This set contains premium stickers like this one. [View Set]()";
 
 
 "Chat.Context.HideAd" = "Hide Ad";

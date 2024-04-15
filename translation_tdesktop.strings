@@ -2774,7 +2774,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_stickers_share_pack" = "Share Stickers";
 "lng_stickers_share_masks" = "Share Masks";
 "lng_stickers_share_emoji" = "Share Emoji";
-"lng_stickers_not_found" = "Sticker pack not found.";
+"lng_stickers_not_found" = "Sticker set not found.";
 "lng_stickers_packs_archived" = "Some of your unused stickers were archived to make room for the sets you activated.";
 "lng_stickers_copied" = "Link copied to clipboard.";
 "lng_stickers_copied_emoji" = "Emoji pack link copied to clipboard.";
@@ -2797,7 +2797,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_stickers_nothing_found" = "No stickers found";
 "lng_stickers_remove_pack_confirm" = "Remove";
 "lng_stickers_archive_pack" = "Archive Stickers";
-"lng_stickers_has_been_archived" = "Sticker pack has been archived.";
+"lng_stickers_has_been_archived" = "Sticker set has been archived.";
 "lng_emoji_group_set" = "Group emoji set";
 "lng_emoji_remove_group_set" = "Remove group emoji set?";
 "lng_emoji_group_from_your" = "Choose from your emoji";

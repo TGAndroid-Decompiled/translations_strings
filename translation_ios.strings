@@ -271,6 +271,7 @@
 
 "PUSH_REACT_HIDDEN" = "New reaction to your message";
 "PUSH_REACT_STORY" = "%1$@|%2$@ to your story";
+"PUSH_REACT_STORY_NAME" = "%1$@|%3$@ %2$@ to your story";
 "PUSH_REACT_STORY_HIDDEN" = "New reaction to your story";
 
 
@@ -6404,12 +6405,12 @@ Sorry for the inconvenience.";
 "StickerPacks.DeleteStickerPacksConfirmation_many" = "Delete %@ Sticker Sets";
 "StickerPacks.DeleteStickerPacksConfirmation_any" = "Delete %@ Sticker Sets";
 
-"StickerPacks.ArchiveStickerPacksConfirmation_0" = "Archive %@ Packs";
-"StickerPacks.ArchiveStickerPacksConfirmation_1" = "Archive %@ Pack";
-"StickerPacks.ArchiveStickerPacksConfirmation_2" = "Archive %@ Packs";
-"StickerPacks.ArchiveStickerPacksConfirmation_3_10" = "Archive %@ Packs";
-"StickerPacks.ArchiveStickerPacksConfirmation_many" = "Archive %@ Packs";
-"StickerPacks.ArchiveStickerPacksConfirmation_any" = "Archive %@ Packs";
+"StickerPacks.ArchiveStickerPacksConfirmation_0" = "Archive %@ Sets";
+"StickerPacks.ArchiveStickerPacksConfirmation_1" = "Archive %@ Set";
+"StickerPacks.ArchiveStickerPacksConfirmation_2" = "Archive %@ Sets";
+"StickerPacks.ArchiveStickerPacksConfirmation_3_10" = "Archive %@ Sets";
+"StickerPacks.ArchiveStickerPacksConfirmation_many" = "Archive %@ Sets";
+"StickerPacks.ArchiveStickerPacksConfirmation_any" = "Archive %@ Sets";
 
 "VoiceChat.StatusWantsToSpeak" = "wants to speak";
 
@@ -8976,11 +8977,11 @@ Sorry for the inconvenience.";
 "StickerPacksSettings.MyStickers" = "MY STICKERS";
 
 "StickerPacksSettings.DynamicOrder" = "Dynamic Pack Order";
-"StickerPacksSettings.DynamicOrderInfo" = "Recently used sticker packs will be displayed above the older ones.";
+"StickerPacksSettings.DynamicOrderInfo" = "Recently used sticker sets will be displayed above the older ones.";
 "StickerPacksSettings.Emoji" = "Emoji";
 
 "StickerPacksSettings.DynamicOrderOff" = "Dynamic Order Off";
-"StickerPacksSettings.DynamicOrderOffInfo" = "Sticker packs will no longer be rearranged when you send a sticker.";
+"StickerPacksSettings.DynamicOrderOffInfo" = "Sticker sets will no longer be rearranged when you send a sticker.";
 
 "GroupPermission.NotAvailableInDiscussionGroups" = "This permission is not available in discussion groups.";
 "GroupPermission.NotAvailableInGeoGroups" = "This permission is not available in location-based groups.";
@@ -8989,8 +8990,8 @@ Sorry for the inconvenience.";
 "Conversation.ShareLinkTooltip.TwoChats.One" = "Link shared with **%@** and **%@**.";
 "Conversation.ShareLinkTooltip.ManyChats.One" = "Link shared with **%@** and %@ others.";
 
-"StickerPacks.UnarchiveStickerPacksConfirmation_1" = "Unarchive %@ Pack";
-"StickerPacks.UnarchiveStickerPacksConfirmation_any" = "Unarchive %@ Packs";
+"StickerPacks.UnarchiveStickerPacksConfirmation_1" = "Unarchive %@ Set";
+"StickerPacks.UnarchiveStickerPacksConfirmation_any" = "Unarchive %@ Sets";
 
 "PowerSaving.AlertEnabledTitle" = "Power Saving Mode Enabled";
 "PowerSaving.AlertEnabledText" = "%@% battery remaining.";
@@ -11063,7 +11064,7 @@ Sorry for the inconvenience.";
 "Premium.MessageTagsInfo" = "Organize your Saved Messages with tags for quicker access.";
 "Premium.MessageTags.Proceed" = "About Telegram Premium";
 
-"Chat.SavedMessagesTabInfoText" = "Messages you send to **Saved Messages**";
+"Chat.SavedMessagesTabInfoText" = "Messages you sent to **Saved Messages**";
 
 "VoiceOver.MessageSelectionButtonTag" = "Tag";
 
@@ -11903,7 +11904,7 @@ Sorry for the inconvenience.";
 "Business.AdsTitle" = "ADS IN CHANNELS";
 "Business.DontHideAds" = "Do Not Hide Ads";
 "Business.AdsInfo" = "As a Premium subscriber, you don't see any ads on Telegram, but you can turn them on, for example, to view your own ads that you launched on the [Telegram Ad Platform >]()";
-"Business.AdsInfo_URL" = "https://promote.telegram.org";
+"Business.AdsInfo_URL" = "https://ads.telegram.org";
 
 "ChatList.PremiumGraceTitle" = "⚠️ Don't lose access to Telegram Premium!";
 "ChatList.PremiumGraceText" = "Your exclusive benefits are about to expire.";
@@ -12007,7 +12008,7 @@ Sorry for the inconvenience.";
 "MyProfile.PhoneActionCopy" = "Copy Number";
 "MyProfile.ToastPhoneCopied" = "Birthday copied to clipboard.";
 
-"Stickers.ChooseSticker.Title" = "Choose Sticker";
+"Stickers.ChooseSticker.Title" = "Choose a Sticker";
 "Stickers.EditSticker" = "Edit Sticker";
 "Stickers.Reorder" = "Reorder";
 "Stickers.Delete" = "Delete";
@@ -12019,18 +12020,18 @@ Sorry for the inconvenience.";
 "StickerPack.Delete" = "Delete";
 "StickerPack.Delete.DeleteForEveyone" = "Delete for Everyone";
 "StickerPack.Delete.RemoveForMe" = "Remove for Me";
-"StickerPack.EditInfo" = "Check [@stickers]() bot for more options.";
+"StickerPack.EditInfo" = "Check the [@stickers]() bot for more options.";
 "StickerPack.CreateNew" = "Create a New Sticker";
 "StickerPack.AddExisting" = "Add an Existing Sticker";
 
-"StickerPack.EditName.Title" = "Edit Sticker Set Name";
+"StickerPack.EditName.Title" = "Edit Sticker Set";
 "StickerPack.EditName.Text" = "Choose a new name for your set.";
 
 "StickerPack.Delete.Title" = "Delete Sticker Set";
 "StickerPack.Delete.Text" = "This will delete the sticker set for all users.";
 "StickerPack.Delete.Delete" = "Delete";
 
-"StickerPack.StickerAdded" = "Sticker added to **%@** sticker set.";
+"StickerPack.StickerAdded" = "Sticker added to the **%@** sticker set.";
 "StickerPack.StickerUpdated" = "Sticker updated.";
 
 "MediaEditor.Undo" = "Undo";
@@ -12041,14 +12042,14 @@ Sorry for the inconvenience.";
 "MediaEditor.Cutout" = "Cut Out an Object";
 "MediaEditor.CutoutInfo" = "Tap on an object to cut it out";
 "MediaEditor.Outline" = "Add Outline";
-"MediaEditor.SetStickerEmoji" = "Set emoji that corresponds to your sticker";
+"MediaEditor.SetStickerEmoji" = "Choose emojis that match your sticker";
 
 "MediaEditor.CreateNewPack" = "New Sticker Set";
 "MediaEditor.ReplaceSticker" = "Replace Sticker";
 "MediaEditor.AddToStickerPack" = "Add to Sticker Set";
 
 "MediaEditor.NewStickerPack.Title" = "New Sticker Set";
-"MediaEditor.NewStickerPack.Text" = "Choose a name for your sticker set.";
+"MediaEditor.NewStickerPack.Text" = "Choose a name for your set.";
 
 
 
@@ -13362,10 +13363,10 @@ Sorry for the inconvenience.";
 "StickerPacks.DeleteEmojiPacksConfirmation_2" = "Delete %@ Emoji Packs";
 "StickerPacks.DeleteEmojiPacksConfirmation_3_10" = "Delete %@ Emoji Packs";
 "StickerPacks.DeleteEmojiPacksConfirmation_many" = "Delete %@ Emoji Packs";
-"StickerPacks.UnarchiveStickerPacksConfirmation_0" = "Unarchive %@ Packs";
-"StickerPacks.UnarchiveStickerPacksConfirmation_2" = "Unarchive %@ Packs";
-"StickerPacks.UnarchiveStickerPacksConfirmation_3_10" = "Unarchive %@ Packs";
-"StickerPacks.UnarchiveStickerPacksConfirmation_many" = "Unarchive %@ Packs";
+"StickerPacks.UnarchiveStickerPacksConfirmation_0" = "Unarchive %@ Sets";
+"StickerPacks.UnarchiveStickerPacksConfirmation_2" = "Unarchive %@ Sets";
+"StickerPacks.UnarchiveStickerPacksConfirmation_3_10" = "Unarchive %@ Sets";
+"StickerPacks.UnarchiveStickerPacksConfirmation_many" = "Unarchive %@ Sets";
 "StickerPacksSettings.ArchivedMasks.Info" = "You can add up to 200 sets of masks.\nUnused sets are archived when you add more.";
 "Story.Context.EmbeddedStickersValue_0" = "%d packs";
 "Story.Context.EmbeddedStickersValue_2" = "%d packs";

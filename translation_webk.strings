@@ -2109,7 +2109,7 @@
 "Schedule.SendDate" = "Send on %@ at %@";
 "Schedule.SendWhenOnline" = "Send When Online";
 "Story.Tooltip.MessageSent" = "Message Sent.";
-"Sticker.Premium.Click.Info" = "This pack contains premium stickers like this one. [View Pack]()";
+"Sticker.Premium.Click.Info" = "This set contains premium stickers like this one. [View Set]()";
 "Stickers.Recent" = "Recent";
 "StickerSet.DontExist" = "Sorry, this sticker set doesn't seem to exist.";
 "Text.Context.Copy.Username" = "Copy Username";
