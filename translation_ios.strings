@@ -11692,11 +11692,11 @@ Sorry for the inconvenience.";
 "Monetization.AdRevenueTitle" = "AD REWARDS";
 "Monetization.OverviewTitle" = "REWARDS OVERVIEW";
 "Monetization.BalanceTitle" = "AVAILABLE BALANCE";
-"Monetization.Balance.ZeroInfo" = "You will be able to collect rewards using Fragment, a third-party platform used by advertisers to pay for ads. [Learn More >]()";
-"Monetization.Balance.AvailableInfo" = "You can collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. [Learn More >]()";
+"Monetization.Balance.ZeroInfo" = "You will be able to collect rewards using Fragment, a third-party platform used by advertisers to pay for ads. [Terms & Conditions >]()";
+"Monetization.Balance.AvailableInfo" = "You can collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. [Terms & Conditions >]()";
 "Monetization.Balance.ComingLaterInfo" = "In the coming weeks, you will be able to collect rewards using Fragment, a third-party platform used by advertisers to pay for ads. [Learn More >]()";
 
-"Monetization.BalanceInfo_URL" = "https://telegram.org/blog/monetization-for-channels";
+"Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
 "Monetization.BalanceWithdraw" = "Withdraw via Fragment";
 "Monetization.TransactionsTitle" = "TRANSACTION HISTORY";
 
@@ -11720,7 +11720,7 @@ Sorry for the inconvenience.";
 "Monetization.Withdraw.EnterPassword.Done" = "Proceed";
 
 "Monetization.Withdraw.SecurityCheck" = "Security Check";
-"Monetization.Withdraw.SecurityRequirements" = "Withdrawals are available if:\n\n• 2-Step verification was enabled for your account more than **7 days** ago.\n\n• You have logged in on this device more than **24 hours** ago.";
+"Monetization.Withdraw.SecurityRequirements" = "Withdrawals are available if:\n\n• 2-Step Verification was enabled for your account more than **7 days** ago.\n\n• You have logged in on this device more than **24 hours** ago.";
 "Monetization.Withdraw.ComeBackLater" = "\n\nPlease come back later.";
 "Monetization.Withdraw.SetupTwoStepAuth" = "Enable 2-Step Verification";
 
@@ -11744,7 +11744,7 @@ Sorry for the inconvenience.";
 
 "Monetization.Intro.Info.Title" = "What's #TON?";
 "Monetization.Intro.Info.Text" = "TON is a blockchain platform and cryptocurrency that Telegram uses for its high speed and low commissions on transactions. [Learn More >]()";
-"Monetization.Intro.Info.Text_URL" = "https://ton.org";
+"Monetization.Intro.Info.Text_URL" = "https://telegram.org/blog/monetization-for-channels";
 
 "Monetization.Intro.Understood" = "Understood";
 
