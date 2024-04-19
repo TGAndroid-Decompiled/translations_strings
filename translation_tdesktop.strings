@@ -5019,12 +5019,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_boosts_prepaid_giveaway_status#other" = "{count} subscriptions {duration}";
 
 "lng_channel_earn_title" = "Monetization";
-"lng_channel_earn_about" = "Telegram shares 50% of the revenue from ads displayed in your channel. {link}";
+"lng_channel_earn_about" = "Telegram shares 50% of the revenue from ads displayed in your channel as rewards. {link}";
 "lng_channel_earn_about_link" = "Learn more {emoji}";
-"lng_channel_earn_overview_title" = "Proceeds overview";
+"lng_channel_earn_overview_title" = "Rewards overview";
 "lng_channel_earn_available" = "Balance available to withdraw";
-"lng_channel_earn_reward" = "Proceeds since last withdrawal";
-"lng_channel_earn_total" = "Total lifetime proceeds";
+"lng_channel_earn_reward" = "Rewards since last withdrawal";
+"lng_channel_earn_total" = "Total lifetime rewards";
 "lng_channel_earn_balance_title" = "Available balance";
 "lng_channel_earn_balance_button" = "Withdraw";
 "lng_channel_earn_balance_password_title" = "Two-step verification";
@@ -5034,8 +5034,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channel_earn_transfer_sure_about1" = "Check the address of the recipient:";
 "lng_channel_earn_transfer_sure_about2" = "This action can not be undone. If the address above is incorrect you will lose your TON.";
 "lng_channel_earn_history_title" = "Transaction history";
-"lng_channel_earn_history_in" = "Proceeds from ads";
-"lng_channel_earn_history_in_about" = "Proceeds from ads displayed in";
+"lng_channel_earn_history_in" = "Rewards from ads";
+"lng_channel_earn_history_in_about" = "Rewards from ads displayed in";
 "lng_channel_earn_history_out" = "Withdrawal";
 "lng_channel_earn_history_out_failed" = "Not Completed";
 "lng_channel_earn_history_out_about_failed" = "Withdrawal failed";
@@ -5054,7 +5054,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channel_earn_learn_in_subtitle" = "Telegram Ads";
 "lng_channel_earn_learn_in_about" = "Telegram can display ads in your channel.";
 "lng_channel_earn_learn_split_subtitle" = "50:50 revenue split";
-"lng_channel_earn_learn_split_about" = "You can receive 50% of the ad revenue in TON.";
+"lng_channel_earn_learn_split_about" = "You can receive 50% of the ad revenue as rewards in TON.";
 "lng_channel_earn_learn_out_subtitle" = "Flexible withdrawals";
 "lng_channel_earn_learn_out_about" = "You can withdraw your TON any time.";
 "lng_channel_earn_learn_coin_title" = "What is {emoji} TON?";
@@ -5062,9 +5062,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channel_earn_learn_close" = "Got it";
 "lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
 "lng_channel_earn_chart_top_hours" = "Ad impressions";
-"lng_channel_earn_chart_revenue" = "Ad revenue";
-"lng_channel_earn_chart_overriden_detail_currency" = "Revenue in TON";
-"lng_channel_earn_chart_overriden_detail_usd" = "Revenue in USD";
+"lng_channel_earn_chart_revenue" = "Ad rewards";
+"lng_channel_earn_chart_overriden_detail_currency" = "Rewards in TON";
+"lng_channel_earn_chart_overriden_detail_usd" = "Rewards in USD";
 
 "lng_contact_add" = "Add";
 "lng_contact_send_message" = "Message";

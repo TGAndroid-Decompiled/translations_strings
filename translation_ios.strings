@@ -11687,10 +11687,10 @@ Sorry for the inconvenience.";
 
 "Stats.Monetization" = "Monetization";
 
-"Monetization.Header" = "Telegram shares 50% of the revenue from ads displayed in your channel. [Learn More >]()";
+"Monetization.Header" = "Telegram shares 50% of the revenue from ads displayed in your channel as rewards. [Learn More >]()";
 "Monetization.ImpressionsTitle" = "AD IMPRESSIONS (BY HOURS)";
-"Monetization.AdRevenueTitle" = "AD REVENUE";
-"Monetization.OverviewTitle" = "PROCEEDS OVERVIEW";
+"Monetization.AdRevenueTitle" = "AD REWARDS";
+"Monetization.OverviewTitle" = "REWARDS OVERVIEW";
 "Monetization.BalanceTitle" = "AVAILABLE BALANCE";
 "Monetization.Balance.ZeroInfo" = "You will be able to collect rewards using Fragment, a third-party platform used by advertisers to pay for ads. [Learn More >]()";
 "Monetization.Balance.AvailableInfo" = "You can collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. [Learn More >]()";
@@ -11701,10 +11701,10 @@ Sorry for the inconvenience.";
 "Monetization.TransactionsTitle" = "TRANSACTION HISTORY";
 
 "Monetization.Overview.Available" = "Balance Available to Withdraw";
-"Monetization.Overview.Current" = "Proceeds Since Last Withdrawal";
-"Monetization.Overview.Total" = "Total Lifetime Proceeds";
+"Monetization.Overview.Current" = "Rewards Since Last Withdrawal";
+"Monetization.Overview.Total" = "Total Lifetime Rewards";
 
-"Monetization.Transaction.Proceeds" = "Proceeds from Ads";
+"Monetization.Transaction.Proceeds" = "Rewards from Ads";
 "Monetization.Transaction.Withdrawal" = "Withdrawal via %@";
 "Monetization.Transaction.Refund" = "Refund";
 "Monetization.Transaction.Pending" = "Pending";
@@ -11720,11 +11720,11 @@ Sorry for the inconvenience.";
 "Monetization.Withdraw.EnterPassword.Done" = "Proceed";
 
 "Monetization.Withdraw.SecurityCheck" = "Security Check";
-"Monetization.Withdraw.SecurityRequirements" = "Balance withdrawals are available if:\n\n• 2-Step verification was enabled for your account more than **7 days** ago.\n\n• You have logged in on this device more than **24 hours** ago.";
+"Monetization.Withdraw.SecurityRequirements" = "Withdrawals are available if:\n\n• 2-Step verification was enabled for your account more than **7 days** ago.\n\n• You have logged in on this device more than **24 hours** ago.";
 "Monetization.Withdraw.ComeBackLater" = "\n\nPlease come back later.";
 "Monetization.Withdraw.SetupTwoStepAuth" = "Enable 2-Step Verification";
 
-"Monetization.TransactionInfo.Proceeds" = "Proceeds from Ads displayed in";
+"Monetization.TransactionInfo.Proceeds" = "Rewards from Ads displayed in";
 "Monetization.TransactionInfo.Withdrawal" = "Balance Withdrawal via %@";
 "Monetization.TransactionInfo.Pending" = "Pending";
 "Monetization.TransactionInfo.Failed" = "Not Completed";
@@ -11737,7 +11737,7 @@ Sorry for the inconvenience.";
 "Monetization.Intro.Ads.Text" = "Telegram can display ads in your channel.";
 
 "Monetization.Intro.Split.Title" = "50:50 Revenue Split";
-"Monetization.Intro.Split.Text" = "You receive 50% of the ad revenue in TON.";
+"Monetization.Intro.Split.Text" = "You receive 50% of the ad revenue as rewards in TON.";
 
 "Monetization.Intro.Withdrawal.Title" = "Flexible Withdrawals";
 "Monetization.Intro.Withdrawal.Text" = "You can withdraw your TON any time.";
