@@ -10350,7 +10350,7 @@ Sorry for the inconvenience.";
 "Chat.Giveaway.Info.EndedIntro" = "The giveaway was sponsored by the admins of **%1$@**, who acquired %2$@ for %3$@ for its followers.";
 "Chat.Giveaway.Info.EndedNewMany" = "On **%1$@**, Telegram automatically selected %2$@ that joined **%3$@** and other listed channels after **%4$@**.";
 "Chat.Giveaway.Info.EndedNew" = "On **%1$@**, Telegram automatically selected %2$@ that joined **%3$@** after **%4$@**.";
-"Chat.Giveaway.Info.EndedMany" = "On **%1$@**, Telegram automatically selected %2$@ of **%3$@** and other listed channels.";
+"Chat.Giveaway.Info.EndedMany" = "On **%1$@**, Telegram automatically selected %2$@ of **%3$@** and other listed communities.";
 "Chat.Giveaway.Info.Ended" = "On **%1$@**, Telegram automatically selected %2$@ of **%3$@**.";
 "Chat.Giveaway.Info.NotAllowedJoinedEarly" = "You are not eligible to participate in this giveaway because you joined this channel on **%@**, which is before the contest started.";
 "Chat.Giveaway.Info.NotAllowedAdmin" = "You are not eligible for this giveaway because you are an admin of a participating channel (**%@**).";
