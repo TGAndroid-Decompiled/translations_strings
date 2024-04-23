@@ -90,7 +90,7 @@
   <string name="format_minus">-%1$d</string>
   <string name="format_minusPlus">-%1$d, +%2$d</string>
   <string name="format_birthdateAndAge">%1$s (%2$s)</string>
-  
+  <string name="format_birthdateAndTurns">%1$s (%2$s)</string>
   <string name="format_exceptionPlusPremium">%1$s, +premium</string>
   <string name="format_plusPremium">+premium</string>
   <string name="format_ping">ping: %1$sms</string>
@@ -5334,6 +5334,8 @@
   <string name="ActivatingLink">Activating public link, please wait…</string>
   <string name="DeactivatingUsername">Deactivating username, please wait…</string>
   <string name="DeactivatingLink">Deactivating public link, please wait…</string>
+
+  <string name="DraftPreFillWarning">Your previous draft message in this chat is about to be replaced.</string>
 
   <string name="AllowPremiumInvite">**Telegram Premium** subscribers</string>
   <string name="AllowPremiumInviteDesc">Always allow users with **Telegram Premium** subscription to add you to groups and channels.</string>
