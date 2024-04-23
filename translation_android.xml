@@ -679,12 +679,12 @@
     <string name="UserRemovedBy">Removed by %1$s</string>
     <string name="UserRestrictions">User Permissions</string>
     <string name="UserRestrictionsCanDo">What can this user do?</string>
-    
-    
-    
-    
-    
-    
+    <string name="UserRestrictionsCanDoUsers_zero">What can %1$s selected users do?</string>
+    <string name="UserRestrictionsCanDoUsers_one">What can %1$s selected user do?</string>
+    <string name="UserRestrictionsCanDoUsers_two">What can %1$s selected users do?</string>
+    <string name="UserRestrictionsCanDoUsers_few">What can %1$s selected users do?</string>
+    <string name="UserRestrictionsCanDoUsers_many">What can %1$s selected users do?</string>
+    <string name="UserRestrictionsCanDoUsers_other">What can %1$s selected users do?</string>
     <string name="UserRestrictionsRead">Read Messages</string>
     <string name="UserRestrictionsSend">Send Messages</string>
     <string name="UserRestrictionsSendPollsShort">Send Polls</string>
@@ -888,8 +888,8 @@
     <string name="EventLogAllEvents">All actions</string>
     <string name="EventLogSelectedEvents">selected actions</string>
     <string name="EventLogAllAdmins">All admins</string>
-    
-    
+    <string name="EventLogEmpty2">**No actions here yet**\n\nThe group\'s members and admins have not taken any service actions in the last **48** hours.</string>
+    <string name="EventLogEmptyChannel2">**No actions here yet**\n\nThe channel\'s admins have not taken any service actions in the last **48** hours.</string>
     <string name="EventLogEmptySearch">**No actions found**\n\nNo recent actions that match your query\nwere found.</string>
     <string name="EventLogEmptyTextSearch">No recent actions that contain \'**%1$s**\' were found.</string>
     <string name="EventLogInfoTitle">What are Recent Actions?</string>
@@ -922,10 +922,12 @@
     <string name="EventLogStopPoll">un1 stopped this poll:</string>
     <string name="EventLogStopQuiz">un1 stopped the quiz:</string>
     <string name="EventLogDeletedMessages">un1 deleted this message:</string>
-    
-    
-    
-    
+    <string name="EventLogDeletedMultipleMessagesToExpand_one">un1 deleted message from %2$s</string>
+    <string name="EventLogDeletedMultipleMessagesToExpand_other">un1 deleted %1$d messages from %2$s</string>
+    <string name="EventLogDeletedMultipleMessages_one">un1 deleted message from %2$s:</string>
+    <string name="EventLogDeletedMultipleMessages_other">un1 deleted %1$d messages from %2$s:</string>
+    <string name="EventLogDeletedMultipleMessagesHide">Hide all</string>
+    <string name="EventLogDeletedMultipleMessagesShow">Show all</string>
     <string name="EventLogChangedLocation">un1 changed the group location to \"%1$s\"</string>
     <string name="EventLogRemovedLocation">un1 removed the group location</string>
     <string name="EventLogChangedOwnership">transferred ownership to %1$s</string>
@@ -987,22 +989,25 @@
     <string name="EventLogFilterNewRestrictions">New exceptions</string>
     <string name="EventLogFilterNewAdmins">Admin rights</string>
     <string name="EventLogFilterNewMembers">New members</string>
+    <string name="EventLogFilterNewSubscribers">New subscribers</string>
     <string name="EventLogFilterGroupInfo">Group info</string>
     <string name="EventLogFilterChannelInfo">Channel info</string>
     <string name="EventLogFilterDeletedMessages">Deleted messages</string>
     <string name="EventLogFilterEditedMessages">Edited messages</string>
     <string name="EventLogFilterPinnedMessages">Pinned messages</string>
     <string name="EventLogFilterLeavingMembers">Members leaving</string>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <string name="EventLogFilterLeavingMembers2">Members left the Group</string>
+    <string name="EventLogFilterLeavingSubscribers2">Subscribers left the Channel</string>
+    <string name="EventLogFilterSectionMembers">Members And Admins</string>
+    <string name="EventLogFilterSectionSubscribers">Subscribers And Admins</string>
+    <string name="EventLogFilterApply">Apply Filter</string>
+    <string name="EventLogFilterSectionAdmin">New Admin Rights</string>
+    <string name="EventLogFilterSectionMessages">Messages</string>
+    <string name="EventLogFilterSectionGroupSettings">Group Settings</string>
+    <string name="EventLogFilterSectionChannelSettings">Channel Settings</string>
+    <string name="EventLogFilterByActions">Filter actions by type</string>
+    <string name="EventLogFilterByAdmins">Filter actions by admins</string>
+    <string name="EventLogFilterByAdminsAll">Show Actions by All Admins</string>
     <string name="EventLogFilterCalls">Video Chats</string>
     <string name="EventLogFilterInvites">Invite links</string>
     <string name="EventLogToggledSlowmodeOn">un1 set the slow mode timer to %1$s</string>
@@ -1279,10 +1284,10 @@
     <string name="PinMessageAlertChannel">Do you want to pin this message in this channel?</string>
     <string name="PinMessageAlertChat">Do you want to pin this message to the top of the chat?</string>
     <string name="UnpinMessageAlert">Are you sure you want to unpin this message for everyone?</string>
-    
-    
-    
-    
+    <string name="DeleteBan">Ban %1$s</string>
+    <string name="DeleteBanUsers">Ban users</string>
+    <string name="DeleteRestrict">Restrict %1$s</string>
+    <string name="DeleteRestrictUsers">Restrict users</string>
     <string name="DeleteReportSpam">Report spam</string>
     <string name="TranslateMessage">Translate</string>
     <string name="HideTranslation">Hide Translation</string>
@@ -1291,38 +1296,38 @@
     <string name="TranslationFailedAlert1">Translation failed. Try again later.</string>
     <string name="TranslationFailedAlert2">Translation failed.</string>
     <string name="DeleteAllFrom">Delete all from %1$s</string>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <string name="DeleteAllFromUsers">Delete all from users</string>
+    <string name="DeleteOptionsTitle_zero">Delete %1$d Messages?</string>
+    <string name="DeleteOptionsTitle_one">Delete %1$d Message?</string>
+    <string name="DeleteOptionsTitle_two">Delete %1$d Messages?</string>
+    <string name="DeleteOptionsTitle_few">Delete %1$d Messages?</string>
+    <string name="DeleteOptionsTitle_many">Delete %1$d Messages?</string>
+    <string name="DeleteOptionsTitle_other">Delete %1$d Messages?</string>
+    <string name="DeleteAdditionalActions">Additional actions</string>
+    <string name="DeleteToggleBanUsers">Fully ban users</string>
+    <string name="DeleteToggleBanUser">Fully ban this user</string>
+    <string name="DeleteToggleRestrictUsers">Partially restrict users</string>
+    <string name="DeleteToggleRestrictUser">Partially restrict this user</string>
+    <string name="DeleteProceedBtn">Proceed</string>
+    <string name="MessagesDeleted">Messages Deleted</string>
+    <string name="UsersReported_zero">%1$d users reported for spam.</string>
+    <string name="UsersReported_one">%1$d user reported for spam.</string>
+    <string name="UsersReported_two">%1$d users reported for spam.</string>
+    <string name="UsersReported_few">%1$d users reported for spam.</string>
+    <string name="UsersReported_many">%1$d users reported for spam.</string>
+    <string name="UsersReported_other">%1$d users reported for spam.</string>
+    <string name="UsersBanned_zero">%1$d users banned.</string>
+    <string name="UsersBanned_one">%1$d user banned.</string>
+    <string name="UsersBanned_two">%1$d users banned.</string>
+    <string name="UsersBanned_few">%1$d users banned.</string>
+    <string name="UsersBanned_many">%1$d users banned.</string>
+    <string name="UsersBanned_other">%1$d users banned.</string>
+    <string name="UsersRestricted_zero">%1$d users restricted.</string>
+    <string name="UsersRestricted_one">%1$d user restricted.</string>
+    <string name="UsersRestricted_two">%1$d users restricted.</string>
+    <string name="UsersRestricted_few">%1$d users restricted.</string>
+    <string name="UsersRestricted_many">%1$d users restricted.</string>
+    <string name="UsersRestricted_other">%1$d users restricted.</string>
     <string name="ClearRecentEmojiTitle">Clear recent emoji</string>
     <string name="ClearRecentEmojiText">Do you want to clear all your recent emoji?</string>
     <string name="ClearRecentEmojiStatusesTitle">Clear recent statuses</string>
@@ -3184,8 +3189,8 @@
     <string name="SendLiveLocation">Share My Live Location for...</string>
     <string name="SendLiveLocationMenu">Share my Live Location</string>
     <string name="StopLiveLocation">Stop Sharing Location</string>
-    
-    
+    <string name="SharingLiveLocation">Sharing Location...</string>
+    <string name="SharingLiveLocationAdd">tap to add more time</string>
     <string name="StopLiveLocationAlertToTitle">Stop location sharing</string>
     <string name="StopLiveLocationAlertToUserText">Do you want to stop sharing your live location with **%1$s**?</string>
     <string name="StopLiveLocationAlertToGroupText">Do you want to stop sharing your live location with **%1$s**?</string>
@@ -3206,7 +3211,7 @@
     <string name="SendLiveLocationFor15m">for 15 minutes</string>
     <string name="SendLiveLocationFor1h">for 1 hour</string>
     <string name="SendLiveLocationFor8h">for 8 hours</string>
-    
+    <string name="SendLiveLocationForever">until I turn it off</string>
     <string name="LocationUpdated">updated</string>
     <string name="LocationUpdatedFormatted">updated %1$s</string>
     <string name="LocationUpdatedJustNow">updated just now</string>
@@ -3216,8 +3221,8 @@
     <string name="AttachLiveLocationIsSharingChats">%1$s sharing with %2$s</string>
     <string name="StopAllLocationSharings">STOP ALL</string>
     <string name="SharingLiveLocationTitle">You are sharing your Live Location with %1$s</string>
-    
-    
+    <string name="LiveLocationAlertExpandTitle">Add More Time</string>
+    <string name="LiveLocationAlertExpandMessage">For how long do you want to extend sharing your location?</string>
     <string name="LiveLocationAlertPrivate">Choose for how long %1$s will see your accurate location, including when the app is closed.</string>
     <string name="LiveLocationAlertGroup">Choose for how long people in this chat will see your accurate location, including when the app is closed.</string>
     <string name="GpsDisabledAlertTitle">Enable GPS</string>
@@ -3801,8 +3806,8 @@
     <string name="Call">Call</string>
     <string name="VideoCall">Video Call</string>
     <string name="Copy">Copy</string>
-    
-    
+    <string name="Restrict">Restrict</string>
+    <string name="Ban">Ban</string>
     <string name="Rename">Rename</string>
     <string name="Delete">Delete</string>
     <string name="Start">Start</string>
@@ -5689,6 +5694,9 @@
     <string name="ReleaseToGoNextArchive">Release to go to archived channels</string>
     <string name="SwipeToGoNextRecommendedChannel">Pull up to go to next channel</string>
     <string name="ReleaseToGoNextRecommendedChannel">Release to go to next channel</string>
+    <string name="SwipeToGoNextUnreadTopic">Pull up to go to the next unread topic</string>
+    <string name="ReleaseToGoNextUnreadTopic">Release to go to the next unread topic</string>
+    <string name="SwipeToGoNextTopicEnd">No more unread topics in %1$s</string>
 
     <string name="SwipeToGoNextChannelEnd">You have no unread channels</string>
     <string name="FavoriteStickersShort">Favorites</string>
@@ -7498,6 +7506,7 @@
     <string name="StealthModeButton">Hide My View</string>
     <string name="StealthModeTitle">Stealth Mode</string>
     <string name="StealthModePremiumHint">Subscribe to Telegram Premium to watch stories without appearing in the list of viewers.</string>
+    <string name="ViewAnonymously">View\nAnonymously</string>
     <string name="HideRecentViews">Hide Recent Views</string>
     <string name="HideRecentViewsDescription">Hide my views from the past 5 minutes.</string>
     <string name="HideNextViews">Hide Upcoming Views</string>
@@ -7505,6 +7514,7 @@
     <string name="UnlockStealthMode">Unlock Stealth Mode</string>
     <string name="StealthModeHint">Turn Stealth Mode on to watch stories without appearing in the list of viewers.</string>
     <string name="EnableStealthMode">Enable Stealth Mode</string>
+    <string name="EnableStealthModeAndOpenStory">Enable and open the story</string>
     <string name="AvailableIn">Available in %s</string>
     <string name="StealthModeOn">Stealth Mode On</string>
     <string name="StealthModeOnHint">The creators of stories you viewed in the past 5 minutes or will view in the next 25 minutes won\'t see you in the list of viewers.</string>
@@ -8286,8 +8296,8 @@ list of reactions.</string>
     <string name="GroupEmojiPack">Group Emoji Pack</string>
     <string name="GroupEmoji">Group Emoji</string>
     <string name="GroupEmojiPackInfo">Choose an emoji pack that will be available to all members within the group.</string>
-    
-    
+    <string name="GroupStickerPack">Group Sticker Pack</string>
+    <string name="GroupStickerPackInfo">You can choose a sticker set that will be shown to all group members.</string>
     <string name="ChannelEmojiStatus">Channel Emoji Status</string>
     <string name="GroupEmojiStatus">Group Emoji Status</string>
     <string name="ChannelEmojiStatusInfo">Choose a status that will be shown next to the channel\'s name.</string>
@@ -8655,7 +8665,7 @@ list of reactions.</string>
     <string name="MonetizationInfo">Telegram shares %1$d%% of the revenue from ads displayed in your channel as rewards. **Learn more &gt;**</string>
     <string name="MonetizationBalance">Available balance</string>
     <string name="MonetizationBalanceInfo">You can collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. **Learn more &gt;**</string>
-    
+    <string name="MonetizationBalanceInfoLink">https://telegram.org/tos/content-creator-rewards</string>
     <string name="MonetizationBalanceInfoNotAvailable">In the coming weeks you will be able to collect your reward using Fragment, a third-party platform used by advertisers to pay ads. **Learn more &gt;**</string>
     <string name="MonetizationTransactions">Transaction history</string>
     <string name="MonetizationMoreTransactions_one">Show %d more transaction</string>
@@ -8732,6 +8742,7 @@ list of reactions.</string>
     <string name="PrivacyBirthdaySetDone">Date of birth added.</string>
     <string name="PrivacyBirthdayTooOftenTitle">Oops</string>
     <string name="PrivacyBirthdayTooOftenMessage">Sorry, you can’t change your birthday so often.</string>
+    <string name="GiftsBirthdaySetup">Add Your Birthday</string>
     <string name="BirthdaySetupTitle">Add your birthday! &#127874;</string>
     <string name="BirthdaySetupMessage">Let your contacts know when you’re celebrating</string>
     <string name="BirthdaySetupLater">You can always set your birthday in profile settings.</string>
@@ -8829,37 +8840,40 @@ list of reactions.</string>
     <string name="NotifyAboutReactionsFromContacts">My Contacts</string>
     <string name="NotifyAboutReactionsFromEveryone">Everyone</string>
     <string name="StickerCreateEmpty">Create</string>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <string name="NoChannelsTitle">No channels yet…</string>
+    <string name="NoChannelsMessage">You are not subscribed to any channel.</string>
+    <string name="SetIntroSticker">Set Intro Sticker</string>
+    <string name="SMSWordTitle">Enter word from SMS</string>
+    <string name="SMSWordBeginningText">We’ve sent an SMS with a secret word that starts with “**%2$s**” to your phone **%1$s**.</string>
+    <string name="SMSWordText">We’ve sent an SMS with a secret word to your phone **%1$s**.</string>
+    <string name="SMSWord">Secret word</string>
+    <string name="SMSWordHint">Enter Word from SMS</string>
+    <string name="SMSWordPasteHint">You can copy and paste the word here.</string>
+    <string name="SMSWordError">Incorrect, please try again</string>
+    <string name="SMSWordBeginningError">Incorrect word</string>
+    <string name="SMSPhraseTitle">Enter phrase from SMS</string>
+    <string name="SMSPhraseText">We’ve sent an SMS with a secret phrase to your phone **%1$s**.</string>
+    <string name="SMSPhraseBeginningText">We’ve sent an SMS with a secret phrase that starts with “**%2$s**” to your phone **%1$s**.</string>
+    <string name="SMSPhrase">Secret phrase</string>
+    <string name="SMSPhrasePasteHint">You can copy and paste the phrase here.</string>
+    <string name="SMSPhraseHint">Enter Phrase from SMS</string>
+    <string name="SMSPhraseError">Incorrect, please try again</string>
+    <string name="SMSPhraseBeginningError">Incorrect word</string>
+    <string name="RequestAnotherSMS">Request another SMS</string>
+    <string name="BackEnteringWord">&lt; Back to entering the word</string>
+    <string name="BackEnteringPhrase">&lt; Back to entering the phrase</string>
+    <string name="BackEnteringCode">&lt; Back to entering the code</string>
+    <string name="ReturnEnteringSMS">Return to entering the code &gt;</string>
+    <string name="ReturnEnteringWord">Return to entering the word &gt;</string>
+    <string name="ReturnEnteringPhrase">Return to entering the word &gt;</string>
+    <string name="SmsAvailableIn2">You can request another\nSMS in %1$d:%2$02d</string>
+    <string name="CallAvailableIn2">Telegram can call you in %1$d:%2$02d</string>
+    <string name="ForwardedFrom">Forwarded from</string>
+    <string name="RestrictedParticipantSending">Restricted **%s** from sending any messages</string>
+    <string name="EventLogExpandMore_one">Show %d More Message</string>
+    <string name="EventLogExpandMore_other">Show %d More Messages</string>
+    <string name="NoLogFound">**No results found**</string>
+    <string name="NoLogFoundFiltered">**No results matching your filters**</string>
 
   <!-- new from translations.telegram.org -->
 
@@ -9309,8 +9323,20 @@ list of reactions.</string>
   <string name="EmojiBigSize">Draw single big emoji</string>
   <string name="EnableProxyAlert">Are you sure you want to enable this proxy?</string>
   <string name="EnableProxyAlert2">You can change your proxy server later in Settings &gt; Data and Storage.</string>
+  <string name="EventLogDeletedMultipleMessages_zero">un1 deleted %1$d messages from %2$s:</string>
+  <string name="EventLogDeletedMultipleMessages_two">un1 deleted %1$d messages from %2$s:</string>
+  <string name="EventLogDeletedMultipleMessages_few">un1 deleted %1$d messages from %2$s:</string>
+  <string name="EventLogDeletedMultipleMessages_many">un1 deleted %1$d messages from %2$s:</string>
+  <string name="EventLogDeletedMultipleMessagesToExpand_zero">un1 deleted %1$d messages from %2$s</string>
+  <string name="EventLogDeletedMultipleMessagesToExpand_two">un1 deleted %1$d messages from %2$s</string>
+  <string name="EventLogDeletedMultipleMessagesToExpand_few">un1 deleted %1$d messages from %2$s</string>
+  <string name="EventLogDeletedMultipleMessagesToExpand_many">un1 deleted %1$d messages from %2$s</string>
   <string name="EventLogEmpty">**No recent actions**\n\nNo notable actions taken by the members and admins of this group in the last 48 hours.</string>
   <string name="EventLogEmptyChannel">**No recent actions**\n\nNo notable actions taken\nby the admins of this channel\nin the last 48 hours.</string>
+  <string name="EventLogExpandMore_zero">Show %d More Messages</string>
+  <string name="EventLogExpandMore_two">Show %d More Messages</string>
+  <string name="EventLogExpandMore_few">Show %d More Messages</string>
+  <string name="EventLogExpandMore_many">Show %d More Messages</string>
   <string name="ExceptionShort_zero">%d exceptions</string>
   <string name="FilterInviteChats_zero">Includes %d chats</string>
   <string name="FilterInviteHeader_zero">Anyone with this link can add **%2$s** folder and the **%1$d** chats selected below.</string>

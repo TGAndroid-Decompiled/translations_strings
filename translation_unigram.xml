@@ -9864,4 +9864,20 @@
   <string name="VoipPlatformUnsupportedTitle">Feature not supported</string>
   <string name="VoipStreamWith">Stream with...</string>
   <string name="YourNameColor">Your Name Color</string>
+
+  <string name="ChannelNeedBoostsForSwitchOffAdsDescription">Your channel needs to reach **Level {0}** to switch off ads.\n\nAsk your **Premium** subscribers to boost your channel with this link:</string>
+  <string name="BoostChannel">Boost Channel</string>
+  <string name="BoostGroup">Boost Group</string>
+  <string name="BoostFeatureSwitchOffAds">Switch Off Ads</string>
+  <string name="MonetizationBalanceInfoNotAvailable">In the coming weeks you will be able to collect your reward using Fragment, a third-party platform used by advertisers to pay ads. **Learn more &gt;**</string>
+
+  <string name="BusinessBotUnsavedChanges">You have changed the business bot settings. Apply changes?</string>
+
+  <string name="BusinessBotNotSupportedTitle">Oops</string>
+  <string name="BusinessBotNotSupportedMessage">This bot doesn’t support **Telegram Business** yet.</string>
+
+  <string name="ForwardedFrom">Forwarded from</string>
+
+  <string name="DefaultInterfaceScale">Default interface scale</string>
+  <string name="InterfaceScale">Interface scale</string>
 </resources>
