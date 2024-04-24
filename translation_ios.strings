@@ -11919,7 +11919,7 @@ Sorry for the inconvenience.";
 
 "ChatList.ChannelsSection" = "Channels";
 "ChatList.Search.FilterChannels" = "Channels";
-"ChatList.Search.SectionRecommendedChannels" = "RECOMMENDED CHANNELS";
+"ChatList.Search.SectionRecommendedChannels" = "SIMILAR CHANNELS";
 "ChatList.Search.SectionLocalChannels" = "CHANNELS YOU JOINED";
 "ChatList.Search.SectionActionShowLess" = "Show Less";
 "ChatList.Search.SectionActionShowMore" = "Show More";

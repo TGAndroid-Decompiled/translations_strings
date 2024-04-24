@@ -737,7 +737,7 @@
 "Search.Separator.Messages" = "messages";
 "Search.Separator.Recent" = "Recent";
 "Search.Separator.Popular" = "People";
-"Search.Separator.Recommended" = "RECOMMENDED CHANNELS";
+"Search.Separator.Recommended" = "SIMILAR CHANNELS";
 "Search.Separator.ChannelsJoined" = "CHANNELS YOU JOINED";
 
 "Search.Separator.Topics" = "Topics";
@@ -2141,7 +2141,7 @@
 
 
 "Channel.EventLog.Service.EnabledTopics" = "%@ enabled topics";
-"Channel.EventLog.Service.DisabledTopics" = "%@ enabled topics";
+"Channel.EventLog.Service.DisabledTopics" = "%@ disabled topics";
 
 "Channel.EventLog.Service.MessageGroupPreHistoryVisible" = "%@ made the group history visible for new members";
 "Channel.EventLog.Service.MessageGroupPreHistoryHidden" = "%@ made the group history hidden from new members";
