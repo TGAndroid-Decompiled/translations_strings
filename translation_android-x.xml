@@ -971,6 +971,7 @@
   <string name="SessionsIncompleteTitle">Incomplete Login Attempts</string>
   <string name="SessionsIncompleteInfo">The devices above have no access to your messages. The code was entered correctly, but no correct password was given.</string>
   <string name="TwoStepVerification">Two-Step Verification</string>
+  
   <string name="PasswordEnabled">Enabled</string>
   <string name="PasswordDisabled">Disabled</string>
   <string name="ThisDevice">This Device</string>
@@ -4774,7 +4775,7 @@
 
   <string name="RequestToJoinGroupInfo">This group accepts new members only after they are being accepted by admins.</string>
   <string name="RequestToJoinChannelInfo">This channel accepts new subscribers only after they are approved by its admins.</string>
-  <string name="ProxyLinkUnsupported">Proxy is unsupported or link is invalid.</string>
+  <string name="ProxyLinkUnsupported">Proxy link is invalid.</string>
 
   <string name="ScamMark">SCAM</string>
   <string name="FakeMark">FAKE</string>
