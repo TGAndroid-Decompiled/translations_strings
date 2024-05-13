@@ -991,6 +991,7 @@
   <string name="AreYouSureSessions">Are you sure you want to terminate all other sessions?</string>
   <string name="Everybody">Everybody</string>
   <string name="MyContacts">My Contacts</string>
+  <string name="MyContactsAndPremium">My Contacts and **Premium** users</string>
   <string name="Nobody">Nobody</string>
   <string name="WhoCanAddYouToGroupsAndChannels">Who can add you to groups and channels?</string>
   <string name="WhoCanAddMeInfo">You can restrict who can add you to groups and channels with granular precision.</string>
@@ -3330,6 +3331,7 @@
   <string name="error_CHANNELS_ADMIN_LOCATED_TOO_MUCH">Sorry, you have too many location-based groups already. Please delete one of your existing ones first.</string>
   <string name="error_PREMIUM_ACCOUNT_REQUIRED">This feature requires Telegram Premium subscription.</string>
   <string name="error_INVITE_REQUEST_SENT">Request to join this chat has been sent.</string>
+  <string name="error_INVITE_SLUG_EXPIRED">The link is expired or was revoked by creator.</string>
   <string name="errorPrivacyAddMember">Sorry, the user restricted who can add them to chats in their privacy settings.</string>
   <string name="UserPrivacyRestricted">Sorry, the user restricted this action in their privacy settings.</string>
   <string name="NobodyLikesSpam2">Sorry, you can interact only with mutual contacts at the moment.</string> <!--PEER_FLOOD-->
@@ -3729,8 +3731,9 @@
   <string name="VoiceVideoPrivacyDesc">You can restrict who can send you voice or video messages with granular precision.</string>
   <string name="PrivacyMessage">Messages</string>
   <string name="PrivacyMessageEverybody">Everybody can message you</string>
-  <string name="PrivacyMessageContactsPremium">Only contacts and **Premium** users can message you</string>
+  <string name="PrivacyMessageContactsPremium">Only contacts and **Premium** users</string>
   <string name="PrivacyMessageTitle">Messages</string>
+  <string name="PrivacyMessagePreview">New Chats</string>
   <string name="WhoCanSendMessages">Who can send me messages?</string>
   <string name="NewChatsPrivacyDesc">You can restrict messages from users who are not in your contacts and don\'t have **Telegram&#160;Premium**.</string>
 
@@ -4751,6 +4754,7 @@
   <string name="SessionLastLogin">Last Activity</string>
   <string name="SessionAccept">Accept</string>
   <string name="SessionReject">Reject</string>
+  <string name="SessionAcceptsCalls">Calls</string>
 
   <string name="SessionAccepts">What can be received on this device?</string>
   <string name="SessionSecretChats">Secret Chats</string>
@@ -5139,6 +5143,7 @@
 
   <string name="ExperimentalSettings">Experimental settings</string>
   <string name="ExperimentalSettingsWarning">**Warning:** those are experimental settings. Some may not work. Others may break the app. Any of them might disappear without a trace.\n\nUse at your own risk.</string>
+  <string name="ExperimentalSettingsUnavailable">No experiments available. Come back later.</string>
   <string name="Experiment_PeerIds">Show Peer IDs in Profiles</string>
   <string name="Experiment_PeerIdsInfo">Show API identifiers of users and chats in their profiles</string>
   <string name="Experiment_ChatFolders">Enable Chat Folders</string>
