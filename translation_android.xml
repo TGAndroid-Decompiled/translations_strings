@@ -1451,7 +1451,7 @@
     <string name="GlobalAttachEmojiRestricted">Text messages aren\'t allowed in this group.</string>
     <string name="GlobalSendMessageRestricted">Sending messages is not allowed in this group.</string>
     <string name="AttachMediaPreview">Message preview</string>
-    <string name="AttachMediaPreviewButton">Show message preview</string>
+    <string name="AttachMediaPreviewButton">Show preview</string>
     <string name="AttachMediaPhotoDeselected">Photo unselected.</string>
     <string name="AttachMediaVideoDeselected">Video unselected.</string>
     <string name="AttachMediaDragHint">Drag media to reorder</string>
