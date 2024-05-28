@@ -11701,11 +11701,11 @@ Sorry for the inconvenience.";
 "Monetization.TransactionsTitle" = "TRANSACTION HISTORY";
 
 "Monetization.Overview.Available" = "Rewards Available for Collection";
-"Monetization.Overview.Current" = "Rewards Since Last Withdrawal";
+"Monetization.Overview.Current" = "Rewards Since Last Collection";
 "Monetization.Overview.Total" = "Total Lifetime Rewards";
 
 "Monetization.Transaction.Proceeds" = "Rewards from Ads";
-"Monetization.Transaction.Withdrawal" = "Withdrawal via %@";
+"Monetization.Transaction.Withdrawal" = "Collection via %@";
 "Monetization.Transaction.Refund" = "Refund";
 "Monetization.Transaction.Pending" = "Pending";
 "Monetization.Transaction.Failed" = "Not Completed";
@@ -11720,7 +11720,7 @@ Sorry for the inconvenience.";
 "Monetization.Withdraw.EnterPassword.Done" = "Proceed";
 
 "Monetization.Withdraw.SecurityCheck" = "Security Check";
-"Monetization.Withdraw.SecurityRequirements" = "Withdrawals are available if:\n\n• 2-Step Verification was enabled for your account more than **7 days** ago.\n\n• You have logged in on this device more than **24 hours** ago.";
+"Monetization.Withdraw.SecurityRequirements" = "You can only collect rewards if:\n\n• 2-Step Verification was enabled for your account more than **7 days** ago.\n\n• You have logged in on this device more than **24 hours** ago.";
 "Monetization.Withdraw.ComeBackLater" = "\n\nPlease come back later.";
 "Monetization.Withdraw.SetupTwoStepAuth" = "Enable 2-Step Verification";
 
@@ -11740,7 +11740,7 @@ Sorry for the inconvenience.";
 "Monetization.Intro.Split.Text" = "You receive 50% of the ad revenue as rewards in TON.";
 
 "Monetization.Intro.Withdrawal.Title" = "Flexible Withdrawals";
-"Monetization.Intro.Withdrawal.Text" = "You can withdraw your TON any time.";
+"Monetization.Intro.Withdrawal.Text" = "You can collect your TON any time.";
 
 "Monetization.Intro.Info.Title" = "What's #TON?";
 "Monetization.Intro.Info.Text" = "TON is a blockchain platform and cryptocurrency that Telegram uses for its high speed and low commissions on transactions. [Learn More >]()";
@@ -12197,7 +12197,7 @@ Sorry for the inconvenience.";
 "HashtagSearch.PublicPosts" = "Public Posts";
 "HashtagSearch.SearchPlaceholder" = "Hashtag search";
 
-"HashtagSearch.NoRecentQueries" = "Enter a hashtag to find messages\ncontaining it.";
+"HashtagSearch.NoRecentQueries" = "Enter a hashtag to find messages that contain it.";
 "HashtagSearch.ClearRecent" = "Clear History";
 
 "HashtagSearch.NoResults" = "No Results";

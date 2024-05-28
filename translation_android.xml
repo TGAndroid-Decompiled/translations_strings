@@ -662,7 +662,7 @@
     <string name="EditAdminTransferAlertTitle">Security Check</string>
     <string name="EditAdminTransferAlertText">You can transfer this group to **%1$s** only if you:</string>
     <string name="EditChannelAdminTransferAlertText">You can transfer this channel to **%1$s** only if you have:</string>
-    <string name="WithdrawChannelAlertText">You can withdraw only if you have:</string>
+    <string name="WithdrawChannelAlertText">You can collect rewards only if you have:</string>
     <string name="EditAdminTransferAlertText1">Enabled **Two-Step Verification** more than **7 days** ago.</string>
     <string name="EditAdminTransferAlertText2">Logged in on this device more than **24 hours** ago.</string>
     <string name="EditAdminTransferAlertText3">Please come back later.</string>
@@ -3467,7 +3467,7 @@
     <string name="CheckPasswordWrong">You entered the wrong password.</string>
     <string name="CheckPasswordBackToSettings">Back to Settings</string>
     <string name="PleaseEnterCurrentPasswordTransfer">Please enter your password to complete the transfer.</string>
-    <string name="PleaseEnterCurrentPasswordWithdraw">Please enter your password to withdraw.</string>
+    <string name="PleaseEnterCurrentPasswordWithdraw">Please enter your password to collect.</string>
     <string name="PleaseEnterFirstPassword">Enter a password</string>
     <string name="PleaseEnterNewFirstPassword">Enter a new password</string>
     <string name="PleaseEnterPassword">Enter your new password</string>
@@ -8669,7 +8669,7 @@ list of reactions.</string>
     <string name="MonetizationInfoFeature2Name">50:50 revenue split</string>
     <string name="MonetizationInfoFeature2Text">You can receive 50% of the ad revenue as rewards in TON.</string>
     <string name="MonetizationInfoFeature3Name">Flexible withdrawals</string>
-    <string name="MonetizationInfoFeature3Text">You can withdraw your TON any time.</string>
+    <string name="MonetizationInfoFeature3Text">You can collect your TON any time.</string>
     <string name="MonetizationInfoTONTitle">What is &#128142; TON?</string>
     <string name="MonetizationInfoTONText">**TON** is a blockchain platform and cryptocurrency that Telegram uses for its high speed and low commissions on transactions.</string>
     <string name="MonetizationInfoTONLink">https://telegram.org/blog/monetization-for-channels</string>
@@ -8685,9 +8685,9 @@ list of reactions.</string>
     <string name="MonetizationSwitchOffInfo">You will not be eligible for any rewards if you switch off ads.</string>
     <string name="MonetizationOverview">Rewards overview</string>
     <string name="MonetizationOverviewAvailable">Rewards available for collection</string>
-    <string name="MonetizationOverviewLastWithdrawal">Rewards since last withdrawal</string>
+    <string name="MonetizationOverviewLastWithdrawal">Rewards since last collection</string>
     <string name="MonetizationOverviewTotal">Total lifetime rewards</string>
-    <string name="MonetizationTransactionWithdraw">Withdrawal via Fragment</string>
+    <string name="MonetizationTransactionWithdraw">Collection via Fragment</string>
     <string name="MonetizationTransactionProceed">Rewards from ads</string>
     <string name="MonetizationTransactionRefund">Refund</string>
     <string name="MonetizationTransactionPending">Pending</string>
@@ -8940,7 +8940,7 @@ list of reactions.</string>
     <string name="SearchMyMessages">My Messages</string>
     <string name="SearchPublicPosts">Public Posts</string>
     <string name="SearchHashtagsHint">Search hashtags</string>
-    <string name="HashtagSearchPlaceholder">Enter a hashtag to find messages containing it.</string>
+    <string name="HashtagSearchPlaceholder">Enter a hashtag to find messages that contain it.</string>
     <string name="QuoteCollapse">Collapse</string>
     <string name="QuoteExpand">Expand</string>
     <string name="StarsTransactionSource">Via</string>

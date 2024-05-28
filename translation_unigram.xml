@@ -8667,7 +8667,7 @@
     <string name="MonetizationInfoFeature2Name">50:50 revenue split</string>
     <string name="MonetizationInfoFeature2Text">You can receive 50% of the ad revenue as rewards in TON.</string>
     <string name="MonetizationInfoFeature3Name">Flexible withdrawals</string>
-    <string name="MonetizationInfoFeature3Text">You can withdraw your TON any time.</string>
+    <string name="MonetizationInfoFeature3Text">You can collect your TON any time.</string>
     <string name="MonetizationInfoTONTitle">What is &#128142; TON?</string>
     <string name="MonetizationInfoTONText">**TON** is a blockchain platform and cryptocurrency that Telegram uses for its high speed and low commissions on transactions.</string>
     
@@ -8683,9 +8683,9 @@
     <string name="MonetizationSwitchOffInfo">You will not be eligible for any rewards if you switch off ads.</string>
     <string name="MonetizationOverview">Rewards overview</string>
     <string name="MonetizationOverviewAvailable">Rewards available for collection</string>
-    <string name="MonetizationOverviewLastWithdrawal">Rewards since last withdrawal</string>
+    <string name="MonetizationOverviewLastWithdrawal">Rewards since last collection</string>
     <string name="MonetizationOverviewTotal">Total lifetime rewards</string>
-    <string name="MonetizationTransactionWithdraw">Withdrawal via Fragment</string>
+    <string name="MonetizationTransactionWithdraw">Collection via Fragment</string>
     <string name="MonetizationTransactionProceed">Rewards from ads</string>
     <string name="MonetizationTransactionRefund">Refund</string>
     <string name="MonetizationTransactionPending">Pending</string>
