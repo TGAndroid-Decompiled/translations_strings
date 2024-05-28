@@ -1,9 +1,9 @@
-/*
-This file is part of Telegram Desktop,
-the official desktop application for the Telegram messaging service.
-
-For license and copyright information please follow this link:
-https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
+/* 
+This file is part of Telegram Desktop, 
+the official desktop application for the Telegram messaging service. 
+ 
+For license and copyright information please follow this link: 
+https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL 
 */
 "lng_language_name" = "English";
 "lng_switch_to_this" = "Continue in English";
@@ -435,7 +435,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_username_invalid" = "This username is invalid.";
 "lng_username_occupied" = "This username is already occupied.";
 "lng_username_too_short" = "This username is too short.";
-"lng_username_purchase_available" = "Sorry, this link is taken. But it's available for purchase, see {link}.";
+"lng_username_purchase_available" = "Sorry, this link is taken. But it's available for purchase. {link}";
 "lng_username_purchase_available_link" = "Learn more...";
 "lng_username_bad_symbols" = "Only a-z, 0-9, and underscores allowed.";
 "lng_username_available" = "This username is available.";
@@ -560,6 +560,13 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_reaction_game" = "{reaction} to your game";
 "lng_reaction_invoice" = "{reaction} to your invoice";
 "lng_reaction_gif" = "{reaction} to your GIF";
+
+
+
+
+
+
+
 
 "lng_languages" = "Language";
 "lng_languages_none" = "No languages found.";
@@ -2285,6 +2292,37 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_business_about_sponsored_link" = "Telegram Ad Platform {emoji}";
 "lng_business_about_sponsored_url" = "https://ads.telegram.org";
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 "lng_location_title" = "Location";
 "lng_location_about" = "Display the location of your business on your account.";
 "lng_location_address" = "Enter Address";
@@ -3177,6 +3215,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_context_reply_msg" = "Reply";
 "lng_context_quote_and_reply" = "Quote & Reply";
 "lng_context_edit_msg" = "Edit";
+
+
 "lng_context_forward_msg" = "Forward";
 "lng_context_send_now_msg" = "Send Now";
 "lng_context_reschedule" = "Reschedule";
@@ -3247,6 +3287,15 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_context_spoiler_effect" = "Hide with Spoiler";
 "lng_context_disable_spoiler" = "Remove Spoiler";
+
+
+
+
+
+
+
+
+
 
 "lng_translate_show_original" = "Show Original";
 "lng_translate_bar_to" = "Translate to {name}";
@@ -5160,6 +5209,17 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_font_default" = "Default";
 "lng_font_system" = "System font";
 "lng_font_not_found" = "Font not found.";
+
+
+
+
+
+
+
+
+
+
+
 
 // Wnd specific
 
