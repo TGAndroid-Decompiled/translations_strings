@@ -10241,14 +10241,14 @@
 "Monetization.ImpressionsTitle" = "AD IMPRESSIONS (BY HOURS)";
 "Monetization.AdRevenueTitle" = "AD REWARDS";
 "Monetization.OverviewTitle" = "REWARDS OVERVIEW";
-"Monetization.BalanceTitle" = "AVAILABLE BALANCE";
+"Monetization.BalanceTitle" = "AVAILABLE REWARD";
 "Monetization.BalanceInfo" = "You will be able to collect rewards using Fragment, a third-party platform used by advertisers to pay for ads. [Terms & Conditions >](https://telegram.org/tos/content-creator-rewards)";
 "Monetization.Balance.ComingLaterInfo" = "You will be able to collect rewards using Fragment, a third-party platform used by advertisers to pay for ads. [Terms & Conditions >](https://telegram.org/tos/content-creator-rewards)";
 "Monetization.BalanceInfo_URL" = "https://telegram.org/tos/content-creator-rewards";
-"Monetization.BalanceWithdraw" = "Withdraw via Fragment";
+"Monetization.BalanceWithdraw" = "Collect via Fragment";
 "Monetization.TransactionsTitle" = "TRANSACTION HISTORY";
 
-"Monetization.Overview.Available" = "Balance Available to Withdraw";
+"Monetization.Overview.Available" = "Rewards Available for Collection";
 "Monetization.Overview.Current" = "Rewards Since Last Withdrawal";
 "Monetization.Overview.Total" = "Total Lifetime Rewards";
 
@@ -10268,7 +10268,7 @@
 "Monetization.Withdraw.EnterPassword.Done" = "Proceed";
 
 "Monetization.TransactionInfo.Proceeds" = "Rewards from Ads displayed in";
-"Monetization.TransactionInfo.Withdrawal" = "Balance Withdrawal via %@";
+"Monetization.TransactionInfo.Withdrawal" = "Collecting Rewards via %@";
 "Monetization.TransactionInfo.Pending" = "Pending";
 "Monetization.TransactionInfo.Failed" = "Not Completed";
 "Monetization.TransactionInfo.Refund" = "Refund";

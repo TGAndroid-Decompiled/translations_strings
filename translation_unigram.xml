@@ -149,6 +149,7 @@
     
     
     
+    
     <!--chats view-->
     <string name="NewConversationShortcut">New conversation</string>
     
@@ -353,12 +354,14 @@
     
     
     
+    
     <string name="NotificationsStoryMute">Do Not Notify</string>
     <string name="NotificationsStoryMute2">Do Not Notify\nAbout Stories</string>
     <string name="NotificationsStoryUnmute">Notify</string>
     <string name="NotificationsStoryUnmute2">Notify About\nStories</string>
     <string name="NotificationsStoryMutedHint">Disabled notifications for **{0}** stories.</string>
     <string name="NotificationsStoryUnmutedHint">You will receive a notification whenever **{0}** posts a new story.</string>
+    
     
     
     
@@ -678,7 +681,13 @@
     
     
     <string name="UserRestrictions">User Permissions</string>
-    
+    <string name="UserRestrictionsCanDo">What can this user do?</string>
+    <string name="UserRestrictionsCanDoUsers_zero">What can {0} selected users do?</string>
+    <string name="UserRestrictionsCanDoUsers_one">What can {0} selected user do?</string>
+    <string name="UserRestrictionsCanDoUsers_two">What can {0} selected users do?</string>
+    <string name="UserRestrictionsCanDoUsers_few">What can {0} selected users do?</string>
+    <string name="UserRestrictionsCanDoUsers_many">What can {0} selected users do?</string>
+    <string name="UserRestrictionsCanDoUsers_other">What can {0} selected users do?</string>
     
     <string name="UserRestrictionsSend">Send Messages</string>
     
@@ -916,6 +925,12 @@
     <string name="EventLogStopPoll">un1 stopped this poll:</string>
     <string name="EventLogStopQuiz">un1 stopped the quiz:</string>
     <string name="EventLogDeletedMessages">un1 deleted this message:</string>
+    
+    
+    
+    
+    
+    
     <string name="EventLogChangedLocation">un1 changed the group location to \"{0}\"</string>
     <string name="EventLogRemovedLocation">un1 removed the group location</string>
     <string name="EventLogChangedOwnership">transferred ownership to {0}</string>
@@ -977,12 +992,25 @@
     <string name="EventLogFilterNewRestrictions">New exceptions</string>
     <string name="EventLogFilterNewAdmins">Admin rights</string>
     <string name="EventLogFilterNewMembers">New members</string>
+    
     <string name="EventLogFilterGroupInfo">Group info</string>
     
     <string name="EventLogFilterDeletedMessages">Deleted messages</string>
     <string name="EventLogFilterEditedMessages">Edited messages</string>
     <string name="EventLogFilterPinnedMessages">Pinned messages</string>
     <string name="EventLogFilterLeavingMembers">Members leaving</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="EventLogFilterCalls">Video Chats</string>
     <string name="EventLogFilterInvites">Invite links</string>
     <string name="EventLogToggledSlowmodeOn">un1 set the slow mode timer to {0}</string>
@@ -1052,7 +1080,7 @@
     
     
     
-    
+    <string name="UnknownErrorCode">Unknown error: {0}</string>
     
     
     
@@ -1259,7 +1287,10 @@
     <string name="PinMessageAlertChannel">Do you want to pin this message in this channel?</string>
     <string name="PinMessageAlertChat">Do you want to pin this message to the top of the chat?</string>
     <string name="UnpinMessageAlert">Are you sure you want to unpin this message for everyone?</string>
-    <string name="DeleteBanUser">Ban user</string>
+    <string name="DeleteBan">Ban {0}</string>
+    <string name="DeleteBanUsers">Ban users</string>
+    <string name="DeleteRestrict">Restrict {0}</string>
+    <string name="DeleteRestrictUsers">Restrict users</string>
     <string name="DeleteReportSpam">Report spam</string>
     <string name="TranslateMessage">Translate</string>
     
@@ -1268,6 +1299,38 @@
     <string name="TranslationFailedAlert1">Translation failed. Try again later.</string>
     <string name="TranslationFailedAlert2">Translation failed.</string>
     <string name="DeleteAllFrom">Delete all from {0}</string>
+    <string name="DeleteAllFromUsers">Delete all from users</string>
+    
+    
+    
+    
+    
+    
+    <string name="DeleteAdditionalActions">Additional actions</string>
+    <string name="DeleteToggleBanUsers">Fully ban users</string>
+    <string name="DeleteToggleBanUser">Fully ban this user</string>
+    <string name="DeleteToggleRestrictUsers">Partially restrict users</string>
+    <string name="DeleteToggleRestrictUser">Partially restrict this user</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -1761,6 +1824,7 @@
     <string name="RevokeLinkAlert">Are you sure you want to revoke the link **{0}**?\n\nThe group \"**{1}**\" will become private.</string>
     <string name="RevokeLinkAlertChannel">Are you sure you want to revoke the link **{0}**?\n\nThe channel \"**{1}**\" will become private.</string>
     <string name="CopyLink">Copy Link</string>
+    
     <string name="ShareLink">Share Link</string>
     
     <string name="LinkInfo">Anyone who has Telegram installed will be able to join your group by following this link.</string>
@@ -2008,6 +2072,7 @@
     <string name="StickersCopy">Copy link</string>
     
     <string name="StickersRemove">Remove</string>
+    
     
     
     
@@ -2704,6 +2769,7 @@
     
     
     
+    
     <string name="LocalPhotoCache">Photos</string>
     <string name="LocalAudioCache">Voice messages</string>
     <string name="LocalVideoCache">Videos</string>
@@ -3138,7 +3204,10 @@
     
     
     
+    
+    
     <string name="AccurateTo">Accurate to {0}</string>
+    
     
     
     
@@ -3151,6 +3220,8 @@
     
     <string name="LocationUpdatedFormatted">updated {0}</string>
     <string name="LocationUpdatedJustNow">updated just now</string>
+    
+    
     
     
     
@@ -3230,6 +3301,8 @@
     
     
     
+    
+    
     <string name="Gallery">Gallery</string>
     
     
@@ -3295,6 +3368,7 @@
     <string name="ClearSearchSingleAlertTitle">Search history</string>
     <string name="ClearSearchSingleUserAlertText">Do you want to remove \"{0}\" from your search history?</string>
     <string name="ClearSearchSingleChatAlertText">Do you want to remove \"{0}\" from your search history?</string>
+    
     <string name="ClearSearchRemove">Remove</string>
     <string name="ClearButton">Clear All</string>
     <string name="AddCaption">Add a caption...</string>
@@ -3740,6 +3814,8 @@
     <string name="Call">Call</string>
     <string name="VideoCall">Video Call</string>
     <string name="Copy">Copy</string>
+    
+    
     <string name="Rename">Rename</string>
     <string name="Delete">Delete</string>
     <string name="Start">Start</string>
@@ -4126,18 +4202,18 @@
     <string name="Deletions_few">{0} deletions</string>
     <string name="Deletions_many">{0} deletions</string>
     <string name="Deletions_other">{0} deletions</string>
-    <string name="Bans_zero">{0} bans</string>
-    <string name="Bans_one">{0} ban</string>
-    <string name="Bans_two">{0} bans</string>
-    <string name="Bans_few">{0} bans</string>
-    <string name="Bans_many">{0} bans</string>
-    <string name="Bans_other">{0} bans</string>
-    <string name="Restrictions_zero">{0} restrictions</string>
-    <string name="Restrictions_one">{0} restriction</string>
-    <string name="Restrictions_two">{0} restrictions</string>
-    <string name="Restrictions_few">{0} restrictions</string>
-    <string name="Restrictions_many">{0} restrictions</string>
-    <string name="Restrictions_other">{0} restrictions</string>
+    <string name="Bans_zero">{0} restrictions</string>
+    <string name="Bans_one">{0} restriction</string>
+    <string name="Bans_two">{0} restrictions</string>
+    <string name="Bans_few">{0} restrictions</string>
+    <string name="Bans_many">{0} restrictions</string>
+    <string name="Bans_other">{0} restrictions</string>
+    <string name="Restrictions_zero">{0} bans</string>
+    <string name="Restrictions_one">{0} ban</string>
+    <string name="Restrictions_two">{0} bans</string>
+    <string name="Restrictions_few">{0} bans</string>
+    <string name="Restrictions_many">{0} bans</string>
+    <string name="Restrictions_other">{0} bans</string>
     <string name="Invitations_zero">{0} invitations</string>
     <string name="Invitations_one">{0} invitation</string>
     <string name="Invitations_two">{0} invitations</string>
@@ -4262,6 +4338,8 @@
     
     
     
+    
+    
     <string name="ReturnToCall">RETURN TO CALL</string>
     <string name="CallNotAvailable">Sorry, you cannot call {0} because of their privacy settings. You can ask them to modify their setting or to call you instead.</string>
     <string name="CallEmojiKeyTooltip">If the emoji on {0}’s screen are the same, this call is 100% secure.</string>
@@ -4368,6 +4446,7 @@
     <string name="VoipGroupLeaveAlertEndChat">End video chat</string>
     
     <string name="VoipGroupVoiceChat">Video Chat</string>
+    
     <string name="VoipGroupScheduledVoiceChat">Scheduled Video Chat</string>
     
     
@@ -5600,6 +5679,9 @@
     
     
     <string name="formatDateAtTime">{0} at {1}</string>
+    
+    
+    
     
     
     
@@ -7435,6 +7517,7 @@
     <string name="StealthModeButton">Hide My View</string>
     <string name="StealthModeTitle">Stealth Mode</string>
     <string name="StealthModePremiumHint">Subscribe to Telegram Premium to watch stories without appearing in the list of viewers.</string>
+    
     <string name="HideRecentViews">Hide Recent Views</string>
     <string name="HideRecentViewsDescription">Hide my views from the past 5 minutes.</string>
     <string name="HideNextViews">Hide Upcoming Views</string>
@@ -7442,6 +7525,7 @@
     <string name="UnlockStealthMode">Unlock Stealth Mode</string>
     <string name="StealthModeHint">Turn Stealth Mode on to watch stories without appearing in the list of viewers.</string>
     <string name="EnableStealthMode">Enable Stealth Mode</string>
+    
     <string name="AvailableIn">Available in {0}</string>
     <string name="StealthModeOn">Stealth Mode On</string>
     <string name="StealthModeOnHint">The creators of stories you viewed in the past 5 minutes or will view in the next 25 minutes won\'t see you in the list of viewers.</string>
@@ -7461,10 +7545,10 @@
     <string name="ReactionUpdateReactionsBtn">Update Reactions</string>
     <string name="ReactionLevelRequiredBtn_one">Level {0} Required</string>
     <string name="ReactionLevelRequiredBtn_other">Level {0} Required</string>
-    
-    
-    
-    
+    <string name="MaximumReactionsHeader">Maximum number of reactions</string>
+    <string name="MaximumReactionsValue_one">{0} reaction per post</string>
+    <string name="MaximumReactionsValue_other">{0} reactions per post</string>
+    <string name="MaximumReactionsInfo">Limit the number of different reactions that can be added to a post, including already published ones.</string>
     <string name="ReactionReachLvlForReactionShort_one">Your channel needs to reach Level **{1}** to add **{0}** custom emoji as reactions.</string>
     <string name="ReactionReachLvlForReactionShort_other">Your channel needs to reach Level **{1}** to add **{0}** custom emoji as reactions.</string>
     
@@ -7868,7 +7952,7 @@
     
     
     <string name="BoostingPremiumUserCanBoostGroupWithLink">**Premium** users can boost your group with this link:</string>
-    <string name="BoostingReassignBoost">Reassign Boost</string>
+    <string name="BoostingReassignBoost">Reassign Boosts</string>
     
     
     <string name="BoostingMoreBoostsNeeded">More Boosts Needed</string>
@@ -8004,7 +8088,7 @@
     <string name="ChannelNeedBoostsDescriptionLevelNext">This channel needs {0} to be able to post {1} per day. Help make it possible!</string>
     <string name="ChannelNeedBoostsAlreadyBoostedDescriptionLevel1">This channel needs {0} to enable stories.</string>
     <string name="ChannelNeedBoostsDescriptionForNewFeatures">**{0}** needs {1} to unlock new features.</string>
-    
+    <string name="ChannelNeedBoostsForSwitchOffAdsDescription">Your channel needs to reach **Level {0}** to switch off ads.\n\nAsk your **Premium** subscribers to boost your channel with this link:</string>
     <string name="HelpUpgradeChannel">Help Upgrade This Channel</string>
     <string name="ChannelBoostsJustReachedLevel1">This channel reached **Level&#160;1** and can now post stories.</string>
     <string name="ChannelBoostsJustReachedLevelNext">This channel reached **Level&#160;{0}** and can now post {1} per day.</string>
@@ -8210,7 +8294,7 @@
     <string name="BoostFeatureCustomEmojiPack">Custom Emoji Pack</string>
     <string name="BoostFeatureRealTimeTranslations">Real-Time Translations</string>
     <string name="BoostFeatureVoiceToTextConversion">Voice-to-Text Conversion</string>
-    
+    <string name="BoostFeatureSwitchOffAds">Switch Off Ads</string>
     
     
     <string name="ChannelReplyLogo">Reply Logo</string>
@@ -8221,6 +8305,8 @@
     <string name="GroupEmojiPack">Group Emoji Pack</string>
     
     <string name="GroupEmojiPackInfo">Choose an emoji pack that will be available to all members within the group.</string>
+    
+    
     <string name="ChannelEmojiStatus">Channel Emoji Status</string>
     <string name="GroupEmojiStatus">Group Emoji Status</string>
     <string name="ChannelEmojiStatusInfo">Choose a status that will be shown next to the channel\'s name.</string>
@@ -8428,7 +8514,7 @@
     <string name="BusinessBotNotFound">Chatbot not found</string>
     <string name="BusinessBotLinkInfo">Enter the link to the Telegram bot that you want to automatically process your chats.</string>
     <string name="BusinessBotChats">Chats accessible for the bot</string>
-    
+    <string name="BusinessBotUnsavedChanges">You have changed the business bot settings. Apply changes?</string>
     <string name="BusinessChatsAllPrivateExcept">All 1-to-1 Chats Except...</string>
     <string name="BusinessChatsOnlySelected">Only Selected Chats</string>
     <string name="BusinessChatsExcluded">Excluded chats</string>
@@ -8440,8 +8526,8 @@
     <string name="BusinessBotPermissionsReply">Reply to Messages</string>
     <string name="BusinessBotPermissionsInfo">The bot can only reply on your behalf in chats that were active during the last 24h.</string>
     <string name="BusinessBotRemove">Remove Bot</string>
-    
-    
+    <string name="BusinessBotNotSupportedTitle">Oops</string>
+    <string name="BusinessBotNotSupportedMessage">This bot doesn’t support **Telegram Business** yet.</string>
     <string name="BusinessGreet">Greeting Message</string>
     <string name="BusinessGreetInfo">Greet customers when they message you the first time or after a period of no activity.</string>
     <string name="BusinessGreetSend">Send Greeting Message</string>
@@ -8586,16 +8672,17 @@
     <string name="MonetizationInfoTONText">**TON** is a blockchain platform and cryptocurrency that Telegram uses for its high speed and low commissions on transactions.</string>
     
     <string name="MonetizationInfo">Telegram shares {0}% of the revenue from ads displayed in your channel as rewards. **Learn more &gt;**</string>
-    <string name="MonetizationBalance">Available balance</string>
+    <string name="MonetizationBalance">Available reward</string>
     <string name="MonetizationBalanceInfo">You can collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. **Learn more &gt;**</string>
     
+    <string name="MonetizationBalanceInfoNotAvailable">In the coming weeks you will be able to collect your reward using Fragment, a third-party platform used by advertisers to pay ads. **Learn more &gt;**</string>
     <string name="MonetizationTransactions">Transaction history</string>
     
     
     <string name="MonetizationSwitchOff">Switch Off Ads</string>
     <string name="MonetizationSwitchOffInfo">You will not be eligible for any rewards if you switch off ads.</string>
     <string name="MonetizationOverview">Rewards overview</string>
-    <string name="MonetizationOverviewAvailable">Balance available to withdraw</string>
+    <string name="MonetizationOverviewAvailable">Rewards available for collection</string>
     <string name="MonetizationOverviewLastWithdrawal">Rewards since last withdrawal</string>
     <string name="MonetizationOverviewTotal">Total lifetime rewards</string>
     <string name="MonetizationTransactionWithdraw">Withdrawal via Fragment</string>
@@ -8603,7 +8690,7 @@
     <string name="MonetizationTransactionRefund">Refund</string>
     <string name="MonetizationTransactionPending">Pending</string>
     <string name="MonetizationTransactionNotCompleted">Not Completed</string>
-    <string name="MonetizationTransactionDetailWithdraw">Balance withdrawal</string>
+    <string name="MonetizationTransactionDetailWithdraw">Collecting rewards</string>
     <string name="MonetizationTransactionDetailWithdrawButton">View in Blockchain Explorer</string>
     <string name="MonetizationTransactionDetailProceed">Rewards from ads displayed in</string>
     <string name="MonetizationTransactionDetailRefund">Refunded back</string>
@@ -8664,6 +8751,7 @@
     <string name="PrivacyBirthdaySetDone">Date of birth added.</string>
     
     
+    
     <string name="BirthdaySetupTitle">Add your birthday! &#127874;</string>
     <string name="BirthdaySetupMessage">Let your contacts know when you’re celebrating</string>
     <string name="BirthdaySetupLater">You can always set your birthday in profile settings.</string>
@@ -8718,6 +8806,44 @@
     
     
     
+    <string name="ShowAdsTitle">Ads in Channels</string>
+    <string name="ShowAds">Do Not Hide Ads</string>
+    <string name="ShowAdsInfo">As a Premium subscriber, you don’t see any ads on Telegram, but you can turn them on, for example, to view your own ads that you launched on the **Telegram Ad Platform &gt;**</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="SearchMyChannels">Channels you joined</string>
+    <string name="SearchRecommendedChannels">Similar Channels</string>
+    
+    <string name="OpenStickerSet">VIEW STICKERS</string>
+    <string name="OpenEmojiSet">VIEW EMOJI</string>
+    <string name="StoriesPinned_one">Story pinned</string>
+    <string name="StoriesPinned_other">{0} stories pinned</string>
+    <string name="StoriesUnpinned_one">Story unpinned.</string>
+    <string name="StoriesUnpinned_other">{0} stories unpinned.</string>
+    <string name="StoriesPinnedText_one">Now it will be always shown on the top.</string>
+    <string name="StoriesPinnedText_other">Now they will be always shown on the top.</string>
+    <string name="StoriesPinLimit_other">You can’t pin more than {0} posts.</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="NotifyMoreOptions">More Options</string>
     
     
     
@@ -8742,6 +8868,72 @@
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="ForwardedFrom">Forwarded from</string>
+    
+    
+    
+    
+    
+    <string name="AddEffectMessageHint">Add an animated effect</string>
+    <string name="AnimatedEffectPremium">Subscribe to **Telegram Premium** to add this animated effect.</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="MenuTelegramStars">Your Stars</string>
+    <string name="TelegramStars">Telegram Stars</string>
+    <string name="TelegramStarsInfo">Buy Stars to unlock content and service\nin miniapps on Telegram.</string>
+    <string name="TelegramStarsChoose">Choose package</string>
+    <string name="StarsCount_one">{0} Star</string>
+    <string name="StarsCount_other">{0} Stars</string>
+    <string name="StarsTOS">By proceeding and purchasing Stars, you agree with the **Terms and Conditions**.</string>
+    <string name="StarsTOSLink">https://telegram.org/tos</string>
+    <string name="StarsBalance">Balance</string>
+    <string name="StarsTransactionsAll">All Transactions</string>
+    <string name="StarsTransactionsIncoming">Incoming</string>
+    <string name="StarsTransactionsOutgoing">Outgoing</string>
+    <string name="StarsTransactionInApp">In-App Purchase</string>
+    <string name="StarsTransactionBot">Stars Top-Up Bot</string>
+    <string name="StarsTransactionUnsupported">In-App Purchase</string>
+    <string name="StarsTransactionFragment">Purchase from Fragment</string>
+    <string name="StarsAcquired">Stars Acquired!</string>
+    <string name="StarsAcquiredInfo_other">**{0} Stars** added to your balance.</string>
+    <string name="StarsPurchaseCompleted">Purchase Completed!</string>
+    <string name="StarsPurchaseCompletedInfo_other">You acquired \"**{1}**\" in **{2}** for **{0} Stars**.</string>
+    <string name="StarsConfirmPurchaseTitle">Confirm Your Purchase</string>
+    <string name="StarsConfirmPurchaseText_one">Do you want to buy \"**{1}**\" in **{2}** for **{0} star**?</string>
+    <string name="StarsConfirmPurchaseText_other">Do you want to buy \"**{1}**\" in **{2}** for **{0} stars**?</string>
+    <string name="StarsConfirmPurchaseButton_one">Confirm and Pay &#11088;&#65039; {0} Star</string>
+    <string name="StarsConfirmPurchaseButton_other">Confirm and Pay &#11088;&#65039; {0} Stars</string>
+    <string name="StarsNeededTitle_one">{0} Star Needed</string>
+    <string name="StarsNeededTitle_other">{0} Stars Needed</string>
+    <string name="StarsNeededText">Buy **Stars** and use them on **{0}** and other miniapps.</string>
+    
+    
+    <string name="AddFactCheck">Add Fact Check</string>
+    <string name="EditFactCheck">Edit Fact Check</string>
+    <string name="FactCheck">Fact Check</string>
+    <string name="FactCheckWhat">what’s this?</string>
+    <string name="FactCheckDialog">Fact Check</string>
+    <string name="FactCheckPlaceholder">Add Fact or Context</string>
+    <string name="FactCheckToast">This clarification was provided by a fact checking agency assigned by the department of the government of your country ({0}) responsible for combating misinformation.</string>
+    
+    <string name="FactCheckEdited">Fact check updated.</string>
+    <string name="FactCheckDeleted">Fact check removed.</string>
     
     
     
@@ -9197,6 +9389,7 @@
   
   
   
+  <string name="DeleteBanUser">Ban user</string>
   
   <string name="DeleteLocalization">Delete localization?</string>
   
@@ -9209,6 +9402,20 @@
   
   <string name="EnableProxyAlert">Are you sure you want to enable this proxy?</string>
   <string name="EnableProxyAlert2">You can change your proxy server later in Settings &gt; Data and Storage.</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   <string name="FilterInviteChats_zero">Includes {0} chats</string>
   <string name="FilterInviteHeader_zero">Anyone with this link can add **{1}** folder and the **{0}** chats selected below.</string>
@@ -9283,10 +9490,10 @@
   <string name="Likes_many">{0} likes</string>
   
   
-  
-  
-  
-  
+  <string name="MaximumReactionsValue_zero">{0} reactions per post</string>
+  <string name="MaximumReactionsValue_two">{0} reactions per post</string>
+  <string name="MaximumReactionsValue_few">{0} reactions per post</string>
+  <string name="MaximumReactionsValue_many">{0} reactions per post</string>
   
   <string name="MessageContainsEmojiPacks_zero">This message contains emoji from **{0} Packs**.</string>
   <string name="MessageContainsEmojiPacks_one"></string>
@@ -9327,6 +9534,11 @@
   
   
   <string name="OpenUrlAlert">Open this link: {0}?</string>
+  
+  
+  
+  
+  
   
   
   
@@ -9433,6 +9645,10 @@
   
   
   
+  
+  
+  
+  
   <string name="Shuffle">Shuffle</string>
   <string name="SlideToCancel">SLIDE TO CANCEL</string>
   
@@ -9512,6 +9728,32 @@
   
   
   
+  <string name="StarsAcquiredInfo_zero">**{0} Stars** added to your balance.</string>
+  <string name="StarsAcquiredInfo_one"></string>
+  <string name="StarsAcquiredInfo_two">**{0} Stars** added to your balance.</string>
+  <string name="StarsAcquiredInfo_few">**{0} Stars** added to your balance.</string>
+  <string name="StarsAcquiredInfo_many">**{0} Stars** added to your balance.</string>
+  <string name="StarsConfirmPurchaseButton_zero">Confirm and Pay &#11088;&#65039; {0} Stars</string>
+  <string name="StarsConfirmPurchaseButton_two">Confirm and Pay &#11088;&#65039; {0} Stars</string>
+  <string name="StarsConfirmPurchaseButton_few">Confirm and Pay &#11088;&#65039; {0} Stars</string>
+  <string name="StarsConfirmPurchaseButton_many">Confirm and Pay &#11088;&#65039; {0} Stars</string>
+  <string name="StarsConfirmPurchaseText_zero">Do you want to buy \"**{1}**\" in **{2}** for **{0} stars**?</string>
+  <string name="StarsConfirmPurchaseText_two">Do you want to buy \"**{1}**\" in **{2}** for **{0} stars**?</string>
+  <string name="StarsConfirmPurchaseText_few">Do you want to buy \"**{1}**\" in **{2}** for **{0} stars**?</string>
+  <string name="StarsConfirmPurchaseText_many">Do you want to buy \"**{1}**\" in **{2}** for **{0} stars**?</string>
+  <string name="StarsCount_zero">{0} Stars</string>
+  <string name="StarsCount_two">{0} Stars</string>
+  <string name="StarsCount_few">{0} Stars</string>
+  <string name="StarsCount_many">{0} Stars</string>
+  <string name="StarsNeededTitle_zero">{0} Stars Needed</string>
+  <string name="StarsNeededTitle_two">{0} Stars Needed</string>
+  <string name="StarsNeededTitle_few">{0} Stars Needed</string>
+  <string name="StarsNeededTitle_many">{0} Stars Needed</string>
+  <string name="StarsPurchaseCompletedInfo_zero">You acquired \"**{1}**\" in **{2}** for **{0} Stars**.</string>
+  <string name="StarsPurchaseCompletedInfo_one"></string>
+  <string name="StarsPurchaseCompletedInfo_two">You acquired \"**{1}**\" in **{2}** for **{0} Stars**.</string>
+  <string name="StarsPurchaseCompletedInfo_few">You acquired \"**{1}**\" in **{2}** for **{0} Stars**.</string>
+  <string name="StarsPurchaseCompletedInfo_many">You acquired \"**{1}**\" in **{2}** for **{0} Stars**.</string>
   <string name="StealthMode">Stealth Mode</string>
   <string name="StickersNameInfo">Manage your sticker sets, emoji and reactions.</string>
   
@@ -9523,24 +9765,24 @@
   
   
   
+  <string name="StoriesPinLimit_zero">You can’t pin more than {0} posts.</string>
+  <string name="StoriesPinLimit_one"></string>
+  <string name="StoriesPinLimit_two">You can’t pin more than {0} posts.</string>
+  <string name="StoriesPinLimit_few">You can’t pin more than {0} posts.</string>
+  <string name="StoriesPinLimit_many">You can’t pin more than {0} posts.</string>
+  <string name="StoriesPinned_zero">{0} stories pinned</string>
+  <string name="StoriesPinned_two">{0} stories pinned</string>
+  <string name="StoriesPinned_few">{0} stories pinned</string>
+  <string name="StoriesPinned_many">{0} stories pinned</string>
+  <string name="StoriesPinnedText_zero">Now they will be always shown on the top.</string>
+  <string name="StoriesPinnedText_two">Now they will be always shown on the top.</string>
+  <string name="StoriesPinnedText_few">Now they will be always shown on the top.</string>
+  <string name="StoriesPinnedText_many">Now they will be always shown on the top.</string>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <string name="StoriesUnpinned_zero">{0} stories unpinned.</string>
+  <string name="StoriesUnpinned_two">{0} stories unpinned.</string>
+  <string name="StoriesUnpinned_few">{0} stories unpinned.</string>
+  <string name="StoriesUnpinned_many">{0} stories unpinned.</string>
   
   
   
@@ -9726,6 +9968,7 @@
   <string name="CopySelectedMessages">Copy Selected as Text</string>
   <string name="CopySelectedText">Copy Selected Text</string>
   <string name="Cut">Cut</string>
+  <string name="DefaultInterfaceScale">Default interface scale</string>
   <string name="DeleteSelected">Delete Selected</string>
   <string name="DeletedMessage">Deleted message</string>
   <string name="DeviceName">Device name</string>
@@ -9742,6 +9985,7 @@
   <string name="EnableFullScreenGallery">Enable Full-Screen Gallery</string>
   <string name="ExperimentalSettings">Experimental Settings</string>
   <string name="ExperimentalSettingsHint">Warning! These are experimental settings. Some may not work. Others may break the app. Any of them may disappear in the next version without a trace. Use at your own risk.</string>
+  <string name="FactCheckAdded">Fact check added</string>
   <string name="FolderLinkExpiredAlert">The folder link has expired.</string>
   <string name="Formatting">Formatting</string>
   <string name="ForwardSelected">Forward Selected</string>
@@ -9749,6 +9993,7 @@
   <string name="GroupUpgradedTo">Group upgraded to supergroup.</string>
   <string name="InAppPreviewInfo">Hover your cursor on a chat to preview the latest message.</string>
   <string name="InstallBetaUpdates">Install Beta Updates</string>
+  <string name="InterfaceScale">Interface scale</string>
   <string name="LiteOptionsTransparencyEffects">Transparency Effects</string>
   <string name="LoginWithQrCode">Quick log in using QR code</string>
   <string name="LoginWithQrCodeSkip">Or log in using your phone number</string>
@@ -9756,7 +10001,7 @@
   <string name="LoginWithQrCodeStep2">Go to Settings &gt; Devices &gt; Link Desktop Device</string>
   <string name="LoginWithQrCodeStep3">Scan this image to Log In</string>
   <string name="LoginWithQrCodeTitle">Scan From Mobile Telegram</string>
-  <string name="MonetizationDoneWithdraw">Withdrawal Complete</string>
+  <string name="MonetizationDoneWithdraw">Reward Collected</string>
   <string name="MonetizationDoneWithdrawText">**{0}** sent to your wallet.</string>
   <string name="MonetizationMaxCPM">TON {0}</string>
   <string name="MonetizationNoCPM">No Ads</string>
@@ -9797,6 +10042,7 @@
   <string name="QuickReactionInfo">Quickly reply to a message by double clicking on it.</string>
   <string name="QuitTelegram">Quit Telegram</string>
   <string name="Redo">Redo</string>
+  <string name="RemoveEffect">Remove Effect</string>
   <string name="RenameCurrentDevice">Rename current device</string>
   <string name="ReplaceEmoji">Replace Emoji Automatically</string>
   <string name="ReportSelectedMessages">Report Selected</string>
@@ -9815,6 +10061,8 @@
   <string name="ShowInFolder">Show in Folder</string>
   <string name="ShowTrayIcon">Show Tray Icon</string>
   <string name="Spelling">Spelling</string>
+  <string name="StarsBuyMore">Buy More Stars</string>
+  <string name="StarsYourBalance">your balance</string>
   <string name="StoriesRemovedFromProfile_zero">{0} stories removed from your profile.</string>
   <string name="StoriesRemovedFromProfile_one">{0} story removed from your profile.</string>
   <string name="StoriesRemovedFromProfile_two">{0} stories removed from your profile.</string>
@@ -9864,20 +10112,4 @@
   <string name="VoipPlatformUnsupportedTitle">Feature not supported</string>
   <string name="VoipStreamWith">Stream with...</string>
   <string name="YourNameColor">Your Name Color</string>
-
-  <string name="ChannelNeedBoostsForSwitchOffAdsDescription">Your channel needs to reach **Level {0}** to switch off ads.\n\nAsk your **Premium** subscribers to boost your channel with this link:</string>
-  <string name="BoostChannel">Boost Channel</string>
-  <string name="BoostGroup">Boost Group</string>
-  <string name="BoostFeatureSwitchOffAds">Switch Off Ads</string>
-  <string name="MonetizationBalanceInfoNotAvailable">In the coming weeks you will be able to collect your reward using Fragment, a third-party platform used by advertisers to pay ads. **Learn more &gt;**</string>
-
-  <string name="BusinessBotUnsavedChanges">You have changed the business bot settings. Apply changes?</string>
-
-  <string name="BusinessBotNotSupportedTitle">Oops</string>
-  <string name="BusinessBotNotSupportedMessage">This bot doesn’t support **Telegram Business** yet.</string>
-
-  <string name="ForwardedFrom">Forwarded from</string>
-
-  <string name="DefaultInterfaceScale">Default interface scale</string>
-  <string name="InterfaceScale">Interface scale</string>
 </resources>

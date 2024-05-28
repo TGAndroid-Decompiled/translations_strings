@@ -8674,7 +8674,7 @@ list of reactions.</string>
     <string name="MonetizationInfoTONText">**TON** is a blockchain platform and cryptocurrency that Telegram uses for its high speed and low commissions on transactions.</string>
     <string name="MonetizationInfoTONLink">https://telegram.org/blog/monetization-for-channels</string>
     <string name="MonetizationInfo">Telegram shares %1$d%% of the revenue from ads displayed in your channel as rewards. **Learn more &gt;**</string>
-    <string name="MonetizationBalance">Available balance</string>
+    <string name="MonetizationBalance">Available reward</string>
     <string name="MonetizationBalanceInfo">You can collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. **Learn more &gt;**</string>
     <string name="MonetizationBalanceInfoLink">https://telegram.org/tos/content-creator-rewards</string>
     <string name="MonetizationBalanceInfoNotAvailable">In the coming weeks you will be able to collect your reward using Fragment, a third-party platform used by advertisers to pay ads. **Learn more &gt;**</string>
@@ -8684,7 +8684,7 @@ list of reactions.</string>
     <string name="MonetizationSwitchOff">Switch Off Ads</string>
     <string name="MonetizationSwitchOffInfo">You will not be eligible for any rewards if you switch off ads.</string>
     <string name="MonetizationOverview">Rewards overview</string>
-    <string name="MonetizationOverviewAvailable">Balance available to withdraw</string>
+    <string name="MonetizationOverviewAvailable">Rewards available for collection</string>
     <string name="MonetizationOverviewLastWithdrawal">Rewards since last withdrawal</string>
     <string name="MonetizationOverviewTotal">Total lifetime rewards</string>
     <string name="MonetizationTransactionWithdraw">Withdrawal via Fragment</string>
@@ -8692,13 +8692,13 @@ list of reactions.</string>
     <string name="MonetizationTransactionRefund">Refund</string>
     <string name="MonetizationTransactionPending">Pending</string>
     <string name="MonetizationTransactionNotCompleted">Not Completed</string>
-    <string name="MonetizationTransactionDetailWithdraw">Balance withdrawal</string>
+    <string name="MonetizationTransactionDetailWithdraw">Collecting rewards</string>
     <string name="MonetizationTransactionDetailWithdrawButton">View in Blockchain Explorer</string>
     <string name="MonetizationTransactionDetailProceed">Rewards from ads displayed in</string>
     <string name="MonetizationTransactionDetailRefund">Refunded back</string>
     <string name="MonetizationGraphImpressions">Ad impressions</string>
     <string name="MonetizationGraphRevenue">Ad rewards</string>
-    <string name="MonetizationWithdraw">Withdraw via Fragment</string>
+    <string name="MonetizationWithdraw">Collect via Fragment</string>
     <string name="MonetizationChartInTON">%s in TON</string>
     <string name="MonetizationChartInUSD">%s in USD</string>
     <string name="BotAllowBiometryTitle">Allow biometry</string>
