@@ -12187,7 +12187,7 @@ Sorry for the inconvenience.";
 "Chat.NextUnreadTopicSwipeAction" = "Release to go to the next topic";
 
 "EmojiPacksSettings.ArchivedPacks" = "Archived Stickers";
-"EmojiPacksSettings.ArchivedPacks.Info" = "You can have up to 200 sticker sets installed.\nUnused stickers are archived when you add more.";
+"EmojiPacksSettings.ArchivedPacks.Info" = "You can have up to 200 emoji sets installed.\nUnused emojis are archived when you add more.";
 
 "EmojiPacks.UnarchiveEmojiPacksConfirmation_1" = "Unarchive %@ Pack";
 "EmojiPacks.UnarchiveEmojiPacksConfirmation_any" = "Unarchive %@ Packs";

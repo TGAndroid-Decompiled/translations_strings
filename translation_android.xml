@@ -8937,7 +8937,7 @@ list of reactions.</string>
     <string name="FactCheckEdited">Fact check updated.</string>
     <string name="FactCheckDeleted">Fact check removed.</string>
     <string name="SearchThisChat">This Chat</string>
-    <string name="SearchMyMessages">My Messages</string>
+    <string name="SearchMyMessages">My Chats</string>
     <string name="SearchPublicPosts">Public Posts</string>
     <string name="SearchHashtagsHint">Search hashtags</string>
     <string name="HashtagSearchPlaceholder">Enter a hashtag to find messages that contain it.</string>
