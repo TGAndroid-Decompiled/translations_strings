@@ -10713,6 +10713,14 @@
 "Chat.ReplyMarkup.PayXtr" = "Pay %@";
 
 
+"Star.Transaction.Id" = "Transaction ID";
+"Star.Transaction.Date" = "Date";
+"Star.Transaction.To" = "To";
+
+"Star.Transaction.Tos" = "Review the [Terms of Services](https://telegram.org) for Stars.";
+"Star.Transaction.Copied" = "Transaction ID copied to clipboard.";
+
+
 /* new from translations.telegram.org */
 
 "Admins.Creator" = "Owner";
