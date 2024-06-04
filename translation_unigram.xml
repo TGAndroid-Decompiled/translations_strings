@@ -10112,4 +10112,11 @@
   <string name="VoipPlatformUnsupportedTitle">Feature not supported</string>
   <string name="VoipStreamWith">Stream with...</string>
   <string name="YourNameColor">Your Name Color</string>
+  <string name="ChannelRemoveUser">Remove from channel</string>
+  <string name="StarsTransactionDate">Date</string>
+  <string name="StarsTransactionID">Transaction ID</string>
+  <string name="StarsTransactionIDCopied">Transaction ID copied to clipboard</string>
+  <string name="StarsTransactionRecipient">From</string>
+  <string name="StarsTransactionSource">Via</string>
+  <string name="StarsTransactionTOS">Review the **Terms of Service** for Stars.</string>
 </resources>
