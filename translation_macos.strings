@@ -10700,7 +10700,7 @@
 
 "Star.List.Item.ShowMore" = "Show More Options";
 
-"Star.List.Tos" = "By proceeding and purchasing Stars, you agree with the [Terms and Conditions](https://telegram.org).";
+"Star.List.Tos" = "By proceeding and purchasing Stars, you agree with the [Terms and Conditions](https://telegram.org/stars).";
 
 "Star.List.Transactions.Header" = "TRANSACTION HISTORY";
 "Star.List.Transactions.ShowMore" = "Show More";
@@ -10730,7 +10730,7 @@
 "Star.Transaction.Date" = "Date";
 "Star.Transaction.To" = "To";
 
-"Star.Transaction.Tos" = "Review the [Terms of Services](https://telegram.org) for Stars.";
+"Star.Transaction.Tos" = "Review the [Terms of Services](https://telegram.org/tos/stars) for Stars.";
 "Star.Transaction.Copied" = "Transaction ID copied to clipboard.";
 
 

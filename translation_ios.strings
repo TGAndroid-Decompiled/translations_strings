@@ -12267,7 +12267,7 @@ Sorry for the inconvenience.";
 "Stars.Purchase.Stars_any" = "%@ Stars";
 "Stars.Purchase.ShowMore" = "Show More Options";
 "Stars.Purchase.Info" = "By proceeding and purchasing Stars, you agree with [Terms and Conditions]().";
-"Stars.Purchase.Terms_URL" = "https://telegram.org/tos";
+"Stars.Purchase.Terms_URL" = "https://telegram.org/tos/stars";
 
 "Stars.Transaction.Via" = "Via";
 "Stars.Transaction.To" = "To";
@@ -12275,7 +12275,7 @@ Sorry for the inconvenience.";
 "Stars.Transaction.Id" = "Transaction ID";
 "Stars.Transaction.Date" = "Date";
 "Stars.Transaction.Terms" = "Review the [Terms of Service]() for Stars.";
-"Stars.Transaction.Terms_URL" = "https://telegram.org/tos";
+"Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
 "Stars.Transaction.CopiedId" = "Transaction ID copied to clipboard.";
 
 "Stars.Transaction.AppleTopUp.Title" = "Stars Top-Up";

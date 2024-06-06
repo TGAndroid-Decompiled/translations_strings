@@ -8901,7 +8901,7 @@
     <string name="StarsCount_one">{0} Star</string>
     <string name="StarsCount_other">{0} Stars</string>
     <string name="StarsTOS">By proceeding and purchasing Stars, you agree with the **Terms and Conditions**.</string>
-    <string name="StarsTOSLink">https://telegram.org/tos</string>
+    <string name="StarsTOSLink">https://telegram.org/tos/stars</string>
     <string name="StarsBalance">Balance</string>
     <string name="StarsTransactionsAll">All Transactions</string>
     <string name="StarsTransactionsIncoming">Incoming</string>
