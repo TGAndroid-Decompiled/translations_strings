@@ -8889,7 +8889,11 @@ list of reactions.</string>
     <string name="AnimatedEffectPremium">Subscribe to **Telegram Premium** to add this animated effect.</string>
     <string name="StickerEffects">Effects from stickers</string>
     <string name="NumberNotOnTelegram">This number is not on Telegram</string>
+    <string name="NoUsernameFound2">This user doesn’t exist on Telegram</string>
     <string name="ViewProfile">View Profile &gt;</string>
+    <string name="ViewGroupProfile">View Group Info &gt;</string>
+    <string name="ViewChannelProfile">View Channel Info &gt;</string>
+    <string name="ViewChannel">View Channel</string>
     <string name="UnlockToUse">Unlock to use Telegram</string>
     <string name="UsePIN">Use PIN</string>
     <string name="EnterPINorFingerprint">Enter your PIN or use a fingerprint</string>
@@ -8953,8 +8957,10 @@ list of reactions.</string>
     <string name="StarsTransactionDate">Date</string>
     <string name="StarsTransactionTOS">Review the **Terms of Service** for Stars.</string>
     <string name="StarsNotAvailableTitle">Not Available</string>
-    <string name="StarsNotAvailableText">Sorry, no star purchases are available from your country.</string>
+    <string name="StarsNotAvailableText">Sorry, purchasing Stars is not available in your country.</string>
     <string name="StarsRefunded">Refund</string>
+    <string name="ChromeCrashTitle">Aw, Snap!</string>
+    <string name="ChromeCrashMessage">Something went wrong while displaying this webpage.\n\nIf it occurs frequently, consider updating **Android WebView**.</string>
 
   <!-- new from translations.telegram.org -->
 

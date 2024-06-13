@@ -12301,7 +12301,7 @@ Sorry for the inconvenience.";
 
 "Stars.Transfer.Balance" = "Balance";
 
-"Stars.Transfer.Unavailable" = "Sorry, no star purchases are available from your country.";
+"Stars.Transfer.Unavailable" = "Sorry, purchasing Stars is not available in your country.";
 
 "Settings.Stars" = "Your Stars";
 

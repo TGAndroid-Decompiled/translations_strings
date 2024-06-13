@@ -1324,8 +1324,8 @@
 "SettingsFoldersEmpty" = "You have no folders yet";
 "SettingsPasscodeSuccess" = "Congratulations!\nNow you can lock the app with a passcode so that others can't open it.";
 "SettingsPasscodeEnabled" = "Local Passcode is Enabled";
-"SettingsPasscodeStart1" = "When you set up an additional passcode, a lock icon will appear on the chats page.\nTap it to lock and unlock your Telegram WebZ.";
-"SettingsPasscodeStart2" = "Note: if you forget your local passcode, you'll need to log out of Telegram WebZ and log in again.";
+"SettingsPasscodeStart1" = "When you set up an additional passcode, a lock icon will appear on the chats page.\nTap it to lock and unlock your Telegram WebA.";
+"SettingsPasscodeStart2" = "Note: if you forget your local passcode, you'll need to log out of Telegram WebA and log in again.";
 "CurrentPasswordPlaceholder" = "Current password";
 "TooManyTabsTitle" = "Such error, many tabs";
 "TooManyTabsDescription" = "Telegram supports only one active tab with the app.\nPlease reload this page to continue using this tab or close it.";
@@ -1378,7 +1378,7 @@
 "MediaLocaltionImageAlt" = "Location on a map";
 "MediaPollSolutionAria" = "Show solution";
 "GeneralError" = "An error occurred";
-"PaymentsProvidesNotSupported" = "Sorry, Telegram WebZ does not support payments with this provider yet.\nPlease use one of our mobile apps to complete this payment.";
+"PaymentsProvidesNotSupported" = "Sorry, Telegram WebA does not support payments with this provider yet.\nPlease use one of our mobile apps to complete this payment.";
 "ChatMemberListNoAccess" = "You have no access to group members list";
 "NoMembersFound" = "No members found";
 "Profile" = "Profile";
