@@ -1239,8 +1239,6 @@
     <string name="OpenInExternalApp">Open in...</string>
     <string name="SendItems">Send {0}</string>
     
-    <string name="SendAsFile">Send as file</string>
-    <string name="SendAsFiles">Send as files</string>
     <string name="OpenUrlTitle">Open Link</string>
     <string name="OpenUrlAlert2">Do you want to open {0}?</string>
     <string name="OpenUrlOption1">Log in to {0} as **{1}**</string>
@@ -6622,8 +6620,8 @@
     
     
     
-    <string name="EnablePhotoSpoiler">Hide with spoiler</string>
-    <string name="DisablePhotoSpoiler">Remove spoiler</string>
+    <string name="EnablePhotoSpoiler">Hide with Spoiler</string>
+    <string name="DisablePhotoSpoiler">Remove Spoiler</string>
     <string name="UpdatePhotoForRest">Update Public Photo</string>
     <string name="ResetToOriginalPhotoTitle">Reset Photo</string>
     <string name="ResetToOriginalPhotoMessage">Are you sure you want to reset to {0}\'s original photo?</string>
@@ -10119,4 +10117,17 @@
   <string name="StarsTransactionRecipient">From</string>
   <string name="StarsTransactionSource">Via</string>
   <string name="StarsTransactionTOS">Review the **Terms of Service** for Stars.</string>
+  <string name="ShortTimeNow">now</string>
+  <string name="AddToGroupOrChannel">Add to Group or Channel</string>
+
+  <string name="CaptionAbove">Move Caption Up</string>
+  <string name="CaptionBelow">Move Caption Down</string>
+  <string name="SendAsPhoto">Send as Photo</string>
+  <string name="SendAsPhotos">Send as Photos</string>
+  <string name="SendAsVideo">Send as Video</string>
+  <string name="SendAsVideos">Send as Videos</string>
+  <string name="SendAsFile">Send as File</string>
+  <string name="SendAsFiles">Send as Files</string>
+  <string name="SendAsMedia">Send as Media</string>
+
 </resources>
