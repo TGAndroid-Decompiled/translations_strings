@@ -8017,7 +8017,7 @@ list of reactions.</string>
     <string name="BoostingGiveawayMsgWithDivider">with</string>
     <string name="BoostingGiveawayMsgPrizes_one">**%1$d** %2$s</string>
     <string name="BoostingGiveawayMsgPrizes_other">**%1$d** %2$s</string>
-    <string name="StoryReactionsWidgetLimit2_other">You can’t add up more than %d reactions tags to a story.</string>
+    <string name="StoryReactionsWidgetLimit2_other">You can’t add more than %d reaction stickers to a story.</string>
     <string name="UnconfirmedAuthTitle">Someone just got access to your messages!</string>
     <string name="UnconfirmedAuthConfirm">Yes, it\'s me</string>
     <string name="UnconfirmedAuthDeny">No, it’s not me!</string>
@@ -9803,11 +9803,11 @@ list of reactions.</string>
   <string name="StoryPremiumWidgets2_few">Subscribe to **Telegram Premium** to add up to %d reactions and tags to a story.</string>
   <string name="StoryPremiumWidgets2_many">Subscribe to **Telegram Premium** to add up to %d reactions and tags to a story.</string>
   <string name="StoryReactionsWidgetLimit">You can\'t add more than 5 reaction stickers to a story.</string>
-  <string name="StoryReactionsWidgetLimit2_zero">You can’t add up more than %d reactions tags to a story.</string>
+  <string name="StoryReactionsWidgetLimit2_zero">You can’t add more than %d reaction stickers to a story.</string>
   <string name="StoryReactionsWidgetLimit2_one"></string>
-  <string name="StoryReactionsWidgetLimit2_two">You can’t add up more than %d reactions tags to a story.</string>
-  <string name="StoryReactionsWidgetLimit2_few">You can’t add up more than %d reactions tags to a story.</string>
-  <string name="StoryReactionsWidgetLimit2_many">You can’t add up more than %d reactions tags to a story.</string>
+  <string name="StoryReactionsWidgetLimit2_two">You can’t add more than %d reaction stickers to a story.</string>
+  <string name="StoryReactionsWidgetLimit2_few">You can’t add more than %d reaction stickers to a story.</string>
+  <string name="StoryReactionsWidgetLimit2_many">You can’t add more than %d reaction stickers to a story.</string>
   <string name="StorySharedToManyChats_zero">Story forwarded to **%1$d chats**.</string>
   <string name="SubscriptionsCount">%1$s subscriptions</string>
   <string name="SyncContactsDeleteInfo">This will remove your contacts from the Telegram servers. If \'Sync Contacts\' is enabled, contacts will be re-synced.</string>
