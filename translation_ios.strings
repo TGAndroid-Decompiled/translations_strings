@@ -12203,6 +12203,7 @@ Sorry for the inconvenience.";
 
 "HashtagSearch.NoResults" = "No Results";
 "HashtagSearch.NoResultsQueryDescription" = "There were no results for %@.\nTry another hashtag.";
+"HashtagSearch.NoResultsQueryCashtagDescription" = "There were no results for %@.\nTry another cashtag.";
 
 "Chat.Context.Phone.AddToContacts" = "Add to Contacts";
 "Chat.Context.Phone.CreateNewContact" = "Create New Contact";
@@ -12215,6 +12216,21 @@ Sorry for the inconvenience.";
 "Chat.Context.Phone.CopyNumber" = "Copy Number";
 "Chat.Context.Phone.NotOnTelegram" = "This number is not on Telegram.";
 "Chat.Context.Phone.ViewProfile" = "View Profile";
+
+"Chat.Context.Username.SendMessage" = "Send Message";
+"Chat.Context.Username.OpenGroup" = "Open Group";
+"Chat.Context.Username.OpenChannel" = "Open Channel";
+"Chat.Context.Username.Copy" = "Copy Username";
+"Chat.Context.Username.NotOnTelegram" = "This user doesn't exist on Telegram.";
+
+"Chat.Context.Hashtag.Search" = "Search";
+"Chat.Context.Hashtag.Copy" = "Copy Hashtag";
+
+"Chat.Context.Card.Copy" = "Copy Card Number";
+
+"Chat.Context.Command.Copy" = "Copy Command";
+
+"Chat.Context.Timecode.Copy" = "Copy Timecode";
 
 "Message.FactCheck" = "Fact Check";
 "Message.FactCheck.WhatIsThis" = "what's this?";
@@ -12238,6 +12254,7 @@ Sorry for the inconvenience.";
 "Stars.Intro.Incoming" = "Incoming";
 "Stars.Intro.Outgoing" = "Outgoing";
 
+
 "Stars.Intro.Transaction.AppleTopUp.Title" = "Stars Top-Up";
 "Stars.Intro.Transaction.AppleTopUp.Subtitle" = "via App Store";
 "Stars.Intro.Transaction.GoogleTopUp.Title" = "Stars Top-Up";
@@ -12246,6 +12263,8 @@ Sorry for the inconvenience.";
 "Stars.Intro.Transaction.PremiumBotTopUp.Subtitle" = "via Premium Bot";
 "Stars.Intro.Transaction.FragmentTopUp.Title" = "Stars Top-Up";
 "Stars.Intro.Transaction.FragmentTopUp.Subtitle" = "via Fragment";
+"Stars.Intro.Transaction.FragmentWithdrawal.Title" = "Withdrawal";
+"Stars.Intro.Transaction.FragmentWithdrawal.Subtitle" = "via Fragment";
 "Stars.Intro.Transaction.Unsupported.Title" = "Unsupported";
 "Stars.Intro.Transaction.Refund" = "Refund";
 
@@ -12272,11 +12291,13 @@ Sorry for the inconvenience.";
 "Stars.Transaction.Via" = "Via";
 "Stars.Transaction.To" = "To";
 "Stars.Transaction.From" = "From";
+
 "Stars.Transaction.Id" = "Transaction ID";
 "Stars.Transaction.Date" = "Date";
 "Stars.Transaction.Terms" = "Review the [Terms of Service]() for Stars.";
 "Stars.Transaction.Terms_URL" = "https://telegram.org/tos/stars";
 "Stars.Transaction.CopiedId" = "Transaction ID copied to clipboard.";
+
 
 "Stars.Transaction.AppleTopUp.Title" = "Stars Top-Up";
 "Stars.Transaction.AppleTopUp.Subtitle" = "App Store";
@@ -12286,6 +12307,8 @@ Sorry for the inconvenience.";
 "Stars.Transaction.PremiumBotTopUp.Subtitle" = "Premium Bot";
 "Stars.Transaction.FragmentTopUp.Title" = "Stars Top-Up";
 "Stars.Transaction.FragmentTopUp.Subtitle" = "Fragment";
+"Stars.Transaction.FragmentWithdrawal.Title" = "Stars Withdrawal";
+"Stars.Transaction.FragmentWithdrawal.Subtitle" = "Fragment";
 "Stars.Transaction.Unsupported.Title" = "Unsupported";
 "Stars.Transaction.Refund" = "Refund";
 
@@ -12298,6 +12321,8 @@ Sorry for the inconvenience.";
 "Stars.Transfer.PurchasedText" = "You acquired **%1$@** in **%2$@** for **%3$@**.";
 "Stars.Transfer.Purchased.Stars_1" = "%@ Star";
 "Stars.Transfer.Purchased.Stars_any" = "%@ Stars";
+
+
 
 "Stars.Transfer.Balance" = "Balance";
 
@@ -12314,6 +12339,98 @@ Sorry for the inconvenience.";
 "BusinessLink.AlertTextLimitText" = "The message text limit is 4096 characters";
 
 "Chat.SendMessageMenu.EditMessage" = "Edit Message";
+
+"Story.ViewLink" = "Open Link";
+
+"PeerInfo.Bot.Username" = "Username";
+"PeerInfo.Bot.Balance" = "Balance";
+"PeerInfo.Bot.Balance.Stars_1" = "%@ Star";
+"PeerInfo.Bot.Balance.Stars_any" = "%@ Stars";
+
+"HashtagSearch.StoriesFound_1" = "%@ Story Found";
+"HashtagSearch.StoriesFound_any" = "%@ Stories Found";
+"HashtagSearch.StoriesFoundInfo" = "View stories with %@";
+
+"Stars.BotRevenue.Title" = "Stars Balance";
+"Stars.BotRevenue.Revenue.Title" = "Stars Received";
+"Stars.BotRevenue.Proceeds.Title" = "Rewards Overview";
+"Stars.BotRevenue.Proceeds.Available" = "Available Balance";
+"Stars.BotRevenue.Proceeds.Current" = "Total Balance";
+"Stars.BotRevenue.Proceeds.Total" = "Lifetime Proceeds";
+"Stars.BotRevenue.Proceeds.Info" = "Stars from your total balance can be used for ads or withdrawn as rewards 21 days after they are earned.";
+
+"Stars.BotRevenue.Withdraw.Balance" = "Available Balance";
+"Stars.BotRevenue.Withdraw.Withdraw" = "Withdraw via Fragment";
+"Stars.BotRevenue.Withdraw.WithdrawShort" = "Withdraw";
+"Stars.BotRevenue.Withdraw.BuyAds" = "Buy Ads";
+"Stars.BotRevenue.Withdraw.Info" = "You can collect rewards for Stars using Fragment, or use Stars to advertise your bot. [Learn More >]()";
+"Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
+
+"Stars.BotRevenue.Transactions.Title" = "Transaction History";
+
+"Stars.Withdraw.Title" = "Withdraw";
+"Stars.Withdraw.AmountTitle" = "ENTER AMOUNT TO WITHDRAW";
+"Stars.Withdraw.AmountPlaceholder" = "Stars Amount";
+"Stars.Withdraw.Withdraw" = "Withdraw";
+
+"Stars.Withdraw.Withdraw.ErrorMinimum" = "You cannot withdraw less than [%@]().";
+"Stars.Withdraw.Withdraw.ErrorMinimum.Stars_1" = "%@ Star";
+"Stars.Withdraw.Withdraw.ErrorMinimum.Stars_any" = "%@ Stars";
+
+"Stars.Withdraw.Withdraw.ErrorTimeout" = "Next withdrawal will be available in **%@**.";
+
+
+
+
+
+
+
+
+"MediaEditor.AddLink" = "LINK";
+
+"MediaEditor.Link.CreateTitle" = "Create Link";
+"MediaEditor.Link.EditTitle" = "Edit Link";
+"MediaEditor.Link.LinkTo.Title" = "LINK TO";
+"MediaEditor.Link.LinkTo.Placeholder" = "https://somesite.com";
+"MediaEditor.Link.LinkName.Title" = "LINK NAME (OPTIONAL)";
+"MediaEditor.Link.LinkName.Placeholder" = "Enter a Name";
+
+"Story.Editor.TooltipLinkPremium" = "Subscribe to [Telegram Premium]() to add links.";
+
+"Story.Editor.TooltipLinkLimitValue_1" = "**%@** link";
+"Story.Editor.TooltipLinkLimitValue_any" = "**%@** links";
+"Story.Editor.TooltipReachedLinkLimitText" = "You can't add more than %@ to a story.";
+
+"VoiceChat.ToastMicrophoneIsMuted" = "Your microphone is muted.";
+
+"StoryGridScreen.TitleLocationSearch" = "Location";
+"StoryList.GridHeaderLocationSearch_1" = "1 STORY FROM THIS LOCATION";
+"StoryList.GridHeaderLocationSearch_any" = "%d STORIES FROM THIS LOCATION";
+
+"Chat.MessagesDeletedToast.Text_1" = "Message Deleted";
+"Chat.MessagesDeletedToast.Text_any" = "%d Messages Deleted";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Premium.MessageEffects" = "Message Effects";
+"Premium.MessageEffectsInfo" = "Add over 500 animated effects to private messages.";
 
 
 /* new from translations.telegram.org */
@@ -12660,6 +12777,10 @@ Sorry for the inconvenience.";
 "Chat.MessageRangeDeleted.ForMe_2" = "Messages for %@ days deleted.";
 "Chat.MessageRangeDeleted.ForMe_3_10" = "Messages for %@ days deleted.";
 "Chat.MessageRangeDeleted.ForMe_many" = "Messages for %@ days deleted.";
+"Chat.MessagesDeletedToast.Text_0" = "%d Messages Deleted";
+"Chat.MessagesDeletedToast.Text_2" = "%d Messages Deleted";
+"Chat.MessagesDeletedToast.Text_3_10" = "%d Messages Deleted";
+"Chat.MessagesDeletedToast.Text_many" = "%d Messages Deleted";
 "Chat.MessagesUnpinned_0" = "%@ messages unpinned.";
 "Chat.MessagesUnpinned_2" = "%@ messages unpinned.";
 "Chat.MessagesUnpinned_3_10" = "%@ messages unpinned.";
@@ -12962,6 +13083,10 @@ Sorry for the inconvenience.";
 "GroupInfo.TitleMembers_2" = "%@ Members";
 "GroupInfo.TitleMembers_3_10" = "%@ Members";
 "GroupInfo.TitleMembers_many" = "%@ Members";
+"HashtagSearch.StoriesFound_0" = "%@ Stories Found";
+"HashtagSearch.StoriesFound_2" = "%@ Stories Found";
+"HashtagSearch.StoriesFound_3_10" = "%@ Stories Found";
+"HashtagSearch.StoriesFound_many" = "%@ Stories Found";
 "ImportStickerPack.EmojiCount_0" = "%@ Emoji";
 "ImportStickerPack.EmojiCount_2" = "%@ Emoji";
 "ImportStickerPack.EmojiCount_3_10" = "%@ Emoji";
@@ -13432,6 +13557,10 @@ Sorry for the inconvenience.";
 "PeerInfo.AllowedReactions.MaxCountValue_2" = "%d reactions";
 "PeerInfo.AllowedReactions.MaxCountValue_3_10" = "%d reactions";
 "PeerInfo.AllowedReactions.MaxCountValue_many" = "%d reactions";
+"PeerInfo.Bot.Balance.Stars_0" = "%@ Stars";
+"PeerInfo.Bot.Balance.Stars_2" = "%@ Stars";
+"PeerInfo.Bot.Balance.Stars_3_10" = "%@ Stars";
+"PeerInfo.Bot.Balance.Stars_many" = "%@ Stars";
 "PeerInfo.BusinessHours.StatusOpensInDays_0" = "Opens in %d days";
 "PeerInfo.BusinessHours.StatusOpensInDays_2" = "Opens in %d days";
 "PeerInfo.BusinessHours.StatusOpensInDays_3_10" = "Opens in %d days";
@@ -13631,6 +13760,10 @@ Sorry for the inconvenience.";
 "Stars.Transfer.Purchased.Stars_2" = "%@ Stars";
 "Stars.Transfer.Purchased.Stars_3_10" = "%@ Stars";
 "Stars.Transfer.Purchased.Stars_many" = "%@ Stars";
+"Stars.Withdraw.Withdraw.ErrorMinimum.Stars_0" = "%@ Stars";
+"Stars.Withdraw.Withdraw.ErrorMinimum.Stars_2" = "%@ Stars";
+"Stars.Withdraw.Withdraw.ErrorMinimum.Stars_3_10" = "%@ Stars";
+"Stars.Withdraw.Withdraw.ErrorMinimum.Stars_many" = "%@ Stars";
 "Stats.Boosts.Boosters_0" = "%@ BOOSTERS";
 "Stats.Boosts.Boosters_2" = "%@ BOOSTERS";
 "Stats.Boosts.Boosters_3_10" = "%@ BOOSTERS";
@@ -13704,6 +13837,10 @@ Sorry for the inconvenience.";
 "Story.Editor.ExpirationValue_2" = "%d Hours";
 "Story.Editor.ExpirationValue_3_10" = "%d Hours";
 "Story.Editor.ExpirationValue_many" = "%d Hours";
+"Story.Editor.TooltipLinkLimitValue_0" = "**%@** links";
+"Story.Editor.TooltipLinkLimitValue_2" = "**%@** links";
+"Story.Editor.TooltipLinkLimitValue_3_10" = "**%@** links";
+"Story.Editor.TooltipLinkLimitValue_many" = "**%@** links";
 "Story.Editor.TooltipPremiumMore" = "More";
 "Story.Editor.TooltipPremiumReactionLimitValue_0" = "**%@** reaction stickers";
 "Story.Editor.TooltipPremiumReactionLimitValue_2" = "**%@** reaction stickers";
@@ -13750,6 +13887,10 @@ Sorry for the inconvenience.";
 "StoryList.DeleteConfirmation.Title_2" = "Delete %d stories?";
 "StoryList.DeleteConfirmation.Title_3_10" = "Delete %d stories?";
 "StoryList.DeleteConfirmation.Title_many" = "Delete %d stories?";
+"StoryList.GridHeaderLocationSearch_0" = "%d STORIES FROM THIS LOCATION";
+"StoryList.GridHeaderLocationSearch_2" = "%d STORIES FROM THIS LOCATION";
+"StoryList.GridHeaderLocationSearch_3_10" = "%d STORIES FROM THIS LOCATION";
+"StoryList.GridHeaderLocationSearch_many" = "%d STORIES FROM THIS LOCATION";
 "StoryList.SubtitleArchived_0" = "%d archived posts";
 "StoryList.SubtitleArchived_2" = "%d archived posts";
 "StoryList.SubtitleArchived_3_10" = "%d archived posts";
