@@ -10836,6 +10836,14 @@
 "Context.CopyToClipboard" = "Copy to Clipboard";
 
 
+"Fragment.Star.Withdraw" = "Withdraw";
+"Fragment.Star.WithdrawInput" = "Withdraw %@";
+
+"Fragment.Star.WithdrawPlaceholder" = "ENTER AMOUNT TO WITHDRAW";
+
+"Fragment.Star.AmountPlaceholder" = "Stars Amount";
+
+
 /* new from translations.telegram.org */
 
 "Admins.Creator" = "Owner";
