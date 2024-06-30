@@ -10854,7 +10854,7 @@
 "PaidMedia.Header" = "ENTER UNLOCK COST";
 "PaidMedia.Title" = "Paid Content";
 "PaidMedia.Ok" = "Make This Media Paid";
-"PaidMedia.Info" = "Users will have to transfer this amount of Stars to your channel in order to view this media. [More about stars >](https://telegram.org)";
+"PaidMedia.Info" = "Users will have to transfer this amount of Stars to your channel in order to view this media. [More about stars >](https://telegram.org/tos/stars)";
 
 "PaidMedia.UnlockFor_countable" = "%d";
 "PaidMedia.UnlockFor_zero" = "Unlock for # %d";
