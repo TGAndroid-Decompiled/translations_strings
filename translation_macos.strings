@@ -10518,12 +10518,12 @@
 
 
 "StoryMedia.Tooltip.Limit_countable" = "%d";
-"StoryMedia.Tooltip.Limit_zero" = "You can't pin more then %d stories";
-"StoryMedia.Tooltip.Limit_one" = "You can't pin more then %d story";
-"StoryMedia.Tooltip.Limit_two" = "You can't pin more then %d stories";
-"StoryMedia.Tooltip.Limit_few" = "You can't pin more then %d stories";
-"StoryMedia.Tooltip.Limit_many" = "You can't pin more then %d stories";
-"StoryMedia.Tooltip.Limit_other" = "You can't pin more then %d stories";
+"StoryMedia.Tooltip.Limit_zero" = "You can't pin more than %d posts";
+"StoryMedia.Tooltip.Limit_one" = "You can't pin more than %d post";
+"StoryMedia.Tooltip.Limit_two" = "You can't pin more than %d posts";
+"StoryMedia.Tooltip.Limit_few" = "You can't pin more than %d posts";
+"StoryMedia.Tooltip.Limit_many" = "You can't pin more than %d posts";
+"StoryMedia.Tooltip.Limit_other" = "You can't pin more than %d posts";
 
 
 "ChatList.GracePeriod.Title" = "⚠️ Your Premium subscription is expiring!";
@@ -10854,7 +10854,7 @@
 "PaidMedia.Header" = "ENTER UNLOCK COST";
 "PaidMedia.Title" = "Paid Content";
 "PaidMedia.Ok" = "Make This Media Paid";
-"PaidMedia.Info" = "Users will have to transfer this amount of Stars to your channel in order to view this media. [More about stars >](https://telegram.org/tos/stars)";
+"PaidMedia.Info" = "Users will have to transfer this amount of Stars to your channel in order to view this media. [More about stars >](https://telegram.org/blog/telegram-stars)";
 
 "PaidMedia.UnlockFor_countable" = "%d";
 "PaidMedia.UnlockFor_zero" = "Unlock for # %d";
