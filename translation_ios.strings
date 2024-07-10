@@ -12452,10 +12452,11 @@ Sorry for the inconvenience.";
 "Monetization.Balance.StarsInfo" = "You can collect rewards for Stars using Fragment, or use Stars to advertise your channel. [Learn More >]()";
 "Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
 
-"Monetization.StarsProceeds.Title" = "Rewards Overview";
+"Monetization.StarsProceeds.Title" = "REWARDS OVERVIEW";
 "Monetization.StarsProceeds.Available" = "Available Balance";
 "Monetization.StarsProceeds.Current" = "Total Balance";
 "Monetization.StarsProceeds.Total" = "Lifetime Proceeds";
+"Monetization.StarsProceeds.Info" = "";
 
 "Premium.MessageEffects" = "Message Effects";
 "Premium.MessageEffectsInfo" = "Add over 500 animated effects to private messages.";
@@ -12473,11 +12474,19 @@ Sorry for the inconvenience.";
 "WebApp.MinimizedTitle.Others_1" = "%@ Other";
 "WebApp.MinimizedTitle.Others_any" = "%@ Others";
 
+"WebApp.Minimized.CloseAllTitle" = "Are you sure you want to close all open tabs?";
+"WebApp.Minimized.CloseAll_1" = "Close All %@ Tab";
+"WebApp.Minimized.CloseAll_any" = "Close All %@ Tabs";
 
 
 
 
 
+
+
+"ChatList.DeleteForMe" = "Delete for me";
+"ChatList.DeleteForAllWhenPossible" = "Delete from both sides where possible";
+"ChatList.DeleteForAll" = "Delete from both sides";
 
 
 /* new from translations.telegram.org */
@@ -14116,6 +14125,10 @@ Sorry for the inconvenience.";
 "VoiceOver.Chat.PollVotes_2" = "%@ votes";
 "VoiceOver.Chat.PollVotes_3_10" = "%@ votes";
 "VoiceOver.Chat.PollVotes_many" = "%@ votes";
+"WebApp.Minimized.CloseAll_0" = "Close All %@ Tabs";
+"WebApp.Minimized.CloseAll_2" = "Close All %@ Tabs";
+"WebApp.Minimized.CloseAll_3_10" = "Close All %@ Tabs";
+"WebApp.Minimized.CloseAll_many" = "Close All %@ Tabs";
 "WebApp.MinimizedTitle.Others_0" = "%@ Others";
 "WebApp.MinimizedTitle.Others_2" = "%@ Others";
 "WebApp.MinimizedTitle.Others_3_10" = "%@ Others";

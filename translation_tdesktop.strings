@@ -1,9 +1,9 @@
-/*
-This file is part of Telegram Desktop,
-the official desktop application for the Telegram messaging service.
-
-For license and copyright information please follow this link:
-https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
+/* 
+This file is part of Telegram Desktop, 
+the official desktop application for the Telegram messaging service. 
+ 
+For license and copyright information please follow this link: 
+https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL 
 */
 "lng_language_name" = "English";
 "lng_switch_to_this" = "Continue in English";
@@ -1115,6 +1115,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_faq" = "Telegram FAQ";
 "lng_settings_faq_link" = "https://telegram.org/faq#general-questions";
 "lng_settings_features" = "Telegram Features";
+"lng_settings_credits" = "Your Stars";
 "lng_settings_logout" = "Log out";
 "lng_sure_logout" = "Are you sure you want to log out?";
 
@@ -3186,6 +3187,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_unread_bar_some" = "Unread messages";
 
 "lng_maps_point" = "Location";
+
 "lng_live_location" = "Live Location";
 "lng_live_location_now" = "updated just now";
 "lng_live_location_minutes#one" = "updated {count} minute ago";
