@@ -9025,10 +9025,10 @@ list of reactions.</string>
     <string name="BotStarsWithdrawInfoLink">https://telegram.org/privacy</string>
     <string name="BotStarsButtonWithdrawUntil">Withdraw via Fragment</string>
     <string name="BotStarsButtonWithdrawAll">Withdraw all via Fragment</string>
-    
-    
-    
-    
+    <string name="BotStarsButtonWithdrawShortAll">Withdraw all</string>
+    <string name="BotStarsButtonWithdrawShort_one">Withdraw &#11088;&#65039;%d</string>
+    <string name="BotStarsButtonWithdrawShort_other">Withdraw &#11088;&#65039;%d</string>
+    <string name="BotStarsButtonWithdrawShortUntil">Withdraw</string>
     <string name="BotStarsWithdrawPlaceholder">Enter amount to withdraw</string>
     <string name="BotStarsButtonWithdraw_one">Withdraw &#11088;&#65039;%d via Fragment</string>
     <string name="BotStarsButtonWithdraw_other">Withdraw &#11088;&#65039;%d via Fragment</string>
@@ -9432,6 +9432,10 @@ list of reactions.</string>
   <string name="BotStarsButtonWithdraw_two">Withdraw &#11088;&#65039;%d via Fragment</string>
   <string name="BotStarsButtonWithdraw_few">Withdraw &#11088;&#65039;%d via Fragment</string>
   <string name="BotStarsButtonWithdraw_many">Withdraw &#11088;&#65039;%d via Fragment</string>
+  <string name="BotStarsButtonWithdrawShort_zero">Withdraw &#11088;&#65039;%d</string>
+  <string name="BotStarsButtonWithdrawShort_two">Withdraw &#11088;&#65039;%d</string>
+  <string name="BotStarsButtonWithdrawShort_few">Withdraw &#11088;&#65039;%d</string>
+  <string name="BotStarsButtonWithdrawShort_many">Withdraw &#11088;&#65039;%d</string>
   <string name="BotStarsWithdrawMinLimit_zero">You cannot withdraw less than **%d stars**.</string>
   <string name="BotStarsWithdrawMinLimit_one">You cannot withdraw less than **%d star**.</string>
   <string name="BotStarsWithdrawMinLimit_two">You cannot withdraw less than **%d stars**.</string>
