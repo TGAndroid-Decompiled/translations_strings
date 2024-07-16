@@ -10199,8 +10199,8 @@
   <string name="StarsConfirmPurchaseMedia_Photos_other">**{0} photos**</string>
   <string name="StarsConfirmPurchaseMedia_SinglePhoto">a **photo**</string>
   <string name="StarsConfirmPurchaseMedia_SingleVideo">a **video**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_one">**{1} video**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_other">**{1} videos**</string>
+  <string name="StarsConfirmPurchaseMedia_Videos_one">**{0} video**</string>
+  <string name="StarsConfirmPurchaseMedia_Videos_other">**{0} videos**</string>
 
 
   <!-- new from translations.telegram.org -->
@@ -10218,10 +10218,10 @@
   <string name="StarsConfirmPurchaseMedia_Photos_two">**{0} photos**</string>
   <string name="StarsConfirmPurchaseMedia_Photos_few">**{0} photos**</string>
   <string name="StarsConfirmPurchaseMedia_Photos_many">**{0} photos**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_zero">**{1} videos**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_two">**{1} videos**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_few">**{1} videos**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_many">**{1} videos**</string>
+  <string name="StarsConfirmPurchaseMedia_Videos_zero">**{0} videos**</string>
+  <string name="StarsConfirmPurchaseMedia_Videos_two">**{0} videos**</string>
+  <string name="StarsConfirmPurchaseMedia_Videos_few">**{0} videos**</string>
+  <string name="StarsConfirmPurchaseMedia_Videos_many">**{0} videos**</string>
   <string name="UnlockPaidContent_zero">Unlock for &#11088;&#65039;{0}</string>
   <string name="UnlockPaidContent_two">Unlock for &#11088;&#65039;{0}</string>
   <string name="UnlockPaidContent_few">Unlock for &#11088;&#65039;{0}</string>
