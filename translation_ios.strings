@@ -12356,7 +12356,7 @@ Sorry for the inconvenience.";
 "Stars.Transfer.SingleVideo" = "video";
 "Stars.Transfer.MediaAnd" = "%1$@ and %2$@";
 
-"Settings.Stars" = "Your Stars";
+"Settings.Stars" = "My Stars";
 
 "Chat.MessageEffectMenu.TitleAddEffect" = "Add an animated effect";
 "Chat.MessageEffectMenu.SectionMessageEffects" = "Message Effects";
