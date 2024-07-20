@@ -10202,6 +10202,10 @@
   <string name="StarsConfirmPurchaseMedia_Videos_one">**{0} video**</string>
   <string name="StarsConfirmPurchaseMedia_Videos_other">**{0} videos**</string>
 
+  <string name="GifSavedHint">Added to Favorite GIFs.</string>
+  <string name="AddedToFavorites">Sticker added to Favorites.</string>
+  <string name="RemovedFromFavorites">Sticker was removed from Favorites</string>
+
 
   <!-- new from translations.telegram.org -->
 
