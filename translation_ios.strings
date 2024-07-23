@@ -12253,7 +12253,7 @@ Sorry for the inconvenience.";
 "Conversation.ContextMenuEditFactCheck" = "Edit Fact Check";
 
 "Stars.Intro.Title" = "Telegram Stars";
-"Stars.Intro.Description" = "Buy Stars to unlock content and services in miniapps on Telegram.";
+"Stars.Intro.Description" = "Buy Stars to unlock content and services in mini apps on Telegram.";
 "Stars.Intro.Balance" = "Balance";
 "Stars.Intro.YourBalance" = "your balance";
 "Stars.Intro.Buy" = "Buy More Stars";
@@ -12289,8 +12289,8 @@ Sorry for the inconvenience.";
 
 "Stars.Purchase.StarsNeeded_1" = "%@ Star Needed";
 "Stars.Purchase.StarsNeeded_any" = "%@ Stars Needed";
-"Stars.Purchase.StarsNeededInfo" = "Buy Stars to use them on **%@** and other miniapps.";
-"Stars.Purchase.StarsNeededUnlockInfo" = "Buy Stars to unlock media and use them on miniapps.";
+"Stars.Purchase.StarsNeededInfo" = "Buy Stars to use them on **%@** and other mini apps.";
+"Stars.Purchase.StarsNeededUnlockInfo" = "Buy Stars to unlock media and use them on mini apps.";
 
 "Stars.Purchase.Stars_1" = "%@ Star";
 "Stars.Purchase.Stars_any" = "%@ Stars";
@@ -12488,7 +12488,7 @@ Sorry for the inconvenience.";
 "ChatList.DeleteForAllWhenPossible" = "Delete from both sides where possible";
 "ChatList.DeleteForAll" = "Delete from both sides";
 
-"WebApp.Miniapp" = "miniapp";
+"WebApp.Miniapp" = "mini app";
 "WebApp.Share" = "Share";
 
 
