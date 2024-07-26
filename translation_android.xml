@@ -157,6 +157,8 @@
     <string name="SetEmojiStatus">Set Emoji Status</string>
     <string name="ChangeEmojiStatus">Change Status</string>
     <string name="Settings">Settings</string>
+    
+    
     <string name="Contacts">Contacts</string>
     <string name="NewGroup">New Group</string>
     <string name="Yesterday">yesterday</string>
@@ -547,6 +549,7 @@
     <string name="ChannelRestrictedUsers">Restricted users</string>
     <string name="ChannelAdministrators">Administrators</string>
     <string name="ChannelAdminSettings">Channel Settings</string>
+    
     <string name="ChannelDelete">Delete Channel</string>
     <string name="ChannelDeleteMenu">Delete channel</string>
     <string name="ChannelDeleteAlert">Deleting this channel will remove all subscribers and all posts will be lost. Delete the channel anyway?</string>
@@ -2574,8 +2577,6 @@
     <string name="SecretWebPage">Link Previews</string>
     <string name="SecretWebPageInfo">Link previews will be generated on Telegram servers. We do not store any data about the links you send.</string>
     <string name="SecretChat">Secret Chats</string>
-    <string name="ChromeCustomTabs">In-App Browser</string>
-    <string name="ChromeCustomTabsInfo">Open external links within the app</string>
     <string name="DirectShare">Direct Share</string>
     <string name="DirectShareInfo">Show recent chats in Android share menu</string>
     <string name="Emoji">Emoji</string>
@@ -2604,6 +2605,7 @@
     <string name="DebugMenuClearMediaCache">Clear sent media cache</string>
     <string name="DebugMenuCallSettings">Call settings</string>
     <string name="DebugMenuClearWebViewCache">Clear WebView cache</string>
+    
     <string name="DebugMenuEnableWebViewDebug">Enable WebView debug</string>
     <string name="DebugMenuDisableWebViewDebug">Disable WebView debug</string>
     <string name="DebugMenuWebViewDebugEnabled">Debug enabled!</string>
@@ -3372,9 +3374,6 @@
     <string name="ClearSearch">Clear search history?</string>
     <string name="ClearSearchAlert">Do you want to clear your search history?</string>
     <string name="ClearSearchAlertPartial_one">Do you want to remove this chat from your search history?</string>
-    <string name="ClearSearchAlertPartial_two">Do you want to remove these %1$d chats from your search history?</string>
-    <string name="ClearSearchAlertPartial_few">Do you want to remove these %1$d chats from your search history?</string>
-    <string name="ClearSearchAlertPartial_many">Do you want to remove these %1$d chats from your search history?</string>
     <string name="ClearSearchAlertPartial_other">Do you want to remove these %1$d chats from your search history?</string>
     <string name="ClearSearchAlertTitle">Clear search history</string>
     <string name="ClearSearchAlertPartialTitle">Remove from search history</string>
@@ -3876,6 +3875,7 @@
     <string name="ActionInviteUser">un1 joined the group via invite link</string>
     <string name="ActionInviteUserFolder">un1 joined the group via folder invite link</string>
     <string name="ActionKickUser">un1 removed un2</string>
+    
     <string name="ActionLeftUser">un1 left the group</string>
     <string name="ActionAddUser">un1 added un2</string>
     <string name="ActionRemovedPhoto">un1 removed the group photo</string>
@@ -4144,6 +4144,7 @@
     <string name="PermissionNoCameraWithHint">**Telegram** needs camera access so that you can take photos and videos. Tap Settings &gt; Permissions, and turn **Camera** on.</string>
     <string name="PermissionNoCameraMicVideo">**Telegram** needs camera and microphone access so that you can send video messages. Tap Settings &gt; Permissions, and turn **Microphone** and **Camera** on.</string>
     <string name="PermissionNoLocation">Telegram needs access to your location so that you can share it with your friends.</string>
+    
     <string name="PermissionNoLocationPosition">Telegram needs access to your location.</string>
     <string name="PermissionNoLocationFriends">**Telegram** needs access to location so that you can share it with your friends. Tap Settings &gt; Permissions, and turn **Location** on.</string>
     <string name="PermissionNoLocationPeopleNearby">**Telegram** needs access to location so that you can find people nearby. Tap Settings &gt; Permissions, and turn **Location** on.</string>
@@ -6093,12 +6094,20 @@
     <string name="BotRemoveInlineFromMenu">Remove **%1$s** from suggestions?</string>
     <string name="BotWebViewRequestGeolocationPermission">Allow **%1$s** to access your location?\n\nThe developer of **%1$s** will be able to access your location when this web app is open.</string>
     <string name="BotWebViewRequestGeolocationPermissionWithHint">Allow **%1$s** to access your location?\n\nThe developer of **%1$s** will be able to access your location when this web app is open.\n\nGo to Settings &gt; Permissions and turn **Location** on to share location data.</string>
+    
+    
     <string name="BotWebViewRequestMicrophonePermission">Allow **%1$s** to access your microphone?\n\nThe developer of **%1$s** will be able to access your microphone when this web app is open.</string>
     <string name="BotWebViewRequestMicrophonePermissionWithHint">Allow **%1$s** to access to your microphone?\n\nThe developer of **%1$s** will be able to access your microphone when this web app is open.\n\nEnable microphone access in Settings &gt; Permissions &gt; Microphone.</string>
+    
+    
     <string name="BotWebViewRequestCameraPermission">Allow **%1$s** to access your camera?\n\nThe developer of **%1$s** will be able to access your camera when this web app is open.</string>
     <string name="BotWebViewRequestCameraPermissionWithHint">Allow **%1$s** to access your camera?\n\nThe developer of **%1$s** will be able to access your camera when this web app is open.\n\nEnable camera access in Settings &gt; Permissions &gt; Camera.</string>
+    
+    
     <string name="BotWebViewRequestCameraMicPermission">Allow **%1$s** to access to your camera and microphone?\n\nThe developer of **%1$s** will be able to access your camera and microphone when this web app is open.</string>
     <string name="BotWebViewRequestCameraMicPermissionWithHint">Allow **%1$s** to access to your camera and microphone?\n\nThe developer of **%1$s** will be able to access your camera and microphone when this web app is open.\n\nEnable camera access in Settings &gt; Permissions &gt; Camera.</string>
+    
+    
     <string name="ErrorRingtoneDurationTooLong">Maximum length is %s seconds.</string>
     <string name="ErrorRingtoneSizeTooBig">Size must be under %s KB.</string>
     <string name="ErrorRingtoneInvalidFormat">File must be in MP3 or Ogg format.</string>
@@ -6362,6 +6371,8 @@
     <string name="PremiumPreviewEmojiStatusDescription">Choose from thousands of emoji to display current activity next to your name.</string>
     <string name="PremiumPreviewTranslations">Real-Time Translation</string>
     <string name="PremiumPreviewTranslationsDescription">Real-time translation of chats and channels into other languages.</string>
+    
+    
     <string name="PremiumPreviewWallpaper">Wallpaper for Both Sides</string>
     <string name="PremiumPreviewWallpaperDescription">Set custom wallpapers for you and your chat partner.</string>
     <string name="PremiumPreviewProfileColor">Name and Profile Colors</string>
@@ -7252,6 +7263,7 @@
     <string name="ArchiveStories_many">Archive Stories</string>
     <string name="ArchiveStories_other">Archive Stories</string>
     <string name="EditStory">Edit Story</string>
+    
     <string name="WhoCanSee">Who can see</string>
     <string name="Everyone">Everyone</string>
     <string name="CloseFriends">Close Friends</string>
@@ -7389,6 +7401,7 @@
     <string name="ArchivedStories">Archived Stories</string>
     <string name="SavedStories">Posted Stories</string>
     <string name="RecorderNewStory">New Story</string>
+    
     <string name="RecorderEditStory">Edit</string>
     <string name="RecorderRepost">Repost</string>
     <string name="StoryAllowScreenshots">Allow Screenshots</string>
@@ -8692,8 +8705,11 @@ list of reactions.</string>
     <string name="MonetizationInfo">Telegram shares %1$d%% of the revenue from ads displayed in your channel as rewards. **Learn more &gt;**</string>
     <string name="MonetizationBalance">Available reward</string>
     <string name="MonetizationBalanceInfo">You can collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. **Learn more &gt;**</string>
-    <string name="MonetizationProceedsInfo">Stars from your total balance can be used for ads or withdrawn as rewards 21 days after they are earned.</string>
-    <string name="MonetizationProceedsInfoLink">https://telegram.org/tos/content-creator-rewards</string>
+    
+    
+    
+    
+    
     
     
     <string name="MonetizationBalanceInfoLink">https://telegram.org/tos/content-creator-rewards</string>
@@ -8935,6 +8951,7 @@ list of reactions.</string>
     <string name="TelegramStars">Telegram Stars</string>
     <string name="TelegramStarsInfo">Buy Stars to unlock content and services\nin miniapps on Telegram.</string>
     <string name="TelegramStarsChoose">Choose package</string>
+    
     <string name="StarsCount_one">%d Star</string>
     <string name="StarsCount_other">%d Stars</string>
     <string name="StarsTOS">By proceeding and purchasing Stars, you agree with the **Terms and Conditions**.</string>
@@ -8944,6 +8961,8 @@ list of reactions.</string>
     <string name="StarsTransactionsIncoming">Incoming</string>
     <string name="StarsTransactionsOutgoing">Outgoing</string>
     <string name="StarsTransactionInApp">In-App Purchase</string>
+    
+    
     <string name="StarsTransactionBot">Stars Top-Up Bot</string>
     <string name="StarsTransactionUnsupported">In-App Purchase</string>
     <string name="StarsTransactionAds">Ads</string>
@@ -9077,6 +9096,157 @@ list of reactions.</string>
     <string name="StarsConfirmPurchaseMediaTwo2_one">Do you want to unlock %2$s and %3$s in **%4$s** for **%1$d star**?</string>
     <string name="StarsConfirmPurchaseMediaTwo2_other">Do you want to unlock %2$s and %3$s in **%4$s** for **%1$d stars**?</string>
     <string name="AttachPaidMedia">&#11088;&#65039; %s</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
   <!-- new from translations.telegram.org -->
 
@@ -9507,6 +9677,8 @@ list of reactions.</string>
   <string name="ChannelTopicsForbidden_two">Only groups with more than **%1$d members** can have topics enabled.</string>
   <string name="ChatThemeDayNightSwitchTooltip">Tap to view this theme in the night mode.</string>
   <string name="ChooseMapPreviewProvider">Choose Map Preview Provider</string>
+  <string name="ChromeCustomTabs">In-App Browser</string>
+  <string name="ChromeCustomTabsInfo">Open external links within the app</string>
   <string name="ClearHistoryMessageMultiple_zero">Are you sure you want to unsave messages from %d chats?</string>
   <string name="ClearHistoryMessageMultiple_one"></string>
   <string name="ClearHistoryMessageMultiple_two">Are you sure you want to unsave messages from %d chats?</string>
@@ -9520,6 +9692,9 @@ list of reactions.</string>
   <string name="ClearHistoryTitleSingle">Unsave messages from %s</string>
   <string name="ClearRecentEmoji">Clear recent emoji?</string>
   <string name="ClearSearchAlertPartial_zero">Do you want to remove these %1$d chats from your search history?</string>
+  <string name="ClearSearchAlertPartial_two">Do you want to remove these %1$d chats from your search history?</string>
+  <string name="ClearSearchAlertPartial_few">Do you want to remove these %1$d chats from your search history?</string>
+  <string name="ClearSearchAlertPartial_many">Do you want to remove these %1$d chats from your search history?</string>
   <string name="ConnectingToProxyDisable">Disable</string>
   <string name="ConnectingToProxyDisableAlert">Are you sure you want to disable proxy server %1$s? You can reenable it later in Settings &gt; Data and Storage.</string>
   <string name="ConnectingToProxyTapToDisable">Tap here to disable proxy...</string>
@@ -9664,6 +9839,8 @@ list of reactions.</string>
   <string name="MonetizationMoreTransactions_two">Show %d more transactions</string>
   <string name="MonetizationMoreTransactions_few">Show %d more transactions</string>
   <string name="MonetizationMoreTransactions_many">Show %d more transactions</string>
+  <string name="MonetizationProceedsInfo">Stars from your total balance can be used for ads or withdrawn as rewards 21 days after they are earned.</string>
+  <string name="MonetizationProceedsInfoLink">https://telegram.org/tos/content-creator-rewards</string>
   <string name="MonetizationStarsWithdraw_zero">Withdraw &#11088;&#65039;%d</string>
   <string name="MonetizationStarsWithdraw_one"></string>
   <string name="MonetizationStarsWithdraw_two">Withdraw &#11088;&#65039;%d</string>
