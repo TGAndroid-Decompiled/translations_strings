@@ -157,8 +157,8 @@
     <string name="SetEmojiStatus">Set Emoji Status</string>
     <string name="ChangeEmojiStatus">Change Status</string>
     <string name="Settings">Settings</string>
-    
-    
+    <string name="Refresh">Refresh</string>
+    <string name="AddressPlaceholder">Search %s or type URL</string>
     <string name="Contacts">Contacts</string>
     <string name="NewGroup">New Group</string>
     <string name="Yesterday">yesterday</string>
@@ -549,7 +549,7 @@
     <string name="ChannelRestrictedUsers">Restricted users</string>
     <string name="ChannelAdministrators">Administrators</string>
     <string name="ChannelAdminSettings">Channel Settings</string>
-    
+    <string name="ChannelStars">Balance</string>
     <string name="ChannelDelete">Delete Channel</string>
     <string name="ChannelDeleteMenu">Delete channel</string>
     <string name="ChannelDeleteAlert">Deleting this channel will remove all subscribers and all posts will be lost. Delete the channel anyway?</string>
@@ -2605,7 +2605,7 @@
     <string name="DebugMenuClearMediaCache">Clear sent media cache</string>
     <string name="DebugMenuCallSettings">Call settings</string>
     <string name="DebugMenuClearWebViewCache">Clear WebView cache</string>
-    
+    <string name="DebugMenuClearWebViewCookies">Clear WebView cookies</string>
     <string name="DebugMenuEnableWebViewDebug">Enable WebView debug</string>
     <string name="DebugMenuDisableWebViewDebug">Disable WebView debug</string>
     <string name="DebugMenuWebViewDebugEnabled">Debug enabled!</string>
@@ -3875,7 +3875,7 @@
     <string name="ActionInviteUser">un1 joined the group via invite link</string>
     <string name="ActionInviteUserFolder">un1 joined the group via folder invite link</string>
     <string name="ActionKickUser">un1 removed un2</string>
-    
+    <string name="ActionRefunded">un1 refunded back %1$s</string>
     <string name="ActionLeftUser">un1 left the group</string>
     <string name="ActionAddUser">un1 added un2</string>
     <string name="ActionRemovedPhoto">un1 removed the group photo</string>
@@ -4144,7 +4144,7 @@
     <string name="PermissionNoCameraWithHint">**Telegram** needs camera access so that you can take photos and videos. Tap Settings &gt; Permissions, and turn **Camera** on.</string>
     <string name="PermissionNoCameraMicVideo">**Telegram** needs camera and microphone access so that you can send video messages. Tap Settings &gt; Permissions, and turn **Microphone** and **Camera** on.</string>
     <string name="PermissionNoLocation">Telegram needs access to your location so that you can share it with your friends.</string>
-    
+    <string name="PermissionNoLocationStory">Telegram needs access to your location so that you can add your current weather widget to a story.</string>
     <string name="PermissionNoLocationPosition">Telegram needs access to your location.</string>
     <string name="PermissionNoLocationFriends">**Telegram** needs access to location so that you can share it with your friends. Tap Settings &gt; Permissions, and turn **Location** on.</string>
     <string name="PermissionNoLocationPeopleNearby">**Telegram** needs access to location so that you can find people nearby. Tap Settings &gt; Permissions, and turn **Location** on.</string>
@@ -6094,20 +6094,20 @@
     <string name="BotRemoveInlineFromMenu">Remove **%1$s** from suggestions?</string>
     <string name="BotWebViewRequestGeolocationPermission">Allow **%1$s** to access your location?\n\nThe developer of **%1$s** will be able to access your location when this web app is open.</string>
     <string name="BotWebViewRequestGeolocationPermissionWithHint">Allow **%1$s** to access your location?\n\nThe developer of **%1$s** will be able to access your location when this web app is open.\n\nGo to Settings &gt; Permissions and turn **Location** on to share location data.</string>
-    
-    
+    <string name="WebViewRequestGeolocationPermission">Allow **%1$s** to access to your location?\n\n**%1$s** will be able to access your location when this website is open.</string>
+    <string name="WebViewRequestGeolocationPermissionWithHint">Allow **%1$s** to access to your location?\n\n**%1$s** will be able to access your location when this website is open.\n\nGo to Settings &gt; Permissions and turn **Location** on to share location data.</string>
     <string name="BotWebViewRequestMicrophonePermission">Allow **%1$s** to access your microphone?\n\nThe developer of **%1$s** will be able to access your microphone when this web app is open.</string>
     <string name="BotWebViewRequestMicrophonePermissionWithHint">Allow **%1$s** to access to your microphone?\n\nThe developer of **%1$s** will be able to access your microphone when this web app is open.\n\nEnable microphone access in Settings &gt; Permissions &gt; Microphone.</string>
-    
-    
+    <string name="WebViewRequestMicrophonePermission">Allow **%1$s** to access to your microphone?\n\n**%1$s** will be able to access your microphone when this website is open.</string>
+    <string name="WebViewRequestMicrophonePermissionWithHint">Allow **%1$s** to access to your microphone?\n\n**%1$s** will be able to access your microphone when this website is open.\n\nEnable microphone access in Settings &gt; Permissions &gt; Microphone.</string>
     <string name="BotWebViewRequestCameraPermission">Allow **%1$s** to access your camera?\n\nThe developer of **%1$s** will be able to access your camera when this web app is open.</string>
     <string name="BotWebViewRequestCameraPermissionWithHint">Allow **%1$s** to access your camera?\n\nThe developer of **%1$s** will be able to access your camera when this web app is open.\n\nEnable camera access in Settings &gt; Permissions &gt; Camera.</string>
-    
-    
+    <string name="WebViewRequestCameraPermission">Allow **%1$s** to access to your camera?\n\n**%1$s** will be able to access your camera when this website is open.</string>
+    <string name="WebViewRequestCameraPermissionWithHint">Allow **%1$s** to access to your camera?\n\n**%1$s** will be able to access your camera when this website is open.\n\nEnable camera access in Settings &gt; Permissions &gt; Camera.</string>
     <string name="BotWebViewRequestCameraMicPermission">Allow **%1$s** to access to your camera and microphone?\n\nThe developer of **%1$s** will be able to access your camera and microphone when this web app is open.</string>
     <string name="BotWebViewRequestCameraMicPermissionWithHint">Allow **%1$s** to access to your camera and microphone?\n\nThe developer of **%1$s** will be able to access your camera and microphone when this web app is open.\n\nEnable camera access in Settings &gt; Permissions &gt; Camera.</string>
-    
-    
+    <string name="WebViewRequestCameraMicPermission">Allow **%1$s** to access to your camera and microphone?\n\n**%1$s** will be able to access your camera and microphone when this website is open.</string>
+    <string name="WebViewRequestCameraMicPermissionWithHint">Allow **%1$s** to access to your camera and microphone?\n\n**%1$s** will be able to access your camera and microphone when this website is open.\n\nEnable camera access in Settings &gt; Permissions &gt; Camera.</string>
     <string name="ErrorRingtoneDurationTooLong">Maximum length is %s seconds.</string>
     <string name="ErrorRingtoneSizeTooBig">Size must be under %s KB.</string>
     <string name="ErrorRingtoneInvalidFormat">File must be in MP3 or Ogg format.</string>
@@ -6371,8 +6371,8 @@
     <string name="PremiumPreviewEmojiStatusDescription">Choose from thousands of emoji to display current activity next to your name.</string>
     <string name="PremiumPreviewTranslations">Real-Time Translation</string>
     <string name="PremiumPreviewTranslationsDescription">Real-time translation of chats and channels into other languages.</string>
-    
-    
+    <string name="PremiumPreviewEffects">Message Effects</string>
+    <string name="PremiumPreviewEffectsDescription">Add over 500 animated effects to private messages.</string>
     <string name="PremiumPreviewWallpaper">Wallpaper for Both Sides</string>
     <string name="PremiumPreviewWallpaperDescription">Set custom wallpapers for you and your chat partner.</string>
     <string name="PremiumPreviewProfileColor">Name and Profile Colors</string>
@@ -7263,7 +7263,7 @@
     <string name="ArchiveStories_many">Archive Stories</string>
     <string name="ArchiveStories_other">Archive Stories</string>
     <string name="EditStory">Edit Story</string>
-    
+    <string name="EditBotPreview">Edit Preview</string>
     <string name="WhoCanSee">Who can see</string>
     <string name="Everyone">Everyone</string>
     <string name="CloseFriends">Close Friends</string>
@@ -7401,7 +7401,7 @@
     <string name="ArchivedStories">Archived Stories</string>
     <string name="SavedStories">Posted Stories</string>
     <string name="RecorderNewStory">New Story</string>
-    
+    <string name="RecorderEditCover">Story Cover</string>
     <string name="RecorderEditStory">Edit</string>
     <string name="RecorderRepost">Repost</string>
     <string name="StoryAllowScreenshots">Allow Screenshots</string>
@@ -8705,13 +8705,13 @@ list of reactions.</string>
     <string name="MonetizationInfo">Telegram shares %1$d%% of the revenue from ads displayed in your channel as rewards. **Learn more &gt;**</string>
     <string name="MonetizationBalance">Available reward</string>
     <string name="MonetizationBalanceInfo">You can collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. **Learn more &gt;**</string>
-    
-    
-    
-    
-    
-    
-    
+    <string name="MonetizationProceedsStarsInfo">Stars from your total balance become available for spending on ads and rewards 21 days after they are earned.</string>
+    <string name="MonetizationProceedsStarsInfoLink">https://telegram.org/tos/stars/</string>
+    <string name="MonetizationProceedsTONInfo">TON from your total balance become available for spending on ads and rewards 3 days after they are earned.</string>
+    <string name="MonetizationProceedsTONInfoLink">https://telegram.org/tos/content-creator-rewards</string>
+    <string name="MonetizationProceedsStarsTONInfo">Stars and TON from your total balance become available for spending on ads and rewards 21 and 3 days respectively after they are earned.</string>
+    <string name="MonetizationProceedsStarsTONInfoLink">https://telegram.org/tos/content-creator-rewards</string>
+    <string name="MonetizationProceedsInfoTONLink">https://telegram.org/tos/content-creator-rewards</string>
     <string name="MonetizationBalanceInfoLink">https://telegram.org/tos/content-creator-rewards</string>
     <string name="MonetizationBalanceInfoNotAvailable">In the coming weeks you will be able to collect your reward using Fragment, a third-party platform used by advertisers to pay ads. **Learn more &gt;**</string>
     <string name="MonetizationTransactions">Transaction history</string>
@@ -8951,7 +8951,7 @@ list of reactions.</string>
     <string name="TelegramStars">Telegram Stars</string>
     <string name="TelegramStarsInfo">Buy Stars to unlock content and services\nin miniapps on Telegram.</string>
     <string name="TelegramStarsChoose">Choose package</string>
-    
+    <string name="TelegramStarsGift">Gift Stars to Friends</string>
     <string name="StarsCount_one">%d Star</string>
     <string name="StarsCount_other">%d Stars</string>
     <string name="StarsTOS">By proceeding and purchasing Stars, you agree with the **Terms and Conditions**.</string>
@@ -8961,8 +8961,8 @@ list of reactions.</string>
     <string name="StarsTransactionsIncoming">Incoming</string>
     <string name="StarsTransactionsOutgoing">Outgoing</string>
     <string name="StarsTransactionInApp">In-App Purchase</string>
-    
-    
+    <string name="StarsTransactionUnknown">Unknown User</string>
+    <string name="StarsTransactionUnknownLink">https://fragment.com/stars</string>
     <string name="StarsTransactionBot">Stars Top-Up Bot</string>
     <string name="StarsTransactionUnsupported">In-App Purchase</string>
     <string name="StarsTransactionAds">Ads</string>
@@ -9096,6 +9096,107 @@ list of reactions.</string>
     <string name="StarsConfirmPurchaseMediaTwo2_one">Do you want to unlock %2$s and %3$s in **%4$s** for **%1$d star**?</string>
     <string name="StarsConfirmPurchaseMediaTwo2_other">Do you want to unlock %2$s and %3$s in **%4$s** for **%1$d stars**?</string>
     <string name="AttachPaidMedia">&#11088;&#65039; %s</string>
+    <string name="GiftStarsTitle">Gift Stars</string>
+    <string name="GiftStarsSubtitle">With Stars, **%s** will be able to unlock content and services on Telegram.</string>
+    <string name="GiftStarsSubtitleLinkName">**See Examples &gt;**</string>
+    <string name="ActionGiftStarsTitle_one">%d Star</string>
+    <string name="ActionGiftStarsTitle_other">%d Stars</string>
+    <string name="ActionGiftStarsSubtitle">With Stars, **%s** is able to unlock content and services on Telegram.</string>
+    <string name="ActionGiftStarsSubtitleYou">Use Stars to unlock content and services on Telegram.</string>
+    <string name="ActionGiftStarsView">View</string>
+    <string name="StarsGiftReceived">Received Gift</string>
+    <string name="StarsGiftSent">Sent Gift</string>
+    <string name="StarsGiftSentPopup">Stars Gift Sent!</string>
+    <string name="StarsGiftSentPopupInfo_one">**%1$d Star** sent as gift to %2$s.</string>
+    <string name="StarsGiftSentPopupInfo_other">**%1$d Stars** sent as gift to %2$s.</string>
+    <string name="WebEmpty">Webpage</string>
+    <string name="WebErrorTitle">Oops...</string>
+    <string name="WebErrorInfo">Failed to load page.</string>
+    <string name="WebErrorInfoDomain">Failed to load **%s**.</string>
+    <string name="WebDownloading">Downloading...</string>
+    <string name="WebDownloadingFile">Downloading %s...</string>
+    <string name="WebDownloadAlertTitle">Download file</string>
+    <string name="WebDownloadAlertInfo">Start downloading **%s**?</string>
+    <string name="WebDownloadAlertInfoWithSize">Start downloading **%1$s** (%2$s)?</string>
+    <string name="WebDownloadAlertYes">Download</string>
+    <string name="WebSectionRecent">Recent searches</string>
+    <string name="WebSectionBookmarks">Bookmarks</string>
+    <string name="WebRecentClear">Clear</string>
+    <string name="WebRecentClearTitle">Clear recent searches?</string>
+    <string name="WebRecentClearText">Do you want to clear your recent search queries?</string>
+    <string name="SearchEngine">Search Engine</string>
+    <string name="SearchEngineInfo">Search and auto-complete in browser search bar</string>
+    <string name="OpenInTelegramBrowser">Open in Telegram</string>
+    <string name="OpenInSystemBrowser">Open in...</string>
+    <string name="AppsTab">Apps</string>
+    <string name="ProfileBotOpenApp">Open App</string>
+    <string name="ProfileBotOpenAppInfo">By launching this mini app, you agree to the **Terms of Service for Mini Apps.**</string>
+    <string name="ProfileBotOpenAppInfoLink">https://telegram.org/tos/mini-apps</string>
+    <string name="ProfileBotOpenAppInfoOwner">By publishing this mini app, you agree to the **Telegram Terms of Service for Developers.**</string>
+    <string name="ProfileBotOpenAppInfoOwnerLink">https://telegram.org/tos/mini-apps</string>
+    <string name="ProfileBotPreviewTab">Preview</string>
+    <string name="ProfileBotPreviewEmptyTitle">No Preview</string>
+    <string name="ProfileBotPreviewEmptyText_one">Upload up to %d screenshot and video demos for your mini app.</string>
+    <string name="ProfileBotPreviewEmptyText_other">Upload up to %d screenshots and video demos for your mini app.</string>
+    <string name="ProfileBotPreviewEmptyButton">Add preview</string>
+    <string name="BotPreviewEmpty">no images yet</string>
+    <string name="Images_one">%d image</string>
+    <string name="Images_other">%d images</string>
+    <string name="ProfileBotPreviewFooterGeneral">This preview will be displayed for all users except those for whom you provide a translated version.</string>
+    <string name="ProfileBotPreviewFooterLanguage">This preview will be displayed for all users who have %s set as their language.</string>
+    <string name="ProfileBotPreviewFooterCreateTranslation">Create a Translation</string>
+    <string name="ProfileBotPreviewFooterDeleteTranslation">Delete this Translation</string>
+    <string name="ProfileBotPreviewLanguageChoose">Add a Translation</string>
+    <string name="ProfileBotAddPreview">Add Preview</string>
+    <string name="ProfileBotLanguageGeneral">General</string>
+    <string name="ProfileBotLanguageAdd">Add Translation</string>
+    <string name="ProfileBotOr">or</string>
+    <string name="ProfileBotReorder">Reorder</string>
+    <string name="ProfileBotRemoveLang">Delete %s</string>
+    <string name="ProfileBotSelect">Select</string>
+    <string name="ProfileBotUnSelect">Unselect</string>
+    <string name="DeleteBotPreviewTitle">Delete Preview</string>
+    <string name="DeleteBotPreviewSubtitle">Are you sure you want to delete this preview?</string>
+    <string name="DeleteBotPreviewsTitle">Delete Previews</string>
+    <string name="DeleteBotPreviewsSubtitle_zero">Are you sure you want to delete %d previews?</string>
+    <string name="DeleteBotPreviewsSubtitle_one">Are you sure you want to delete %d preview?</string>
+    <string name="DeleteBotPreviewsSubtitle_two">Are you sure you want to delete %d previews?</string>
+    <string name="DeleteBotPreviewsSubtitle_few">Are you sure you want to delete %d previews?</string>
+    <string name="DeleteBotPreviewsSubtitle_many">Are you sure you want to delete %d previews?</string>
+    <string name="DeleteBotPreviewsSubtitle_other">Are you sure you want to delete %d previews?</string>
+    <string name="BotPreviewsDeleted_one">%d preview deleted</string>
+    <string name="BotPreviewsDeleted_other">%d previews deleted</string>
+    <string name="UploadBotPreview">Add</string>
+    <string name="SearchApps">Bots</string>
+    <string name="SearchAppsMine">Apps you use</string>
+    <string name="SearchAppsPopular">Popular apps</string>
+    <string name="SearchAppsExamples">Examples</string>
+    <string name="BotUsers_one">%d user</string>
+    <string name="BotUsers_other">%d users</string>
+    <string name="AppsClearSearch">Apps history</string>
+    <string name="AppsClearSearchAlert">Do you want to remove %s from your apps usage history?</string>
+    <string name="WebBookmark">Bookmark</string>
+    <string name="WebBookmarkedToast">Link added to Bookmarks in **Saved Messages**.</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -9104,150 +9205,49 @@ list of reactions.</string>
     
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <string name="BrowserSettingsTitle">Web Browser</string>
+    <string name="BrowserSettingsEnable">Enable In-App Browser</string>
+    <string name="BrowserSettingsCustomTabsTitle">Open external links in</string>
+    <string name="BrowserSettingsCustomTabs">New Pages within Telegram</string>
+    <string name="BrowserSettingsNoCustomTabs">New Tabs in External Browser</string>
+    <string name="BrowserSettingsNoCustomTabsInfo">You can choose to open external link without leaving Telegram.</string>
+    <string name="BrowserSettingsEnableInfo">Open links inside Telegram without starting an external browser.</string>
+    <string name="BrowserSettingsCacheClear">Clear Cache</string>
+    <string name="BrowserSettingsCookiesClear">Clear Cookies</string>
+    <string name="BrowserSettingsCacheClearText">Are you sure you want to clear browser cache%s?</string>
+    <string name="BrowserSettingsCookiesClearText">Are you sure you want to clear browser cookies%s?\n\nThis might log you out from website account sessions.</string>
+    <string name="BrowserSettingsCookiesInfo">Delete all cookies and cache from the Telegram in-app browser and miniapps.</string>
+    <string name="BrowserSettingsHistoryShow">View History</string>
+    <string name="BrowserSettingsHistoryClear">Clear History</string>
+    <string name="BrowserSettingsHistoryPages_one">%d page</string>
+    <string name="BrowserSettingsHistoryPages_other">%d pages</string>
+    <string name="BrowserSettingsHistoryClearText">Are you sure you want to clear browser history since %s?</string>
+    <string name="BrowserSettingsNeverOpenInTitle">Never open in the in-app browser</string>
+    <string name="BrowserSettingsNeverOpenInAdd">Add Website</string>
+    <string name="BrowserSettingsNeverOpenInRemove">Remove</string>
+    <string name="BrowserSettingsNeverOpenInClearList">Clear List</string>
+    <string name="BrowserSettingsNeverOpenInInfo">Telegram will always open links from these websites in the external browser.</string>
+    <string name="BrowserSettingsAddTitle">Add Website</string>
+    <string name="BrowserSettingsAddText">Enter a domain that you don’t want to be opened in the in-app browser.</string>
+    <string name="BrowserSettingsAddHint">Enter URL</string>
+    <string name="InappBrowser">In-App Browser</string>
+    <string name="InappBrowserInfo">Open external links within the app</string>
+    <string name="BrowserSettingsSearchEngine">Search Engine</string>
+    <string name="BrowserSettingsSearchEngineInfo">Search Engine is used in address bar to open search and auto-complete.</string>
+    <string name="BrowserExternalTitle">Open in Browser</string>
+    <string name="BrowserExternalText">Do you want to open this link in your default browser?</string>
+    <string name="BrowserExternalCheck">Always open links from **%s** in browser</string>
+    <string name="BrowserExternalRestricted">Telegram will now open links from this website in the external browser. You can change this in **Settings.**</string>
+    <string name="StoryEditCover">Edit Cover</string>
+    <string name="StoryEditCoverInfo">Choose a frame from the story to show in your Profile.</string>
+    <string name="StoryEditCoverMenu">Edit Cover</string>
+    <string name="StoryCoverSave">Save Cover</string>
+    <string name="WebBookmarks">Bookmarks</string>
+    <string name="WebHistory">History</string>
+    <string name="WebNoHistory">No history yet</string>
+    <string name="WebNoSearchedHistory">No search results</string>
+    <string name="WebNoBookmarks">No bookmarks found</string>
+    <string name="WebForward">Go Forward</string>
 
   <!-- new from translations.telegram.org -->
 
@@ -9264,6 +9264,10 @@ list of reactions.</string>
   <string name="ActionDeletedInviteLink">un1 deleted the invite link %1$s</string>
   <string name="ActionEditedInviteLink">un1 edited invite link %1$s to %2$s</string>
   <string name="ActionEditedInviteLinkToSame">un1 edited invite link %1$s</string>
+  <string name="ActionGiftStarsTitle_zero">%d Stars</string>
+  <string name="ActionGiftStarsTitle_two">%d Stars</string>
+  <string name="ActionGiftStarsTitle_few">%d Stars</string>
+  <string name="ActionGiftStarsTitle_many">%d Stars</string>
   <string name="ActionGroupCallEnded">Video chat ended (%s)</string>
   <string name="ActionGroupCallJustStarted">Video chat started</string>
   <string name="ActionRequestedPeerChannelPlural_zero">You shared channels with un2</string>
@@ -9599,6 +9603,10 @@ list of reactions.</string>
   <string name="BotMultiContactsSelectorLimit_two">You can select maximum %1$d users.</string>
   <string name="BotMultiContactsSelectorLimit_few">You can select maximum %1$d users.</string>
   <string name="BotMultiContactsSelectorLimit_many">You can select maximum %1$d users.</string>
+  <string name="BotPreviewsDeleted_zero">%d previews deleted</string>
+  <string name="BotPreviewsDeleted_two">%d previews deleted</string>
+  <string name="BotPreviewsDeleted_few">%d previews deleted</string>
+  <string name="BotPreviewsDeleted_many">%d previews deleted</string>
   <string name="BotStarsButtonWithdraw_zero">Withdraw &#11088;&#65039;%d via Fragment</string>
   <string name="BotStarsButtonWithdraw_two">Withdraw &#11088;&#65039;%d via Fragment</string>
   <string name="BotStarsButtonWithdraw_few">Withdraw &#11088;&#65039;%d via Fragment</string>
@@ -9613,6 +9621,14 @@ list of reactions.</string>
   <string name="BotStarsWithdrawMinLimit_few">You cannot withdraw less than **%d stars**.</string>
   <string name="BotStarsWithdrawMinLimit_many">You cannot withdraw less than **%d stars**.</string>
   <string name="BotStartButton">Start bot</string>
+  <string name="BotUsers_zero">%d users</string>
+  <string name="BotUsers_two">%d users</string>
+  <string name="BotUsers_few">%d users</string>
+  <string name="BotUsers_many">%d users</string>
+  <string name="BrowserSettingsHistoryPages_zero">%d pages</string>
+  <string name="BrowserSettingsHistoryPages_two">%d pages</string>
+  <string name="BrowserSettingsHistoryPages_few">%d pages</string>
+  <string name="BrowserSettingsHistoryPages_many">%d pages</string>
   <string name="BusinessHoursProfileInYourTime">%s in your time</string>
   <string name="BusinessHoursProfileOpensInDays_zero">opens in %d days</string>
   <string name="BusinessHoursProfileOpensInDays_two">opens in %d days</string>
@@ -9793,6 +9809,10 @@ list of reactions.</string>
   <string name="HashtagStoriesFound_two">%d Stories found</string>
   <string name="HashtagStoriesFound_few">%d Stories found</string>
   <string name="HashtagStoriesFound_many">%d Stories found</string>
+  <string name="Images_zero">%d images</string>
+  <string name="Images_two">%d images</string>
+  <string name="Images_few">%d images</string>
+  <string name="Images_many">%d images</string>
   <string name="ImagesTab">IMAGES</string>
   <string name="IncomingCallsCount">%s incoming calls</string>
   <string name="InviteChannelRestrictedUsers_zero">**%d users** restrict adding them to channels. You can send them an invite link instead.</string>
@@ -9943,6 +9963,10 @@ list of reactions.</string>
   <string name="ProfileBirthdayValueYear_two">%2$s (%1$d years old)</string>
   <string name="ProfileBirthdayValueYear_few">%2$s (%1$d years old)</string>
   <string name="ProfileBirthdayValueYear_many">%2$s (%1$d years old)</string>
+  <string name="ProfileBotPreviewEmptyText_zero">Upload up to %d screenshots and video demos for your mini app.</string>
+  <string name="ProfileBotPreviewEmptyText_two">Upload up to %d screenshots and video demos for your mini app.</string>
+  <string name="ProfileBotPreviewEmptyText_few">Upload up to %d screenshots and video demos for your mini app.</string>
+  <string name="ProfileBotPreviewEmptyText_many">Upload up to %d screenshots and video demos for your mini app.</string>
   <string name="ProfileMyStories">My Stories</string>
   <string name="ProfileStoriesArchiveCount_two">%d archived stories</string>
   <string name="PsaInfo_psa">This is an official message from the CEO of Telegram regarding the ongoing conflict.</string>
@@ -10136,6 +10160,10 @@ list of reactions.</string>
   <string name="StarsCount_two">%d Stars</string>
   <string name="StarsCount_few">%d Stars</string>
   <string name="StarsCount_many">%d Stars</string>
+  <string name="StarsGiftSentPopupInfo_zero">**%1$d Stars** sent as gift to %2$s.</string>
+  <string name="StarsGiftSentPopupInfo_two">**%1$d Stars** sent as gift to %2$s.</string>
+  <string name="StarsGiftSentPopupInfo_few">**%1$d Stars** sent as gift to %2$s.</string>
+  <string name="StarsGiftSentPopupInfo_many">**%1$d Stars** sent as gift to %2$s.</string>
   <string name="StarsMediaPurchaseCompletedInfo_zero">**%1$d Stars** transferred to **%2$s**.</string>
   <string name="StarsMediaPurchaseCompletedInfo_two">**%1$d Stars** transferred to **%2$s**.</string>
   <string name="StarsMediaPurchaseCompletedInfo_few">**%1$d Stars** transferred to **%2$s**.</string>
