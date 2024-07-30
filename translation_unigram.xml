@@ -10206,9 +10206,47 @@
   <string name="AddedToFavorites">Sticker added to Favorites.</string>
   <string name="RemovedFromFavorites">Sticker was removed from Favorites</string>
 
+  <string name="AppsTab">Apps</string>
+  <string name="SearchAppsMine">Apps you use</string>
+  <string name="SearchAppsPopular">Popular apps</string>
+  <string name="BotDAU_one">{0} user</string>
+  <string name="BotDAU_other">{0} users</string>
+
+  <string name="ProfileBotOpenApp">Open App</string>
+  <string name="ProfileBotOpenAppInfo">By launching this mini app, you agree to the **Terms of Service for Mini Apps.**</string>
+  <string name="ProfileBotOpenAppInfoLink">https://telegram.org/tos/mini-apps</string>
+  <string name="ProfileBotPreviewTab">Preview</string>
+
+  <string name="ActionRefunded">un1 refunded back {0}</string>
+
+  <string name="ActionGiftPremiumSubtitle">for {0}</string>
+  <string name="ActionGiftPremiumTitle">Telegram Premium</string>
+  <string name="ActionGiftPremiumView">View</string>
+  <string name="ActionGiftStarsSubtitle">With Stars, **{0}** is able to unlock content and services on Telegram.</string>
+  <string name="ActionGiftStarsSubtitleYou">Use Stars to unlock content and services on Telegram.</string>
+  <string name="ActionGiftStarsTitle_one">{0} Star</string>
+  <string name="ActionGiftStarsTitle_other">{0} Stars</string>
+  <string name="ActionGiftStarsView">View</string>
+
+  <string name="StarsGiftReceived">Received Gift</string>
+  <string name="StarsGiftSent">Sent Gift</string>
+
+  <string name="TelegramStarsGift">Gift Stars to Friends</string>
+  <string name="GiftStarsSubtitle">With Stars, **{0}** will be able to unlock content and services on Telegram.</string>
+  <string name="GiftStarsSubtitleLinkName">**See Examples &gt;**</string>
+  <string name="GiftStarsTitle">Gift Stars</string>
+
 
   <!-- new from translations.telegram.org -->
 
+  <string name="ActionGiftStarsTitle_zero">{0} Stars</string>
+  <string name="ActionGiftStarsTitle_two">{0} Stars</string>
+  <string name="ActionGiftStarsTitle_few">{0} Stars</string>
+  <string name="ActionGiftStarsTitle_many">{0} Stars</string>
+  <string name="BotDAU_zero">{0} users</string>
+  <string name="BotDAU_two">{0} users</string>
+  <string name="BotDAU_few">{0} users</string>
+  <string name="BotDAU_many">{0} users</string>
   <string name="BotStarsButtonWithdraw_zero">Withdraw &#11088;&#65039;{0} via Fragment</string>
   <string name="BotStarsButtonWithdraw_two">Withdraw &#11088;&#65039;{0} via Fragment</string>
   <string name="BotStarsButtonWithdraw_few">Withdraw &#11088;&#65039;{0} via Fragment</string>
