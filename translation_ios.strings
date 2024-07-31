@@ -12623,8 +12623,8 @@ Sorry for the inconvenience.";
 
 "PeerInfo.PaneBotPreviews" = "Preview";
 "PeerInfo.OpenAppButton" = "Open App";
-"PeerInfo.AppFooterAdmin" = "By publishing this mini app, you agree to the [Telegram Terms of Service for Developers](https://telegram.org/privacy).";
-"PeerInfo.AppFooter" = "By launching this mini app, you agree to the [Terms of Service for Mini Apps](https://telegram.org/privacy).";
+"PeerInfo.AppFooterAdmin" = "By publishing this mini app, you agree to the [Telegram Terms of Service for Developers](https://telegram.org/tos/bot-developers).";
+"PeerInfo.AppFooter" = "By launching this mini app, you agree to the [Terms of Service for Mini Apps](https://telegram.org/tos/mini-apps).";
 "BotPreviews.MenuAddPreview" = "Add Preview";
 "BotPreviews.MenuReorder" = "Reorder";
 "BotPreviews.MenuDeleteLanguage" = "Delete %@";
