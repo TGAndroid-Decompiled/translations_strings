@@ -12590,9 +12590,9 @@ Sorry for the inconvenience.";
 "WebBrowser.ClearCookies.ClearConfirmation.Clear" = "Clear";
 
 "WebBrowser.ClearCache" = "Clear Cache";
-"WebBrowser.ClearCache.ClearConfirmation.Text" = "Are you sure you want to clear cookies?";
+"WebBrowser.ClearCache.ClearConfirmation.Text" = "Are you sure you want to clear cache?";
 "WebBrowser.ClearCache.ClearConfirmation.Clear" = "Clear";
-"WebBrowser.ClearCache.Succeed" = "Cookies cleared.";
+"WebBrowser.ClearCache.Succeed" = "Cache cleared.";
 
 
 "WebBrowser.Done" = "Done";
@@ -12643,8 +12643,8 @@ Sorry for the inconvenience.";
 "BotPreviews.Empty.AddTranslation" = "Create a Translation";
 "BotPreviews.Empty.DeleteTranslation" = "Delete this Translation";
 "BotPreviews.Empty.Separator" = "or";
-"BotPreviews.AlertTooManyPreviews_1" = "You can add at most 1 preview.";
-"BotPreviews.AlertTooManyPreviews_any" = "You can add at most 1 previews.";
+"BotPreviews.AlertTooManyPreviews_1" = "You can add at most 12 previews.";
+"BotPreviews.AlertTooManyPreviews_any" = "You can add at most 12 previews.";
 "BotPreviews.DeleteTranslationAlert.Title" = "Delete Translation";
 "BotPreviews.DeleteTranslationAlert.Text" = "Are you sure you want to delete this translation?";
 "BotPreviews.TranslationFooter.Text" = "This preview will be displayed for all users who have %@ set as their language.";
@@ -12738,10 +12738,10 @@ Sorry for the inconvenience.";
 "BoostGift.QuantityBoosts_2" = "%@ BOOSTS";
 "BoostGift.QuantityBoosts_3_10" = "%@ BOOSTS";
 "BoostGift.QuantityBoosts_many" = "%@ BOOSTS";
-"BotPreviews.AlertTooManyPreviews_0" = "You can add at most 1 previews.";
-"BotPreviews.AlertTooManyPreviews_2" = "You can add at most 1 previews.";
-"BotPreviews.AlertTooManyPreviews_3_10" = "You can add at most 1 previews.";
-"BotPreviews.AlertTooManyPreviews_many" = "You can add at most 1 previews.";
+"BotPreviews.AlertTooManyPreviews_0" = "You can add at most 12 previews.";
+"BotPreviews.AlertTooManyPreviews_2" = "You can add at most 12 previews.";
+"BotPreviews.AlertTooManyPreviews_3_10" = "You can add at most 12 previews.";
+"BotPreviews.AlertTooManyPreviews_many" = "You can add at most 12 previews.";
 "BotPreviews.Empty.Text_0" = "Upload up to %d screenshots and video demos for your mini app.";
 "BotPreviews.Empty.Text_2" = "Upload up to %d screenshots and video demos for your mini app.";
 "BotPreviews.Empty.Text_3_10" = "Upload up to %d screenshots and video demos for your mini app.";

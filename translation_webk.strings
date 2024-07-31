@@ -1951,7 +1951,7 @@
 "StarsNeededTitle_one" = "%d Star Needed";
 "StarsNeededTitle_other" = "%d Stars Needed";
 "StarsNeededText" = "Buy **Stars** and use them on **%s** and other miniapps.";
-"MenuTelegramStars" = "Your Stars";
+"MenuTelegramStars" = "My Stars";
 "StarsCount_one" = "%d Star";
 "StarsCount_other" = "%d Stars";
 "StarsTransactionID" = "Transaction ID";
