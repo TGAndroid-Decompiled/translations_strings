@@ -759,6 +759,7 @@
     <string name="TypeLocationGroup">Public Link</string>
     <string name="TypeLocationGroupEdit">Tap to add a public link</string>
     <string name="ChoosePhoto">Choose photo</string>
+    <string name="ChoosePhotoForSticker">Create a sticker from a photo</string>
     <string name="AddImage">Add Image</string>
     <string name="ChoosePhotoOrVideo">Choose photo or video</string>
     <string name="AddPhoto">Set Profile Photo</string>
@@ -8983,6 +8984,8 @@ list of reactions.</string>
     <string name="StarsNeededTitle_one">%d Star Needed</string>
     <string name="StarsNeededTitle_other">%d Stars Needed</string>
     <string name="StarsNeededText">Buy **Stars** and use them on **%s** and other miniapps.</string>
+    
+    
     <string name="CaptionAbove">Move Caption Up</string>
     <string name="CaptionBelow">Move Caption Down</string>
     <string name="AddFactCheck">Add Fact Check</string>
@@ -9248,6 +9251,47 @@ list of reactions.</string>
     <string name="WebNoSearchedHistory">No search results</string>
     <string name="WebNoBookmarks">No bookmarks found</string>
     <string name="WebForward">Go Forward</string>
+    <string name="BotPrivacyPolicy">Privacy Policy</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
   <!-- new from translations.telegram.org -->
 

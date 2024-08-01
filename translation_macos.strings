@@ -8837,7 +8837,7 @@
 "SelectColor.Message1" = "Reply to your message";
 "SelectColor.Message2" = "Your name and replies to your messages will be shown in the selected color.";
 
-"SelectColor.Message2.Preview.Title" = "Link Preview.";
+"SelectColor.Message2.Preview.Title" = "Link Preview";
 "SelectColor.Message2.Preview.Text" = "Previews of links you send will also use this color.";
 
 
@@ -10958,7 +10958,7 @@
 
 
 "BotInfo.OpenApp" = "Open App";
-"BotInfo.LaunchInfo" = "By publishing this mini app, you agree to the [Telegram Terms of Service for Developers](https://telegram.org/tos/mini-apps).";
+"BotInfo.LaunchInfo" = "By publishing this mini app, you agree to the [Telegram Terms of Service for Developers](https://telegram.org/tos/bot-developers).";
 
 
 "WebBrowser.Error" = "**Something went wrong, sorry.**\nPlease try again later.";
