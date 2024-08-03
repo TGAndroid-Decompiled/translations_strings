@@ -10975,7 +10975,7 @@
 "Stars.Gift.ServiceInfo" = "Use Stars to unlock content and services on Telegram.";
 
 
-"Chat.Service.Refund" = "%@ refunded back %@";
+"Chat.Service.Refund" = "%@ refunded %@";
 
 //"\(peerName) refunded back \(clown)\(totalAmount)"
 

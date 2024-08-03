@@ -157,6 +157,8 @@
     <string name="SetEmojiStatus">Set Emoji Status</string>
     <string name="ChangeEmojiStatus">Change Status</string>
     <string name="Settings">Settings</string>
+    
+    
     <string name="Contacts">Contacts</string>
     <string name="NewGroup">New Group</string>
     
@@ -254,11 +256,11 @@
     <string name="DeleteChatUser">Delete chat</string>
     <string name="HiddenName">Deleted Account</string>
     
-    
-    
-    
-    
-    
+    <string name="ChooseBot">Choose a Bot</string>
+    <string name="ChooseUser">Choose a User</string>
+    <string name="ChooseUsers">Choose Users</string>
+    <string name="ChooseGroup">Choose a Group</string>
+    <string name="ChooseChannel">Choose a Channel</string>
     
     
     
@@ -547,6 +549,7 @@
     
     <string name="ChannelAdministrators">Administrators</string>
     
+    
     <string name="ChannelDelete">Delete Channel</string>
     <string name="ChannelDeleteMenu">Delete channel</string>
     <string name="ChannelDeleteAlert">Deleting this channel will remove all subscribers and all posts will be lost. Delete the channel anyway?</string>
@@ -559,9 +562,9 @@
     <string name="ActionCreateChannel">Channel created</string>
     <string name="ActionGiftInbound">un1 sent you a gift for **un2**</string>
     <string name="ActionGiftOutbound">You have sent a gift for **un2**</string>
-    
-    
-    
+    <string name="ActionGiftPremiumTitle">Telegram Premium</string>
+    <string name="ActionGiftPremiumSubtitle">for {0}</string>
+    <string name="ActionGiftPremiumView">View</string>
     <string name="ActionChannelChangedPhoto">Channel photo updated</string>
     <string name="ActionChannelChangedVideo">Channel photo updated</string>
     <string name="ActionChannelRemovedPhoto">Channel photo removed</string>
@@ -612,7 +615,7 @@
     <string name="ChannelJoined">You joined this channel</string>
     
     <string name="ChannelMegaJoined">You joined this group</string>
-    
+    <string name="ChannelRemoveUser">Remove from channel</string>
     <string name="ChannelCantSendMessage">Sorry, you can\'t send messages to this channel.</string>
     
     
@@ -753,6 +756,7 @@
     <string name="TypePublic">Public</string>
     <string name="TypePrivateGroup">Private</string>
     <string name="TypePublicGroup">Public</string>
+    
     
     
     
@@ -1142,6 +1146,7 @@
     <string name="OpenChannel">VIEW CHANNEL</string>
     <string name="OpenMessage">VIEW MESSAGE</string>
     
+    
     <string name="SponsoredMessage">ad</string>
     
     
@@ -1239,6 +1244,8 @@
     <string name="OpenInExternalApp">Open in...</string>
     <string name="SendItems">Send {0}</string>
     
+    <string name="SendAsFile">Send as File</string>
+    <string name="SendAsFiles">Send as Files</string>
     <string name="OpenUrlTitle">Open Link</string>
     <string name="OpenUrlAlert2">Do you want to open {0}?</string>
     <string name="OpenUrlOption1">Log in to {0} as **{1}**</string>
@@ -1652,6 +1659,16 @@
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="NotificationInvitedToGroup">{0} invited you to the group {1}</string>
     
     
@@ -1886,6 +1903,8 @@
     
     
     
+    
+    
     <string name="CreateNewContact">Create New Contact</string>
     
     
@@ -2009,8 +2028,8 @@
     <string name="AddToStickers">Add to Stickers</string>
     
     <string name="AddToFavorites">Add to Favorites</string>
-    
-    
+    <string name="AddedToFavorites">Sticker added to Favorites.</string>
+    <string name="RemovedFromFavorites">Sticker was removed from Favorites</string>
     
     <string name="RecentStickers">Recently Used</string>
     <string name="FavoriteStickers">Favorites</string>
@@ -2561,10 +2580,9 @@
     <string name="SecretChat">Secret Chats</string>
     
     
-    
-    
     <string name="Emoji">Emoji</string>
     <string name="LargeEmoji">Large Emoji</string>
+    
     
     
     
@@ -3358,9 +3376,6 @@
     <string name="ClearSearchAlert">Do you want to clear your search history?</string>
     
     
-    
-    
-    
     <string name="ClearSearchAlertTitle">Clear search history</string>
     
     <string name="ClearSearchSingleAlertTitle">Search history</string>
@@ -3404,7 +3419,7 @@
     
     
     
-    
+    <string name="GifSavedHint">Added to Favorite GIFs.</string>
     
     
     
@@ -3465,7 +3480,7 @@
     
     
     <string name="PleaseEnterCurrentPasswordTransfer">Please enter your password to complete the transfer.</string>
-    
+    <string name="PleaseEnterCurrentPasswordWithdraw">Please enter your password to collect.</string>
     <string name="PleaseEnterFirstPassword">Enter a password</string>
     
     
@@ -3785,8 +3800,8 @@
     
     <string name="BotWebViewSettings">Settings</string>
     <string name="BotWebViewOpenBot">Open Bot</string>
-    
-    
+    <string name="BotWebViewToS">Terms of Use</string>
+    <string name="BotWebViewToSLink">https://telegram.org/tos/mini-apps</string>
     <string name="BotWebViewReloadPage">Reload Page</string>
     <string name="BotWebViewDeleteBot">Remove from Menu</string>
     <string name="BotWebViewRequestAllow">Allow</string>
@@ -3795,8 +3810,8 @@
     <string name="BotWebViewCloseAnyway">Close anyway</string>
     <string name="BotWebViewRequestWriteTitle">Allow messaging</string>
     <string name="BotWebViewRequestWriteMessage">Allow this bot to send you messages?</string>
-    
-    
+    <string name="BotMultiContactsSelectorLimit_one">You can select maximum {0} user.</string>
+    <string name="BotMultiContactsSelectorLimit_other">You can select maximum {0} users.</string>
     <!--button titles-->
     <string name="Done">Done</string>
     <string name="Open">Open</string>
@@ -3861,6 +3876,7 @@
     <string name="ActionInviteUser">un1 joined the group via invite link</string>
     <string name="ActionInviteUserFolder">un1 joined the group via folder invite link</string>
     <string name="ActionKickUser">un1 removed un2</string>
+    <string name="ActionRefunded">un1 refunded {0}</string>
     <string name="ActionLeftUser">un1 left the group</string>
     <string name="ActionAddUser">un1 added un2</string>
     <string name="ActionRemovedPhoto">un1 removed the group photo</string>
@@ -4122,6 +4138,7 @@
     <string name="TosUpdateDecline">Unfortunately, there are no other options. Unlike other apps, Telegram does not use user data for ad targeting or other commercial purposes. Telegram only stores the information it needs to function as a feature-rich cloud service. You can adjust how your data is used in Privacy and Security settings.\n\nIf you are not comfortable with Telegram\'s modest needs, it won\'t be possible for us to provide you with this service.</string>
     <string name="TosDeclineDeleteAccount">Warning, this will irreversibly delete your Telegram account and all the data you store in the Telegram cloud.\n\nImportant: You can Cancel now and export your data first instead of losing it. (To do this, open the latest version of Telegram Desktop and go to Settings &gt; Advanced &gt; Export Telegram data.)</string>
     <!--permissions-->
+    
     
     
     
@@ -5804,7 +5821,7 @@
     
     <string name="AddToGroup">Add to Group</string>
     <string name="AddToChannel">Add to Channel</string>
-    
+    <string name="AddToGroupOrChannel">Add to Group or Channel</string>
     
     <string name="Dismiss">Dismiss</string>
     
@@ -6087,6 +6104,14 @@
     
     
     
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="SoundAddedSubtitle">You can use this sound as a notification tone in your **custom notification settings**.</string>
     
     
@@ -6347,6 +6372,8 @@
     <string name="PremiumPreviewEmojiStatusDescription">Choose from thousands of emoji to display current activity next to your name.</string>
     <string name="PremiumPreviewTranslations">Real-Time Translation</string>
     <string name="PremiumPreviewTranslationsDescription">Real-time translation of chats and channels into other languages.</string>
+    
+    
     <string name="PremiumPreviewWallpaper">Wallpaper for Both Sides</string>
     <string name="PremiumPreviewWallpaperDescription">Set custom wallpapers for you and your chat partner.</string>
     <string name="PremiumPreviewProfileColor">Name and Profile Colors</string>
@@ -7030,11 +7057,12 @@
     <string name="FolderLinkOtherAdminLimitError">One of the groups in this folder can’t be added because one of its admins has too many groups and channels.</string>
     <string name="BotSettingsChangedAlert">You have changed some settings for this bot. Apply changes?</string>
     
-    
+    <string name="BotPublicLink">Public Link</string>
     
     
     <string name="BotEditIntro">Edit Intro</string>
     <string name="BotEditCommands">Edit Commands</string>
+    
     <string name="BotChangeSettings">Change Bot Settings</string>
     <string name="BotManageInfo">Use @BotFather to manage this bot.</string>
     
@@ -7246,6 +7274,8 @@
     
     
     
+    
+    
     <string name="NoArchivedStoriesTitle">No stories yet…</string>
     <string name="NoArchivedStoriesSubtitle">Upload a new story to view it here.</string>
     
@@ -7370,6 +7400,7 @@
     <string name="StoryContactsHint">Only **{0}’s** contacts can view this story.</string>
     <string name="ExpiredViewsStub">List of viewers becomes unavailable **24 hours** after the story expires.</string>
     <string name="ArchivedStories">Archived Stories</string>
+    
     
     
     
@@ -7575,6 +7606,7 @@
     
     <string name="Likes_one">{0} like</string>
     <string name="Likes_other">{0} likes</string>
+    
     
     
     
@@ -8673,6 +8705,13 @@
     <string name="MonetizationBalance">Available reward</string>
     <string name="MonetizationBalanceInfo">You can collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. **Learn more &gt;**</string>
     
+    
+    
+    
+    
+    
+    
+    
     <string name="MonetizationBalanceInfoNotAvailable">In the coming weeks you will be able to collect your reward using Fragment, a third-party platform used by advertisers to pay ads. **Learn more &gt;**</string>
     <string name="MonetizationTransactions">Transaction history</string>
     
@@ -8694,6 +8733,16 @@
     <string name="MonetizationTransactionDetailRefund">Refunded back</string>
     <string name="MonetizationGraphImpressions">Ad impressions</string>
     <string name="MonetizationGraphRevenue">Ad rewards</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -8892,10 +8941,16 @@
     
     
     
+    
+    
+    
+    
+    
     <string name="MenuTelegramStars">My Stars</string>
     <string name="TelegramStars">Telegram Stars</string>
     <string name="TelegramStarsInfo">Buy Stars to unlock content and service\nin miniapps on Telegram.</string>
     <string name="TelegramStarsChoose">Choose package</string>
+    <string name="TelegramStarsGift">Gift Stars to Friends</string>
     <string name="StarsCount_one">{0} Star</string>
     <string name="StarsCount_other">{0} Stars</string>
     <string name="StarsTOS">By proceeding and purchasing Stars, you agree with the **Terms and Conditions**.</string>
@@ -8905,13 +8960,20 @@
     <string name="StarsTransactionsIncoming">Incoming</string>
     <string name="StarsTransactionsOutgoing">Outgoing</string>
     <string name="StarsTransactionInApp">In-App Purchase</string>
+    
+    
     <string name="StarsTransactionBot">Stars Top-Up Bot</string>
     <string name="StarsTransactionUnsupported">In-App Purchase</string>
+    
     <string name="StarsTransactionFragment">Purchase from Fragment</string>
+    <string name="StarsTransactionWithdrawFragment">Withdraw to Fragment</string>
     <string name="StarsAcquired">Stars Acquired!</string>
     <string name="StarsAcquiredInfo_other">**{0} Stars** added to your balance.</string>
     <string name="StarsPurchaseCompleted">Purchase Completed!</string>
     <string name="StarsPurchaseCompletedInfo_other">You acquired \"**{1}**\" in **{2}** for **{0} Stars**.</string>
+    
+    
+    
     <string name="StarsConfirmPurchaseTitle">Confirm Your Purchase</string>
     <string name="StarsConfirmPurchaseText_one">Do you want to buy \"**{1}**\" in **{2}** for **{0} star**?</string>
     <string name="StarsConfirmPurchaseText_other">Do you want to buy \"**{1}**\" in **{2}** for **{0} stars**?</string>
@@ -8922,6 +8984,8 @@
     <string name="StarsNeededText">Buy **Stars** and use them on **{0}** and other miniapps.</string>
     
     
+    <string name="CaptionAbove">Move Caption Up</string>
+    <string name="CaptionBelow">Move Caption Down</string>
     <string name="AddFactCheck">Add Fact Check</string>
     <string name="EditFactCheck">Edit Fact Check</string>
     <string name="FactCheck">Fact Check</string>
@@ -8932,6 +8996,281 @@
     
     <string name="FactCheckEdited">Fact check updated.</string>
     <string name="FactCheckDeleted">Fact check removed.</string>
+    
+    
+    
+    
+    
+    
+    
+    <string name="StarsTransactionSource">Via</string>
+    
+    
+    <string name="Fragment">Fragment</string>
+    <string name="StarsTransactionRecipient">From</string>
+    <string name="StarsTransactionID">Transaction ID</string>
+    <string name="StarsTransactionIDCopied">Transaction ID copied to clipboard</string>
+    <string name="StarsTransactionDate">Date</string>
+    
+    
+    <string name="StarsTransactionTOS">Review the **Terms of Service** for Stars.</string>
+    
+    
+    <string name="StarsRefunded">Refund</string>
+    <string name="StarsFailed">Failed</string>
+    <string name="StarsPending">Pending</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="StoryOpenLink">Open Link &gt;</string>
+    <string name="BotStarsOverview">Proceeds overview</string>
+    <string name="BotStarsOverviewAvailableBalance">Available balance</string>
+    <string name="BotStarsOverviewTotalBalance">Lifetime rewards</string>
+    
+    <string name="BotStarsAvailableBalance">Available balance</string>
+    <string name="BotStarsOverviewInfo">Stars from your total balance can be used for ads or withdrawn as rewards 21 days after they are earned.</string>
+    <string name="BotStarsWithdrawInfo">You can collect rewards for Stars using Fragment, or use Stars to advertise your bot. **Learn more &gt;**</string>
+    <string name="BotStarsWithdrawInfoLink">https://telegram.org/privacy</string>
+    <string name="BotStarsButtonWithdrawUntil">Withdraw via Fragment</string>
+    <string name="BotStarsButtonWithdrawAll">Withdraw all via Fragment</string>
+    
+    
+    
+    
+    <string name="BotStarsWithdrawPlaceholder">Enter amount to withdraw</string>
+    <string name="BotStarsButtonWithdraw_one">Withdraw &#11088;&#65039;{0} via Fragment</string>
+    <string name="BotStarsButtonWithdraw_other">Withdraw &#11088;&#65039;{0} via Fragment</string>
+    <string name="BotStarsChartRevenue">Stars received</string>
+    <string name="BotStarsWithdrawMinLimit_other">You cannot withdraw less than **{0} stars**.</string>
+    
+    
+    
+    
+    
+    
+    <string name="BotStarsWithdrawalToast">Next withdrawal will be available in **{0}**.</string>
+    
+    
+    
+    
+    
+    
+    <string name="PaidMediaButton">Make this Content Paid</string>
+    <string name="PaidMediaPriceButton">Edit Price</string>
+    
+    
+    <string name="StarsTransactionMedia">Media</string>
+    <string name="PaidContentTitle">Paid Content</string>
+    <string name="PaidContentPriceTitle">Enter unlock cost</string>
+    <string name="PaidContentInfo">Users will have to transfer this amount of Stars to your channel in order to view this media. **Learn more &gt;**</string>
+    <string name="PaidContentInfoLink">https://telegram.org/tos/stars</string>
+    <string name="PaidContentButton">Make This Media Paid</string>
+    <string name="PaidContentUpdateButton">Save Price</string>
+    <string name="PaidContentClearButton">Keep this media free</string>
+    <string name="StarMediaPurchase">Media Purchase</string>
+    
+    
+    <string name="UnlockPaidContent_one">Unlock for &#11088;&#65039;{0}</string>
+    <string name="UnlockPaidContent_other">Unlock for &#11088;&#65039;{0}</string>
+    
+    
+    <string name="StarsConfirmPurchaseMedia_SinglePhoto">a **photo**</string>
+    <string name="StarsConfirmPurchaseMedia_SingleVideo">a **video**</string>
+    <string name="StarsConfirmPurchaseMedia_Photos_one">**{0} photo**</string>
+    <string name="StarsConfirmPurchaseMedia_Photos_other">**{0} photos**</string>
+    <string name="StarsConfirmPurchaseMedia_Videos_one">**{0} video**</string>
+    <string name="StarsConfirmPurchaseMedia_Videos_other">**{0} videos**</string>
+    
+    
+    
+    
+    
+    <string name="GiftStarsTitle">Gift Stars</string>
+    <string name="GiftStarsSubtitle">With Stars, **{0}** will be able to unlock content and services on Telegram.</string>
+    <string name="GiftStarsSubtitleLinkName">**See Examples &gt;**</string>
+    <string name="ActionGiftStarsTitle_one">{0} Star</string>
+    <string name="ActionGiftStarsTitle_other">{0} Stars</string>
+    <string name="ActionGiftStarsSubtitle">With Stars, **{0}** is able to unlock content and services on Telegram.</string>
+    <string name="ActionGiftStarsSubtitleYou">Use Stars to unlock content and services on Telegram.</string>
+    <string name="ActionGiftStarsView">View</string>
+    <string name="StarsGiftReceived">Received Gift</string>
+    <string name="StarsGiftSent">Sent Gift</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="AppsTab">Apps</string>
+    <string name="ProfileBotOpenApp">Open App</string>
+    <string name="ProfileBotOpenAppInfo">By launching this mini app, you agree to the **Terms of Service for Mini Apps**.</string>
+    <string name="ProfileBotOpenAppInfoLink">https://telegram.org/tos/mini-apps</string>
+    
+    
+    <string name="ProfileBotPreviewTab">Preview</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <string name="SearchAppsMine">Apps you use</string>
+    <string name="SearchAppsPopular">Popular apps</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
@@ -8967,6 +9306,10 @@
   <string name="ActionDeletedInviteLink">un1 deleted the invite link {0}</string>
   
   <string name="ActionEditedInviteLinkToSame">un1 edited invite link {0}</string>
+  <string name="ActionGiftStarsTitle_zero">{0} Stars</string>
+  <string name="ActionGiftStarsTitle_two">{0} Stars</string>
+  <string name="ActionGiftStarsTitle_few">{0} Stars</string>
+  <string name="ActionGiftStarsTitle_many">{0} Stars</string>
   <string name="ActionGroupCallEnded">Video chat ended ({0})</string>
   
   
@@ -9298,6 +9641,35 @@
   
   
   
+  <string name="BotMultiContactsSelectorLimit_zero">You can select maximum {0} users.</string>
+  <string name="BotMultiContactsSelectorLimit_two">You can select maximum {0} users.</string>
+  <string name="BotMultiContactsSelectorLimit_few">You can select maximum {0} users.</string>
+  <string name="BotMultiContactsSelectorLimit_many">You can select maximum {0} users.</string>
+  
+  
+  
+  
+  <string name="BotStarsButtonWithdraw_zero">Withdraw &#11088;&#65039;{0} via Fragment</string>
+  <string name="BotStarsButtonWithdraw_two">Withdraw &#11088;&#65039;{0} via Fragment</string>
+  <string name="BotStarsButtonWithdraw_few">Withdraw &#11088;&#65039;{0} via Fragment</string>
+  <string name="BotStarsButtonWithdraw_many">Withdraw &#11088;&#65039;{0} via Fragment</string>
+  
+  
+  
+  
+  <string name="BotStarsWithdrawMinLimit_zero">You cannot withdraw less than **{0} stars**.</string>
+  <string name="BotStarsWithdrawMinLimit_one">You cannot withdraw less than **{0} star**.</string>
+  <string name="BotStarsWithdrawMinLimit_two">You cannot withdraw less than **{0} stars**.</string>
+  <string name="BotStarsWithdrawMinLimit_few">You cannot withdraw less than **{0} stars**.</string>
+  <string name="BotStarsWithdrawMinLimit_many">You cannot withdraw less than **{0} stars**.</string>
+  
+  
+  
+  
+  
+  
+  
+  
   
   <string name="BusinessHoursProfileInYourTime">{0} in your time</string>
   <string name="BusinessHoursProfileOpensInDays_zero">opens in {0} days</string>
@@ -9364,6 +9736,8 @@
   
   
   
+  
+  
   <string name="ClearHistoryMessageMultiple_zero">Are you sure you want to unsave messages from {0} chats?</string>
   <string name="ClearHistoryMessageMultiple_one"></string>
   <string name="ClearHistoryMessageMultiple_two">Are you sure you want to unsave messages from {0} chats?</string>
@@ -9376,6 +9750,9 @@
   <string name="ClearHistoryTitleMultiple_many">Unsave messages from {0} chats</string>
   <string name="ClearHistoryTitleSingle">Unsave messages from {0}</string>
   <string name="ClearRecentEmoji">Clear recent emoji?</string>
+  
+  
+  
   
   
   
@@ -9400,6 +9777,13 @@
   
   <string name="EnableProxyAlert">Are you sure you want to enable this proxy?</string>
   <string name="EnableProxyAlert2">You can change your proxy server later in Settings &gt; Data and Storage.</string>
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -9456,12 +9840,21 @@
   
   
   
+  
   <string name="GpsDisabledAlert">Your GPS seems to be disabled, please enable it to access location-based features.</string>
   
   
   
   
   <string name="GroupsAndChannels">Groups &amp; Channels</string>
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   <string name="InviteChannelRestrictedUsers_zero">**{0} users** restrict adding them to channels. You can send them an invite link instead.</string>
@@ -9488,6 +9881,10 @@
   <string name="Likes_many">{0} likes</string>
   
   
+  
+  
+  
+  
   <string name="MaximumReactionsValue_zero">{0} reactions per post</string>
   <string name="MaximumReactionsValue_two">{0} reactions per post</string>
   <string name="MaximumReactionsValue_few">{0} reactions per post</string>
@@ -9495,6 +9892,15 @@
   
   <string name="MessageContainsEmojiPacks_zero">This message contains emoji from **{0} Packs**.</string>
   <string name="MessageContainsEmojiPacks_one"></string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -9531,7 +9937,31 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <string name="OpenUrlAlert">Open this link: {0}?</string>
+  
+  
+  
+  
   
   
   
@@ -9556,6 +9986,7 @@
   
   
   
+  
   <string name="PollOptions">Poll options</string>
   
   
@@ -9574,6 +10005,10 @@
   <string name="ProfileBirthdayValueYear_two">{1} ({0} years old)</string>
   <string name="ProfileBirthdayValueYear_few">{1} ({0} years old)</string>
   <string name="ProfileBirthdayValueYear_many">{1} ({0} years old)</string>
+  
+  
+  
+  
   <string name="ProfileMyStories">My Stories</string>
   
   
@@ -9726,6 +10161,10 @@
   
   
   
+  
+  
+  
+  
   <string name="StarsAcquiredInfo_zero">**{0} Stars** added to your balance.</string>
   <string name="StarsAcquiredInfo_one"></string>
   <string name="StarsAcquiredInfo_two">**{0} Stars** added to your balance.</string>
@@ -9735,6 +10174,26 @@
   <string name="StarsConfirmPurchaseButton_two">Confirm and Pay &#11088;&#65039; {0} Stars</string>
   <string name="StarsConfirmPurchaseButton_few">Confirm and Pay &#11088;&#65039; {0} Stars</string>
   <string name="StarsConfirmPurchaseButton_many">Confirm and Pay &#11088;&#65039; {0} Stars</string>
+  <string name="StarsConfirmPurchaseMedia1">Do you want to unlock {0} in **{1}** for **{2}**?</string>
+  <string name="StarsConfirmPurchaseMedia2">Do you want to unlock {0} and {1} in **{2}** for **{3}**?</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <string name="StarsConfirmPurchaseMedia_Photos_zero">**{0} photos**</string>
+  <string name="StarsConfirmPurchaseMedia_Photos_two">**{0} photos**</string>
+  <string name="StarsConfirmPurchaseMedia_Photos_few">**{0} photos**</string>
+  <string name="StarsConfirmPurchaseMedia_Photos_many">**{0} photos**</string>
+  <string name="StarsConfirmPurchaseMedia_Videos_zero">**{0} videos**</string>
+  <string name="StarsConfirmPurchaseMedia_Videos_two">**{0} videos**</string>
+  <string name="StarsConfirmPurchaseMedia_Videos_few">**{0} videos**</string>
+  <string name="StarsConfirmPurchaseMedia_Videos_many">**{0} videos**</string>
   <string name="StarsConfirmPurchaseText_zero">Do you want to buy \"**{1}**\" in **{2}** for **{0} stars**?</string>
   <string name="StarsConfirmPurchaseText_two">Do you want to buy \"**{1}**\" in **{2}** for **{0} stars**?</string>
   <string name="StarsConfirmPurchaseText_few">Do you want to buy \"**{1}**\" in **{2}** for **{0} stars**?</string>
@@ -9743,6 +10202,14 @@
   <string name="StarsCount_two">{0} Stars</string>
   <string name="StarsCount_few">{0} Stars</string>
   <string name="StarsCount_many">{0} Stars</string>
+  
+  
+  
+  
+  
+  
+  
+  
   <string name="StarsNeededTitle_zero">{0} Stars Needed</string>
   <string name="StarsNeededTitle_two">{0} Stars Needed</string>
   <string name="StarsNeededTitle_few">{0} Stars Needed</string>
@@ -9781,6 +10248,11 @@
   <string name="StoriesUnpinned_two">{0} stories unpinned.</string>
   <string name="StoriesUnpinned_few">{0} stories unpinned.</string>
   <string name="StoriesUnpinned_many">{0} stories unpinned.</string>
+  
+  
+  
+  
+  
   
   
   
@@ -9884,6 +10356,14 @@
   
   
   
+  <string name="UnlockPaidContent_zero">Unlock for &#11088;&#65039;{0}</string>
+  <string name="UnlockPaidContent_two">Unlock for &#11088;&#65039;{0}</string>
+  <string name="UnlockPaidContent_few">Unlock for &#11088;&#65039;{0}</string>
+  <string name="UnlockPaidContent_many">Unlock for &#11088;&#65039;{0}</string>
+  
+  
+  
+  
   
   
   
@@ -9895,6 +10375,7 @@
   <string name="UserRestrictionsBy">Restricted by {0}</string>
   
   <string name="UserRestrictionsUntil">Restricted until</string>
+  
   
   <string name="ViewDetails">VIEW CONTACT</string>
   
@@ -9944,6 +10425,13 @@
   <string name="BoostLevelPlus">Level {0}+</string>
   <string name="BoostLevelUnlocks">Level {0} Unlocks:</string>
   <string name="BoostsMaxLevelReachedDescription">**{0}** reached **{1}**.</string>
+  <string name="BotDAU_zero">{0} users</string>
+  <string name="BotDAU_one">{0} user</string>
+  <string name="BotDAU_two">{0} users</string>
+  <string name="BotDAU_few">{0} users</string>
+  <string name="BotDAU_many">{0} users</string>
+  <string name="BotDAU_other">{0} users</string>
+  <string name="BotStarsTransactionsMore">Show more transactions</string>
   <string name="BusinessLinksFooterNoUsername">You can also use a simple link for a chat with you — {0}.</string>
   <string name="BusinessLinksFooterWithUsername">You can also use a simple link for a chat with you — {0} or {1}.</string>
   <string name="ChangeNameColor">Change Name Color</string>
@@ -10049,12 +10537,18 @@
   <string name="RetrievingInformation">Retrieving Information...</string>
   <string name="SaveAs">Save As...</string>
   <string name="SavePhoto">Save Photo</string>
+  <string name="SendAsMedia">Send as Media</string>
+  <string name="SendAsPhoto">Send as Photo</string>
+  <string name="SendAsPhotos">Send as Photos</string>
+  <string name="SendAsVideo">Send as Video</string>
+  <string name="SendAsVideos">Send as Videos</string>
   <string name="SendByEnter2">Send Messages With</string>
   <string name="SendByEnterCtrl">Ctrl+Enter</string>
   <string name="SendByEnterKey">Enter</string>
   <string name="SensitiveDisableFiltering">Disable filtering</string>
   <string name="SensitiveInfo">Display sensitive media in public channels on all your Telegram devices.</string>
   <string name="SensitiveTitle">Sensitive content</string>
+  <string name="ShortTimeNow">now</string>
   <string name="ShowInChat2">Show in Chat</string>
   <string name="ShowInFolder">Show in Folder</string>
   <string name="ShowTrayIcon">Show Tray Icon</string>
@@ -10110,162 +10604,4 @@
   <string name="VoipPlatformUnsupportedTitle">Feature not supported</string>
   <string name="VoipStreamWith">Stream with...</string>
   <string name="YourNameColor">Your Name Color</string>
-  <string name="ChannelRemoveUser">Remove from channel</string>
-  <string name="StarsTransactionDate">Date</string>
-  <string name="StarsTransactionID">Transaction ID</string>
-  <string name="StarsTransactionIDCopied">Transaction ID copied to clipboard</string>
-  <string name="StarsTransactionRecipient">From</string>
-  <string name="StarsTransactionSource">Via</string>
-  <string name="StarsTransactionTOS">Review the **Terms of Service** for Stars.</string>
-  <string name="ShortTimeNow">now</string>
-  <string name="AddToGroupOrChannel">Add to Group or Channel</string>
-
-  <string name="CaptionAbove">Move Caption Up</string>
-  <string name="CaptionBelow">Move Caption Down</string>
-  <string name="SendAsPhoto">Send as Photo</string>
-  <string name="SendAsPhotos">Send as Photos</string>
-  <string name="SendAsVideo">Send as Video</string>
-  <string name="SendAsVideos">Send as Videos</string>
-  <string name="SendAsFile">Send as File</string>
-  <string name="SendAsFiles">Send as Files</string>
-  <string name="SendAsMedia">Send as Media</string>
-
-  <string name="ChooseBot">Choose a Bot</string>
-  <string name="ChooseUser">Choose a User</string>
-  <string name="ChooseUsers">Choose Users</string>
-  <string name="ChooseGroup">Choose a Group</string>
-  <string name="ChooseChannel">Choose a Channel</string>
-
-  <string name="BotMultiContactsSelectorLimit_one">You can select maximum {0} user.</string>
-  <string name="BotMultiContactsSelectorLimit_other">You can select maximum {0} users.</string>
-  <string name="BotMultiContactsSelectorLimit_zero">You can select maximum {0} users.</string>
-  <string name="BotMultiContactsSelectorLimit_two">You can select maximum {0} users.</string>
-  <string name="BotMultiContactsSelectorLimit_few">You can select maximum {0} users.</string>
-  <string name="BotMultiContactsSelectorLimit_many">You can select maximum {0} users.</string>
-
-  <string name="StoryOpenLink">Open Link &gt;</string>
-
-  <string name="BotPublicLink">Public Link</string>
-  <string name="StarsBalance">Balance</string>
-
-  <string name="BotStarsAvailableBalance">Available balance</string>
-  <string name="BotStarsButtonWithdrawAll">Withdraw all via Fragment</string>
-  <string name="BotStarsButtonWithdrawUntil">Withdraw via Fragment</string>
-  <string name="BotStarsButtonWithdraw_one">Withdraw &#11088;&#65039;{0} via Fragment</string>
-  <string name="BotStarsButtonWithdraw_other">Withdraw &#11088;&#65039;{0} via Fragment</string>
-  <string name="BotStarsChartRevenue">Revenue</string>
-  <string name="BotStarsOverview">Proceeds overview</string>
-  <string name="BotStarsOverviewAvailableBalance">Available balance</string>
-  <string name="BotStarsOverviewInfo">Stars from your total balance can be used for ads or withdrawn as rewards 21 days after they are earned.</string>
-  <string name="BotStarsOverviewTotalBalance">Total lifetime proceeds</string>
-  <string name="BotStarsTransactionsMore">Show more transactions</string>
-  <string name="BotStarsWithdrawInfo">You can withdraw Stars using Fragment, or use Stars to advertise your bot. **Learn more &gt;**</string>
-  <string name="BotStarsWithdrawInfoLink">https://telegram.org/privacy</string>
-  <string name="BotStarsWithdrawMinLimit_other">You cannot withdraw less than **{0} stars**.</string>
-  <string name="BotStarsWithdrawPlaceholder">Enter amount to withdraw</string>
-  <string name="BotStarsWithdrawalToast">Next withdrawal will be available in **{0}**.</string>
-
-  <string name="StarsTransactionWithdrawFragment">Withdraw to Fragment</string>
-  <string name="StarsFailed">Failed</string>
-  <string name="StarsRefunded">Refund</string>
-  <string name="StarsPending">Pending</string>
-  <string name="Fragment">Fragment</string>
-
-  <string name="PleaseEnterCurrentPasswordWithdraw">Please enter your password to withdraw.</string>
-
-  <string name="BotWebViewToS">Terms of Use</string>
-  <string name="BotWebViewToSLink">https://telegram.org/tos/mini-apps</string>
-
-  <string name="UnlockPaidContent_one">Unlock for &#11088;&#65039;{0}</string>
-  <string name="UnlockPaidContent_other">Unlock for &#11088;&#65039;{0}</string>
-
-  <string name="PaidMediaButton">Make this Content Paid</string>
-  <string name="PaidMediaPriceButton">Edit Price</string>
-
-  <string name="PaidContentButton">Make This Media Paid</string>
-  <string name="PaidContentClearButton">Keep this media free</string>
-  <string name="PaidContentInfo">Users will have to transfer this amount of Stars to your channel in order to view this media. **Learn more &gt;**</string>
-  <string name="PaidContentInfoLink">https://telegram.org/tos/stars</string>
-  <string name="PaidContentPriceTitle">Enter unlock cost</string>
-  <string name="PaidContentTitle">Paid Content</string>
-  <string name="PaidContentUpdateButton">Save Price</string>
-
-  <string name="StarMediaPurchase">Media Purchase</string>
-  <string name="StarsTransactionMedia">Media</string>
-
-  <string name="StarsConfirmPurchaseMedia1">Do you want to unlock {0} in **{1}** for **{2}**?</string>
-  <string name="StarsConfirmPurchaseMedia2">Do you want to unlock {0} and {1} in **{2}** for **{3}**?</string>
-  <string name="StarsConfirmPurchaseMedia_Photos_one">**{0} photo**</string>
-  <string name="StarsConfirmPurchaseMedia_Photos_other">**{0} photos**</string>
-  <string name="StarsConfirmPurchaseMedia_SinglePhoto">a **photo**</string>
-  <string name="StarsConfirmPurchaseMedia_SingleVideo">a **video**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_one">**{0} video**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_other">**{0} videos**</string>
-
-  <string name="GifSavedHint">Added to Favorite GIFs.</string>
-  <string name="AddedToFavorites">Sticker added to Favorites.</string>
-  <string name="RemovedFromFavorites">Sticker was removed from Favorites</string>
-
-  <string name="AppsTab">Apps</string>
-  <string name="SearchAppsMine">Apps you use</string>
-  <string name="SearchAppsPopular">Popular apps</string>
-  <string name="BotDAU_one">{0} user</string>
-  <string name="BotDAU_other">{0} users</string>
-
-  <string name="ProfileBotOpenApp">Open App</string>
-  <string name="ProfileBotOpenAppInfo">By launching this mini app, you agree to the **Terms of Service for Mini Apps.**</string>
-  <string name="ProfileBotOpenAppInfoLink">https://telegram.org/tos/mini-apps</string>
-  <string name="ProfileBotPreviewTab">Preview</string>
-
-  <string name="ActionRefunded">un1 refunded back {0}</string>
-
-  <string name="ActionGiftPremiumSubtitle">for {0}</string>
-  <string name="ActionGiftPremiumTitle">Telegram Premium</string>
-  <string name="ActionGiftPremiumView">View</string>
-  <string name="ActionGiftStarsSubtitle">With Stars, **{0}** is able to unlock content and services on Telegram.</string>
-  <string name="ActionGiftStarsSubtitleYou">Use Stars to unlock content and services on Telegram.</string>
-  <string name="ActionGiftStarsTitle_one">{0} Star</string>
-  <string name="ActionGiftStarsTitle_other">{0} Stars</string>
-  <string name="ActionGiftStarsView">View</string>
-
-  <string name="StarsGiftReceived">Received Gift</string>
-  <string name="StarsGiftSent">Sent Gift</string>
-
-  <string name="TelegramStarsGift">Gift Stars to Friends</string>
-  <string name="GiftStarsSubtitle">With Stars, **{0}** will be able to unlock content and services on Telegram.</string>
-  <string name="GiftStarsSubtitleLinkName">**See Examples &gt;**</string>
-  <string name="GiftStarsTitle">Gift Stars</string>
-
-
-  <!-- new from translations.telegram.org -->
-
-  <string name="ActionGiftStarsTitle_zero">{0} Stars</string>
-  <string name="ActionGiftStarsTitle_two">{0} Stars</string>
-  <string name="ActionGiftStarsTitle_few">{0} Stars</string>
-  <string name="ActionGiftStarsTitle_many">{0} Stars</string>
-  <string name="BotDAU_zero">{0} users</string>
-  <string name="BotDAU_two">{0} users</string>
-  <string name="BotDAU_few">{0} users</string>
-  <string name="BotDAU_many">{0} users</string>
-  <string name="BotStarsButtonWithdraw_zero">Withdraw &#11088;&#65039;{0} via Fragment</string>
-  <string name="BotStarsButtonWithdraw_two">Withdraw &#11088;&#65039;{0} via Fragment</string>
-  <string name="BotStarsButtonWithdraw_few">Withdraw &#11088;&#65039;{0} via Fragment</string>
-  <string name="BotStarsButtonWithdraw_many">Withdraw &#11088;&#65039;{0} via Fragment</string>
-  <string name="BotStarsWithdrawMinLimit_zero">You cannot withdraw less than **{0} stars**.</string>
-  <string name="BotStarsWithdrawMinLimit_one"></string>
-  <string name="BotStarsWithdrawMinLimit_two">You cannot withdraw less than **{0} stars**.</string>
-  <string name="BotStarsWithdrawMinLimit_few">You cannot withdraw less than **{0} stars**.</string>
-  <string name="BotStarsWithdrawMinLimit_many">You cannot withdraw less than **{0} stars**.</string>
-  <string name="StarsConfirmPurchaseMedia_Photos_zero">**{0} photos**</string>
-  <string name="StarsConfirmPurchaseMedia_Photos_two">**{0} photos**</string>
-  <string name="StarsConfirmPurchaseMedia_Photos_few">**{0} photos**</string>
-  <string name="StarsConfirmPurchaseMedia_Photos_many">**{0} photos**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_zero">**{0} videos**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_two">**{0} videos**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_few">**{0} videos**</string>
-  <string name="StarsConfirmPurchaseMedia_Videos_many">**{0} videos**</string>
-  <string name="UnlockPaidContent_zero">Unlock for &#11088;&#65039;{0}</string>
-  <string name="UnlockPaidContent_two">Unlock for &#11088;&#65039;{0}</string>
-  <string name="UnlockPaidContent_few">Unlock for &#11088;&#65039;{0}</string>
-  <string name="UnlockPaidContent_many">Unlock for &#11088;&#65039;{0}</string>
 </resources>

@@ -12597,7 +12597,7 @@ Sorry for the inconvenience.";
 
 "WebBrowser.Done" = "Done";
 
-"AccessDenied.LocationWeather" = "Telegram needs access to your location so that you can add the weather widget to your stories.\n\nPlease go to Settings > Privacy > Location Services and set Telegram to ON.";
+"AccessDenied.LocationWeather" = "Telegram needs access to your location so that you can add weather widgets to your stories.\n\nPlease go to Settings > Privacy > Location Services and set Telegram to ON.";
 
 "Story.Editor.TooltipWeatherLimitText" = "You can't add more than one weather sticker to a story.";
 
@@ -12607,7 +12607,7 @@ Sorry for the inconvenience.";
 "WebBrowser.Bookmarks.BookmarkCurrent" = "Bookmark Current Page";
 
 "Story.Privacy.ChooseCover" = "Choose Story Cover";
-"Story.Privacy.ChooseCoverInfo" = "Choose a frame from the story to show in your Profile.";
+"Story.Privacy.ChooseCoverInfo" = "Choose a frame from this story to show on your Profile.";
 "Story.Privacy.ChooseCoverChannelInfo" = "Choose a frame from the story to show in channel profile.";
 "Story.Privacy.ChooseCoverGroupInfo" = "Choose a frame from the story to show in group profile.";
 
