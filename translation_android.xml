@@ -9059,7 +9059,7 @@ list of reactions.</string>
     <string name="PaintBringToFront">To Front</string>
     <string name="HashtagStoriesFound_one">%d Story found</string>
     <string name="HashtagStoriesFound_other">%d Stories found</string>
-    <string name="HashtagStoriesFoundSubtitle">View stories with #%s</string>
+    <string name="HashtagStoriesFoundSubtitle">View stories with %s</string>
     <string name="StoryLinkLimitTitle">Limit Reached</string>
     <string name="StoryLinkLimitMessage_other">You can’t add more than %d links to a story.</string>
     <string name="BotStarsWithdrawalToast">Next withdrawal will be available in **%s**.</string>
