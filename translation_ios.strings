@@ -12484,7 +12484,7 @@ Sorry for the inconvenience.";
 
 "Stars.SendStars.Title" = "Send Stars";
 "Stars.SendStars.AmountTitle" = "ENTER AMOUNT";
-"Stars.SendStars.AmountPlaceholder" = "Stars Amount";
+"Stars.SendStars.AmountPlaceholder" = "Star Amount";
 "Stars.SendStars.AmountInfo" = "Send %@ or more to highlight your profile in the TOP 3 supporters of this message.";
 "Stars.SendStars.SendStars" = "Confirm and Send";
 
@@ -12502,7 +12502,7 @@ Sorry for the inconvenience.";
 "Stars.Purchase.SubscriptionRenewInfo" = "Buy Stars to keep your subscription for **%@**.";
 
 "InviteLink.Create.Subscription" = "Require Monthly Fee";
-"InviteLink.Create.Subscription.Placeholder" = "Stars amount per month";
+"InviteLink.Create.Subscription.Placeholder" = "Star amount per month";
 "InviteLink.Create.Subscription.PerMonth" = "%@ / month";
 "InviteLink.Create.Subscription.Info" = "Charge a subscription fee from people joining your channel via this link. [Learn More >]()";
 "InviteLink.Create.Subscription.EditInfo" = "If you need to change the subscription fee, create a new invite link with a different price.";
@@ -12773,7 +12773,7 @@ Sorry for the inconvenience.";
 
 "InviteLink.Create.Fee" = "Require Monthly Fee";
 "InviteLink.Create.FeePerMonth" = "%@ / month";
-"InviteLink.Create.FeePlaceholder" = "Stars amount per month";
+"InviteLink.Create.FeePlaceholder" = "Star amount per month";
 "InviteLink.Create.FeeInfo" = "Charge a subscription fee from people joining your channel via this link. [Learn More >]()";
 "InviteLink.Create.FeeEditInfo" = "If you need to change the subscription fee, create a new invite link with a different price.";
 "InviteLink.Create.RequestApprovalFeeUnavailable" = "You can't enable admin approval for links that require a monthly fee.";
