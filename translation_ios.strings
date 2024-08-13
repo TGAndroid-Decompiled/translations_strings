@@ -12392,7 +12392,7 @@ Sorry for the inconvenience.";
 "Stars.BotRevenue.Withdraw.Withdraw" = "Withdraw via Fragment";
 "Stars.BotRevenue.Withdraw.WithdrawShort" = "Withdraw";
 "Stars.BotRevenue.Withdraw.BuyAds" = "Buy Ads";
-"Stars.BotRevenue.Withdraw.Info" = "You can collect rewards for Stars using Fragment, or use Stars to advertise your bot. [Learn More >]()";
+"Stars.BotRevenue.Withdraw.Info" = "You can collect rewards for Stars using Fragment, or use Stars to advertise your bot. You cannot withdraw less than 1000 stars. [Learn More >]()";
 "Stars.BotRevenue.Withdraw.Info_URL" = "https://telegram.org/tos/bot-developers#6-2-2-tpa-balance";
 
 "Stars.BotRevenue.Transactions.Title" = "Transaction History";
@@ -12450,7 +12450,7 @@ Sorry for the inconvenience.";
 "Monetization.BalanceStarsWithdraw" = "Withdraw via Fragment";
 "Monetization.BalanceStarsWithdrawShort" = "Withdraw";
 "Monetization.BalanceStarsBuyAds" = "Buy Ads";
-"Monetization.Balance.StarsInfo" = "You can collect rewards for Stars using Fragment, or use Stars to advertise your channel. [Learn More >]()";
+"Monetization.Balance.StarsInfo" = "You can collect rewards for Stars using Fragment, or use Stars to advertise your channel. You cannot withdraw less than 1000 stars. [Learn More >]()";
 "Monetization.Balance.StarsInfo_URL" = "https://telegram.org/tos/stars";
 
 "Monetization.StarsProceeds.Title" = "REWARDS OVERVIEW";

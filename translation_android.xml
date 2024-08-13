@@ -8716,7 +8716,7 @@ list of reactions.</string>
     <string name="MonetizationGraphRevenue">Ad rewards</string>
     <string name="MonetizationWithdraw">Collect via Fragment</string>
     <string name="MonetizationStarsBalance">Stars balance</string>
-    <string name="MonetizationStarsInfo">You can withdraw Stars using Fragment, or use Stars to advertise your channel. **Learn more &gt;**</string>
+    <string name="MonetizationStarsInfo">You can withdraw Stars using Fragment, or use Stars to advertise your channel. You cannot withdraw less than 1000 stars. **Learn more &gt;**</string>
     <string name="MonetizationStarsInfoLink">https://telegram.org/tos/stars</string>
     <string name="MonetizationStarsWithdraw_other">Withdraw &#11088;&#65039;%d</string>
     <string name="MonetizationStarsWithdrawAll">Withdraw All</string>
@@ -9038,7 +9038,7 @@ list of reactions.</string>
     <string name="BotStarsOverviewTotalProceeds">Total lifetime proceeds</string>
     <string name="BotStarsAvailableBalance">Available balance</string>
     <string name="BotStarsOverviewInfo">Stars from your total balance can be used for ads or withdrawn as rewards 21 days after they are earned.</string>
-    <string name="BotStarsWithdrawInfo">You can collect rewards for Stars using Fragment, or use Stars to advertise your bot. **Learn more &gt;**</string>
+    <string name="BotStarsWithdrawInfo">You can collect rewards for Stars using Fragment, or use Stars to advertise your bot. You cannot withdraw less than 1000 stars. **Learn more &gt;**</string>
     <string name="BotStarsWithdrawInfoLink">https://telegram.org/privacy</string>
     <string name="BotStarsButtonWithdrawUntil">Withdraw via Fragment</string>
     <string name="BotStarsButtonWithdrawAll">Withdraw all via Fragment</string>
