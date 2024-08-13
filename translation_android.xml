@@ -643,6 +643,7 @@
     <string name="ChannelNotifyMembersInfoOn">Subscribers will be notified when you post.</string>
     <string name="ChannelNotifyMembersInfoOff">Subscribers will receive a silent notification.</string>
     <string name="ChannelSignMessages">Sign Messages</string>
+    <string name="ChannelSignMessagesWithProfile">Show Authors\' Profiles</string>
     <string name="ChannelSignMessagesInfo">Add names of admins to the messages they post</string>
     <string name="EditAdmin">Admin Rights</string>
     <string name="EditAdminRank">Custom title</string>
@@ -963,6 +964,8 @@
     <string name="EventLogToggledInvitesOff">un1 disabled group invites</string>
     <string name="EventLogToggledSignaturesOn">un1 enabled signatures</string>
     <string name="EventLogToggledSignaturesOff">un1 disabled signatures</string>
+    <string name="EventLogToggledSignaturesProfilesOn">un1 enabled authors\' profiles</string>
+    <string name="EventLogToggledSignaturesProfilesOff">un1 disabled authors\' profiles</string>
     <string name="EventLogRestrictedUntil">changed permissions for %1$s\n\nDuration: %2$s</string>
     <string name="EventLogDefaultPermissions">changed default permissions</string>
     <string name="EventLogRestrictedSendStickers">Send stickers &amp; GIFs</string>
@@ -3875,6 +3878,8 @@
     <string name="ActionTTLYouDisabled">You disabled the auto-delete timer</string>
     <string name="ActionInviteUser">un1 joined the group via invite link</string>
     <string name="ActionInviteUserFolder">un1 joined the group via folder invite link</string>
+    <string name="ActionInviteChannelUser">un1 joined the channel via invite link</string>
+    <string name="ActionInviteChannelUserFolder">un1 joined the channel via folder invite link</string>
     <string name="ActionKickUser">un1 removed un2</string>
     <string name="ActionRefunded">un1 refunded %1$s</string>
     <string name="ActionLeftUser">un1 left the group</string>
@@ -4637,6 +4642,7 @@
     <!--invite links-->
     <string name="ManageInviteLinks">Manage Invite Links</string>
     <string name="ManageLinksInfoHelp">You can create additional invite links that have a limited time or number of users.</string>
+    <string name="ManageLinksInfoHelpPaid">You can create additional invite links that have a limited time, number of uses or require a paid subscription.</string>
     <string name="PrimaryLinkHelp">Anyone on Telegram will be able to join your group by following this link.</string>
     <string name="PrimaryLinkHelpChannel">Anyone on Telegram will be able to join your channel by following this link.</string>
     <string name="EditLink">Edit link</string>
@@ -4668,6 +4674,7 @@
     <string name="CreateNewLink">Create a New Link</string>
     <string name="DeleteAllRevokedLinks">Delete All Revoked Links</string>
     <string name="NoOneJoined">No one joined</string>
+    <string name="NoOneSubscribed">No one subscribed</string>
     <string name="LinkLimitReached">Limit reached</string>
     <string name="QRCodeLinkHelpGroup">Everyone on Telegram can scan this code to join your group.</string>
     <string name="DeleteLinkHelp">This will delete link.</string>
@@ -4706,25 +4713,13 @@
     <string name="LeaveCommunities_many">Leave %d communities</string>
     <string name="LeaveCommunities_other">Leave %d communities</string>
 
-    <string name="RemoveDocumentsMessage_zero">Do you want to remove these **%d items** from Downloads?</string>
     <string name="RemoveDocumentsMessage_one">Do you want to remove **this item** from Downloads?</string>
-    <string name="RemoveDocumentsMessage_two">Do you want to remove these **%d items** from Downloads?</string>
-    <string name="RemoveDocumentsMessage_few">Do you want to remove these **%d items** from Downloads?</string>
-    <string name="RemoveDocumentsMessage_many">Do you want to remove these **%d items** from Downloads?</string>
     <string name="RemoveDocumentsMessage_other">Do you want to remove these **%d items** from Downloads?</string>
 
-    <string name="RemoveDocumentsTitle_zero">Remove %d downloads</string>
     <string name="RemoveDocumentsTitle_one">Remove %d download</string>
-    <string name="RemoveDocumentsTitle_two">Remove %d downloads</string>
-    <string name="RemoveDocumentsTitle_few">Remove %d downloads</string>
-    <string name="RemoveDocumentsTitle_many">Remove %d downloads</string>
     <string name="RemoveDocumentsTitle_other">Remove %d downloads</string>
 
-    <string name="ForceSetPasswordAlertMessage_zero">Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every %1$s days.</string>
     <string name="ForceSetPasswordAlertMessage_one">Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every %1$s day.</string>
-    <string name="ForceSetPasswordAlertMessage_two">Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every %1$s days.</string>
-    <string name="ForceSetPasswordAlertMessage_few">Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every %1$s days.</string>
-    <string name="ForceSetPasswordAlertMessage_many">Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every %1$s days.</string>
     <string name="ForceSetPasswordAlertMessage_other">Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every %1$s days.</string>
 
     <string name="MessagesDeletedUndo_zero">Messages for %1$s days deleted</string>
@@ -4734,24 +4729,12 @@
     <string name="MessagesDeletedUndo_many">Messages for %1$s days deleted</string>
     <string name="MessagesDeletedUndo_other">Messages for %1$s days deleted</string>
 
-    <string name="DeleteDays_zero">Delete %1$s days</string>
     <string name="DeleteDays_one">Delete %1$s day</string>
-    <string name="DeleteDays_two">Delete %1$s days</string>
-    <string name="DeleteDays_few">Delete %1$s days</string>
-    <string name="DeleteDays_many">Delete %1$s days</string>
     <string name="DeleteDays_other">Delete %1$s days</string>
 
-    <string name="MembersAreSpeakingToast_zero">un1 are speaking</string>
     <string name="MembersAreSpeakingToast_one">un1 is speaking</string>
-    <string name="MembersAreSpeakingToast_two">un1 are speaking</string>
-    <string name="MembersAreSpeakingToast_few">un1 are speaking</string>
-    <string name="MembersAreSpeakingToast_many">un1 are speaking</string>
     <string name="MembersAreSpeakingToast_other">un1 are speaking</string>
-    <string name="DeleteBackground_zero">Delete %1$d wallpapers</string>
     <string name="DeleteBackground_one">Delete wallpaper</string>
-    <string name="DeleteBackground_two">Delete %1$d wallpapers</string>
-    <string name="DeleteBackground_few">Delete %1$d wallpapers</string>
-    <string name="DeleteBackground_many">Delete %1$d wallpapers</string>
     <string name="DeleteBackground_other">Delete %1$d wallpapers</string>
     <string name="Recipient_zero">%1$d recipients</string>
     <string name="Recipient_one">%1$d recipient</string>
@@ -5788,6 +5771,7 @@
     <string name="CreateNewTheme">Create a New Theme</string>
     <string name="ApproveNewMembers">Request Admin Approval</string>
     <string name="ApproveNewMembersDescription">Turn this on if you want users to join only after they are approved by an admin.</string>
+    <string name="ApproveNewMembersDescriptionFrozen">You can\'t enable admin approval for links that require a monthly fee.</string>
     <string name="NoMemberRequests">No join requests</string>
     <string name="RequestToJoinMembersTwo">%1$s, %2$s</string>
     <string name="RequestToJoinMembersThree">%1$s, %2$s and %3$s</string>
@@ -6578,14 +6562,8 @@
     <string name="ClearCacheForChats">Are you sure you want to delete cached data for selected chats?</string>
     <string name="ClearCacheForChat">Are you sure you want to delete cached data for selected chat?</string>
     <string name="SelectChatsForAutoDelete">to apply the self-destruct timer</string>
-    
-    
-    
-    
-    
-    
-    
-    
+    <string name="SelectChatsForAutoDelete2">will have the self-destruct timer</string>
+    <string name="SelectChatsForDisableAutoDelete2">will disable the self-destruct timer</string>
     <string name="DisableAutoDeleteTimer">Disable Auto-Delete</string>
     <string name="PhotoEditorDraw">Draw</string>
     <string name="PhotoEditorSticker">Sticker</string>
@@ -7092,6 +7070,7 @@
     <string name="WallpaperNotification">Set a new chat wallpaper</string>
     <string name="WallpaperSameNotification">Set the same chat Wallpaper</string>
     <string name="BotWebViewStartPermission">To launch this web app, you will connect to its website.</string>
+    <string name="BotWebViewStartPermissionLink">https://telegram.org/tos/stars</string>
     <string name="MoreAboutThisBot">More about this bot</string>
     <string name="ChatThemeDaySwitchTooltip">Tap to view this theme in day mode.</string>
     <string name="ChatThemeNightSwitchTooltip">Tap to view this theme in night mode.</string>
@@ -8947,7 +8926,20 @@ list of reactions.</string>
     <string name="EnterPINorFingerprint">Enter your PIN or use a fingerprint</string>
     <string name="EnterPIN">Enter your PIN</string>
     <string name="AppLocked">Telegram Locked</string>
+    <string name="ShowSensitiveContent">Show 18+ Content</string>
+    <string name="ShowSensitiveContentInfo">Do not hide media that contain content suitable only for adults</string>
+    <string name="ConfirmSensitiveContentTitle">18+ Content</string>
+    <string name="ConfirmSensitiveContentText">Confirm that you are over 18 years old and update your settings to see potentially explicit and sensitive content.</string>
     <string name="Confirm">Confirm</string>
+    <string name="MessageSensitiveContent">18+ Content</string>
+    <string name="MessageSensitiveContentShort">18+</string>
+    <string name="MessageShowSensitiveContentMediaTitle">18+ Content</string>
+    <string name="MessageShowSensitiveContentChannelTitle">18+ Content</string>
+    <string name="MessageShowSensitiveContentMediaText">This media may contain sensitive content suitable only for adults. Do you still want to view it?</string>
+    <string name="MessageShowSensitiveContentChannelText">This chat may contain sensitive content suitable only for adults. Do you still want to view it?</string>
+    <string name="MessageShowSensitiveContentAlways">Always show 18+ media</string>
+    <string name="MessageShowSensitiveContentButton">View Anyway</string>
+    <string name="SensitiveContentSettingsToast">You can update the visibility of sensitive media in **Chat Settings &gt; Show 18+ Content**</string>
     <string name="MenuTelegramStars">My Stars</string>
     <string name="TelegramStars">Telegram Stars</string>
     <string name="TelegramStarsInfo">Buy Stars to unlock content and services\nin miniapps on Telegram.</string>
@@ -8984,8 +8976,11 @@ list of reactions.</string>
     <string name="StarsNeededTitle_one">%d Star Needed</string>
     <string name="StarsNeededTitle_other">%d Stars Needed</string>
     <string name="StarsNeededText">Buy **Stars** and use them on **%s** and other miniapps.</string>
-    
-    
+    <string name="StarsNeededTextBuySubscription">Buy **Stars** and subscribe to **%s** and other channels.</string>
+    <string name="StarsNeededTextKeepSubscription">Buy **Stars** to keep your subscription for **%s**.</string>
+    <string name="StarsNeededTextReactions">Buy **Stars** to send paid reactions to **%s** and other channels.</string>
+    <string name="StarsNeededTextLink">Buy **Stars** to keep your channel subscriptions.</string>
+    <string name="StarsNeededTextLink_subs">Buy **Stars** to keep your channel subscriptions.</string>
     <string name="CaptionAbove">Move Caption Up</string>
     <string name="CaptionBelow">Move Caption Down</string>
     <string name="AddFactCheck">Add Fact Check</string>
@@ -9074,6 +9069,7 @@ list of reactions.</string>
     <string name="Stars_one">%d Star</string>
     <string name="Stars_other">%d Stars</string>
     <string name="StarsTransactionMedia">Media</string>
+    <string name="StarsTransactionMessage">Post</string>
     <string name="PaidContentTitle">Paid Content</string>
     <string name="PaidContentPriceTitle">Enter unlock cost</string>
     <string name="PaidContentInfo">Users will have to transfer this amount of Stars to your channel in order to view this media. **Learn more &gt;**</string>
@@ -9098,6 +9094,10 @@ list of reactions.</string>
     <string name="StarsConfirmPurchaseMediaOne2_other">Do you want to unlock %2$s in **%3$s** for **%1$d stars**?</string>
     <string name="StarsConfirmPurchaseMediaTwo2_one">Do you want to unlock %2$s and %3$s in **%4$s** for **%1$d Star**?</string>
     <string name="StarsConfirmPurchaseMediaTwo2_other">Do you want to unlock %2$s and %3$s in **%4$s** for **%1$d Stars**?</string>
+    <string name="StarsConfirmPurchaseMediaBotOne2_one">Do you want to unlock %2$s from **%3$s** for **%1$d star**?</string>
+    <string name="StarsConfirmPurchaseMediaBotOne2_other">Do you want to unlock %2$s from **%3$s** for **%1$d stars**?</string>
+    <string name="StarsConfirmPurchaseMediaBotTwo2_one">Do you want to unlock %2$s and %3$s from **%4$s** for **%1$d star**?</string>
+    <string name="StarsConfirmPurchaseMediaBotTwo2_other">Do you want to unlock %2$s and %3$s from **%4$s** for **%1$d stars**?</string>
     <string name="AttachPaidMedia">&#11088;&#65039; %s</string>
     <string name="GiftStarsTitle">Gift Stars</string>
     <string name="GiftStarsSubtitle">With Stars, **%s** will be able to unlock content and services on Telegram.</string>
@@ -9252,46 +9252,93 @@ list of reactions.</string>
     <string name="WebNoBookmarks">No bookmarks found</string>
     <string name="WebForward">Go Forward</string>
     <string name="BotPrivacyPolicy">Privacy Policy</string>
+    <string name="RequireMonthlyFee">Require Monthly Fee</string>
+    <string name="RequireMonthlyFeePriceHint">Stars Amount per month</string>
     
+    <string name="RequireMonthlyFeePrice">~%s/month</string>
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    <string name="RequireMonthlyFeeInfo">Charge a subscription fee from people joining your channel via this link.</string>
+    <string name="RequireMonthlyFeeInfoLink">https://telegram.org/tos/stars</string>
+    <string name="RequireMonthlyFeeInfoFrozen">If you need to change the subscription fee, create a new invite link with different price.</string>
+    <string name="LinkRevenue">Subscription fee</string>
+    <string name="LinkRevenuePrice">&#11088;&#65039;%1$d/month</string>
+    <string name="LinkRevenuePriceInfo">you get approximately %1$s monthly</string>
+    <string name="StarsSubscribeTitle">Subscribe to the Channel</string>
+    <string name="StarsSubscribeText_one">Do you want to subscribe to **%2$s** for **%1$d Star** per month?</string>
+    <string name="StarsSubscribeText_other">Do you want to subscribe to **%2$s** for **%1$d Stars** per month?</string>
+    <string name="StarsSubscribeTextTest_one">Do you want to subscribe to **%2$s** for **%1$d Star** per %3$s?</string>
+    <string name="StarsSubscribeTextTest_other">Do you want to subscribe to **%2$s** for **%1$d Stars** per %3$s?</string>
+    <string name="StarsSubscribeButton">Subscribe</string>
+    <string name="StarsSubscribeInfo">By subscribing you agree to the **Terms of Service**.</string>
+    <string name="StarsSubscribeInfoLink">https://telegram.org/tos/stars</string>
+    <string name="StarsSubscriptionCompleted">Subscription successful!</string>
+    <string name="StarsSubscriptionCompletedText_one">%1$d Star transferred to **%2$s**.</string>
+    <string name="StarsSubscriptionCompletedText_other">%1$d Stars transferred to **%2$s**.</string>
+    <string name="StarsTransactionSubscriptionMonthly">Monthly subscription fee</string>
+    <string name="StarsReactionTerms">By sending Stars you agree to the **Terms of Service**.</string>
+    <string name="StarsReactionTermsLink">https://t.me/tos/stars</string>
+    <string name="StarsSubscriptionRenews">renews on %s</string>
+    <string name="StarsSubscriptionExpires">expires on %s</string>
+    <string name="StarsSubscriptionExpired">expired on %s</string>
+    <string name="StarsSubscriptionStatusCancelled">cancelled</string>
+    <string name="StarsSubscriptionStatusExpired">expired</string>
+    <string name="StarsSubscriptionTitle">Subscription</string>
+    <string name="StarsSubscriptionPrice">&#11088;&#65039;%1$d/month</string>
+    <string name="StarsSubscriptionChannel">Subscription</string>
+    <string name="StarsSubscriptionSince">Subscribed</string>
+    <string name="StarsSubscriptionUntilRenews">Renews</string>
+    <string name="StarsSubscriptionUntilExpires">Expires</string>
+    <string name="StarsSubscriptionUntilExpired">Expired</string>
+    <string name="StarsSubscriptionCancelledText">You have cancelled your subscription.</string>
+    <string name="StarsSubscriptionRenew">Renew Subscription</string>
+    <string name="StarsSubscriptionAgain">Subscribe Again</string>
+    <string name="StarsSubscriptionCancel">Cancel Subscription</string>
+    <string name="StarsSubscriptionCancelInfo">If you cancel now, you will still be able to access your subscription until %s.</string>
+    <string name="StarsSubscriptionExpiredInfo">Your subscription expired on %s.</string>
+    <string name="StarsSubscriptionRefulfill">Join Channel</string>
+    <string name="StarsSubscriptionRefulfillInfo">You left channel, but you can still get back until %s.</string>
+    <string name="StarsSubscriptionExpiredHintTitle">&#11088;&#65039;%1$d Stars needed for %2$s</string>
+    <string name="StarsSubscriptionExpiredHintText">Insufficient funds to cover your subscription.</string>
+    <string name="StarsParticipantSubscription">Subscriber</string>
+    <string name="StarsParticipantSubscriptionApproxMonth">appx. %1$s per month</string>
+    <string name="StarsParticipantSubscriptionStart">Subscribed</string>
+    <string name="StarsParticipantSubscriptionExpired">Expired</string>
+    <string name="StarsParticipantSubscriptionRenews">Renews</string>
+    <string name="StarsParticipantSubscriptionPerMonth">per month</string>
+    <string name="StarsSentTitle">Stars sent!</string>
+    <string name="StarsSentText_one">You reacted with **%d** star.</string>
+    <string name="StarsSentText_other">You reacted with **%d** stars.</string>
+    <string name="StarsSentUndo">Undo</string>
+    <string name="StarsReactionTitle">Star Reaction</string>
+    <string name="StarsReactionText">Choose how many stars you want to send to **%s** to support this post.</string>
+    <string name="StarsReactionTextSent_one">You sent **%1$d** Star to support this post.</string>
+    <string name="StarsReactionTextSent_other">You sent **%1$d** Stars to support this post.</string>
+    <string name="StarsReactionTopSenders">Top Senders</string>
+    <string name="StarsReactionShowMeInTopSenders">Show me in Top Senders</string>
+    <string name="StarsReactionAnonymous">Anonymous</string>
+    <string name="StarsReactionSend">Send &#11088;&#65039;%s</string>
+    <string name="StarsReactionTop">TOP</string>
+    <string name="StarsReactionsSent">Star Reaction</string>
+    <string name="ChannelEnablePaidReactions">Enable Paid Reactions</string>
+    <string name="ChannelEnablePaidReactionsInfo">Switch this on to let your subscribers set paid reactions with Telegram Stars, which you will be able to withdraw later as TON.</string>
+    <string name="ChannelEnablePaidReactionsInfoLink">https://telegram.org/tos/stars/</string>
+    <string name="ChannelSignInfo">Add names of admins to the messages they post.</string>
+    <string name="ChannelSignProfilesInfo">Add names and photos of admins to the messages they post, linking to their profiles.</string>
+    <string name="ChannelLinksInfoPaid">You can create additional invite links that have limited time, number of users or require a paid subscription.</string>
+    <string name="ChannelLinksInfo">You can create additional invite links that have limited time and number of users.</string>
+    <string name="StarSubscriptionTo">To</string>
+    <string name="StarSubscriptionPurchase">Monthly subscription fee</string>
+    <string name="StarMySubscriptions">My subscriptions</string>
+    <string name="StarMySubscriptionsExpand">Show More</string>
+    <string name="StarsTopupLinkEnough">You have enough stars at the moment.</string>
+    <string name="StarsTopupLinkTopupAnyway">Topup Anyway</string>
+    <string name="BotDefaultPrivacyPolicy">https://telegram.org/privacy-tpa</string>
+    <string name="PeopleSubscriptionExpired_one">%d expired subscription</string>
+    <string name="PeopleSubscriptionExpired_other">%d expired subscriptions</string>
+    <string name="StarsSubscriptionCancelledToast">Subscription cancelled</string>
+    <string name="StarsSubscriptionCancelledToastText">You will still have access to the channel until **%s**.</string>
+    <string name="StarsSubscriptionRenewedToast">Subscription renewed</string>
+    <string name="StarsSubscriptionRenewedToastText">You renewed your subscription to **%s**.</string>
 
   <!-- new from translations.telegram.org -->
 
@@ -9766,8 +9813,16 @@ list of reactions.</string>
   <string name="DebugMenuDisableForceRtmpStreamFlag">Disable forced RTMP Stream Flag</string>
   <string name="DebugMenuEnableForceRtmpStreamFlag">Enable forced RTMP Stream Flag</string>
   <string name="DeleteAccountIfAwayFor">If you\'re away for</string>
+  <string name="DeleteBackground_zero">Delete %1$d wallpapers</string>
+  <string name="DeleteBackground_two">Delete %1$d wallpapers</string>
+  <string name="DeleteBackground_few">Delete %1$d wallpapers</string>
+  <string name="DeleteBackground_many">Delete %1$d wallpapers</string>
   <string name="DeleteBanUser">Ban user</string>
   <string name="DeleteContactsTitle_zero">Delete %d contacts</string>
+  <string name="DeleteDays_zero">Delete %1$s days</string>
+  <string name="DeleteDays_two">Delete %1$s days</string>
+  <string name="DeleteDays_few">Delete %1$s days</string>
+  <string name="DeleteDays_many">Delete %1$s days</string>
   <string name="DeleteLocalization">Delete localization?</string>
   <string name="DeleteTheseChats">Delete chats</string>
   <string name="DeleteTopics_zero">Delete topics</string>
@@ -9818,6 +9873,10 @@ list of reactions.</string>
   <string name="FolderLinkUpdatedSubtitle_zero">You have added %d new chats.</string>
   <string name="FolderUpdatesSubtitle_zero">Tap here to view them</string>
   <string name="FolderUpdatesTitle_zero">You can join **%d new chats**</string>
+  <string name="ForceSetPasswordAlertMessage_zero">Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every %1$s days.</string>
+  <string name="ForceSetPasswordAlertMessage_two">Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every %1$s days.</string>
+  <string name="ForceSetPasswordAlertMessage_few">Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every %1$s days.</string>
+  <string name="ForceSetPasswordAlertMessage_many">Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every %1$s days.</string>
   <string name="FwdMessageToManyChats_zero">Message forwarded to **%1$d chats**.</string>
   <string name="FwdMessagesToManyChats_zero">Messages forwarded to **%1$d chats**.</string>
   <string name="GifSavedToDownloadsHint">GIF saved to Downloads.</string>
@@ -9891,6 +9950,10 @@ list of reactions.</string>
   <string name="MaximumReactionsValue_two">%d reactions per post</string>
   <string name="MaximumReactionsValue_few">%d reactions per post</string>
   <string name="MaximumReactionsValue_many">%d reactions per post</string>
+  <string name="MembersAreSpeakingToast_zero">un1 are speaking</string>
+  <string name="MembersAreSpeakingToast_two">un1 are speaking</string>
+  <string name="MembersAreSpeakingToast_few">un1 are speaking</string>
+  <string name="MembersAreSpeakingToast_many">un1 are speaking</string>
   <string name="MembersCount">%1$d of %2$d selected</string>
   <string name="MessageContainsEmojiPacks_zero">This message contains emoji from **%d Packs**.</string>
   <string name="MessageContainsEmojiPacks_one"></string>
@@ -9980,6 +10043,10 @@ list of reactions.</string>
   <string name="PendingEmailText">Your recovery email %1$s is not yet active and pending confirmation.</string>
   <string name="PeopleCanJoinViaLink">%s people can join via this link</string>
   <string name="PeopleNearbyInfo">Ask your friend nearby to open this page to exchange phone numbers.</string>
+  <string name="PeopleSubscriptionExpired_zero">%d expired subscriptions</string>
+  <string name="PeopleSubscriptionExpired_two">%d expired subscriptions</string>
+  <string name="PeopleSubscriptionExpired_few">%d expired subscriptions</string>
+  <string name="PeopleSubscriptionExpired_many">%d expired subscriptions</string>
   <string name="PermissionNoAudio">Telegram needs microphone access so that you can send voice messages.</string>
   <string name="PermissionNoAudioVideo">Telegram needs access to your microphone so that you can record videos.</string>
   <string name="PermissionNoCamera">Telegram needs camera access so that you can take photos and videos. Please enable it in Settings.</string>
@@ -10036,6 +10103,14 @@ list of reactions.</string>
   <string name="ReactionReachLvlForReactionShort_few">Your channel needs to reach Level **%2$d** to add **%1$d** custom emoji as reactions.</string>
   <string name="ReactionReachLvlForReactionShort_many">Your channel needs to reach Level **%2$d** to add **%1$d** custom emoji as reactions.</string>
   <string name="RegisterText">Enter your first and last name</string>
+  <string name="RemoveDocumentsMessage_zero">Do you want to remove these **%d items** from Downloads?</string>
+  <string name="RemoveDocumentsMessage_two">Do you want to remove these **%d items** from Downloads?</string>
+  <string name="RemoveDocumentsMessage_few">Do you want to remove these **%d items** from Downloads?</string>
+  <string name="RemoveDocumentsMessage_many">Do you want to remove these **%d items** from Downloads?</string>
+  <string name="RemoveDocumentsTitle_zero">Remove %d downloads</string>
+  <string name="RemoveDocumentsTitle_two">Remove %d downloads</string>
+  <string name="RemoveDocumentsTitle_few">Remove %d downloads</string>
+  <string name="RemoveDocumentsTitle_many">Remove %d downloads</string>
   <string name="RemoveManyEmojiCount_zero">Remove %1$d emoji</string>
   <string name="RemoveManyEmojiPacksCount_zero">Remove %1$d emoji packs</string>
   <string name="RemoveManyMasksCount_zero">Remove %1$d masks</string>
@@ -10064,8 +10139,6 @@ list of reactions.</string>
   <string name="SearchMessagesResultCount_two">%2$s results</string>
   <string name="SearchMessagesResultCount_few">%2$s results</string>
   <string name="SearchMessagesResultCount_many">%2$s results</string>
-  <string name="SelectChatsForAutoDelete2">will have the self-destruct timer</string>
-  <string name="SelectChatsForDisableAutoDelete2">will disable the self-destruct timer</string>
   <string name="SelectOtherChat">Select another chat</string>
   <string name="SendContactTo">Send contact to %1$s?</string>
   <string name="SendContactToGroup">Send contact to %1$s?</string>
@@ -10178,6 +10251,14 @@ list of reactions.</string>
   <string name="StarsConfirmPurchaseButton_many">Confirm and Pay &#11088;&#65039; %d Stars</string>
   <string name="StarsConfirmPurchaseMedia1">Do you want to unlock %1$s in **%2$s** for **%3$s**?</string>
   <string name="StarsConfirmPurchaseMedia2">Do you want to unlock %1$s and %2$s in **%3$s** for **%4$s**?</string>
+  <string name="StarsConfirmPurchaseMediaBotOne2_zero">Do you want to unlock %2$s from **%3$s** for **%1$d stars**?</string>
+  <string name="StarsConfirmPurchaseMediaBotOne2_two">Do you want to unlock %2$s from **%3$s** for **%1$d stars**?</string>
+  <string name="StarsConfirmPurchaseMediaBotOne2_few">Do you want to unlock %2$s from **%3$s** for **%1$d stars**?</string>
+  <string name="StarsConfirmPurchaseMediaBotOne2_many">Do you want to unlock %2$s from **%3$s** for **%1$d stars**?</string>
+  <string name="StarsConfirmPurchaseMediaBotTwo2_zero">Do you want to unlock %2$s and %3$s from **%4$s** for **%1$d stars**?</string>
+  <string name="StarsConfirmPurchaseMediaBotTwo2_two">Do you want to unlock %2$s and %3$s from **%4$s** for **%1$d stars**?</string>
+  <string name="StarsConfirmPurchaseMediaBotTwo2_few">Do you want to unlock %2$s and %3$s from **%4$s** for **%1$d stars**?</string>
+  <string name="StarsConfirmPurchaseMediaBotTwo2_many">Do you want to unlock %2$s and %3$s from **%4$s** for **%1$d stars**?</string>
   <string name="StarsConfirmPurchaseMediaOne">Do you want to unlock %2$s in **%3$s** for **%1$d Stars**?</string>
   <string name="StarsConfirmPurchaseMediaOne2_zero">Do you want to unlock %2$s in **%3$s** for **%1$d stars**?</string>
   <string name="StarsConfirmPurchaseMediaOne2_two">Do you want to unlock %2$s in **%3$s** for **%1$d stars**?</string>
@@ -10221,6 +10302,26 @@ list of reactions.</string>
   <string name="StarsPurchaseCompletedInfo_two">You acquired \"**%2$s**\" in **%3$s** for **%1$d Stars**.</string>
   <string name="StarsPurchaseCompletedInfo_few">You acquired \"**%2$s**\" in **%3$s** for **%1$d Stars**.</string>
   <string name="StarsPurchaseCompletedInfo_many">You acquired \"**%2$s**\" in **%3$s** for **%1$d Stars**.</string>
+  <string name="StarsReactionTextSent_zero">You sent **%1$d** Stars to support this post.</string>
+  <string name="StarsReactionTextSent_two">You sent **%1$d** Stars to support this post.</string>
+  <string name="StarsReactionTextSent_few">You sent **%1$d** Stars to support this post.</string>
+  <string name="StarsReactionTextSent_many">You sent **%1$d** Stars to support this post.</string>
+  <string name="StarsSentText_zero">You reacted with **%d** stars.</string>
+  <string name="StarsSentText_two">You reacted with **%d** stars.</string>
+  <string name="StarsSentText_few">You reacted with **%d** stars.</string>
+  <string name="StarsSentText_many">You reacted with **%d** stars.</string>
+  <string name="StarsSubscribeText_zero">Do you want to subscribe to **%2$s** for **%1$d Stars** per month?</string>
+  <string name="StarsSubscribeText_two">Do you want to subscribe to **%2$s** for **%1$d Stars** per month?</string>
+  <string name="StarsSubscribeText_few">Do you want to subscribe to **%2$s** for **%1$d Stars** per month?</string>
+  <string name="StarsSubscribeText_many">Do you want to subscribe to **%2$s** for **%1$d Stars** per month?</string>
+  <string name="StarsSubscribeTextTest_zero">Do you want to subscribe to **%2$s** for **%1$d Stars** per %3$s?</string>
+  <string name="StarsSubscribeTextTest_two">Do you want to subscribe to **%2$s** for **%1$d Stars** per %3$s?</string>
+  <string name="StarsSubscribeTextTest_few">Do you want to subscribe to **%2$s** for **%1$d Stars** per %3$s?</string>
+  <string name="StarsSubscribeTextTest_many">Do you want to subscribe to **%2$s** for **%1$d Stars** per %3$s?</string>
+  <string name="StarsSubscriptionCompletedText_zero">%1$d Stars transferred to **%2$s**.</string>
+  <string name="StarsSubscriptionCompletedText_two">%1$d Stars transferred to **%2$s**.</string>
+  <string name="StarsSubscriptionCompletedText_few">%1$d Stars transferred to **%2$s**.</string>
+  <string name="StarsSubscriptionCompletedText_many">%1$d Stars transferred to **%2$s**.</string>
   <string name="StealthMode">Stealth Mode</string>
   <string name="StickersNameInfo">Manage your sticker sets, emoji and reactions.</string>
   <string name="StopLiveLocationAlertAll">Are you sure you want to stop sharing your live location?</string>
