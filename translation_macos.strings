@@ -54,12 +54,12 @@
 
 
 "Peer.Status.Users_countable" = "%d";
-"Peer.Status.Users_zero" = "%d users";
-"Peer.Status.Users_one" = "%d user";
-"Peer.Status.Users_two" = "%d users";
-"Peer.Status.Users_few" = "%d users";
-"Peer.Status.Users_many" = "%d users";
-"Peer.Status.Users_other" = "%d users";
+"Peer.Status.Users_zero" = "%d monthly users";
+"Peer.Status.Users_one" = "%d monthly user";
+"Peer.Status.Users_two" = "%d monthly users";
+"Peer.Status.Users_few" = "%d monthly users";
+"Peer.Status.Users_many" = "%d monthly users";
+"Peer.Status.Users_other" = "%d monthly users";
 
 /* do not translate key with 'countable' suffix */
 "Peer.Status.Member.Online_countable" = "%d";
@@ -757,7 +757,7 @@
 
 
 
-"Search.Separator.Apps.Popular" = "POPULAR APPS";
+"Search.Separator.Apps.Popular" = "GROSSING APPS";
 "Search.Separator.Apps.YouUse" = "APPS YOU USE";
 
 
@@ -10664,7 +10664,7 @@
 "Emojies.MessageEffects.Title" = "MESSAGE EFFECTS";
 
 
-"Chat.SensitiveContent" = "18+ Content";
+"Chat.SensitiveContent" = "18+";
 
 "Chat.SensitiveContent.Confirm" = "This media may contain sensitive content suitable only for adults. Do you still want to view it?";
 "Chat.SensitiveContent.Confirm.Third" = "Always show 18+ media";
@@ -10948,7 +10948,7 @@
 
 "ChatList.Apps.CloseAll" = "Close All";
 "ChatList.Apps.ClearRecent" = "Clear Recent Apps";
-"ChatList.Apps.Popular" = "Popular Apps";
+"ChatList.Apps.Popular" = "GROSSING APPS";
 
 
 "Chat.Service.Premium.Unknown" = "Unknown user";

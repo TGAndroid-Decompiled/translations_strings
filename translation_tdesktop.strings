@@ -3189,8 +3189,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_bot_add_to_side_menu_done" = "Bot added to the main menu.";
 "lng_bot_no_scan_qr" = "QR Codes for bots are not supported on Desktop. Please use one of Telegram's mobile apps.";
 
-"lng_bot_status_users#one" = "{count} user";
-"lng_bot_status_users#other" = "{count} users";
+"lng_bot_status_users#one" = "{count} monthly user";
+"lng_bot_status_users#other" = "{count} monthly users";
 
 "lng_typing" = "typing";
 "lng_user_typing" = "{user} is typing";
@@ -5355,7 +5355,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channels_your_less" = "Show less";
 "lng_channels_recommended" = "Similar channels";
 "lng_bot_apps_your" = "Apps you use";
-"lng_bot_apps_popular" = "Popular apps";
+"lng_bot_apps_popular" = "Grossing apps";
 
 "lng_font_box_title" = "Choose font family";
 "lng_font_default" = "Default";
@@ -5839,10 +5839,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_bot_earn_credits_out_minimal_link#two" = "{count} stars";
 "lng_bot_earn_credits_out_minimal_link#few" = "{count} stars";
 "lng_bot_earn_credits_out_minimal_link#many" = "{count} stars";
-"lng_bot_status_users#zero" = "{count} users";
-"lng_bot_status_users#two" = "{count} users";
-"lng_bot_status_users#few" = "{count} users";
-"lng_bot_status_users#many" = "{count} users";
+"lng_bot_status_users#zero" = "{count} monthly users";
+"lng_bot_status_users#two" = "{count} monthly users";
+"lng_bot_status_users#few" = "{count} monthly users";
+"lng_bot_status_users#many" = "{count} monthly users";
 "lng_bot_sure_add" = "Add as admin";
 "lng_bot_sure_add_title" = "Add bot as admin";
 "lng_business_limit_reached#zero" = "Limit of {count} messages reached.";

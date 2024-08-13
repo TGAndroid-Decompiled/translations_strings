@@ -964,8 +964,8 @@
     <string name="EventLogToggledInvitesOff">un1 disabled group invites</string>
     <string name="EventLogToggledSignaturesOn">un1 enabled signatures</string>
     <string name="EventLogToggledSignaturesOff">un1 disabled signatures</string>
-    <string name="EventLogToggledSignaturesProfilesOn">un1 enabled authors\' profiles</string>
-    <string name="EventLogToggledSignaturesProfilesOff">un1 disabled authors\' profiles</string>
+    <string name="EventLogToggledSignaturesProfilesOn">un1 enabled author profiles</string>
+    <string name="EventLogToggledSignaturesProfilesOff">un1 disabled author profiles</string>
     <string name="EventLogRestrictedUntil">changed permissions for %1$s\n\nDuration: %2$s</string>
     <string name="EventLogDefaultPermissions">changed default permissions</string>
     <string name="EventLogRestrictedSendStickers">Send stickers &amp; GIFs</string>
@@ -8931,10 +8931,10 @@ list of reactions.</string>
     <string name="ConfirmSensitiveContentTitle">18+ Content</string>
     <string name="ConfirmSensitiveContentText">Confirm that you are over 18 years old and update your settings to see potentially explicit and sensitive content.</string>
     <string name="Confirm">Confirm</string>
-    <string name="MessageSensitiveContent">18+ Content</string>
+    <string name="MessageSensitiveContent">18+</string>
     <string name="MessageSensitiveContentShort">18+</string>
-    <string name="MessageShowSensitiveContentMediaTitle">18+ Content</string>
-    <string name="MessageShowSensitiveContentChannelTitle">18+ Content</string>
+    <string name="MessageShowSensitiveContentMediaTitle">18+</string>
+    <string name="MessageShowSensitiveContentChannelTitle">18+</string>
     <string name="MessageShowSensitiveContentMediaText">This media may contain sensitive content suitable only for adults. Do you still want to view it?</string>
     <string name="MessageShowSensitiveContentChannelText">This chat may contain sensitive content suitable only for adults. Do you still want to view it?</string>
     <string name="MessageShowSensitiveContentAlways">Always show 18+ media</string>
@@ -9172,10 +9172,10 @@ list of reactions.</string>
     <string name="UploadBotPreview">Add</string>
     <string name="SearchApps">Bots</string>
     <string name="SearchAppsMine">Apps you use</string>
-    <string name="SearchAppsPopular">Popular apps</string>
+    <string name="SearchAppsPopular">Grossing apps</string>
     <string name="SearchAppsExamples">Examples</string>
-    <string name="BotUsers_one">%d user</string>
-    <string name="BotUsers_other">%d users</string>
+    <string name="BotUsers_one">%d monthly user</string>
+    <string name="BotUsers_other">%d monthly users</string>
     <string name="AppsClearSearch">App history</string>
     <string name="AppsClearSearchAlert">Do you want to remove %s from your recent app history?</string>
     <string name="WebBookmark">Bookmark</string>
@@ -9253,11 +9253,11 @@ list of reactions.</string>
     <string name="WebForward">Go Forward</string>
     <string name="BotPrivacyPolicy">Privacy Policy</string>
     <string name="RequireMonthlyFee">Require Monthly Fee</string>
-    <string name="RequireMonthlyFeePriceHint">Stars Amount per month</string>
+    <string name="RequireMonthlyFeePriceHint">Star amount per month</string>
     
     <string name="RequireMonthlyFeePrice">~%s/month</string>
     
-    <string name="RequireMonthlyFeeInfo">Charge a subscription fee from people joining your channel via this link.</string>
+    <string name="RequireMonthlyFeeInfo">Charge a subscription fee from people who join your channel via this link.</string>
     <string name="RequireMonthlyFeeInfoLink">https://telegram.org/tos/stars</string>
     <string name="RequireMonthlyFeeInfoFrozen">If you need to change the subscription fee, create a new invite link with different price.</string>
     <string name="LinkRevenue">Subscription fee</string>
@@ -9276,7 +9276,7 @@ list of reactions.</string>
     <string name="StarsSubscriptionCompletedText_other">%1$d Stars transferred to **%2$s**.</string>
     <string name="StarsTransactionSubscriptionMonthly">Monthly subscription fee</string>
     <string name="StarsReactionTerms">By sending Stars you agree to the **Terms of Service**.</string>
-    <string name="StarsReactionTermsLink">https://t.me/tos/stars</string>
+    <string name="StarsReactionTermsLink">https://telegram.org/tos/stars</string>
     <string name="StarsSubscriptionRenews">renews on %s</string>
     <string name="StarsSubscriptionExpires">expires on %s</string>
     <string name="StarsSubscriptionExpired">expired on %s</string>
@@ -9320,10 +9320,10 @@ list of reactions.</string>
     <string name="StarsReactionTop">TOP</string>
     <string name="StarsReactionsSent">Star Reaction</string>
     <string name="ChannelEnablePaidReactions">Enable Paid Reactions</string>
-    <string name="ChannelEnablePaidReactionsInfo">Switch this on to let your subscribers set paid reactions with Telegram Stars, which you will be able to withdraw later as TON.</string>
+    <string name="ChannelEnablePaidReactionsInfo">Switch this on to let your subscribers react to posts with Telegram Stars, which you will be able to withdraw later as TON.</string>
     <string name="ChannelEnablePaidReactionsInfoLink">https://telegram.org/tos/stars/</string>
-    <string name="ChannelSignInfo">Add names of admins to the messages they post.</string>
-    <string name="ChannelSignProfilesInfo">Add names and photos of admins to the messages they post, linking to their profiles.</string>
+    <string name="ChannelSignInfo">Add the names of admins to messages they post.</string>
+    <string name="ChannelSignProfilesInfo">Allow admins to post as their channel or personal account, linking to their profile.</string>
     <string name="ChannelLinksInfoPaid">You can create additional invite links that have limited time, number of users or require a paid subscription.</string>
     <string name="ChannelLinksInfo">You can create additional invite links that have limited time and number of users.</string>
     <string name="StarSubscriptionTo">To</string>
@@ -9712,10 +9712,10 @@ list of reactions.</string>
   <string name="BotStarsWithdrawMinLimit_few">You cannot withdraw less than **%d stars**.</string>
   <string name="BotStarsWithdrawMinLimit_many">You cannot withdraw less than **%d stars**.</string>
   <string name="BotStartButton">Start bot</string>
-  <string name="BotUsers_zero">%d users</string>
-  <string name="BotUsers_two">%d users</string>
-  <string name="BotUsers_few">%d users</string>
-  <string name="BotUsers_many">%d users</string>
+  <string name="BotUsers_zero">%d monthly users</string>
+  <string name="BotUsers_two">%d monthly users</string>
+  <string name="BotUsers_few">%d monthly users</string>
+  <string name="BotUsers_many">%d monthly users</string>
   <string name="BrowserSettingsHistoryPages_zero">%d pages</string>
   <string name="BrowserSettingsHistoryPages_two">%d pages</string>
   <string name="BrowserSettingsHistoryPages_few">%d pages</string>
