@@ -10983,7 +10983,7 @@
 
 //"\(peerName) refunded back \(clown)\(totalAmount)"
 
-"ChannelReactions.EnableStars.Info" = "Switch this on to let your subscribers set paid reactions with Telegram Stars, which you will be able to withdraw later as TON. [Learn More >](https://telegram.org)";
+"ChannelReactions.EnableStars.Info" = "Switch this on to let your subscribers set paid reactions with Telegram Stars, which you will be able to withdraw later as TON. [Learn More >](https://telegram.org/tos/content-creator-rewards)";
 "ChannelReactions.EnableStars" = "Enable Paid Reactions";
 
 
@@ -11025,7 +11025,7 @@
 
 "InviteLink.Sub.Text" = "Require Monthly Fee";
 
-"InviteLink.Sub.Info.Editing" = "If you need change the subscription fee, create a new invite link with a different price.";
+"InviteLink.Sub.Info.Editing" = "If you need to change the subscription fee, create a new invite link with a different price.";
 "InviteLink.Sub.Info" = "Charge a subscription fee from people joining your channel via this link. [Learn More >](https://telegram.org)";
 
 "InviteLink.Sub.ReqApproval" = "You can't enable admin approval for links that require a monthly fee.";
