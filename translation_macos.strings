@@ -11099,7 +11099,7 @@
 "Star.SubScreen.Status.Active.Cancel" = "Cancel Subscription";
 
 "Star.SubScreen.Status.Cancelled" = "You have cancelled your subscription.";
-"Star.SubScreen.Status.Expired" = "Your subscription has been expired.";
+"Star.SubScreen.Status.Expired" = "Your subscription has expired.";
 
 
 "Star.SubScreen.Cancelled.Alert" = "Subscription cancelled";
