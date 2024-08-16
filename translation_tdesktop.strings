@@ -758,8 +758,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_top_peers_suggest" = "Suggest frequent contacts";
 "lng_settings_top_peers_about" = "Display people you message frequently at the top of the search section for quick access.";
 "lng_settings_sensitive_title" = "Sensitive content";
-"lng_settings_sensitive_disable_filtering" = "Disable filtering";
-"lng_settings_sensitive_about" = "Display sensitive media in public channels on all your Telegram devices.";
+"lng_settings_sensitive_disable_filtering" = "Show 18+ Content";
+"lng_settings_sensitive_about" = "Do not hide media that contains content suitable only for adults.";
 "lng_settings_security_bots" = "Bots and websites";
 "lng_settings_file_confirmations" = "File open confirmations";
 "lng_settings_edit_extensions" = "Extensions whitelist";
@@ -2037,7 +2037,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_invite_subscription_info_subtitle" = "Subscription fee";
 "lng_group_invite_subscription_info_title" = "{emoji} {price} / month {multiplier} {total}";
 "lng_group_invite_subscription_info_title_none" = "{emoji} {price} / month";
-"lng_group_invite_subscription_info_about" = "you get approximately {total} montly";
+"lng_group_invite_subscription_info_about" = "you get approximately {total} monthly";
 "lng_group_invite_joined_right" = "per month";
 "lng_group_invite_joined_status" = "joined {date}";
 "lng_group_invite_joined_row_subscriber" = "Subscriber";
@@ -2455,8 +2455,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_small_balance_subscribe" = "Buy **Stars** and subscribe to **{channel}** and other channels.";
 "lng_credits_small_balance_fallback" = "Buy **Stars** to unlock content and services on Telegram.";
 "lng_credits_purchase_blocked" = "Sorry, you can't purchase this item with Telegram Stars.";
-
-
+"lng_credits_enough" = "You have enough stars at the moment. {link}";
+"lng_credits_enough_link" = "Buy anyway";
 
 "lng_credits_gift_title" = "Gift Telegram Stars";
 
@@ -3482,7 +3482,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_paid_react_send" = "Send {price}";
 "lng_paid_react_agree" = "By sending stars, you agree to the {link}.";
 "lng_paid_react_agree_link" = "Terms of Service";
-"lng_paid_react_toast_title" = "Star Sent!";
+"lng_paid_react_toast#one" = "Star Sent!";
+"lng_paid_react_toast#other" = "Stars Sent!";
 "lng_paid_react_toast_text#one" = "You reacted with **{count} Star**.";
 "lng_paid_react_toast_text#other" = "You reacted with **{count} Stars**.";
 "lng_paid_react_undo" = "Undo";
@@ -6893,6 +6894,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_paid_react_already#two" = "You sent **{count} Stars** to support this post.";
 "lng_paid_react_already#few" = "You sent **{count} Stars** to support this post.";
 "lng_paid_react_already#many" = "You sent **{count} Stars** to support this post.";
+"lng_paid_react_toast#zero" = "Stars Sent!";
+"lng_paid_react_toast#two" = "Stars Sent!";
+"lng_paid_react_toast#few" = "Stars Sent!";
+"lng_paid_react_toast#many" = "Stars Sent!";
 "lng_paid_react_toast_text#zero" = "You reacted with **{count} Stars**.";
 "lng_paid_react_toast_text#two" = "You reacted with **{count} Stars**.";
 "lng_paid_react_toast_text#few" = "You reacted with **{count} Stars**.";

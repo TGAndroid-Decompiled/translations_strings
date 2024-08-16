@@ -12765,7 +12765,7 @@ Sorry for the inconvenience.";
 "Notification.Refund" = "You received a refund of {amount} from {name}";
 
 "InviteLink.SubscriptionFee.Title" = "SUBSCRIPTION FEE";
-"InviteLink.SubscriptionFee.PerMonth" = "%@ / month";
+"InviteLink.SubscriptionFee.PerMonth" = "⭐️%@ / month";
 "InviteLink.SubscriptionFee.NoOneJoined" = "No one joined yet";
 "InviteLink.SubscriptionFee.ApproximateIncome" = "You get approximately %@ monthly";
 

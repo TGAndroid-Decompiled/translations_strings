@@ -8981,6 +8981,7 @@ list of reactions.</string>
     <string name="StarsNeededTextReactions">Buy **Stars** to send paid reactions to **%s** and other channels.</string>
     <string name="StarsNeededTextLink">Buy **Stars** to keep your channel subscriptions.</string>
     <string name="StarsNeededTextLink_subs">Buy **Stars** to keep your channel subscriptions.</string>
+    
     <string name="CaptionAbove">Move Caption Up</string>
     <string name="CaptionBelow">Move Caption Down</string>
     <string name="AddFactCheck">Add Fact Check</string>
@@ -9339,6 +9340,7 @@ list of reactions.</string>
     <string name="StarsSubscriptionCancelledToastText">You will still have access to the channel until **%s**.</string>
     <string name="StarsSubscriptionRenewedToast">Subscription renewed</string>
     <string name="StarsSubscriptionRenewedToastText">You renewed your subscription to **%s**.</string>
+    
 
   <!-- new from translations.telegram.org -->
 
