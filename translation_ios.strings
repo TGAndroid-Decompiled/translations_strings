@@ -12057,7 +12057,7 @@ Sorry for the inconvenience.";
 "MediaEditor.SetStickerEmoji" = "Choose emojis that match your sticker";
 
 "MediaEditor.CreateNewPack" = "New Sticker Set";
-"MediaEditor.ReplaceSticker" = "Replace Sticker";
+"MediaEditor.ReplaceSticker" = "Update Sticker";
 "MediaEditor.AddToStickerPack" = "Add to Sticker Set";
 "MediaEditor.SetAsIntroSticker" = "Set as Greeting Sticker";
 
@@ -12498,14 +12498,14 @@ Sorry for the inconvenience.";
 "Stars.Purchase.GiftStars" = "Gift Stars";
 "Stars.Purchase.GiftInfo" = "With Stars, **%1$@** will be able to unlock content and services on Telegram. [See Examples >]()";
 
-"Stars.Purchase.SubscriptionInfo" = "Buy Stars to subscribe for **%@**.";
-"Stars.Purchase.SubscriptionRenewInfo" = "Buy Stars to keep your subscription for **%@**.";
+"Stars.Purchase.SubscriptionInfo" = "Buy Stars to subscribe to **%@**.";
+"Stars.Purchase.SubscriptionRenewInfo" = "Buy Stars to keep your subscription to **%@**.";
 
 "InviteLink.Create.Subscription" = "Require Monthly Fee";
 "InviteLink.Create.Subscription.Placeholder" = "Star amount per month";
 "InviteLink.Create.Subscription.PerMonth" = "%@ / month";
 "InviteLink.Create.Subscription.Info" = "Charge a subscription fee from people joining your channel via this link. [Learn More >]()";
-"InviteLink.Create.Subscription.EditInfo" = "If you need to change the subscription fee, create a new invite link with a different price.";
+"InviteLink.Create.Subscription.EditInfo" = "To change the subscription fee, create a new invite link with a different price.";
 
 "InviteLink.Create.RequestApprovalUnavailableInfo" = "You can't enable admin approval for links that require a monthly fee.";
 
@@ -12533,7 +12533,7 @@ Sorry for the inconvenience.";
 
 "WebBrowser.Telegram" = "Telegram";
 
-"Monetization.Proceeds.Ton.Info" = "TON from your total balance can be used for ads or withdrawn as rewards 3 days after they are earned.";
+"Monetization.Proceeds.Ton.Info" = "TON from your total balance can be used for ads or withdrawn as rewards 3 days after they are earned. You cannot withdraw less than 10 TON.";
 "Monetization.Proceeds.Stars.Info" = "Stars from your total balance can be used for ads or withdrawn as rewards 21 days after they are earned.";
 "Monetization.Proceeds.TonAndStars.Info" = "Stars and TON from your total balance can be used for ads or withdrawn as rewards 21 and 3 days respectively after they are earned.";
 
@@ -12577,7 +12577,7 @@ Sorry for the inconvenience.";
 
 "WebBrowser.OpenLinksIn.Title" = "OPEN LINKS IN";
 "WebBrowser.AutoLogin" = "Auto-Login via Telegram";
-"WebBrowser.AutoLogin.Info" = "Use your Telegram account to automatically log in to websites opened in the in-app browser.";
+"WebBrowser.AutoLogin.Info" = "Use your Telegram account to automatically log in to websites opened with the in-app browser.";
 
 "WebBrowser.ClearCookies" = "Clear Cookies";
 "WebBrowser.ClearCookies.Info" = "Delete all cookies in the Telegram in-app browser. This action will sign you out of most websites.";
@@ -12617,8 +12617,8 @@ Sorry for the inconvenience.";
 
 "Story.Privacy.ChooseCover" = "Choose Story Cover";
 "Story.Privacy.ChooseCoverInfo" = "Choose a frame from this story to show on your Profile.";
-"Story.Privacy.ChooseCoverChannelInfo" = "Choose a frame from the story to show in channel profile.";
-"Story.Privacy.ChooseCoverGroupInfo" = "Choose a frame from the story to show in group profile.";
+"Story.Privacy.ChooseCoverChannelInfo" = "Choose a frame from this story to show on the channel's profile page.";
+"Story.Privacy.ChooseCoverGroupInfo" = "Choose a frame from the story to show on the group's profile page.";
 
 "ChatList.Search.FilterApps" = "Apps";
 "ChatList.Search.SectionPopularApps" = "GROSSING APPS";
@@ -12646,18 +12646,18 @@ Sorry for the inconvenience.";
 "BotPreviews.LanguageTab.Main" = "Main";
 "BotPreviews.LanguageTab.Add" = "+ Add Language";
 "BotPreviews.Empty.Title" = "No Preview";
-"BotPreviews.Empty.Text_1" = "Upload up to 1 screenshot and video demos for your mini app.";
+"BotPreviews.Empty.Text_1" = "Upload up to 1 screenshot or video demo for your mini app.";
 "BotPreviews.Empty.Text_any" = "Upload up to %d screenshots and video demos for your mini app.";
 "BotPreviews.Empty.Add" = "Add Preview";
 "BotPreviews.Empty.AddTranslation" = "Create a Translation";
 "BotPreviews.Empty.DeleteTranslation" = "Delete this Translation";
 "BotPreviews.Empty.Separator" = "or";
-"BotPreviews.AlertTooManyPreviews_1" = "You can add at most 12 previews.";
-"BotPreviews.AlertTooManyPreviews_any" = "You can add at most 12 previews.";
+"BotPreviews.AlertTooManyPreviews_1" = "You can add up to 12 previews.";
+"BotPreviews.AlertTooManyPreviews_any" = "You can add up to 12 previews.";
 "BotPreviews.DeleteTranslationAlert.Title" = "Delete Translation";
 "BotPreviews.DeleteTranslationAlert.Text" = "Are you sure you want to delete this translation?";
 "BotPreviews.TranslationFooter.Text" = "This preview will be displayed for all users who have %@ set as their language.";
-"BotPreviews.DefaultFooter.Text" = "This preview will be shown by default. You can also add translations into specific languages.";
+"BotPreviews.DefaultFooter.Text" = "This preview will be shown by default. You can also add translations for specific languages.";
 "BotPreviews.SelectLanguage.Title" = "Add a Translation";
 "BotPreview.ViewContextDelete" = "Delete Preview";
 
@@ -12701,12 +12701,12 @@ Sorry for the inconvenience.";
 "Stars.Transaction.SubscriptionFee" = "Monthly Subscription Fee";
 "Stars.Transaction.Subscription.Title" = "Subscription";
 "Stars.Transaction.Subscription.Active" = "If you cancel now, you can still access your subscription until %@";
-"Stars.Transaction.Subscription.Cancelled" = "You have cancelled your subscription.";
+"Stars.Transaction.Subscription.Cancelled" = "You have canceled your subscription.";
 "Stars.Transaction.Subscription.Renew" = "Renew Subscription";
 "Stars.Transaction.Subscription.Cancel" = "Cancel Subscription";
 "Stars.Transaction.Subscription.JoinChannel" = "Join Channel";
 "Stars.Transaction.Subscription.JoinAgainChannel" = "Join Channel";
-"Stars.Transaction.Subscription.LeftChannel" = "You left channel but you can still get back until %@";
+"Stars.Transaction.Subscription.LeftChannel" = "You left the channel, but can still return until %@";
 "Stars.Transaction.Subscription.Expired" = "Your subscription expired on %@.";
 "Stars.Transaction.Subscription.PerMonth" = "%@ / month";
 "Stars.Transaction.Subscription.PerMonthUsd" = "appx. %@ per month";
@@ -12718,7 +12718,7 @@ Sorry for the inconvenience.";
 "Stars.Transaction.Subscription.Status.Renews" = "Renews";
 "Stars.Transaction.Subscription.Status.Subscribed" = "Subscribed";
 
-"Stars.Transaction.Subscription.Cancelled.Title" = "Subscription cancelled";
+"Stars.Transaction.Subscription.Cancelled.Title" = "Subscription canceled";
 "Stars.Transaction.Subscription.Cancelled.Text" = "You will still have access to [%1$@]() until %2$@.";
 
 "Stars.Transaction.Subscription.Renewed.Title" = "Subscription renewed";
@@ -12729,7 +12729,7 @@ Sorry for the inconvenience.";
 "Stars.Intro.Subscriptions.Renews" = "renews on %@";
 "Stars.Intro.Subscriptions.Expires" = "expires on %@";
 "Stars.Intro.Subscriptions.Expired" = "expired on %@";
-"Stars.Intro.Subscriptions.Cancelled" = "cancelled";
+"Stars.Intro.Subscriptions.Cancelled" = "canceled";
 "Stars.Intro.Subscriptions.ExpiredStatus" = "expired";
 "Stars.Intro.Subscriptions.ShowMore" = "Show More";
 
@@ -12750,7 +12750,7 @@ Sorry for the inconvenience.";
 "Chat.SensitiveContent" = "18+ Content";
 
 "Settings.SensitiveContent" = "Show 18+ Content";
-"Settings.SensitiveContentInfo" = "Do not hide media that contain content suitable only for adults.";
+"Settings.SensitiveContentInfo" = "Do not hide media that contains content suitable only for adults.";
 
 "SensitiveContent.Title" = "18+ Content";
 "SensitiveContent.Text" = "This media may contain sensitive content suitable only for adults.\nDo you still want to view it?";
@@ -12774,8 +12774,8 @@ Sorry for the inconvenience.";
 "InviteLink.Create.Fee" = "Require Monthly Fee";
 "InviteLink.Create.FeePerMonth" = "%@ / month";
 "InviteLink.Create.FeePlaceholder" = "Star amount per month";
-"InviteLink.Create.FeeInfo" = "Charge a subscription fee from people joining your channel via this link. [Learn More >]()";
-"InviteLink.Create.FeeEditInfo" = "If you need to change the subscription fee, create a new invite link with a different price.";
+"InviteLink.Create.FeeInfo" = "Charge a subscription fee from people who join your channel via this link. [Learn More >]()";
+"InviteLink.Create.FeeEditInfo" = "To change the subscription fee, create a new invite link with a different price.";
 "InviteLink.Create.RequestApprovalFeeUnavailable" = "You can't enable admin approval for links that require a monthly fee.";
 
 "WebApp.PrivacyPolicy_URL" = "https://telegram.org/privacy-tpa";
@@ -12800,14 +12800,14 @@ Sorry for the inconvenience.";
 "SendStarReactions.SliderTop" = "TOP";
 "SendStarReactions.TextSentStars_1" = "You sent **1** star to support this post.";
 "SendStarReactions.TextSentStars_any" = "You sent **%d** stars to support this post.";
-"SendStarReactions.TextGeneric" = "Choose how many stars you want to send to **%@** to support this post.";
+"SendStarReactions.TextGeneric" = "Choose how many Stars you want to send to **%@** to support this post.";
 "SendStarReactions.SectionTop" = "Top Senders";
 "SendStarReactions.ShowMyselfInTop" = "Show me in Top Senders";
 "SendStarReactions.SendButtonTitle" = "Send  # %@";
 "SendStarReactions.TermsOfServiceFooter" = "By sending Stars you agree to the [Terms of Service](https://telegram.org/tos/stars)";
 
 "PeerInfo.AllowedReactions.StarReactions" = "Enable Paid Reactions";
-"PeerInfo.AllowedReactions.StarReactionsFooter" = "Switch this on to let your subscribers set paid reactions with Telegram Stars, which you will be able to withdraw later as TON. [Learn More >](https://telegram.org/tos/content-creator-rewards)";
+"PeerInfo.AllowedReactions.StarReactionsFooter" = "Switch this on to let your subscribers react to posts with Telegram Stars, which you will be able to withdraw as TON. [Learn More >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 
 "Chat.ToastStarsSent.Title_1" = "Star sent!";
 "Chat.ToastStarsSent.Title_any" = "Stars sent!";
@@ -12880,10 +12880,10 @@ Sorry for the inconvenience.";
 "BoostGift.QuantityBoosts_2" = "%@ BOOSTS";
 "BoostGift.QuantityBoosts_3_10" = "%@ BOOSTS";
 "BoostGift.QuantityBoosts_many" = "%@ BOOSTS";
-"BotPreviews.AlertTooManyPreviews_0" = "You can add at most 12 previews.";
-"BotPreviews.AlertTooManyPreviews_2" = "You can add at most 12 previews.";
-"BotPreviews.AlertTooManyPreviews_3_10" = "You can add at most 12 previews.";
-"BotPreviews.AlertTooManyPreviews_many" = "You can add at most 12 previews.";
+"BotPreviews.AlertTooManyPreviews_0" = "You can add up to 12 previews.";
+"BotPreviews.AlertTooManyPreviews_2" = "You can add up to 12 previews.";
+"BotPreviews.AlertTooManyPreviews_3_10" = "You can add up to 12 previews.";
+"BotPreviews.AlertTooManyPreviews_many" = "You can add up to 12 previews.";
 "BotPreviews.Empty.Text_0" = "Upload up to %d screenshots and video demos for your mini app.";
 "BotPreviews.Empty.Text_2" = "Upload up to %d screenshots and video demos for your mini app.";
 "BotPreviews.Empty.Text_3_10" = "Upload up to %d screenshots and video demos for your mini app.";

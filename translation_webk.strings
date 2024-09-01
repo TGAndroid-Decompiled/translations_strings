@@ -2319,7 +2319,7 @@
 "PrivacyAndSecurity.Item.On" = "On";
 "PrivacyAndSecurity.Item.Off" = "Off";
 "PrivacyAndSecurity.SensitiveText" = "Disable filtering";
-"PrivacyAndSecurity.SensitiveDesc" = "Display sensitive media in public channels on all your Telegram devices.";
+"PrivacyAndSecurity.SensitiveDesc" = "Do not hide media that contains content suitable only for adults.";
 "PrivacySettings.VoiceCalls" = "Calls";
 "PrivacySettings.Forwards" = "Forwarded Messages";
 "PrivacySettings.Groups" = "Groups and Channels";

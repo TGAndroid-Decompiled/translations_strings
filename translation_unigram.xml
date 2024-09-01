@@ -10053,7 +10053,7 @@
   <string name="SendByEnterCtrl">Ctrl+Enter</string>
   <string name="SendByEnterKey">Enter</string>
   <string name="SensitiveDisableFiltering">Disable filtering</string>
-  <string name="SensitiveInfo">Display sensitive media in public channels on all your Telegram devices.</string>
+  <string name="SensitiveInfo">Do not hide media that contains content suitable only for adults.</string>
   <string name="SensitiveTitle">Sensitive content</string>
   <string name="ShowInChat2">Show in Chat</string>
   <string name="ShowInFolder">Show in Folder</string>

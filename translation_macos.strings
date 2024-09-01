@@ -757,7 +757,7 @@
 
 
 
-"Search.Separator.Apps.Popular" = "GROSSING APPS";
+"Search.Separator.Apps.Popular" = "Grossing Apps";
 "Search.Separator.Apps.YouUse" = "APPS YOU USE";
 
 
@@ -2820,7 +2820,7 @@
 "DataAndStorage.Confirm.ResetSettings" = "Undo all custom auto-download settings.";
 
 "DataAndStorage.SensitiveContent" = "Show 18+ Content";
-"DataAndStorage.SensitiveContent.Info" = "Do not hide media that contain content suitable only for adults.";
+"DataAndStorage.SensitiveContent.Info" = "Do not hide media that contains content suitable only for adults.";
 
 "DataAndStorage.SensitiveContent.Confirm.Header" = "18+ Content";
 "DataAndStorage.SensitiveContent.Confirm.Text" = "Confirm that you are over 18 years old and update your settings to see potentially explicit and sensitive content.";
@@ -10983,7 +10983,7 @@
 
 //"\(peerName) refunded back \(clown)\(totalAmount)"
 
-"ChannelReactions.EnableStars.Info" = "Switch this on to let your subscribers set paid reactions with Telegram Stars, which you will be able to withdraw later as TON. [Learn More >](https://telegram.org/tos/content-creator-rewards)";
+"ChannelReactions.EnableStars.Info" = "Switch this on to let your subscribers react to posts with Telegram Stars, which you will be able to withdraw as TON. [Learn More >](https://telegram.org/tos/content-creator-rewards#2-3-subscriber-donations)";
 "ChannelReactions.EnableStars" = "Enable Paid Reactions";
 
 
@@ -11025,7 +11025,7 @@
 
 "InviteLink.Sub.Text" = "Require Monthly Fee";
 
-"InviteLink.Sub.Info.Editing" = "If you need to change the subscription fee, create a new invite link with a different price.";
+"InviteLink.Sub.Info.Editing" = "To change the subscription fee, create a new invite link with a different price.";
 "InviteLink.Sub.Info" = "Charge a subscription fee from people joining your channel via this link. [Learn More >](https://telegram.org)";
 
 "InviteLink.Sub.ReqApproval" = "You can't enable admin approval for links that require a monthly fee.";
@@ -11065,8 +11065,8 @@
 "Stars.Purchase.Subscribe.Success" = "You have successfully subscribed to **%@**";
 
 
-"Star.BuyScreen.ProlongSubs" = "Buy Stars to keep your subscription for **%@**.";
-"Star.BuyScreen.PurschaseSub" = "Buy Stars to subscribe for **%@**.";
+"Star.BuyScreen.ProlongSubs" = "Buy Stars to keep your subscription to **%@**.";
+"Star.BuyScreen.PurschaseSub" = "Buy Stars to subscribe to **%@**.";
 
 
 "Star.BuyScreen.Gift" = "With Stars, **%@** will be able to unlock content and services on Telegram. [See Examples >](examples)";
@@ -11074,7 +11074,7 @@
 "Star.BuyScreen.MySubs" = "MY SUBSCRIPTIONS";
 
 
-"Star.Subscription.Status.Cancelled" = "cancelled";
+"Star.Subscription.Status.Cancelled" = "canceled";
 "Star.Subscription.Status.Expired" = "expired";
 "Star.Subscription.Status.Active" = "per month";
 
@@ -11098,11 +11098,11 @@
 
 "Star.SubScreen.Status.Active.Cancel" = "Cancel Subscription";
 
-"Star.SubScreen.Status.Cancelled" = "You have cancelled your subscription.";
+"Star.SubScreen.Status.Cancelled" = "You have canceled your subscription.";
 "Star.SubScreen.Status.Expired" = "Your subscription has expired.";
 
 
-"Star.SubScreen.Cancelled.Alert" = "Subscription cancelled";
+"Star.SubScreen.Cancelled.Alert" = "Subscription canceled";
 
 
 "Star.SubScreen.Action.Join" = "Join Channel";

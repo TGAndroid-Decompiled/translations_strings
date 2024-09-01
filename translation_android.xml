@@ -2046,7 +2046,7 @@
     <string name="AddStickersNotFound">Stickers not found</string>
     <string name="AddEmojiNotFound">Emoji pack not found.</string>
     <string name="StickersCreateNewSticker">Create a New Sticker</string>
-    <string name="StickersReplaceSticker">Replace Sticker</string>
+    <string name="StickersReplaceSticker">Update Sticker</string>
     <string name="StickersAddAnExistingSticker">Add an Existing Sticker</string>
     <string name="StickersDeleteStickerSetTitle">Delete Sticker Set</string>
     <string name="StickersDeleteStickerSetDescription">This will delete the sticker set for all users.</string>
@@ -7495,7 +7495,7 @@
     <string name="ArchivePeerStories">Hide Stories</string>
     <string name="UnarchiveStories">Unhide Stories</string>
     <string name="StoryPremiumFormatting">Subscribe to **Telegram Premium** to add links and formatting to your story captions.</string>
-    <string name="StoryPremiumWidgets2_other">Subscribe to **Telegram Premium** to add up to %d reactions and tags to a story.</string>
+    <string name="StoryPremiumWidgets2_other">Subscribe to **Telegram Premium** to add up to %d reaction stickers to a story.</string>
     <string name="CaptionPremiumTitle">Maximum Length Reached</string>
     <string name="CaptionPremiumSubtitle_other">Increase this limit **%1$dx** to **%2$s** characters by subscribing to __Telegram Premium__.</string>
     <string name="ExpiredViewsStubPremiumDescription">To unlock viewer lists for expired and posted stories, subscribe to **Telegram Premium**.</string>
@@ -8687,7 +8687,7 @@ list of reactions.</string>
     <string name="MonetizationBalanceInfo">You can collect your reward using Fragment, a third-party platform used by advertisers to pay for ads. **Learn more &gt;**</string>
     <string name="MonetizationProceedsStarsInfo">Stars from your total balance can be used for ads or withdrawn as rewards 21 days after they are earned.</string>
     <string name="MonetizationProceedsStarsInfoLink">https://telegram.org/tos/stars/</string>
-    <string name="MonetizationProceedsTONInfo">TON from your total balance can be used for ads or withdrawn as rewards 3 days after they are earned.</string>
+    <string name="MonetizationProceedsTONInfo">TON from your total balance can be used for ads or withdrawn as rewards 3 days after they are earned. You cannot withdraw less than 10 TON.</string>
     <string name="MonetizationProceedsTONInfoLink">https://telegram.org/tos/content-creator-rewards</string>
     <string name="MonetizationProceedsStarsTONInfo">Stars and TON from your total balance can be used for ads or withdrawn as rewards 21 and 3 days respectively after they are earned.</string>
     <string name="MonetizationProceedsStarsTONInfoLink">https://telegram.org/tos/content-creator-rewards</string>
@@ -8927,7 +8927,7 @@ list of reactions.</string>
     <string name="EnterPIN">Enter your PIN</string>
     <string name="AppLocked">Telegram Locked</string>
     <string name="ShowSensitiveContent">Show 18+ Content</string>
-    <string name="ShowSensitiveContentInfo">Do not hide media that contain content suitable only for adults</string>
+    <string name="ShowSensitiveContentInfo">Do not hide media that contains content suitable only for adults</string>
     <string name="ConfirmSensitiveContentTitle">18+ Content</string>
     <string name="ConfirmSensitiveContentText">Confirm that you are over 18 years old and update your settings to see potentially explicit and sensitive content.</string>
     <string name="Confirm">Confirm</string>
@@ -8977,7 +8977,7 @@ list of reactions.</string>
     <string name="StarsNeededTitle_other">%d Stars Needed</string>
     <string name="StarsNeededText">Buy **Stars** and use them on **%s** and other miniapps.</string>
     <string name="StarsNeededTextBuySubscription">Buy **Stars** and subscribe to **%s** and other channels.</string>
-    <string name="StarsNeededTextKeepSubscription">Buy **Stars** to keep your subscription for **%s**.</string>
+    <string name="StarsNeededTextKeepSubscription">Buy **Stars** to keep your subscription to **%s**.</string>
     <string name="StarsNeededTextReactions">Buy **Stars** to send paid reactions to **%s** and other channels.</string>
     <string name="StarsNeededTextLink">Buy **Stars** to keep your channel subscriptions.</string>
     <string name="StarsNeededTextLink_subs">Buy **Stars** to keep your channel subscriptions.</string>
@@ -9260,7 +9260,7 @@ list of reactions.</string>
     
     <string name="RequireMonthlyFeeInfo">Charge a subscription fee from people who join your channel via this link.</string>
     <string name="RequireMonthlyFeeInfoLink">https://telegram.org/tos/stars</string>
-    <string name="RequireMonthlyFeeInfoFrozen">If you need to change the subscription fee, create a new invite link with different price.</string>
+    <string name="RequireMonthlyFeeInfoFrozen">To change the subscription fee, create a new invite link with a different price.</string>
     <string name="LinkRevenue">Subscription fee</string>
     <string name="LinkRevenuePrice">&#11088;&#65039;%1$d/month</string>
     <string name="LinkRevenuePriceInfo">you get approximately %1$s monthly</string>
@@ -9281,7 +9281,7 @@ list of reactions.</string>
     <string name="StarsSubscriptionRenews">renews on %s</string>
     <string name="StarsSubscriptionExpires">expires on %s</string>
     <string name="StarsSubscriptionExpired">expired on %s</string>
-    <string name="StarsSubscriptionStatusCancelled">cancelled</string>
+    <string name="StarsSubscriptionStatusCancelled">canceled</string>
     <string name="StarsSubscriptionStatusExpired">expired</string>
     <string name="StarsSubscriptionTitle">Subscription</string>
     <string name="StarsSubscriptionPrice">&#11088;&#65039;%1$d/month</string>
@@ -9290,14 +9290,14 @@ list of reactions.</string>
     <string name="StarsSubscriptionUntilRenews">Renews</string>
     <string name="StarsSubscriptionUntilExpires">Expires</string>
     <string name="StarsSubscriptionUntilExpired">Expired</string>
-    <string name="StarsSubscriptionCancelledText">You have cancelled your subscription.</string>
+    <string name="StarsSubscriptionCancelledText">You have canceled your subscription.</string>
     <string name="StarsSubscriptionRenew">Renew Subscription</string>
     <string name="StarsSubscriptionAgain">Subscribe Again</string>
     <string name="StarsSubscriptionCancel">Cancel Subscription</string>
     <string name="StarsSubscriptionCancelInfo">If you cancel now, you will still be able to access your subscription until %s.</string>
     <string name="StarsSubscriptionExpiredInfo">Your subscription expired on %s.</string>
     <string name="StarsSubscriptionRefulfill">Join Channel</string>
-    <string name="StarsSubscriptionRefulfillInfo">You left channel, but you can still get back until %s.</string>
+    <string name="StarsSubscriptionRefulfillInfo">You left the channel, but can still return until %s.</string>
     <string name="StarsSubscriptionExpiredHintTitle">&#11088;&#65039;%1$d Stars needed for %2$s</string>
     <string name="StarsSubscriptionExpiredHintText">Insufficient funds to cover your subscription.</string>
     <string name="StarsParticipantSubscription">Subscriber</string>
@@ -9311,7 +9311,7 @@ list of reactions.</string>
     <string name="StarsSentText_other">You reacted with **%d** stars.</string>
     <string name="StarsSentUndo">Undo</string>
     <string name="StarsReactionTitle">Star Reaction</string>
-    <string name="StarsReactionText">Choose how many stars you want to send to **%s** to support this post.</string>
+    <string name="StarsReactionText">Choose how many Stars you want to send to **%s** to support this post.</string>
     <string name="StarsReactionTextSent_one">You sent **%1$d** Star to support this post.</string>
     <string name="StarsReactionTextSent_other">You sent **%1$d** Stars to support this post.</string>
     <string name="StarsReactionTopSenders">Top Senders</string>
@@ -9321,7 +9321,7 @@ list of reactions.</string>
     <string name="StarsReactionTop">TOP</string>
     <string name="StarsReactionsSent">Star Reaction</string>
     <string name="ChannelEnablePaidReactions">Enable Paid Reactions</string>
-    <string name="ChannelEnablePaidReactionsInfo">Switch this on to let your subscribers react to posts with Telegram Stars, which you will be able to withdraw later as TON.</string>
+    <string name="ChannelEnablePaidReactionsInfo">Switch this on to let your subscribers react to posts with Telegram Stars, which you will be able to withdraw as TON.</string>
     <string name="ChannelEnablePaidReactionsInfoLink">https://telegram.org/tos/stars/</string>
     <string name="ChannelSignInfo">Add the names of admins to messages they post.</string>
     <string name="ChannelSignProfilesInfo">Allow admins to post as their channel or personal account, linking to their profile.</string>
@@ -9336,7 +9336,7 @@ list of reactions.</string>
     <string name="BotDefaultPrivacyPolicy">https://telegram.org/privacy-tpa</string>
     <string name="PeopleSubscriptionExpired_one">%d expired subscription</string>
     <string name="PeopleSubscriptionExpired_other">%d expired subscriptions</string>
-    <string name="StarsSubscriptionCancelledToast">Subscription cancelled</string>
+    <string name="StarsSubscriptionCancelledToast">Subscription canceled</string>
     <string name="StarsSubscriptionCancelledToastText">You will still have access to the channel until **%s**.</string>
     <string name="StarsSubscriptionRenewedToast">Subscription renewed</string>
     <string name="StarsSubscriptionRenewedToastText">You renewed your subscription to **%s**.</string>
@@ -10364,11 +10364,11 @@ list of reactions.</string>
   <string name="StoryNotification4_zero">posted by %2$s, %3$s and %1$d more</string>
   <string name="StoryNotification4_one"></string>
   <string name="StoryPremiumWidgets">Subscribe to **Telegram Premium** to add up to 5 reaction stickers to a story.</string>
-  <string name="StoryPremiumWidgets2_zero">Subscribe to **Telegram Premium** to add up to %d reactions and tags to a story.</string>
+  <string name="StoryPremiumWidgets2_zero">Subscribe to **Telegram Premium** to add up to %d reaction stickers to a story.</string>
   <string name="StoryPremiumWidgets2_one"></string>
-  <string name="StoryPremiumWidgets2_two">Subscribe to **Telegram Premium** to add up to %d reactions and tags to a story.</string>
-  <string name="StoryPremiumWidgets2_few">Subscribe to **Telegram Premium** to add up to %d reactions and tags to a story.</string>
-  <string name="StoryPremiumWidgets2_many">Subscribe to **Telegram Premium** to add up to %d reactions and tags to a story.</string>
+  <string name="StoryPremiumWidgets2_two">Subscribe to **Telegram Premium** to add up to %d reaction stickers to a story.</string>
+  <string name="StoryPremiumWidgets2_few">Subscribe to **Telegram Premium** to add up to %d reaction stickers to a story.</string>
+  <string name="StoryPremiumWidgets2_many">Subscribe to **Telegram Premium** to add up to %d reaction stickers to a story.</string>
   <string name="StoryReactionsWidgetLimit">You can\'t add more than 5 reaction stickers to a story.</string>
   <string name="StoryReactionsWidgetLimit2_zero">You can’t add more than %d reaction stickers to a story.</string>
   <string name="StoryReactionsWidgetLimit2_one"></string>
