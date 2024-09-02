@@ -6320,7 +6320,7 @@
     
     
     <string name="BanUser">Ban user</string>
-    <string name="AccDescrCustomEmoji">{0}, custom emoji</string>
+    <string name="AccDescrCustomEmoji2">Custom emoji</string>
     
     <string name="PopularReactions">Popular</string>
     
@@ -10270,4 +10270,162 @@
   <string name="UnlockPaidContent_many">Unlock for &#11088;&#65039;{0}</string>
 
   <string name="ArchivedEmojiInfo">You can add up to 200 emoji packs.\nUnused packs are archived when you add more.</string>
+
+  <string name="ChannelSignMessagesWithProfile">Show Authors\' Profiles</string>
+  <string name="ChannelSignProfilesInfo">Add names and photos of admins to the messages they post, linking to their profiles.</string>
+  <string name="EventLogToggledSignaturesProfilesOff">un1 disabled authors\' profiles</string>
+  <string name="EventLogToggledSignaturesProfilesOn">un1 enabled authors\' profiles</string>
+
+  <string name="StarsReactionsSent">Star Reaction</string>
+  <string name="StarsTransactionSubscriptionMonthly">Monthly subscription fee</string>
+
+  <string name="StarMySubscriptions">My subscriptions</string>
+  <string name="StarMySubscriptionsExpand">Show More</string>
+
+  <string name="StarsSubscriptionRenews">renews on {0}</string>
+  <string name="StarsParticipantSubscriptionPerMonth">per month</string>
+  <string name="StarsSubscriptionExpired">expired on {0}</string>
+  <string name="StarsSubscriptionStatusCancelled">cancelled</string>
+  <string name="StarsSubscriptionStatusExpired">expired</string>
+  <string name="StarsSubscriptionChannel">Subscription</string>
+  <string name="StarsSubscriptionSince">Subscribed</string>
+  <string name="StarsSubscriptionUntilExpired">Expired</string>
+  <string name="StarsSubscriptionUntilExpires">Expires</string>
+  <string name="StarsSubscriptionUntilRenews">Renews</string>
+  <string name="StarsSubscriptionTitle">Subscription</string>
+  <string name="PricePerMonthMe">{0}/month</string>
+
+  <string name="StarsSubscriptionCancelledText">You have cancelled your subscription.</string>
+  <string name="StarsSubscriptionAgain">Subscribe Again</string>
+  <string name="StarsSubscriptionCancelInfo">If you cancel now, you will still be able to access your subscription until {0}.</string>
+  <string name="StarsSubscriptionCancel">Cancel Subscription</string>
+  <string name="StarsSubscriptionExpiredInfo">Your subscription expired on {0}.</string>
+
+  <string name="BotPrivacyPolicy">Privacy Policy</string>
+
+  <string name="DeleteMyAccount">Delete my account</string>
+  <string name="DeleteAccountIfAwayFor3">If away for</string>
+
+  <string name="BoostingStarsGiveawayAdditionPrizeCountHint_one">All prizes: **{0} Star**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountHint_other">All prizes: **{0} Stars**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountNameHint_one">All prizes: **{1}** {2} with **{0} Star**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountNameHint_other">All prizes: **{1}** {2} with **{0} Stars**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeHint">Turn this on if you want to give the winners your own prizes in addition to Stars.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEndGroup_one">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Star** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEndGroup_other">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Stars** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEnd_one">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Star** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEnd_other">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Stars** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextGroup_one">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Star** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextGroup_other">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Stars** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksText_one">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Star** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksText_other">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Stars** for its followers.</string>
+  <string name="BoostingStarsGiveawayJustStartedGroup_one">{1} just started a giveaway of {0} Star to its members.</string>
+  <string name="BoostingStarsGiveawayJustStartedGroup_other">{1} just started a giveaway of {0} Stars to its members.</string>
+  <string name="BoostingStarsGiveawayJustStarted_one">{1} just started a giveaway of {0} Star to its followers.</string>
+  <string name="BoostingStarsGiveawayJustStarted_other">{1} just started a giveaway of {0} Stars to its followers.</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural1_one">**{0} Star** will be distributed</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural1_other">**{0} Stars** will be distributed</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural2_one">to the **{0}** winner.</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural2_other">among **{0}** winners.</string>
+  <string name="BoostingStarsGiveawayResultsMsgAllWinnersReceivedLinks_one">All winners received %d Star in total.</string>
+  <string name="BoostingStarsGiveawayResultsMsgAllWinnersReceivedLinks_other">All winners received %d Stars in total.</string>
+  <string name="BoostingGiveawayHowItWorksTextEndGroup_one">This giveaway was sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscription for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksTextEndGroup_other">This giveaway was sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksTextEnd_one">This giveaway was sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscription for {3} for its followers.</string>
+  <string name="BoostingGiveawayHowItWorksTextEnd_other">This giveaway was sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its followers.</string>
+  <string name="BoostingGiveawayHowItWorksTextGroup_one">This giveaway is sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscription for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksTextGroup_other">This giveaway is sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksText_one">This giveaway is sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscription for {3} for its followers.</string>
+  <string name="BoostingGiveawayHowItWorksText_other">This giveaway is sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its followers.</string>
+  <string name="BoostingGiveawayJustStartedGroup">{0} just started a giveaway of Telegram Premium subscriptions to its members.</string>
+
+  <string name="BoostingGiveawayHowItWorksIncludeText_one">**{1}** also included **{0}** **{2}** in the prizes. Admins of the channel are responsible for delivering these prizes.</string>
+  <string name="BoostingGiveawayHowItWorksIncludeText_other">**{1}** also included **{0}** **{2}** in the prizes. Admins of the channel are responsible for delivering these prizes.</string>
+
+  <string name="ActionStarGiveawayPrizeTitle">Congratulations!</string>
+  <string name="ActionStarGiveawayPrize_one">You won a prize in a giveaway organized by **un1**.\10\10Your prize is **{0} Star**.</string>
+  <string name="ActionStarGiveawayPrize_other">You won a prize in a giveaway organized by **un1**.\10\10Your prize is **{0} Stars**.</string>
+
+  <string name="StarsGiveawayPrizeReceived">Received Prize</string>
+  <string name="BoostingGiveawayResults">Giveaway results</string>
+
+  <string name="ChannelEnablePaidReactions">Enable Paid Reactions</string>
+  <string name="ChannelEnablePaidReactionsInfo">Switch this on to let your subscribers set paid reactions with Telegram Stars, which you will be able to withdraw later as TON.</string>
+  <string name="ChannelEnablePaidReactionsInfoLink">https://telegram.org/tos/stars/</string>
+  <string name="LearnMoreArrow">Learn More &gt;</string>
+
+  <string name="StarsSentAnonymouslyTitle">Stars sent anonymously!</string>
+  <string name="StarsSentText_one">You reacted with **{0}** star.</string>
+  <string name="StarsSentText_other">You reacted with **{0}** stars.</string>
+  <string name="StarsSentTitle">Stars sent!</string>
+  <string name="StarsSentUndo">Undo</string>
+
+
+  <!-- new from translations.telegram.org -->
+
+  <string name="AccDescrCustomEmoji">{0}, custom emoji</string>
+  <string name="ActionStarGiveawayPrize_zero">You won a prize in a giveaway organized by **un1**.\10\10Your prize is **{0} Stars**.</string>
+  <string name="ActionStarGiveawayPrize_two">You won a prize in a giveaway organized by **un1**.\10\10Your prize is **{0} Stars**.</string>
+  <string name="ActionStarGiveawayPrize_few">You won a prize in a giveaway organized by **un1**.\10\10Your prize is **{0} Stars**.</string>
+  <string name="ActionStarGiveawayPrize_many">You won a prize in a giveaway organized by **un1**.\10\10Your prize is **{0} Stars**.</string>
+  <string name="BoostingGiveawayHowItWorksIncludeText_zero">**{1}** also included **{0}** **{2}** in the prizes. Admins of the channel are responsible for delivering these prizes.</string>
+  <string name="BoostingGiveawayHowItWorksIncludeText_two">**{1}** also included **{0}** **{2}** in the prizes. Admins of the channel are responsible for delivering these prizes.</string>
+  <string name="BoostingGiveawayHowItWorksIncludeText_few">**{1}** also included **{0}** **{2}** in the prizes. Admins of the channel are responsible for delivering these prizes.</string>
+  <string name="BoostingGiveawayHowItWorksIncludeText_many">**{1}** also included **{0}** **{2}** in the prizes. Admins of the channel are responsible for delivering these prizes.</string>
+  <string name="BoostingGiveawayHowItWorksTextEndGroup_zero">This giveaway was sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksTextEndGroup_two">This giveaway was sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksTextEndGroup_few">This giveaway was sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksTextEndGroup_many">This giveaway was sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksTextGroup_zero">This giveaway is sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksTextGroup_two">This giveaway is sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksTextGroup_few">This giveaway is sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its members.</string>
+  <string name="BoostingGiveawayHowItWorksTextGroup_many">This giveaway is sponsored by the admins of **{1}**, who acquired **{2} Telegram Premium** subscriptions for {3} for its members.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountHint_zero">All prizes: **{0} Stars**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountHint_two">All prizes: **{0} Stars**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountHint_few">All prizes: **{0} Stars**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountHint_many">All prizes: **{0} Stars**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountNameHint_zero">All prizes: **{1}** {2} with **{0} Stars**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountNameHint_two">All prizes: **{1}** {2} with **{0} Stars**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountNameHint_few">All prizes: **{1}** {2} with **{0} Stars**.</string>
+  <string name="BoostingStarsGiveawayAdditionPrizeCountNameHint_many">All prizes: **{1}** {2} with **{0} Stars**.</string>
+  <string name="BoostingStarsGiveawayHowItWorksText_zero">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Stars** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksText_two">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Stars** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksText_few">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Stars** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksText_many">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Stars** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEnd_zero">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Stars** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEnd_two">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Stars** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEnd_few">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Stars** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEnd_many">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Stars** for its followers.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEndGroup_zero">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Stars** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEndGroup_two">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Stars** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEndGroup_few">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Stars** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextEndGroup_many">This giveaway was sponsored by the admins of **{1}**, who acquired **{0} Stars** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextGroup_zero">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Stars** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextGroup_two">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Stars** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextGroup_few">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Stars** for its members.</string>
+  <string name="BoostingStarsGiveawayHowItWorksTextGroup_many">This giveaway is sponsored by the admins of **{1}**, who acquired **{0} Stars** for its members.</string>
+  <string name="BoostingStarsGiveawayJustStarted_zero">{1} just started a giveaway of {0} Stars to its followers.</string>
+  <string name="BoostingStarsGiveawayJustStarted_two">{1} just started a giveaway of {0} Stars to its followers.</string>
+  <string name="BoostingStarsGiveawayJustStarted_few">{1} just started a giveaway of {0} Stars to its followers.</string>
+  <string name="BoostingStarsGiveawayJustStarted_many">{1} just started a giveaway of {0} Stars to its followers.</string>
+  <string name="BoostingStarsGiveawayJustStartedGroup_zero">{1} just started a giveaway of {0} Stars to its members.</string>
+  <string name="BoostingStarsGiveawayJustStartedGroup_two">{1} just started a giveaway of {0} Stars to its members.</string>
+  <string name="BoostingStarsGiveawayJustStartedGroup_few">{1} just started a giveaway of {0} Stars to its members.</string>
+  <string name="BoostingStarsGiveawayJustStartedGroup_many">{1} just started a giveaway of {0} Stars to its members.</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural1_zero">**{0} Stars** will be distributed</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural1_two">**{0} Stars** will be distributed</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural1_few">**{0} Stars** will be distributed</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural1_many">**{0} Stars** will be distributed</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural2_zero">among **{0}** winners.</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural2_two">among **{0}** winners.</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural2_few">among **{0}** winners.</string>
+  <string name="BoostingStarsGiveawayMsgInfoPlural2_many">among **{0}** winners.</string>
+  <string name="BoostingStarsGiveawayResultsMsgAllWinnersReceivedLinks_zero">All winners received %d Stars in total.</string>
+  <string name="BoostingStarsGiveawayResultsMsgAllWinnersReceivedLinks_two">All winners received %d Stars in total.</string>
+  <string name="BoostingStarsGiveawayResultsMsgAllWinnersReceivedLinks_few">All winners received %d Stars in total.</string>
+  <string name="BoostingStarsGiveawayResultsMsgAllWinnersReceivedLinks_many">All winners received %d Stars in total.</string>
+  <string name="StarsSentText_zero">You reacted with **{0}** stars.</string>
+  <string name="StarsSentText_two">You reacted with **{0}** stars.</string>
+  <string name="StarsSentText_few">You reacted with **{0}** stars.</string>
+  <string name="StarsSentText_many">You reacted with **{0}** stars.</string>
 </resources>
