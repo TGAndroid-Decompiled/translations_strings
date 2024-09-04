@@ -5288,7 +5288,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_chart_title_member_count" = "Growth";
 "lng_chart_title_join" = "Followers";
 "lng_chart_title_mute" = "Notifications";
-"lng_chart_title_view_count_by_hour" = "Views by hours";
+"lng_chart_title_view_count_by_hour" = "Views by hours (UTC)";
 "lng_chart_title_view_count_by_source" = "Views by source";
 "lng_chart_title_join_by_source" = "New followers by source";
 "lng_chart_title_language" = "Languages";

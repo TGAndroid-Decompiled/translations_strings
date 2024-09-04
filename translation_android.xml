@@ -3765,7 +3765,7 @@
     <!--permissions-->
     <string name="PermissionStorageWithHint">**Telegram** needs storage access so you can send and save photos, videos, music and other documents. Tap Settings &gt; Permissions, and turn **Files and media** on.</string>
     <string name="PermissionNoAudioWithHint">**Telegram** needs microphone access so that you can send voice messages. Tap Settings &gt; Permissions, and turn **Microphone** on.</string>
-    <string name="PermissionNoBluetoothWithHint">**Telegram** needs bluetooth access to record video from your headset microphone. Tap Settings -&gt; Permissions, and turn **Bluetooth** on.</string>
+    <string name="PermissionNoBluetoothWithHint">**Telegram** needs bluetooth access to record audio from your headset microphone. Tap Settings &gt; Permissions, and turn **Bluetooth** on.</string>
     <string name="PermissionNoAudioVideoWithHint">**Telegram** needs microphone access so that you can send voice messages. Tap Settings &gt; Permissions, and turn **Microphone** on.</string>
     <string name="PermissionNoCameraWithHint">**Telegram** needs camera access so that you can take photos and videos. Tap Settings &gt; Permissions, and turn **Camera** on.</string>
     <string name="PermissionNoCameraMicVideo">**Telegram** needs camera and microphone access so that you can send video messages. Tap Settings &gt; Permissions, and turn **Microphone** and **Camera** on.</string>
@@ -6425,11 +6425,11 @@ list of reactions.</string>
     <string name="BoostingStarsGiveawayServiceWinnersSelected_other">%1$d winners of the giveaway were randomly selected by Telegram.</string>
     <string name="BoostingGiveawayServiceUndistributed_one">%d undistributed link code was forwarded to channel administrators.</string>
     <string name="BoostingGiveawayServiceUndistributed_other">%d undistributed links codes were forwarded to channel administrators.</string>
-    <string name="BoostingGiveawayServiceUndistributedGroup_one">%d undistributed link codes were forwarded to group administrators.</string>
-    <string name="BoostingGiveawayServiceUndistributedGroup_other">%d undistributed links codes were forwarded to group administrators.</string>
-    <string name="BoostingStarsGiveawayServiceUndistributed_one">%d undistributed stars were forwarded to channel administrators.</string>
-    <string name="BoostingStarsGiveawayServiceUndistributed_other">%d undistributed stars were forwarded to channel administrators.</string>
-    <string name="BoostingStarsGiveawayServiceUndistributedGroup_one">%d undistributed stars were forwarded to group administrators.</string>
+    <string name="BoostingGiveawayServiceUndistributedGroup_one">%d undistributed link code was forwarded to group administrators.</string>
+    <string name="BoostingGiveawayServiceUndistributedGroup_other">%d undistributed link codes were forwarded to group administrators.</string>
+    <string name="BoostingStarsGiveawayServiceUndistributed_one">%d undistributed prize was forwarded to channel administrators.</string>
+    <string name="BoostingStarsGiveawayServiceUndistributed_other">%d undistributed prizes were forwarded to channel administrators.</string>
+    <string name="BoostingStarsGiveawayServiceUndistributedGroup_one">%d undistributed star was forwarded to group administrators.</string>
     <string name="BoostingStarsGiveawayServiceUndistributedGroup_other">%d undistributed stars were forwarded to group administrators.</string>
     <string name="BoostingBoostsGroupByUserServiceMsg">%s boosted the group</string>
     <string name="BoostingBoostsGroupByUserServiceMsgCount_other">%2$s boosted the group %1$d times</string>
@@ -6559,7 +6559,7 @@ list of reactions.</string>
     <string name="BoostingChooseRandomGroup_other">Choose when %d members of your group will be randomly selected to receive Telegram Premium.</string>
     <string name="BoostingStarsChooseRandom_one">Choose when %1$d subscriber of your channel will be randomly selected to receive %2$s.</string>
     <string name="BoostingStarsChooseRandom_other">Choose when %1$d subscribers of your channel will be randomly selected to receive %2$s.</string>
-    <string name="BoostingStarsChooseRandomGroup_one">Choose when %1$d members of your group will be randomly selected to receive %2$s.</string>
+    <string name="BoostingStarsChooseRandomGroup_one">Choose when %1$d member of your group will be randomly selected to receive %2$s.</string>
     <string name="BoostingStarsChooseRandomGroup_other">Choose when %1$d members of your group will be randomly selected to receive %2$s.</string>
     <string name="BoostingStarsChooseRandomStars_one">%1$d Star</string>
     <string name="BoostingStarsChooseRandomStars_other">%1$d Stars</string>
@@ -8493,10 +8493,10 @@ list of reactions.</string>
   <string name="BoostingGiveawayServiceUndistributed_two">%d undistributed links codes were forwarded to channel administrators.</string>
   <string name="BoostingGiveawayServiceUndistributed_few">%d undistributed links codes were forwarded to channel administrators.</string>
   <string name="BoostingGiveawayServiceUndistributed_many">%d undistributed links codes were forwarded to channel administrators.</string>
-  <string name="BoostingGiveawayServiceUndistributedGroup_zero">%d undistributed links codes were forwarded to group administrators.</string>
-  <string name="BoostingGiveawayServiceUndistributedGroup_two">%d undistributed links codes were forwarded to group administrators.</string>
-  <string name="BoostingGiveawayServiceUndistributedGroup_few">%d undistributed links codes were forwarded to group administrators.</string>
-  <string name="BoostingGiveawayServiceUndistributedGroup_many">%d undistributed links codes were forwarded to group administrators.</string>
+  <string name="BoostingGiveawayServiceUndistributedGroup_zero">%d undistributed link codes were forwarded to group administrators.</string>
+  <string name="BoostingGiveawayServiceUndistributedGroup_two">%d undistributed link codes were forwarded to group administrators.</string>
+  <string name="BoostingGiveawayServiceUndistributedGroup_few">%d undistributed link codes were forwarded to group administrators.</string>
+  <string name="BoostingGiveawayServiceUndistributedGroup_many">%d undistributed link codes were forwarded to group administrators.</string>
   <string name="BoostingGiveawayServiceWinnersSelected_zero">%d winners of the giveaway were randomly selected by Telegram and received their gift links in private messages.</string>
   <string name="BoostingGiveawayServiceWinnersSelected_two">%d winners of the giveaway were randomly selected by Telegram and received their gift links in private messages.</string>
   <string name="BoostingGiveawayServiceWinnersSelected_few">%d winners of the giveaway were randomly selected by Telegram and received their gift links in private messages.</string>
@@ -8667,10 +8667,10 @@ list of reactions.</string>
   <string name="BoostingStarsGiveawayResultsMsgAllWinnersReceivedLinks_two">All winners received a total of %d Stars.</string>
   <string name="BoostingStarsGiveawayResultsMsgAllWinnersReceivedLinks_few">All winners received a total of %d Stars.</string>
   <string name="BoostingStarsGiveawayResultsMsgAllWinnersReceivedLinks_many">All winners received a total of %d Stars.</string>
-  <string name="BoostingStarsGiveawayServiceUndistributed_zero">%d undistributed stars were forwarded to channel administrators.</string>
-  <string name="BoostingStarsGiveawayServiceUndistributed_two">%d undistributed stars were forwarded to channel administrators.</string>
-  <string name="BoostingStarsGiveawayServiceUndistributed_few">%d undistributed stars were forwarded to channel administrators.</string>
-  <string name="BoostingStarsGiveawayServiceUndistributed_many">%d undistributed stars were forwarded to channel administrators.</string>
+  <string name="BoostingStarsGiveawayServiceUndistributed_zero">%d undistributed prizes were forwarded to channel administrators.</string>
+  <string name="BoostingStarsGiveawayServiceUndistributed_two">%d undistributed prizes were forwarded to channel administrators.</string>
+  <string name="BoostingStarsGiveawayServiceUndistributed_few">%d undistributed prizes were forwarded to channel administrators.</string>
+  <string name="BoostingStarsGiveawayServiceUndistributed_many">%d undistributed prizes were forwarded to channel administrators.</string>
   <string name="BoostingStarsGiveawayServiceUndistributedGroup_zero">%d undistributed stars were forwarded to group administrators.</string>
   <string name="BoostingStarsGiveawayServiceUndistributedGroup_two">%d undistributed stars were forwarded to group administrators.</string>
   <string name="BoostingStarsGiveawayServiceUndistributedGroup_few">%d undistributed stars were forwarded to group administrators.</string>
