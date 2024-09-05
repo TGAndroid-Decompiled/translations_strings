@@ -110,7 +110,7 @@
 "PeerInfo.Permissions" = "Permissions";
 "PeerInfo.Administrators" = "Administrators";
 "PeerInfo.MembersRequest" = "Join Requests";
-"PeerInfo.RecentActions" = "Recent Action";
+"PeerInfo.RecentActions" = "Recent Actions";
 
 
 "PeerInfo.Usernames.List" = "%1$@\nalso %2$@";
@@ -8893,7 +8893,7 @@
 "Channel.BoostsStats.GetBoostsViaGifts" = "Get Boosts Via Gifts";
 
 "Channel.BoostsStats.GetBoostsViaGifts.Info" = "Get more boosts for your channel by gifting Premium to your subscribers.";
-"Channel.BoostsStats.GetBoostsViaGifts.Info.Group" = "Get more boosts for your group by gifting Premium to your subscribers.";
+"Channel.BoostsStats.GetBoostsViaGifts.Info.Group" = "Get more boosts for your group by gifting Premium to your members.";
 
 
 "Channel.BoostsStats.Prepaid.Title" = "PREPAID GIVEAWAYS";
@@ -8935,7 +8935,7 @@
 
 "Giveaway.Stars.Prepaid.Desc_countable" = "%d";
 "Giveaway.Stars.Prepaid.Desc_zero" = "for %d users";
-"Giveaway.Stars.Prepaid.Desc_one" = "for %d users";
+"Giveaway.Stars.Prepaid.Desc_one" = "for %d user";
 "Giveaway.Stars.Prepaid.Desc_two" = "for %d users";
 "Giveaway.Stars.Prepaid.Desc_few" = "for %d users";
 "Giveaway.Stars.Prepaid.Desc_many" = "for %d users";
@@ -9070,7 +9070,7 @@
 
 "Chat.Service.GiveawayStarted.Stars_countable" = "%1$@ %2$d";
 "Chat.Service.GiveawayStarted.Stars_zero" = "%1$@ just started a giveaway of %2$d Telegram Stars for its followers.";
-"Chat.Service.GiveawayStarted.Stars_one" = "%1$@ just started a giveaway of %2$d Telegram Stars for its followers.";
+"Chat.Service.GiveawayStarted.Stars_one" = "%1$@ just started a giveaway of %2$d Telegram Star for its followers.";
 "Chat.Service.GiveawayStarted.Stars_two" = "%1$@ just started a giveaway of %2$d Telegram Stars for its followers.";
 "Chat.Service.GiveawayStarted.Stars_few" = "%1$@ just started a giveaway of %2$d Telegram Stars for its followers.";
 "Chat.Service.GiveawayStarted.Stars_many" = "%1$@ just started a giveaway of %2$d Telegram Stars for its followers.";
@@ -9390,36 +9390,36 @@
 
 
 "ChatService.GiveawayResults.Stars_countable" = "%d winner of the giveaway was randomly selected by Telegram and received their prize in a private message.";
-"ChatService.GiveawayResults.Stars_zero" = "%d winners of the giveaway was randomly selected by Telegram and received their prize in a private message.";
+"ChatService.GiveawayResults.Stars_zero" = "%d winners of the giveaway were randomly selected by Telegram and received their prize in a private message.";
 "ChatService.GiveawayResults.Stars_one" = "%d winner of the giveaway was randomly selected by Telegram and received their prize in a private message.";
-"ChatService.GiveawayResults.Stars_two" = "%d winners of the giveaway was randomly selected by Telegram and received their prize in a private message.";
-"ChatService.GiveawayResults.Stars_few" = "%d winners of the giveaway was randomly selected by Telegram and received their prize in a private message.";
-"ChatService.GiveawayResults.Stars_many" = "%d winners of the giveaway was randomly selected by Telegram and received their prize in a private message.";
-"ChatService.GiveawayResults.Stars_other" = "%d winners of the giveaway was randomly selected by Telegram and received their prize in a private message.";
+"ChatService.GiveawayResults.Stars_two" = "%d winners of the giveaway were randomly selected by Telegram and received their prize in a private message.";
+"ChatService.GiveawayResults.Stars_few" = "%d winners of the giveaway were randomly selected by Telegram and received their prize in a private message.";
+"ChatService.GiveawayResults.Stars_many" = "%d winners of the giveaway were randomly selected by Telegram and received their prize in a private message.";
+"ChatService.GiveawayResults.Stars_other" = "%d winners of the giveaway were randomly selected by Telegram and received their prize in a private message.";
 
 "ChatService.GiveawayResultsNoWinners.Stars_countable" = "%d";
-"ChatService.GiveawayResultsNoWinners.Stars_zero" = "Due to the giveaway terms, no winners could be selected by Telegram, a prize code was forwarded to channel administrators.";
+"ChatService.GiveawayResultsNoWinners.Stars_zero" = "Due to the giveaway terms, no winners could be selected by Telegram, prize codes were forwarded to channel administrators.";
 "ChatService.GiveawayResultsNoWinners.Stars_one" = "Due to the giveaway terms, no winner could be selected by Telegram, a prize code was forwarded to channel administrators.";
-"ChatService.GiveawayResultsNoWinners.Stars_two" = "Due to the giveaway terms, no winners could be selected by Telegram, a prize code was forwarded to channel administrators.";
-"ChatService.GiveawayResultsNoWinners.Stars_few" = "Due to the giveaway terms, no winners could be selected by Telegram, a prize code was forwarded to channel administrators.";
-"ChatService.GiveawayResultsNoWinners.Stars_many" = "Due to the giveaway terms, no winners could be selected by Telegram, a prize code was forwarded to channel administrators.";
-"ChatService.GiveawayResultsNoWinners.Stars_other" = "Due to the giveaway terms, no winners could be selected by Telegram, a prize code was forwarded to channel administrators.";
+"ChatService.GiveawayResultsNoWinners.Stars_two" = "Due to the giveaway terms, no winners could be selected by Telegram, prize codes were forwarded to channel administrators.";
+"ChatService.GiveawayResultsNoWinners.Stars_few" = "Due to the giveaway terms, no winners could be selected by Telegram, prize codes were forwarded to channel administrators.";
+"ChatService.GiveawayResultsNoWinners.Stars_many" = "Due to the giveaway terms, no winners could be selected by Telegram, prize codes were forwarded to channel administrators.";
+"ChatService.GiveawayResultsNoWinners.Stars_other" = "Due to the giveaway terms, no winners could be selected by Telegram, prize codes were forwarded to channel administrators.";
 
 "ChatService.GiveawayResultsMixedUnclaimed.Stars_countable" = "%d";
-"ChatService.GiveawayResultsMixedUnclaimed.Stars_zero" = "%d undistributed prizes codes was forwarded to channel administrators";
-"ChatService.GiveawayResultsMixedUnclaimed.Stars_one" = "%d undistributed prizes code was forwarded to channel administrators";
-"ChatService.GiveawayResultsMixedUnclaimed.Stars_two" = "%d undistributed prizes codes was forwarded to channel administrators";
-"ChatService.GiveawayResultsMixedUnclaimed.Stars_few" = "%d undistributed prizes codes was forwarded to channel administrators";
-"ChatService.GiveawayResultsMixedUnclaimed.Stars_many" = "%d undistributed prizes codes was forwarded to channel administrators";
-"ChatService.GiveawayResultsMixedUnclaimed.Stars_other" = "%d undistributed prizes codes was forwarded to channel administrators";
+"ChatService.GiveawayResultsMixedUnclaimed.Stars_zero" = "%d undistributed prize codes were forwarded to channel administrators";
+"ChatService.GiveawayResultsMixedUnclaimed.Stars_one" = "%d undistributed prize code was forwarded to channel administrators";
+"ChatService.GiveawayResultsMixedUnclaimed.Stars_two" = "%d undistributed prize codes were forwarded to channel administrators";
+"ChatService.GiveawayResultsMixedUnclaimed.Stars_few" = "%d undistributed prize codes were forwarded to channel administrators";
+"ChatService.GiveawayResultsMixedUnclaimed.Stars_many" = "%d undistributed prize codes were forwarded to channel administrators";
+"ChatService.GiveawayResultsMixedUnclaimed.Stars_other" = "%d undistributed prize codes were forwarded to channel administrators";
 
 "ChatService.GiveawayResultsMixedWinners.Stars_countable" = "%d";
-"ChatService.GiveawayResultsMixedWinners.Stars_zero" = "**%d** winners of the giveaway was randomly selected by Telegram and received a private message with prize.";
+"ChatService.GiveawayResultsMixedWinners.Stars_zero" = "**%d** winners of the giveaway were randomly selected by Telegram and received a private message with prize.";
 "ChatService.GiveawayResultsMixedWinners.Stars_one" = "**%d** winner of the giveaway was randomly selected by Telegram and received a private message with prize.";
-"ChatService.GiveawayResultsMixedWinners.Stars_two" = "**%d** winners of the giveaway was randomly selected by Telegram and received a private message with prize.";
-"ChatService.GiveawayResultsMixedWinners.Stars_few" = "**%d** winners of the giveaway was randomly selected by Telegram and received a private message with prize.";
-"ChatService.GiveawayResultsMixedWinners.Stars_many" = "**%d** winners of the giveaway was randomly selected by Telegram and received a private message with prize.";
-"ChatService.GiveawayResultsMixedWinners.Stars_other" = "**%d** winners of the giveaway was randomly selected by Telegram and received a private message with prize.";
+"ChatService.GiveawayResultsMixedWinners.Stars_two" = "**%d** winners of the giveaway were randomly selected by Telegram and received a private message with prize.";
+"ChatService.GiveawayResultsMixedWinners.Stars_few" = "**%d** winners of the giveaway were randomly selected by Telegram and received a private message with prize.";
+"ChatService.GiveawayResultsMixedWinners.Stars_many" = "**%d** winners of the giveaway were randomly selected by Telegram and received a private message with prize.";
+"ChatService.GiveawayResultsMixedWinners.Stars_other" = "**%d** winners of the giveaway were randomly selected by Telegram and received a private message with prize.";
 
 
 
@@ -11289,12 +11289,12 @@
 
 
 "ChatGift.Info.GiveawayStars_countable" = "%1$@ %2$d";
-"ChatGift.Info.GiveawayStars_zero" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is a **%2$@ Stars**.";
-"ChatGift.Info.GiveawayStars_one" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is a **%2$@ Star**.";
-"ChatGift.Info.GiveawayStars_two" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is a **%2$@ Stars**.";
-"ChatGift.Info.GiveawayStars_few" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is a **%2$@ Stars**.";
-"ChatGift.Info.GiveawayStars_many" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is a **%2$@ Stars**.";
-"ChatGift.Info.GiveawayStars_other" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is a **%2$@ Stars**.";
+"ChatGift.Info.GiveawayStars_zero" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is **%2$@ Stars**.";
+"ChatGift.Info.GiveawayStars_one" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is **%2$@ Star**.";
+"ChatGift.Info.GiveawayStars_two" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is **%2$@ Stars**.";
+"ChatGift.Info.GiveawayStars_few" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is **%2$@ Stars**.";
+"ChatGift.Info.GiveawayStars_many" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is **%2$@ Stars**.";
+"ChatGift.Info.GiveawayStars_other" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is **%2$@ Stars**.";
 
 
 "ChatListApps.Clear" = "Clear";

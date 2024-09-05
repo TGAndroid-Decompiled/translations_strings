@@ -12829,7 +12829,7 @@ Sorry for the inconvenience.";
 "Chat.ToastStarsSent.TextStarAmount_1" = "star";
 "Chat.ToastStarsSent.TextStarAmount_any" = "stars";
 
-"Stars.Purchase.StarsReactionsNeededInfo" = "Buy Stars to send paid reactions **%@** and other channels.";
+"Stars.Purchase.StarsReactionsNeededInfo" = "Buy Stars to send paid reactions to **%@** and other channels.";
 "Chat.ToastStarsReactionsDisabled" = "Star Reactions were disabled in %@";
 
 "ChatContextMenu.SingleReactionEmojiSet" = "This reaction is from #[%@]() emoji pack.";
@@ -12840,6 +12840,11 @@ Sorry for the inconvenience.";
 
 "Notification.GiveawayStartedStars" = "%1$@ just started a giveaway of %2$@ Telegram Stars for its followers.";
 "Notification.GiveawayStartedStarsGroup" = "%1$@ just started a giveaway of %2$@ Telegram Stars for its members.";
+
+"Notification.StarsGiveawayStarted" = "%1$@ just started a giveaway of %2$@ for its followers.";
+"Notification.StarsGiveawayStartedGroup" = "%1$@ just started a giveaway of %2$@ for its members.";
+"Notification.StarsGiveawayStarted.Stars_1" = "%@ Telegram Star";
+"Notification.StarsGiveawayStarted.Stars_any" = "%@ Telegram Stars";
 
 "Chat.Giveaway.Message.Stars.PrizeText" = "%1$@ will be distributed %2$@.";
 "Chat.Giveaway.Message.Stars.Stars_1" = "**%@** Stars";
@@ -13903,6 +13908,10 @@ Sorry for the inconvenience.";
 "Notification.StarsGift.Title_2" = "%@ Stars";
 "Notification.StarsGift.Title_3_10" = "%@ Stars";
 "Notification.StarsGift.Title_many" = "%@ Stars";
+"Notification.StarsGiveawayStarted.Stars_0" = "%@ Telegram Stars";
+"Notification.StarsGiveawayStarted.Stars_2" = "%@ Telegram Stars";
+"Notification.StarsGiveawayStarted.Stars_3_10" = "%@ Telegram Stars";
+"Notification.StarsGiveawayStarted.Stars_many" = "%@ Telegram Stars";
 "Notification.TopicClosed" = "Topic closed";
 "Notification.TopicClosedAuthor" = "%1$@ closed the topic";
 "Notification.TopicCreated" = "Topic created";

@@ -4882,7 +4882,7 @@
     <string name="MessageContainsEmojiPacks_other">This message contains emoji from **%d Packs**.</string>
     <string name="MessageContainsReactionsPack">Emoji from %s pack were used as reactions.</string>
     <string name="MessageContainsReactionsPacks_other">Emoji from **%d packs** were used as reactions.</string>
-    <string name="MessageContainsReactionPack">This reaction is an emoji from %s pack.</string>
+    <string name="MessageContainsReactionPack">This reaction is from %s emoji pack.</string>
     <string name="SendMessageAsTitle">Send message as...</string>
     <string name="OpenChannelPost">VIEW POST</string>
     <string name="SavingContentTitle">Content protection</string>
