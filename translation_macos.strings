@@ -11309,6 +11309,41 @@
 "PeerInfo.ReportBot" = "Report Bot";
 
 
+"Chat.Giveaway.Message.WinnersSelectedTitle_countable" = "%d";
+"Chat.Giveaway.Message.WinnersSelectedTitle_zero" = "Winners Selected!";
+"Chat.Giveaway.Message.WinnersSelectedTitle_one" = "Winner Selected!";
+"Chat.Giveaway.Message.WinnersSelectedTitle_two" = "Winners Selected!";
+"Chat.Giveaway.Message.WinnersSelectedTitle_few" = "Winners Selected!";
+"Chat.Giveaway.Message.WinnersSelectedTitle_many" = "Winners Selected!";
+"Chat.Giveaway.Message.WinnersSelectedTitle_other" = "Winners Selected!";
+
+
+"Chat.Giveaway.Message.WinnersSelectedText_countable" = "%d";
+"Chat.Giveaway.Message.WinnersSelectedText_zero" = "**%d** winners of the [Giveaway]() was randomly selected by Telegram.";
+"Chat.Giveaway.Message.WinnersSelectedText_one" = "**%d** winner of the [Giveaway]() was randomly selected by Telegram.";
+"Chat.Giveaway.Message.WinnersSelectedText_two" = "**%d** winners of the [Giveaway]() was randomly selected by Telegram.";
+"Chat.Giveaway.Message.WinnersSelectedText_few" = "**%d** winners of the [Giveaway]() was randomly selected by Telegram.";
+"Chat.Giveaway.Message.WinnersSelectedText_many" = "**%d** winners of the [Giveaway]() was randomly selected by Telegram.";
+"Chat.Giveaway.Message.WinnersSelectedText_other" = "**%d** winners of the [Giveaway]() was randomly selected by Telegram.";
+
+
+"Chat.Giveaway.Message.WinnersInfo_countable" = "%d";
+"Chat.Giveaway.Message.WinnersInfo_zero" = "All winners received gift links in private messages.";
+"Chat.Giveaway.Message.WinnersInfo_one" = "The winner received gift link in private messages.";
+"Chat.Giveaway.Message.WinnersInfo_two" = "All winners received gift links in private messages.";
+"Chat.Giveaway.Message.WinnersInfo_few" = "All winners received gift links in private messages.";
+"Chat.Giveaway.Message.WinnersInfo_many" = "All winners received gift links in private messages.";
+"Chat.Giveaway.Message.WinnersInfo_other" = "All winners received gift links in private messages.";
+
+"Chat.Giveaway.Message.WinnersInfo.Star_countable" = "%d %@";
+"Chat.Giveaway.Message.WinnersInfo.Star_zero" = "All winners received a total of %2$@.";
+"Chat.Giveaway.Message.WinnersInfo.Star_one" = "The winner received a total of %2$@.";
+"Chat.Giveaway.Message.WinnersInfo.Star_two" = "All winners received a total of %2$@.";
+"Chat.Giveaway.Message.WinnersInfo.Star_few" = "All winners received a total of %2$@.";
+"Chat.Giveaway.Message.WinnersInfo.Star_many" = "All winners received a total of %2$@.";
+"Chat.Giveaway.Message.WinnersInfo.Star_other" = "All winners received a total of %2$@.";
+
+
 /* new from translations.telegram.org */
 
 "Admins.Creator" = "Owner";

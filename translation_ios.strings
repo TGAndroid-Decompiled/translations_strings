@@ -12935,6 +12935,11 @@ Sorry for the inconvenience.";
 "Notification.StarsGiveawayResultsNoWinners" = "Due to the giveaway terms, no winners could be selected by Telegram, all stars were credited to channel administrators.";
 "Notification.StarsGiveawayResultsNoWinners.Group" = "Due to the giveaway terms, no winners could be selected by Telegram, all stars were credited to group administrators.";
 
+"Notification.StarsGiveaway.Title" = "Congratulations!";
+"Notification.StarsGiveaway.Subtitle" = "You won a prize in a giveaway organized by **%1$@**.\n\nYour prize is **%2$@**.";
+"Notification.StarsGiveaway.Subtitle.Stars_1" = "%@ Star";
+"Notification.StarsGiveaway.Subtitle.Stars_any" = "%@ Stars";
+
 
 /* new from translations.telegram.org */
 
@@ -13908,6 +13913,10 @@ Sorry for the inconvenience.";
 "Notification.StarsGift.Title_2" = "%@ Stars";
 "Notification.StarsGift.Title_3_10" = "%@ Stars";
 "Notification.StarsGift.Title_many" = "%@ Stars";
+"Notification.StarsGiveaway.Subtitle.Stars_0" = "%@ Stars";
+"Notification.StarsGiveaway.Subtitle.Stars_2" = "%@ Stars";
+"Notification.StarsGiveaway.Subtitle.Stars_3_10" = "%@ Stars";
+"Notification.StarsGiveaway.Subtitle.Stars_many" = "%@ Stars";
 "Notification.StarsGiveawayStarted.Stars_0" = "%@ Telegram Stars";
 "Notification.StarsGiveawayStarted.Stars_2" = "%@ Telegram Stars";
 "Notification.StarsGiveawayStarted.Stars_3_10" = "%@ Telegram Stars";
