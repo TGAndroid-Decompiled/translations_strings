@@ -314,6 +314,7 @@
     <string name="NotificationsPermissionAlert2">Know when you are mentioned in groups</string>
     <string name="NotificationsPermissionAlert3">Mute specific chats and types of chats</string>
     <string name="NotificationsPermissionContinue">Continue</string>
+    <string name="NotificationsPermissionSettings">Open Settings</string>
     <string name="YourContacts">Your contacts on Telegram</string>
     <string name="ConnectingYourContacts">Connecting your contacts...</string>
     <string name="ArchiveHintHeader1">This is your Archive</string>
@@ -1310,6 +1311,7 @@
     <string name="DeleteForUser">Also delete for %1$s</string>
     <string name="DeleteForAll">Delete for all members</string>
     <string name="TextCopied">Text copied to clipboard.</string>
+    
     <string name="CodeCopied">Code copied to clipboard</string>
     <string name="HoldToAudioOnly">Hold to record audio.</string>
     <string name="HoldToAudio">Hold to record audio. Tap to switch to video.</string>
@@ -3717,6 +3719,7 @@
     <string name="AreYouSureDeleteFewMessagesMega">Are you sure you want to delete these messages for everyone?</string>
     <string name="DeleteMessagesOption">Unsend My Messages</string>
     <string name="DeleteMessagesOptionAlso">Also delete for %1$s</string>
+    
     <string name="ClearHistoryOptionAlso">Also clear history for %1$s</string>
     <string name="SendMessageTitle">Send message</string>
     <string name="SendMessagesToGroupText">Do you want to send this message to **%1$s**?</string>
@@ -3783,7 +3786,8 @@
     <string name="PermissionDrawAboveOtherApps">Telegram needs access to draw above other apps to play videos in Picture-in-Picture mode.</string>
     <string name="PermissionDrawAboveOtherAppsGroupCall">Overlay mode lets you use push-to-talk and see who is talking even when you are outside of Telegram.</string>
     <string name="PermissionOpenSettings">Settings</string>
-    <string name="PermissionXiaomiLockscreen">Please allow Telegram to be shown on the lock screen so that calls can work properly.</string>
+    <string name="PermissionXiaomiLockscreen">Please allow Telegram to be shown on the lock screen so that you can receive calls when your device is locked.</string>
+    <string name="PermissionFSILockscreen">Please allow Telegram to be shown on the lock screen so that you can receive calls when your device is locked.</string>
     <string name="PermissionBackgroundLocation">To share your live location in this chat, Telegram needs access to your location all the time, including while the app is in the background.\n\nWe will access your location only for the duration you choose, and you can stop sharing it any time. We won\'t use your location for any purpose other than sharing it in this chat.</string>
     <string name="PermissionDrawAboveOtherAppsTitle">Picture-in-Picture</string>
     <string name="PermissionDrawAboveOtherAppsGroupCallTitle">Video chat overlay</string>
@@ -6093,6 +6097,8 @@
     <string name="StorySavedSubtitle">Posted stories can be viewed by others on your profile until you remove them.</string>
     <string name="StoryArchived_one">%d story removed from your profile</string>
     <string name="StoryArchived_other">%d stories removed from your profile</string>
+    
+    
     <string name="OpenLink">Open Link</string>
     <string name="StorySharedToEveryone">This story is now shown to everyone.</string>
     <string name="StorySharedToCloseFriends">This story is now shown to your close friends.</string>
@@ -6447,7 +6453,6 @@ list of reactions.</string>
     <string name="BoostingBoostsCountTitle_other">%d boosts</string>
     <string name="BoostingSubscriptionsCountPlural_one">%2$s subscription</string>
     <string name="BoostingSubscriptionsCountPlural_other">%2$s subscriptions</string>
-    <string name="BoostingStarsPrepaidGiveawayTitle">Prepaid giveaway</string>
     <string name="BoostingStarsCountPlural_one">%1$d Star</string>
     <string name="BoostingStarsCountPlural_other">%1$d Stars</string>
     <string name="BoostingTelegramPremiumCountPlural_one">%1$d Telegram Premium</string>
@@ -7957,7 +7962,8 @@ list of reactions.</string>
     <string name="StarsSubscriptionExpiredInfo">Your subscription expired on %s.</string>
     <string name="StarsSubscriptionRefulfill">Join Channel</string>
     <string name="StarsSubscriptionRefulfillInfo">You left the channel, but can still return until %s.</string>
-    <string name="StarsSubscriptionExpiredHintTitle">&#11088;&#65039;%1$d Stars needed for %2$s</string>
+    <string name="StarsSubscriptionExpiredHintTitle2_one">&#11088;&#65039;%1$d Star needed for %2$s</string>
+    <string name="StarsSubscriptionExpiredHintTitle2_other">&#11088;&#65039;%1$d Stars needed for %2$s</string>
     <string name="StarsSubscriptionExpiredHintText">Insufficient funds to cover your subscription.</string>
     <string name="StarsParticipantSubscription">Subscriber</string>
     <string name="StarsParticipantSubscriptionApproxMonth">appx. %1$s per month</string>
@@ -7970,7 +7976,7 @@ list of reactions.</string>
     <string name="StarsSentText_one">You reacted with **%d** star.</string>
     <string name="StarsSentText_other">You reacted with **%d** stars.</string>
     <string name="StarsSentUndo">Undo</string>
-    <string name="StarsReactionTitle">Star Reaction</string>
+    <string name="StarsReactionTitle">React with Stars</string>
     <string name="StarsReactionText">Choose how many Stars you want to send to **%s** to support this post.</string>
     <string name="StarsReactionTextSent_one">You sent **%1$d** Star to support this post.</string>
     <string name="StarsReactionTextSent_other">You sent **%1$d** Stars to support this post.</string>
@@ -8014,6 +8020,30 @@ list of reactions.</string>
     <string name="BoostReasonGiveaway">Giveaway</string>
     <string name="BoostDate">Date</string>
     <string name="BoostUntil">Until</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
   <!-- new from translations.telegram.org -->
 
@@ -8691,6 +8721,7 @@ list of reactions.</string>
   <string name="BoostingStarsGiveawayServiceWinnersSelected_two">%1$d winners of the giveaway were randomly selected by Telegram.</string>
   <string name="BoostingStarsGiveawayServiceWinnersSelected_few">%1$d winners of the giveaway were randomly selected by Telegram.</string>
   <string name="BoostingStarsGiveawayServiceWinnersSelected_many">%1$d winners of the giveaway were randomly selected by Telegram.</string>
+  <string name="BoostingStarsPrepaidGiveawayTitle">Prepaid giveaway</string>
   <string name="BoostingStarsPreparedGiveawaySubscriptionsPlural_zero">%1$d stars</string>
   <string name="BoostingStarsPreparedGiveawaySubscriptionsPlural_two">%1$d stars</string>
   <string name="BoostingStarsPreparedGiveawaySubscriptionsPlural_few">%1$d stars</string>
@@ -10239,6 +10270,11 @@ list of reactions.</string>
   <string name="StarsSubscriptionCompletedText_two">%1$d Stars transferred to **%2$s**.</string>
   <string name="StarsSubscriptionCompletedText_few">%1$d Stars transferred to **%2$s**.</string>
   <string name="StarsSubscriptionCompletedText_many">%1$d Stars transferred to **%2$s**.</string>
+  <string name="StarsSubscriptionExpiredHintTitle">&#11088;&#65039;%1$d Stars needed for %2$s</string>
+  <string name="StarsSubscriptionExpiredHintTitle2_zero">&#11088;&#65039;%1$d Stars needed for %2$s</string>
+  <string name="StarsSubscriptionExpiredHintTitle2_two">&#11088;&#65039;%1$d Stars needed for %2$s</string>
+  <string name="StarsSubscriptionExpiredHintTitle2_few">&#11088;&#65039;%1$d Stars needed for %2$s</string>
+  <string name="StarsSubscriptionExpiredHintTitle2_many">&#11088;&#65039;%1$d Stars needed for %2$s</string>
   <string name="StartVoipChannelAlertText">Do you want to start a live stream in this channel?</string>
   <string name="StartVoipChatAlertText">Start a video chat in this group?</string>
   <string name="StealthMode">Stealth Mode</string>

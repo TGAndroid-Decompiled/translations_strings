@@ -469,7 +469,7 @@
 "Rtmp.MediaViewer.Menu.EndLiveStream" = "End Live Stream";
 "Rtmp.StreamPopup.Title" = "Stream With...";
 "Rtmp.StreamPopup.TitleSettings" = "Stream Settings";
-"Rtmp.StreamPopup.Description" = "To stream video with another app, enter these Server URL and Stream Key in your streaming app. Software encoding recommended (x264 in OBS).";
+"Rtmp.StreamPopup.Description" = "To stream video with another app, enter this Server URL and Stream Key in your streaming app. Software encoding recommended (x264 in OBS).";
 "Rtmp.StreamPopup.ServerURL" = "Server URL";
 "Rtmp.StreamPopup.StreamKey" = "Stream Key";
 "Rtmp.StreamPopup.Hint" = "Once you start broadcasting in your streaming app, click Start Streaming below.";

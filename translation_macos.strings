@@ -6814,7 +6814,7 @@
 
 
 "VoiceChat.RTMP.Title" = "Stream With...";
-"VoiceChat.RTMP.Info" = "To stream video with another app, enter these Server URL and Stream Key in your streaming app.";
+"VoiceChat.RTMP.Info" = "To stream video with another app, enter this Server URL and Stream Key in your streaming app.";
 "VoiceChat.RTMP.ServerURL" = "server URL";
 "VoiceChat.RTMP.StreamKey" = "stream key";
 "VoiceChat.RTMP.Desc" = "Software encoding recommended (x264 in OBS).";

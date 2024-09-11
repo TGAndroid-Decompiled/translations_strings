@@ -1121,7 +1121,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 
 "lng_settings_need_restart" = "You need to restart for applying some of the new settings. Restart now?";
 "lng_settings_restart_now" = "Restart";
-
+"lng_settings_restart_later" = "Later";
 
 "lng_sessions_header" = "This device";
 "lng_sessions_other_header" = "Active Devices";
@@ -4200,7 +4200,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_group_call_rtmp_key_copy" = "Copy Stream Key";
 "lng_group_call_rtmp_key_copied" = "Stream Key copied to clipboard.";
 "lng_group_call_rtmp_key_warning" = "**Never share your Stream Key with anyone or show it on stream!**";
-"lng_group_call_rtmp_info" = "To stream video with another app, enter these Server URL and Stream Key in your streaming app. Software encoding recommended (x264 in OBS).\n\nOnce you start broadcasting in your streaming app, click Start Streaming below.";
+"lng_group_call_rtmp_info" = "To stream video with another app, enter this Server URL and Stream Key in your streaming app. Software encoding recommended (x264 in OBS).\n\nOnce you start broadcasting in your streaming app, click Start Streaming below.";
 "lng_group_call_rtmp_start" = "Start Streaming";
 "lng_group_call_rtmp_revoke" = "Revoke Stream Key";
 "lng_group_call_rtmp_revoke_sure" = "Are you sure you want to revoke your Stream Key?";
