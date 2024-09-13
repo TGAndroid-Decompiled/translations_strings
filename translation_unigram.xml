@@ -1888,7 +1888,10 @@
     
     
     <string name="CreateNewContact">Create New Contact</string>
-    
+    <string name="NewContact">New Contact</string>
+    <string name="NewContactTitle">New Contact</string>
+    <string name="NewMessageTitle">New Message</string>
+
     
     <string name="UserBio">Bio</string>
     
@@ -10467,4 +10470,8 @@
   <string name="StarsReactionTextSent_two">You sent **{0}** Stars to support this post.</string>
   <string name="StarsReactionTextSent_few">You sent **{0}** Stars to support this post.</string>
   <string name="StarsReactionTextSent_many">You sent **{0}** Stars to support this post.</string>
+
+  <string name="formatterBoostExpired">MMM dd, yyyy</string>
+  <string name="formatterMonth">MMM dd</string>
+
 </resources>
