@@ -508,6 +508,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_alert_linux" = "Draw attention to the window";
 "lng_settings_badge_title" = "Badge counter";
 "lng_settings_include_muted" = "Include muted chats in unread count";
+"lng_settings_include_muted_folders" = "Include muted chats in folder counters";
 "lng_settings_count_unread" = "Count unread messages";
 "lng_settings_events_title" = "Events";
 "lng_settings_events_joined" = "Contact joined Telegram";
@@ -4226,7 +4227,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_rights_edit_admin_rank_about" = "A title that members will see instead of '{title}'.";
 "lng_rights_about_add_admins_yes" = "This admin will be able to add new admins with equal or fewer rights.";
 "lng_rights_about_add_admins_no" = "This admin will not be able to add new admins.";
-"lng_rights_about_by" = "This admin promoted by {user} at {date}.";
+"lng_rights_about_by" = "Promoted by {user} at {date}.";
 
 "lng_rights_about_admin_cant_edit" = "You can't edit the rights of this admin.";
 "lng_rights_about_restriction_cant_edit" = "You cannot change the restrictions for this user.";
