@@ -4388,9 +4388,11 @@
     
     
     
-    
+    <string name="VoipMyMicrophoneIsOff">Your microphone is off</string>
+    <string name="VoipMyCameraIsOff">Your camera is off</string>
     <string name="VoipUserMicrophoneIsOff">{0}\'s microphone is off</string>
     <string name="VoipUserCameraIsOff">{0}\'s camera is off</string>
+    <string name="VoipUserBatteryIsLow">{0}\'s battery level is low</string>
     <string name="AcceptCall">Accept</string>
     <string name="DeclineCall">Decline</string>
     
@@ -10474,4 +10476,33 @@
   <string name="formatterBoostExpired">MMM dd, yyyy</string>
   <string name="formatterMonth">MMM dd</string>
 
+  <string name="VoipHintEncryptionKey">Encryption key of this call</string>
+  <string name="VoipWeakNetwork">Weak network signal</string>
+
+  <string name="VoipCallEncryptionEndToEnd">This call is end-to-end encrypted</string>
+
+  <string name="VoipCallEnded2">Call Ended</string>
+  <string name="VoipCallFailed2">Call Failed</string>
+  <string name="VoipScreen2">screen</string>
+  <string name="VoipVideo2">video</string>
+  <string name="VoipMute2">mute</string>
+  <string name="VoipEnd2">end</string>
+  <string name="VoipSettings">settings</string>
+  <string name="VoipMaximize">maximize</string>
+  <string name="VoipMinimize">minimize</string>
+
+  <!--<string name="VoipScreencastUnsupportedTitle">Bla bla bla</string>
+  <string name="VoipScreencastUnsupported">Bla bla bla</string>-->
+
+  <string name="ViewersWatchingNobody">Nobody watching</string>
+  <string name="ViewersWatching_one">{0} viewer</string>
+  <string name="ViewersWatching_other">{0} viewers</string>
+
+
+  <!-- new from translations.telegram.org -->
+
+  <string name="ViewersWatching_zero">{0} viewers</string>
+  <string name="ViewersWatching_two">{0} viewers</string>
+  <string name="ViewersWatching_few">{0} viewers</string>
+  <string name="ViewersWatching_many">{0} viewers</string>
 </resources>
