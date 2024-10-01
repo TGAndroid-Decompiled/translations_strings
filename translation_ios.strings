@@ -11683,11 +11683,11 @@ Sorry for the inconvenience.";
 "ChatList.AddBirthdayText" = "Let your contacts know when you're celebrating.";
 
 "ChatList.BirthdaySingleTitle" = "It's %@'s **birthday** today! 🎂";
-"ChatList.BirthdaySingleText" = "Gift them Telegram Premium.";
+"ChatList.BirthdaySingleText" = "Send them a Gift.";
 
 "ChatList.BirthdayMultipleTitle_1" = "%@ contact has a **birthday** today! 🎂";
 "ChatList.BirthdayMultipleTitle_any" = "%@ contacts have **birthdays** today! 🎂";
-"ChatList.BirthdayMultipleText" = "Gift them Telegram Premium.";
+"ChatList.BirthdayMultipleText" = "Send them a Gift.";
 
 "ChatList.BirthdayInSettingsInfo" = "You can always set your birthday in **Settings**.";
 
