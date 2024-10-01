@@ -10505,4 +10505,160 @@
   <string name="ViewersWatching_two">{0} viewers</string>
   <string name="ViewersWatching_few">{0} viewers</string>
   <string name="ViewersWatching_many">{0} viewers</string>
+
+  <string name="VerifyChatInfo">This chat is used to receive verification codes from third-party services.</string>
+  <string name="VerifyCodesNotifications">Verification Codes</string>
+
+  <string name="Gift2TransactionConverted">Converted Gift</string>
+  <string name="Gift2TransactionRefundedConverted">Refunded Converted Gift</string>
+  <string name="Gift2TransactionRefundedSent">Refunded Sent Gift</string>
+  <string name="Gift2TransactionSent">Gift</string>
+
+  <string name="Gift2Availability">Availability</string>
+  <string name="Gift2AvailabilityValue">{0} of {1} left</string>
+  <string name="Gift2AvailabilityValueNone">None of {0} left</string>
+
+  <string name="ActionGift2Received">You received a gift for **un2**</string>
+
+  <string name="Gift2From">From</string>
+  <string name="Gift2To">To</string>
+
+  <string name="Gift2TitleReceived">Received Gift</string>
+  <string name="Gift2TitleSent">Sent Gift</string>
+
+  <string name="Gift2InfoConverted_one">You converted this gift to **{0}** Star.</string>
+  <string name="Gift2InfoConverted_other">You converted this gift to **{0}** Stars.</string>
+  <string name="Gift2InfoOut_one">{1} can keep this gift in profile or convert it to **{0}** Star.</string>
+  <string name="Gift2InfoOut_other">{1} can keep this gift in profile or convert it to **{0}** Stars.</string>
+  <string name="Gift2InfoPinned">You kept this gift in your Profile.</string>
+  <string name="Gift2Info_one">You can keep this gift in your Profile or convert it to **{0}** Star.</string>
+  <string name="Gift2Info_other">You can keep this gift in your Profile or convert it to **{0}** Stars.</string>
+
+  <string name="Gift2ActionTitle">Gift from</string>
+  <string name="Gift2ActionTitleAnonymous">You received a gift!</string>
+  <string name="Gift2ActionTitleInAnonymous">{0} received a gift!</string>
+  <string name="Gift2ActionConvertedInfo_one">You converted this gift to {0} Star.</string>
+  <string name="Gift2ActionConvertedInfo_other">You converted this gift to {0} Stars.</string>
+  <string name="Gift2ActionInfo_one">Display this gift on your page or convert it to {0} Star.</string>
+  <string name="Gift2ActionInfo_other">Display this gift on your page or convert it to {0} Stars.</string>
+  <string name="Gift2ActionOutInfo_one">**{1}** can display this gift on their page or convert it to {0} Star.</string>
+  <string name="Gift2ActionOutInfo_other">**{1}** can display this gift on their page or convert it to {0} Stars.</string>
+  <string name="Gift2ActionSavedInfo">You kept this gift on your page.</string>
+  <string name="Gift2Limited1OfRibbon">1 of {0}</string>
+  <string name="Gift2LimitedRibbon">limited</string>
+  <string name="Gift2ToBalance_one">Convert to {0} Star</string>
+  <string name="Gift2ToBalance_other">Convert to {0} Stars</string>
+
+  <string name="Gift2ConvertText">Do you want to convert this gift from **{0}** to **{1}**?\n\nThis action cannot be undone.</string>
+  <string name="Gift2ConvertTitle">Convert Gift to Stars</string>
+  <string name="Gift2ConvertButton">Convert</string>
+  <string name="Gift2ConvertedTitle">Converted Gift</string>
+  <string name="Gift2Converted_one">{0} Star was sent to your balance</string>
+  <string name="Gift2Converted_other">{0} Star were sent to your balance</string>
+
+  <string name="ProfileGifts">Gifts</string>
+
+  <string name="StarsTransactionHidden">Hidden User</string>
+
+  <string name="Gift2ProfileInvisible">This gift is hidden. Only you can see it.</string>
+  <string name="Gift2ProfileMakeInvisible">Hide from my Page</string>
+  <string name="Gift2ProfileMakeVisible">Display on my Page</string>
+  <string name="Gift2ProfileVisible">This gift is visible to visitors of your page.</string>
+  <string name="Gift2MadePrivate">Gift is now hidden in your profile</string>
+  <string name="Gift2MadePrivateTitle">Gift Hidden</string>
+  <string name="Gift2MadePublic">Gift is now visible in your profile</string>
+  <string name="Gift2MadePublicTitle">Gift Shown</string>
+
+  <string name="Gift2TabAll">All Gifts</string>
+  <string name="Gift2TabLimited">Limited</string>
+
+  <string name="GiftMonths_one">{0}-month</string>
+  <string name="GiftMonths_other">{0}-months</string>
+  <string name="TelegramPremiumShort">Premium</string>
+
+  <string name="Gift2Premium">Gift Premium</string>
+  <string name="Gift2PremiumInfo">Give **{0}** access to exclusive features with Telegram Premium.</string>
+  <string name="Gift2PremiumInfoLink">See Features &gt;</string>
+
+  <string name="Gift2Stars">Gift Stars</string>
+  <string name="Gift2StarsInfo">Give **{0}** gifts that can be kept on the profile or converted to Stars.</string>
+  <string name="Gift2StarsInfoLink">What are Stars &gt;</string>
+
+  <string name="Gift2Title">Send a Gift</string>
+  <string name="Gift2Message">Enter Message</string>
+  <string name="Gift2Hide">Hide My Name</string>
+  <string name="Gift2HideInfo">You can hide your name and message from visitors to {0}`s profile. {0} will still see your name and message.</string>
+
+  <string name="Gift2Send_one">Send a Gift for &#11088;&#65039; {0}</string>
+  <string name="Gift2Send_other">Send a Gift for &#11088;&#65039; {0}</string>
+
+  <string name="SendAGift">Send a Gift</string>
+
+  <string name="Report2">Report</string>
+  <string name="Report2Comment">Add Comment</string>
+  <string name="Report2CommentInfo">Please help us by telling what is wrong with the message you have selected.</string>
+  <string name="Report2CommentInfoChannel">Please help us by telling what is wrong with the channel you have selected.</string>
+  <string name="Report2CommentInfoGroup">Please help us by telling what is wrong with the group you have selected.</string>
+  <string name="Report2CommentInfoUser">Please help us by telling what is wrong with the user you have selected.</string>
+  <string name="Report2CommentOptional">Add Comment (Optional)</string>
+  <string name="Report2Send">Send Report</string>
+  <string name="ReportMessages">Report Messages</string>
+  <string name="ReportMessagesCount">Report {0}</string>
+
+  <string name="Quality">Quality</string>
+  <string name="QualityAuto">Auto</string>
+
+  <string name="StarsGiftCompleted">Gift sent!</string>
+  <string name="StarsGiftCompletedText_one">You spent **{0}** Star from your balance.</string>
+  <string name="StarsGiftCompletedText_other">You spent **{0}** Stars from your balance.</string>
+
+  <string name="NoContactsYet">You have no contacts on Telegram yet</string>
+
+
+  <!-- new from translations.telegram.org -->
+
+  <string name="Gift2ActionConvertedInfo_zero">You converted this gift to {0} Stars.</string>
+  <string name="Gift2ActionConvertedInfo_two">You converted this gift to {0} Stars.</string>
+  <string name="Gift2ActionConvertedInfo_few">You converted this gift to {0} Stars.</string>
+  <string name="Gift2ActionConvertedInfo_many">You converted this gift to {0} Stars.</string>
+  <string name="Gift2ActionInfo_zero">Display this gift on your page or convert it to {0} Stars.</string>
+  <string name="Gift2ActionInfo_two">Display this gift on your page or convert it to {0} Stars.</string>
+  <string name="Gift2ActionInfo_few">Display this gift on your page or convert it to {0} Stars.</string>
+  <string name="Gift2ActionInfo_many">Display this gift on your page or convert it to {0} Stars.</string>
+  <string name="Gift2ActionOutInfo_zero">**{1}** can display this gift on their page or convert it to {0} Stars.</string>
+  <string name="Gift2ActionOutInfo_two">**{1}** can display this gift on their page or convert it to {0} Stars.</string>
+  <string name="Gift2ActionOutInfo_few">**{1}** can display this gift on their page or convert it to {0} Stars.</string>
+  <string name="Gift2ActionOutInfo_many">**{1}** can display this gift on their page or convert it to {0} Stars.</string>
+  <string name="Gift2Converted_zero">{0} Star were sent to your balance</string>
+  <string name="Gift2Converted_two">{0} Star were sent to your balance</string>
+  <string name="Gift2Converted_few">{0} Star were sent to your balance</string>
+  <string name="Gift2Converted_many">{0} Star were sent to your balance</string>
+  <string name="Gift2Info_zero">You can keep this gift in your Profile or convert it to **{0}** Stars.</string>
+  <string name="Gift2Info_two">You can keep this gift in your Profile or convert it to **{0}** Stars.</string>
+  <string name="Gift2Info_few">You can keep this gift in your Profile or convert it to **{0}** Stars.</string>
+  <string name="Gift2Info_many">You can keep this gift in your Profile or convert it to **{0}** Stars.</string>
+  <string name="Gift2InfoConverted_zero">You converted this gift to **{0}** Stars.</string>
+  <string name="Gift2InfoConverted_two">You converted this gift to **{0}** Stars.</string>
+  <string name="Gift2InfoConverted_few">You converted this gift to **{0}** Stars.</string>
+  <string name="Gift2InfoConverted_many">You converted this gift to **{0}** Stars.</string>
+  <string name="Gift2InfoOut_zero">{1} can keep this gift in profile or convert it to **{0}** Stars.</string>
+  <string name="Gift2InfoOut_two">{1} can keep this gift in profile or convert it to **{0}** Stars.</string>
+  <string name="Gift2InfoOut_few">{1} can keep this gift in profile or convert it to **{0}** Stars.</string>
+  <string name="Gift2InfoOut_many">{1} can keep this gift in profile or convert it to **{0}** Stars.</string>
+  <string name="Gift2Send_zero">Send a Gift for &#11088;&#65039; {0}</string>
+  <string name="Gift2Send_two">Send a Gift for &#11088;&#65039; {0}</string>
+  <string name="Gift2Send_few">Send a Gift for &#11088;&#65039; {0}</string>
+  <string name="Gift2Send_many">Send a Gift for &#11088;&#65039; {0}</string>
+  <string name="Gift2ToBalance_zero">Convert to {0} Stars</string>
+  <string name="Gift2ToBalance_two">Convert to {0} Stars</string>
+  <string name="Gift2ToBalance_few">Convert to {0} Stars</string>
+  <string name="Gift2ToBalance_many">Convert to {0} Stars</string>
+  <string name="GiftMonths_zero">{0}-months</string>
+  <string name="GiftMonths_two">{0}-months</string>
+  <string name="GiftMonths_few">{0}-months</string>
+  <string name="GiftMonths_many">{0}-months</string>
+  <string name="StarsGiftCompletedText_zero">You spent **{0}** Stars from your balance.</string>
+  <string name="StarsGiftCompletedText_two">You spent **{0}** Stars from your balance.</string>
+  <string name="StarsGiftCompletedText_few">You spent **{0}** Stars from your balance.</string>
+  <string name="StarsGiftCompletedText_many">You spent **{0}** Stars from your balance.</string>
 </resources>
