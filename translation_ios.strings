@@ -12953,8 +12953,8 @@ Sorry for the inconvenience.";
 "Stars.Info.Description" = "Telegram Stars allow users to:";
 "Stars.Info.Gift.Title" = "Send Gifts to Friends";
 "Stars.Info.Gift.Text" = "Give your friends gifts that can be kept on their profiles or converted to Stars.";
-"Stars.Info.Miniapp.Title" = "Use Stars in Miniapps";
-"Stars.Info.Miniapp.Text" = "Buy additional content and services in Telegram miniapps. [See Examples >]()";
+"Stars.Info.Miniapp.Title" = "Use Stars in Mini Apps";
+"Stars.Info.Miniapp.Text" = "Buy additional content and services in Telegram mini apps. [See Examples >]()";
 "Stars.Info.Media.Title" = "Unlock Content in Channels";
 "Stars.Info.Media.Text" = "Get access to paid content and services in Telegram channels.";
 "Stars.Info.Reaction.Title" = "Send Star Reactions";
@@ -12976,6 +12976,7 @@ Sorry for the inconvenience.";
 "Gift.View.HiddenName" = "Hidden Name";
 "Gift.View.Date" = "Date";
 "Gift.View.Availability" = "Availability";
+"Gift.View.Availability.Of" = "%1$@ of %2$@";
 "Gift.View.Hide" = "Hide from My Page";
 "Gift.View.Display" = "Display on My Page";
 "Gift.View.Convert" = "Convert to %@";
@@ -13033,6 +13034,7 @@ Sorry for the inconvenience.";
 "Gift.Send.Title" = "Send a Gift";
 "Gift.Send.Customize.Title" = "CUSTOMIZE YOUR GIFT";
 "Gift.Send.Customize.MessagePlaceholder" = "Enter Message";
+
 "Gift.Send.HideMyName" = "Hide My Name";
 "Gift.Send.HideMyName.Info" = "Hide my name and message from visitors to %1$@'s profile. %2$@ will still see your name and message.";
 "Gift.Send.Send" = "Send a Gift for";
@@ -13051,6 +13053,17 @@ Sorry for the inconvenience.";
 "Report.Comment.Placeholder.Optional" = "Add Comment (Optional)";
 "Report.Comment.Info" = "Please help us by telling what is wrong with the message you have selected.";
 "Report.Send" = "Send Report";
+
+
+
+
+
+
+
+
+
+"Notification.StarsGift.Stars_1" = "%@ Star";
+"Notification.StarsGift.Stars_any" = "%@ Stars";
 
 
 /* new from translations.telegram.org */
@@ -14069,6 +14082,10 @@ Sorry for the inconvenience.";
 "Notification.StarGift.Subtitle.Stars_2" = "%@ Stars";
 "Notification.StarGift.Subtitle.Stars_3_10" = "%@ Stars";
 "Notification.StarGift.Subtitle.Stars_many" = "%@ Stars";
+"Notification.StarsGift.Stars_0" = "%@ Stars";
+"Notification.StarsGift.Stars_2" = "%@ Stars";
+"Notification.StarsGift.Stars_3_10" = "%@ Stars";
+"Notification.StarsGift.Stars_many" = "%@ Stars";
 "Notification.StarsGift.Title_0" = "%@ Stars";
 "Notification.StarsGift.Title_2" = "%@ Stars";
 "Notification.StarsGift.Title_3_10" = "%@ Stars";

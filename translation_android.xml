@@ -537,8 +537,9 @@
     <string name="ActionCreateChannel">Channel created</string>
     <string name="ActionGiftInbound">un1 sent you a gift for **un2**</string>
     <string name="ActionGiftOutbound">You have sent a gift for **un2**</string>
-    <string name="ActionGiftPremiumTitle">Telegram Premium</string>
-    <string name="ActionGiftPremiumSubtitle">for %1$s</string>
+    
+    
+    
     <string name="ActionGiftPremiumView">View</string>
     <string name="ActionStarGiveawayPrizeTitle">Congratulations!</string>
     <string name="ActionStarGiveawayPrize_one">You won a prize in a giveaway organized by **un1**.\n\nYour prize is **%d Star**.</string>
@@ -4396,6 +4397,8 @@
     <string name="Months_other">%1$d months</string>
     <string name="GiftMonths_one">%1$d-month</string>
     <string name="GiftMonths_other">%1$d-months</string>
+    <string name="Gift2Months_one">%1$d-month</string>
+    <string name="Gift2Months_other">%1$d-months</string>
     <string name="PrepaidGiveawayMonths_one">%1$d-month</string>
     <string name="PrepaidGiveawayMonths_other">%1$d-month</string>
     <string name="BoldMonths_one">**%1$d** month</string>
@@ -7630,7 +7633,7 @@ list of reactions.</string>
     <string name="SensitiveContentSettingsToast">You can update the visibility of sensitive media in **Chat Settings &gt; Show 18+ Content**</string>
     <string name="MenuTelegramStars">My Stars</string>
     <string name="TelegramStars">Telegram Stars</string>
-    <string name="TelegramStarsInfo2">Buy Stars to unlock content and services\nin miniapps on Telegram. **More about Stars &gt;**</string>
+    <string name="TelegramStarsInfo2">Buy Stars to unlock content and services\nin mini apps on Telegram. **More about Stars &gt;**</string>
     <string name="TelegramStarsChoose">Choose package</string>
     <string name="TelegramStarsGift">Gift Stars to Friends</string>
     <string name="StarsCount_one">%d Star</string>
@@ -7664,7 +7667,7 @@ list of reactions.</string>
     <string name="StarsConfirmPurchaseButton_other">Confirm and Pay &#11088;&#65039; %d Stars</string>
     <string name="StarsNeededTitle_one">%d Star Needed</string>
     <string name="StarsNeededTitle_other">%d Stars Needed</string>
-    <string name="StarsNeededText">Buy **Stars** and use them on **%s** and other miniapps.</string>
+    <string name="StarsNeededText">Buy **Stars** and use them in **%s** and other mini apps.</string>
     <string name="StarsNeededTextBuySubscription">Buy **Stars** and subscribe to **%s** and other channels.</string>
     <string name="StarsNeededTextKeepSubscription">Buy **Stars** to keep your subscription to **%s**.</string>
     <string name="StarsNeededTextReactions">Buy **Stars** to send paid reactions to **%s** and other channels.</string>
@@ -7909,7 +7912,7 @@ list of reactions.</string>
     <string name="BrowserSettingsCookiesClear">Clear Cookies</string>
     <string name="BrowserSettingsCacheClearText">Are you sure you want to clear browser cache%s?</string>
     <string name="BrowserSettingsCookiesClearText">Are you sure you want to clear browser cookies%s?\n\nThis may log you out from some websites.</string>
-    <string name="BrowserSettingsCookiesInfo">Delete all cookies and cache from the Telegram in-app browser and miniapps.</string>
+    <string name="BrowserSettingsCookiesInfo">Delete all cookies and cache from the Telegram in-app browser and mini apps.</string>
     <string name="BrowserSettingsHistoryShow">View History</string>
     <string name="BrowserSettingsHistoryClear">Clear History</string>
     <string name="BrowserSettingsHistoryPages_one">%d page</string>
@@ -8070,8 +8073,8 @@ list of reactions.</string>
     <string name="Gift2ActionConvertedInfo_other">You converted this gift to %d Stars.</string>
     <string name="Gift2ActionOutInfo_one">**%2$s** can display this gift on their page or convert it to %1$d Star.</string>
     <string name="Gift2ActionOutInfo_other">**%2$s** can display this gift on their page or convert it to %1$d Stars.</string>
-    
-    
+    <string name="Gift2StarsCount_one">%d Star</string>
+    <string name="Gift2StarsCount_other">%d Stars</string>
     <string name="ProfileGifts">Gifts</string>
     <string name="ProfileGiftsInfo">These gifts were sent to you by other users.\nTap on a gift to convert it to Stars or change its privacy settings.</string>
     <string name="ProfileGiftsCount_one">%d gift</string>
@@ -8081,7 +8084,6 @@ list of reactions.</string>
     <string name="Gift2TabLimited">Limited</string>
     <string name="Gift2LimitedRibbon">limited</string>
     <string name="Gift2Limited1OfRibbon">1 of %s</string>
-    <string name="ActionGift2Received">You received a gift for **un2**</string>
     <string name="StarsGiftCompleted">Gift sent!</string>
     <string name="StarsGiftCompletedText_one">You spent **%1$d** Star from your balance.</string>
     <string name="StarsGiftCompletedText_other">You spent **%1$d** Stars from your balance.</string>
@@ -8098,7 +8100,7 @@ list of reactions.</string>
     <string name="Gift2InfoPinned">You kept this gift in your Profile.</string>
     <string name="Gift2InfoOutConverted_one">%2$s converted this gift to **%d** Star.</string>
     <string name="Gift2InfoOutConverted_other">%2$s converted this gift to **%d** Stars.</string>
-    <string name="Gift2InfoOutPinned">%1$s kept this gift in your Profile.</string>
+    <string name="Gift2InfoOutPinned">%1$s kept this gift in their Profile.</string>
     <string name="Gift2SenderHidden">Only you can see the senderʼs name.</string>
     <string name="Gift2ProfileVisible">This gift is visible to visitors of your page.</string>
     <string name="Gift2ProfileInvisible">This gift is hidden. Only you can see it.</string>
@@ -8106,10 +8108,9 @@ list of reactions.</string>
     <string name="Gift2From">From</string>
     <string name="Gift2To">To</string>
     <string name="Gift2Availability">Availability</string>
-    <string name="Gift2Availability2Value">%1$s of %2$s left</string>
+    <string name="Gift2Availability3Value">%1$d of %2$s left</string>
     <string name="Gift2Availability2ValueNone_one">None of %1$d left</string>
     <string name="Gift2Availability2ValueNone_other">None of %1$d left</string>
-    
     <string name="Gift2ProfileMakeVisible">Display on my Page</string>
     <string name="Gift2ProfileMakeInvisible">Hide from my Page</string>
     <string name="Gift2ToBalance_one">Convert to %d Star</string>
@@ -8123,8 +8124,8 @@ list of reactions.</string>
     <string name="ExplainStarsTitle2">Telegram Stars allow users to:</string>
     <string name="ExplainStarsFeature1Title">Send Gifts to Friends</string>
     <string name="ExplainStarsFeature1Text">Give your friends gifts that can be kept on their profiles or converted to Stars.</string>
-    <string name="ExplainStarsFeature2Title">Use Stars in miniapps</string>
-    <string name="ExplainStarsFeature2Text">Buy additional content and services in Telegram miniapps. **See Examples &gt;**</string>
+    <string name="ExplainStarsFeature2Title">Use Stars in mini apps</string>
+    <string name="ExplainStarsFeature2Text">Buy additional content and services in Telegram mini apps. **See Examples &gt;**</string>
     <string name="ExplainStarsFeature3Title">Unlock content in channels</string>
     <string name="ExplainStarsFeature3Text">Get access to paid content and services in Telegram channels.</string>
     <string name="ExplainStarsFeature4Title">Send Star reactions</string>
@@ -8205,6 +8206,9 @@ list of reactions.</string>
   <string name="ActionDeletedInviteLink">un1 deleted the invite link %1$s</string>
   <string name="ActionEditedInviteLink">un1 edited invite link %1$s to %2$s</string>
   <string name="ActionEditedInviteLinkToSame">un1 edited invite link %1$s</string>
+  <string name="ActionGift2Received">You received a gift for **un2**</string>
+  <string name="ActionGiftPremiumSubtitle">for %1$s</string>
+  <string name="ActionGiftPremiumTitle">Telegram Premium</string>
   <string name="ActionGiftStarsTitle_zero">%d Stars</string>
   <string name="ActionGiftStarsTitle_two">%d Stars</string>
   <string name="ActionGiftStarsTitle_few">%d Stars</string>
@@ -9439,6 +9443,7 @@ list of reactions.</string>
   <string name="Gift2ActionOutInfo_two">**%2$s** can display this gift on their page or convert it to %1$d Stars.</string>
   <string name="Gift2ActionOutInfo_few">**%2$s** can display this gift on their page or convert it to %1$d Stars.</string>
   <string name="Gift2ActionOutInfo_many">**%2$s** can display this gift on their page or convert it to %1$d Stars.</string>
+  <string name="Gift2Availability2Value">%1$s of %2$s left</string>
   <string name="Gift2Availability2ValueNone_zero">None of %1$d left</string>
   <string name="Gift2Availability2ValueNone_two">None of %1$d left</string>
   <string name="Gift2Availability2ValueNone_few">None of %1$d left</string>
@@ -9467,6 +9472,10 @@ list of reactions.</string>
   <string name="Gift2InfoOutConverted_two">%2$s converted this gift to **%d** Stars.</string>
   <string name="Gift2InfoOutConverted_few">%2$s converted this gift to **%d** Stars.</string>
   <string name="Gift2InfoOutConverted_many">%2$s converted this gift to **%d** Stars.</string>
+  <string name="Gift2Months_zero">%1$d-months</string>
+  <string name="Gift2Months_two">%1$d-months</string>
+  <string name="Gift2Months_few">%1$d-months</string>
+  <string name="Gift2Months_many">%1$d-months</string>
   <string name="Gift2Notification_zero">sent a Gift worth of %d Stars</string>
   <string name="Gift2Notification_two">sent a Gift worth of %d Stars</string>
   <string name="Gift2Notification_few">sent a Gift worth of %d Stars</string>
@@ -9475,6 +9484,10 @@ list of reactions.</string>
   <string name="Gift2Send_two">Send a Gift for &#11088;&#65039;%d</string>
   <string name="Gift2Send_few">Send a Gift for &#11088;&#65039;%d</string>
   <string name="Gift2Send_many">Send a Gift for &#11088;&#65039;%d</string>
+  <string name="Gift2StarsCount_zero">%d Stars</string>
+  <string name="Gift2StarsCount_two">%d Stars</string>
+  <string name="Gift2StarsCount_few">%d Stars</string>
+  <string name="Gift2StarsCount_many">%d Stars</string>
   <string name="Gift2ToBalance_zero">Convert to %d Stars</string>
   <string name="Gift2ToBalance_two">Convert to %d Stars</string>
   <string name="Gift2ToBalance_few">Convert to %d Stars</string>
@@ -10646,7 +10659,7 @@ list of reactions.</string>
   <string name="TelegramPremiumCount">%1$d Telegram Premium</string>
   <string name="TelegramPremiumUserGiftedPremiumDialogTitle">**%1$s** has gifted you a %2$d-month subscription to Telegram Premium.</string>
   <string name="TelegramPremiumUserGiftedPremiumOutboundDialogTitle">You gifted **%1$s** a %2$d-month subscription to Telegram Premium.</string>
-  <string name="TelegramStarsInfo">Buy Stars to unlock content and services\nin miniapps on Telegram.</string>
+  <string name="TelegramStarsInfo">Buy Stars to unlock content and services\nin mini apps on Telegram.</string>
   <string name="TerminateSessionInfo">Tap on a session to terminate.</string>
   <string name="TerminateSessionQuestion">Terminate this session?</string>
   <string name="TerminateWebSessionQuestion">Disconnect %1$s?</string>

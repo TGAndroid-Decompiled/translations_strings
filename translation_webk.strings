@@ -1940,7 +1940,7 @@
 "UserRestrictionsCanDoUsers_one" = "What can %1$s selected user do?";
 "UserRestrictionsCanDoUsers_other" = "What can %1$s selected users do?";
 "TelegramStars" = "Telegram Stars";
-"TelegramStarsInfo" = "Buy Stars to unlock content and service\nin miniapps on Telegram.";
+"TelegramStarsInfo" = "Buy Stars to unlock content and services\nin mini apps on Telegram.";
 "StarsBalance" = "Balance";
 "StarsTransactionsAll" = "All Transactions";
 "StarsTransactionsIncoming" = "Incoming";
@@ -1950,7 +1950,7 @@
 "StarsConfirmPurchaseText_other" = "Do you want to buy \"**%2$s**\" in **%3$s** for **%1$d stars**?";
 "StarsNeededTitle_one" = "%d Star Needed";
 "StarsNeededTitle_other" = "%d Stars Needed";
-"StarsNeededText" = "Buy **Stars** and use them on **%s** and other miniapps.";
+"StarsNeededText" = "Buy **Stars** and use them on **%s** and other mini apps.";
 "MenuTelegramStars" = "My Stars";
 "StarsCount_one" = "%d Star";
 "StarsCount_other" = "%d Stars";

@@ -10272,7 +10272,7 @@
 
 
 "Fragment.AdsInfo.Block.Title" = "Can I Launch an Ad?";
-"Fragment.AdsInfo.Block.Text" = "Anyone can create an ad to display in this channel — with minimal budgets. Check out the Telegram Ad Platform for details. [Learn More >](https://telegram.org)";
+"Fragment.AdsInfo.Block.Text" = "Anyone can create an ad to display in this channel — with minimal budgets. Check out the Telegram Ad Platform for details. [Learn More >](https://ads.telegram.org)";
 
 "Fragment.AdsInfo.Option1.Title" = "Respect Your Privacy";
 "Fragment.AdsInfo.Option1.Info" = "Ads on Telegram do not use your personal information and are based on the channel in which you see them.";
@@ -10444,7 +10444,7 @@
 "Monetization.Withdraw.Error.Text" = "You can only collect rewards if:\n\n• 2-Step Verification was enabled for your account more than 7 days ago.\n\n• You have logged in on this device more than 24 hours ago.\n\nPlease come back later.";
 
 
-"Monetization.Stars.WithdrawInfo" = "You can collect rewards for Stars using Fragment, or use Stars to advertise your bot. [Learn More >](https://telegram.org)";
+"Monetization.Stars.WithdrawInfo" = "You can collect rewards for Stars using Fragment, or use Stars to advertise your bot. [Learn More >](https://telegram.org/tos/bot-developers#6-2-2-tpa-balance)";
 
 "Monetization.Stars.WithdrawTitle" = "STARS BALANCE";
 
@@ -10680,7 +10680,7 @@
 
 "Business.SwitchAd.Title" = "ADS IN CHANNELS";
 "Business.SwitchAd" = "Do Not Hide Ads";
-"Business.SwitchAd.Info" = "As a Premium subscriber, you don't see any ads on Telegram, but you can turn them on, for example, to view your own ads that you launched on the [Telegram Ad Platform >](telegram.org)";
+"Business.SwitchAd.Info" = "As a Premium subscriber, you don't see any ads on Telegram, but you can turn them on, for example, to view your own ads that you launched on the [Telegram Ad Platform >](https://ads.telegram.org)";
 
 
 
@@ -10830,8 +10830,8 @@
 
 "Star.List.GetStars" = "Get Stars";
 "Star.List.HowMany" = "Choose how many Stars you'd like to buy.";
-"Star.List.BuyAndUse" = "Buy Stars and use them on **%@** and other miniapps.";
-"Star.List.BuyAndUser.Nobot" = "Buy Stars to unlock content and services in miniapps on Telegram.";
+"Star.List.BuyAndUse" = "Buy Stars and use them in **%@** and other mini apps.";
+"Star.List.BuyAndUser.Nobot" = "Buy Stars to unlock content and services in mini apps on Telegram.";
 
 "Star.List.Item.Count_countable" = "%d";
 "Star.List.Item.Count_zero" = "%d Stars";
@@ -11114,13 +11114,13 @@
 "Stars.ReactScreen.ShowMeInTop" = "Show Me in Top Senders";
 
 
-"Stars.ReactScreen.Footer" = "By sending Stars you agree to the [Terms of Service](https://telegram.org).";
+"Stars.ReactScreen.Footer" = "By sending Stars you agree to the [Terms of Service](https://telegram.org/tos/stars).";
 
 
 "InviteLink.Sub.Text" = "Require Monthly Fee";
 
 "InviteLink.Sub.Info.Editing" = "To change the subscription fee, create a new invite link with a different price.";
-"InviteLink.Sub.Info" = "Charge a subscription fee from people joining your channel via this link. [Learn More >](https://telegram.org)";
+"InviteLink.Sub.Info" = "Charge a subscription fee from people who join your channel via this link. [Learn More >](https://telegram.org/tos/stars)";
 
 "InviteLink.Sub.ReqApproval" = "You can't enable admin approval for links that require a monthly fee.";
 
@@ -11319,12 +11319,12 @@
 
 
 "Chat.Giveaway.Message.WinnersSelectedText_countable" = "%d";
-"Chat.Giveaway.Message.WinnersSelectedText_zero" = "**%d** winners of the [Giveaway]() was randomly selected by Telegram.";
+"Chat.Giveaway.Message.WinnersSelectedText_zero" = "**%d** winners of the [Giveaway]() were randomly selected by Telegram.";
 "Chat.Giveaway.Message.WinnersSelectedText_one" = "**%d** winner of the [Giveaway]() was randomly selected by Telegram.";
-"Chat.Giveaway.Message.WinnersSelectedText_two" = "**%d** winners of the [Giveaway]() was randomly selected by Telegram.";
-"Chat.Giveaway.Message.WinnersSelectedText_few" = "**%d** winners of the [Giveaway]() was randomly selected by Telegram.";
-"Chat.Giveaway.Message.WinnersSelectedText_many" = "**%d** winners of the [Giveaway]() was randomly selected by Telegram.";
-"Chat.Giveaway.Message.WinnersSelectedText_other" = "**%d** winners of the [Giveaway]() was randomly selected by Telegram.";
+"Chat.Giveaway.Message.WinnersSelectedText_two" = "**%d** winners of the [Giveaway]() were randomly selected by Telegram.";
+"Chat.Giveaway.Message.WinnersSelectedText_few" = "**%d** winners of the [Giveaway]() were randomly selected by Telegram.";
+"Chat.Giveaway.Message.WinnersSelectedText_many" = "**%d** winners of the [Giveaway]() were randomly selected by Telegram.";
+"Chat.Giveaway.Message.WinnersSelectedText_other" = "**%d** winners of the [Giveaway]() were randomly selected by Telegram.";
 
 
 "Chat.Giveaway.Message.WinnersInfo_countable" = "%d";
