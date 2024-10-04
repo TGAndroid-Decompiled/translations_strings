@@ -11136,4 +11136,20 @@
   <string name="VoipUserBatteryIsLow">{0}\'s battery level is low</string>
   <string name="VoipVideo2">video</string>
   <string name="YourNameColor">Your Name Color</string>
+
+  <string name="VoipOngoingAlert2">End call with **{0}** and start a video chat in **{1}**?</string>
+  <string name="VoipOngoingChatAlert2">Leave video chat in **{0}** and call **{1}**?</string>
+
+  <string name="VoipGroupStartVoiceChat">Start Video Chat</string>
+  <string name="VoipChatStreamWithAnotherApp">You can also stream with **another app &gt;**</string>
+  <string name="VoipChannelStartVoiceChat">Start Live Stream</string>
+  <string name="StartVoipChatTitle">Video Chat</string>
+
+  <string name="Streaming">Streaming</string>
+  <string name="VoipStreamStart">To stream video with another app,\nenter the server URL and Stream Key\nin your streaming app.</string>
+  <string name="VoipChatStreamWithAnotherAppDescription">Once you start broadcasting in your streaming app, tap Start Streaming below.</string>
+  <string name="VoipChatStreamServerUrl">Server URL</string>
+  <string name="VoipChatStreamKey">Stream Key</string>
+  <string name="VoipChannelStartStreaming">Start Streaming</string>
+
 </resources>

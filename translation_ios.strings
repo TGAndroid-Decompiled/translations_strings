@@ -4525,7 +4525,7 @@ Sorry for the inconvenience.";
 
 "Channel.DiscussionGroup.SearchPlaceholder" = "Search";
 
-"Channel.AdminLog.MessageChangedLinkedGroup" = "%1$@ made %2$@ the discussion group for this channel.";
+"Channel.AdminLog.MessageChangedLinkedGroup" = "%1$@ made %2$@ the discussion group for this channel";
 "Channel.AdminLog.MessageChangedLinkedChannel" = "%1$@ linked this group to %2$@";
 "Channel.AdminLog.MessageChangedUnlinkedGroup" = "%1$@ removed the discussion group %2$@";
 "Channel.AdminLog.MessageChangedUnlinkedChannel" = "%1$@ unlinked this group from %2$@";
@@ -13049,6 +13049,7 @@ Sorry for the inconvenience.";
 "Report.Title.User" = "Report User";
 "Report.Title.Group" = "Report Group";
 "Report.Title.Channel" = "Report Channel";
+"Report.Title.Bot" = "Report Bot";
 "Report.Comment.Placeholder" = "Add Comment";
 "Report.Comment.Placeholder.Optional" = "Add Comment (Optional)";
 "Report.Comment.Info" = "Please help us by telling what is wrong with the message you have selected.";
