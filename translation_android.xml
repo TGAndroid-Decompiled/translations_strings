@@ -164,6 +164,7 @@
     <string name="NoResult">No results</string>
     <string name="NoResultFoundFor">No results found for \"%s\".</string>
     <string name="NoResultFoundForTag">No results found for %s</string>
+    <string name="NoResultFoundFor2">There were no results for \"%s\".\nTry a new search.</string>
     <string name="NoChats">Welcome to Telegram</string>
     <string name="RecentlyViewed">Recently viewed</string>
     <string name="RecentlyViewedHide">HIDE</string>
@@ -537,9 +538,9 @@
     <string name="ActionCreateChannel">Channel created</string>
     <string name="ActionGiftInbound">un1 sent you a gift for **un2**</string>
     <string name="ActionGiftOutbound">You have sent a gift for **un2**</string>
-    
-    
-    
+    <string name="ActionGiftPremiumTitle2_one">%d Month Premium</string>
+    <string name="ActionGiftPremiumTitle2_other">%d Months Premium</string>
+    <string name="ActionGiftPremiumText">Subscription for exclusive Telegram features.</string>
     <string name="ActionGiftPremiumView">View</string>
     <string name="ActionStarGiveawayPrizeTitle">Congratulations!</string>
     <string name="ActionStarGiveawayPrize_one">You won a prize in a giveaway organized by **un1**.\n\nYour prize is **%d Star**.</string>
@@ -978,6 +979,8 @@
     <string name="EventLogSwitchToGroup">un1 disabled topics</string>
     <string name="EventLogCreateTopic">un1 created topic un2</string>
     <string name="EventLogEditTopic">un1 changed topic name from un2 to un3</string>
+    <string name="EventLogClosedTopic">un1 closed topic un2</string>
+    <string name="EventLogReopenedTopic">un1 reopened topic un2</string>
     <string name="EventLogDeleteTopic">un1 deleted topic un2</string>
     <string name="EventLogPinTopic">un1 pinned topic un2</string>
     <string name="EventLogUnpinTopic">un1 unpinned topic un2</string>
@@ -1685,12 +1688,14 @@
     <string name="SortedByLastSeen">Sorted by last seen time</string>
     <string name="AddContactByPhone">Add %1$s</string>
     <string name="PhoneNumberSearch">Phone number</string>
-    <string name="NoContactsYet">You have no contacts on Telegram yet</string>
-    <string name="NoContactsYetLine1">Invite friends to try Telegram</string>
-    <string name="NoContactsYetLine3">Search people by username</string>
+    <string name="NoContactsYet2">You have no contacts\non Telegram yet</string>
+    <string name="NoContactsYet2Sub">Invite friends to try Telegram or search\npeople by username.</string>
+    <string name="NoContactsYet2Invite">Invite Friends &gt;</string>
     <string name="NewContactAlertTitle">New contact</string>
     <string name="NewContactAlertMessage">The phone number **%1$s** is not in your contacts. Do you want to add it?</string>
     <string name="NewContactAlertButton">Add contact</string>
+    <string name="Gift2AvailabilitySold_other">%d sold</string>
+    <string name="Gift2AvailabilityLeft_other">%d left</string>
     <!--group create view-->
     <string name="SendMessageTo">Who would you like to add?</string>
     <string name="SoftUserLimitAlert">You will be able to add more members after you create the group.</string>
@@ -5991,8 +5996,8 @@
     <string name="WallpaperPreview">Wallpaper</string>
     <string name="WallpaperNotification">Set a new chat wallpaper</string>
     <string name="WallpaperSameNotification">Set the same chat Wallpaper</string>
-    <string name="BotWebViewStartPermission">To launch this web app, you will connect to its website.</string>
-    <string name="BotWebViewStartPermissionLink">https://telegram.org/tos/stars</string>
+    <string name="BotWebViewStartPermission2">By launching this mini app, you agree to the **Terms of Service for Mini Apps**.</string>
+    <string name="BotWebViewStartPermissionLink">https://telegram.org/tos/mini-apps</string>
     <string name="MoreAboutThisBot">More about this bot</string>
     <string name="ChatThemeDaySwitchTooltip">Tap to view this theme in day mode.</string>
     <string name="ChatThemeNightSwitchTooltip">Tap to view this theme in night mode.</string>
@@ -8056,8 +8061,8 @@ list of reactions.</string>
     <string name="Gift2StarsInfoLink">What are Stars &gt;</string>
     <string name="Gift2Title">Send a Gift</string>
     <string name="Gift2Message">Enter Message</string>
-    
-    
+    <string name="Gift2MessageOptional">Enter Message (Optional)</string>
+    <string name="Gift2MessagePremiumInfo">Only %s will see your message.</string>
     <string name="Gift2Hide">Hide My Name</string>
     <string name="Gift2HideInfo">You can hide your name and message from visitors to %1$s`s profile. %1$s will still see your name and message.</string>
     <string name="Gift2Send_one">Send a Gift for &#11088;&#65039;%d</string>
@@ -8083,6 +8088,7 @@ list of reactions.</string>
     <string name="Gift2TabAll">All Gifts</string>
     <string name="Gift2TabLimited">Limited</string>
     <string name="Gift2LimitedRibbon">limited</string>
+    <string name="Gift2LimitedSlider">Limited</string>
     <string name="Gift2Limited1OfRibbon">1 of %s</string>
     <string name="StarsGiftCompleted">Gift sent!</string>
     <string name="StarsGiftCompletedText_one">You spent **%1$d** Star from your balance.</string>
@@ -8108,7 +8114,8 @@ list of reactions.</string>
     <string name="Gift2From">From</string>
     <string name="Gift2To">To</string>
     <string name="Gift2Availability">Availability</string>
-    <string name="Gift2Availability3Value">%1$d of %2$s left</string>
+    <string name="Gift2Availability4Value_one">%1$d of %2$s left</string>
+    
     <string name="Gift2Availability2ValueNone_one">None of %1$d left</string>
     <string name="Gift2Availability2ValueNone_other">None of %1$d left</string>
     <string name="Gift2ProfileMakeVisible">Display on my Page</string>
@@ -8157,6 +8164,7 @@ list of reactions.</string>
     <string name="YourStarsBalance">your balance</string>
     <string name="StarsBuy">Buy Stars</string>
     <string name="StarsBuyMore">Buy More Stars</string>
+    <string name="Gift2CaptionMore">more</string>
 
   <!-- new from translations.telegram.org -->
 
@@ -8209,6 +8217,10 @@ list of reactions.</string>
   <string name="ActionGift2Received">You received a gift for **un2**</string>
   <string name="ActionGiftPremiumSubtitle">for %1$s</string>
   <string name="ActionGiftPremiumTitle">Telegram Premium</string>
+  <string name="ActionGiftPremiumTitle2_zero">%d Months Premium</string>
+  <string name="ActionGiftPremiumTitle2_two">%d Months Premium</string>
+  <string name="ActionGiftPremiumTitle2_few">%d Months Premium</string>
+  <string name="ActionGiftPremiumTitle2_many">%d Months Premium</string>
   <string name="ActionGiftStarsTitle_zero">%d Stars</string>
   <string name="ActionGiftStarsTitle_two">%d Stars</string>
   <string name="ActionGiftStarsTitle_few">%d Stars</string>
@@ -8904,6 +8916,7 @@ list of reactions.</string>
   <string name="BotUsers_two">%d monthly users</string>
   <string name="BotUsers_few">%d monthly users</string>
   <string name="BotUsers_many">%d monthly users</string>
+  <string name="BotWebViewStartPermission">To launch this web app, you will connect to its website.</string>
   <string name="BrowserSettingsHistoryPages_zero">%d pages</string>
   <string name="BrowserSettingsHistoryPages_two">%d pages</string>
   <string name="BrowserSettingsHistoryPages_few">%d pages</string>
@@ -9448,6 +9461,22 @@ list of reactions.</string>
   <string name="Gift2Availability2ValueNone_two">None of %1$d left</string>
   <string name="Gift2Availability2ValueNone_few">None of %1$d left</string>
   <string name="Gift2Availability2ValueNone_many">None of %1$d left</string>
+  <string name="Gift2Availability3Value">%1$d of %2$s left</string>
+  <string name="Gift2Availability4Value_zero">%1$d of %2$s left</string>
+  <string name="Gift2Availability4Value_two">%1$d of %2$s left</string>
+  <string name="Gift2Availability4Value_few">%1$d of %2$s left</string>
+  <string name="Gift2Availability4Value_many">%1$d of %2$s left</string>
+  <string name="Gift2Availability4Value_other">%1$d of %2$s left</string>
+  <string name="Gift2AvailabilityLeft_zero">%d left</string>
+  <string name="Gift2AvailabilityLeft_one">%d left</string>
+  <string name="Gift2AvailabilityLeft_two">%d left</string>
+  <string name="Gift2AvailabilityLeft_few">%d left</string>
+  <string name="Gift2AvailabilityLeft_many">%d left</string>
+  <string name="Gift2AvailabilitySold_zero">%d sold</string>
+  <string name="Gift2AvailabilitySold_one">%d sold</string>
+  <string name="Gift2AvailabilitySold_two">%d sold</string>
+  <string name="Gift2AvailabilitySold_few">%d sold</string>
+  <string name="Gift2AvailabilitySold_many">%d sold</string>
   <string name="Gift2ConvertStars_zero">%d Stars</string>
   <string name="Gift2ConvertStars_two">%d Stars</string>
   <string name="Gift2ConvertStars_few">%d Stars</string>
@@ -9822,7 +9851,10 @@ list of reactions.</string>
   <string name="NoBlockedGroup">Banned users are removed from the group and can only come back if added by an admin. Invite links don\'t work for them.</string>
   <string name="NoBlockedUsers">No removed users</string>
   <string name="NoCallLog">No calls here yet...</string>
+  <string name="NoContactsYet">You have no contacts on Telegram yet</string>
+  <string name="NoContactsYetLine1">Invite friends to try Telegram</string>
   <string name="NoContactsYetLine2">Find people nearby to chat with</string>
+  <string name="NoContactsYetLine3">Search people by username</string>
   <string name="NoFilesFound">No results found</string>
   <string name="NoFilesFoundInfo">There are no matches with **%1$s** in current directory.</string>
   <string name="NoFilesInfo">This folder is empty.</string>
