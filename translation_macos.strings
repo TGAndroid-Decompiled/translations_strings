@@ -10615,7 +10615,7 @@
 
 "SharedMedia.StarGifts_countable" = "%d";
 "SharedMedia.StarGifts_zero" = "%d gifts";
-"SharedMedia.StarGifts_one" = "%d gifts";
+"SharedMedia.StarGifts_one" = "%d gift";
 "SharedMedia.StarGifts_two" = "%d gifts";
 "SharedMedia.StarGifts_few" = "%d gifts";
 "SharedMedia.StarGifts_many" = "%d gifts";
@@ -11401,7 +11401,7 @@
 "Star.Transaction.StarGift.HideFromMyPage.Alert" = "The gift is no longer displayed in your profile.";
 
 
-"Chat.Service.StarGift.From" = "Gift from  %@";
+"Chat.Service.StarGift.From" = "Gift from %@";
 
 "Star.Gift.Limited" = "limited";
 

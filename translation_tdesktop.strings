@@ -902,7 +902,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_settings_manage_enabled_dictionary" = "Dictionary is enabled";
 "lng_settings_manage_remove_dictionary" = "Remove Dictionary";
 
-"lng_settings_gift_premium" = "Premium Gifting";
+"lng_settings_gift_premium" = "Send a Gift";
 "lng_settings_gift_premium_users_confirm" = "Proceed";
 "lng_settings_gift_premium_users_error#one" = "You can select maximum {count} user.";
 "lng_settings_gift_premium_users_error#other" = "You can select maximum {count} users.";
@@ -1487,7 +1487,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_block_user" = "Block user";
 "lng_profile_unblock_user" = "Unblock user";
 "lng_profile_export_chat" = "Export chat history";
-"lng_profile_gift_premium" = "Gift Premium";
+"lng_profile_gift_premium" = "Send a Gift";
 "lng_media_selected_photo#one" = "{count} Photo";
 "lng_media_selected_photo#other" = "{count} Photos";
 "lng_media_selected_gif#one" = "{count} GIF";

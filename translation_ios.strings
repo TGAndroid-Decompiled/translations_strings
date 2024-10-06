@@ -13008,6 +13008,8 @@ Sorry for the inconvenience.";
 "Gift.Options.Gift.Filter.AllGifts" = "All Gifts";
 "Gift.Options.Gift.Filter.Limited" = "Limited";
 "Gift.Options.Gift.Limited" = "Limited";
+"Gift.Options.Gift.SoldOut" = "Sold Out";
+"Gift.Options.SoldOut.Text" = "Sorry, this gift is sold out.";
 
 "PeerInfo.PaneGifts" = "Gifts";
 
@@ -13034,10 +13036,15 @@ Sorry for the inconvenience.";
 "Gift.Send.Title" = "Send a Gift";
 "Gift.Send.Customize.Title" = "CUSTOMIZE YOUR GIFT";
 "Gift.Send.Customize.MessagePlaceholder" = "Enter Message";
-
+"Gift.Send.Customize.Info" = "Only %@ will see your message.";
 "Gift.Send.HideMyName" = "Hide My Name";
 "Gift.Send.HideMyName.Info" = "Hide my name and message from visitors to %1$@'s profile. %2$@ will still see your name and message.";
 "Gift.Send.Send" = "Send a Gift for";
+"Gift.Send.Limited" = "Limited";
+"Gift.Send.Left" = "left";
+
+"Gift.Send.ErrorUnknown" = "An error occurred. Please try again.";
+"Gift.Send.ErrorOutOfStock" = "Sorry, this gift is sold out. Please choose another gift.";
 
 "Profile.SendGift" = "Send a Gift";
 "Settings.SendGift" = "Send a Gift";
@@ -13055,16 +13062,20 @@ Sorry for the inconvenience.";
 "Report.Comment.Info" = "Please help us by telling what is wrong with the message you have selected.";
 "Report.Send" = "Send Report";
 
+"Notification.PremiumGift.MonthsTitle_1" = "%@ Month Premium";
+"Notification.PremiumGift.MonthsTitle_any" = "%@ Months Premium";
 
+"Notification.PremiumGift.YearsTitle_1" = "%@ Year Premium";
+"Notification.PremiumGift.YearsTitle_any" = "%@ Years Premium";
+"Notification.PremiumGift.More" = "more";
 
-
-
-
-
-
+"Notification.PremiumGift.SubscriptionDescription" = "Subscription for exclusive Telegram features.";
 
 "Notification.StarsGift.Stars_1" = "%@ Star";
 "Notification.StarsGift.Stars_any" = "%@ Stars";
+
+"WebBrowser.AuthChallenge.Title" = "Sign in to %@";
+"WebBrowser.AuthChallenge.Text" = "Your login information will be sent securely.";
 
 
 /* new from translations.telegram.org */
@@ -14063,6 +14074,14 @@ Sorry for the inconvenience.";
 "Notification.PremiumGift.Months_2" = "%@ months";
 "Notification.PremiumGift.Months_3_10" = "%@ months";
 "Notification.PremiumGift.Months_many" = "%@ months";
+"Notification.PremiumGift.MonthsTitle_0" = "%@ Months Premium";
+"Notification.PremiumGift.MonthsTitle_2" = "%@ Months Premium";
+"Notification.PremiumGift.MonthsTitle_3_10" = "%@ Months Premium";
+"Notification.PremiumGift.MonthsTitle_many" = "%@ Months Premium";
+"Notification.PremiumGift.YearsTitle_0" = "%@ Years Premium";
+"Notification.PremiumGift.YearsTitle_2" = "%@ Years Premium";
+"Notification.PremiumGift.YearsTitle_3_10" = "%@ Years Premium";
+"Notification.PremiumGift.YearsTitle_many" = "%@ Years Premium";
 "Notification.PremiumPrize.Months_0" = "**%@** months";
 "Notification.PremiumPrize.Months_2" = "**%@** months";
 "Notification.PremiumPrize.Months_3_10" = "**%@** months";
