@@ -13035,13 +13035,14 @@ Sorry for the inconvenience.";
 
 "Gift.Send.Title" = "Send a Gift";
 "Gift.Send.Customize.Title" = "CUSTOMIZE YOUR GIFT";
-"Gift.Send.Customize.MessagePlaceholder" = "Enter Message";
+"Gift.Send.Customize.MessagePlaceholder" = "Enter Message (Optional)";
 "Gift.Send.Customize.Info" = "Only %@ will see your message.";
 "Gift.Send.HideMyName" = "Hide My Name";
 "Gift.Send.HideMyName.Info" = "Hide my name and message from visitors to %1$@'s profile. %2$@ will still see your name and message.";
 "Gift.Send.Send" = "Send a Gift for";
 "Gift.Send.Limited" = "Limited";
-"Gift.Send.Left" = "left";
+"Gift.Send.Remains_1" = "%@ left";
+"Gift.Send.Remains_any" = "%@ left";
 
 "Gift.Send.ErrorUnknown" = "An error occurred. Please try again.";
 "Gift.Send.ErrorOutOfStock" = "Sorry, this gift is sold out. Please choose another gift.";
@@ -13803,6 +13804,10 @@ Sorry for the inconvenience.";
 "Gift.Options.Premium.Years_2" = "%@ years";
 "Gift.Options.Premium.Years_3_10" = "%@ years";
 "Gift.Options.Premium.Years_many" = "%@ years";
+"Gift.Send.Remains_0" = "%@ left";
+"Gift.Send.Remains_2" = "%@ left";
+"Gift.Send.Remains_3_10" = "%@ left";
+"Gift.Send.Remains_many" = "%@ left";
 "Gift.View.Convert.Stars_0" = "%@ Stars";
 "Gift.View.Convert.Stars_2" = "%@ Stars";
 "Gift.View.Convert.Stars_3_10" = "%@ Stars";

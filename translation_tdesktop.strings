@@ -1379,6 +1379,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_copy_fullname" = "Copy Name";
 "lng_profile_photo_by_you" = "photo set by you";
 "lng_profile_public_photo" = "public photo";
+"lng_profile_administrators#one" = "{count} administrator";
+"lng_profile_administrators#other" = "{count} administrators";
+"lng_profile_manage" = "Channel settings";
 
 "lng_invite_upgrade_title" = "Upgrade to Premium";
 "lng_invite_upgrade_group_invite#one" = "{users} only accepts invitations to groups from Contacts and **Premium** users.";
@@ -2483,6 +2486,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_small_balance_about" = "Buy **Stars** and use them in **{bot}** and other mini apps.";
 "lng_credits_small_balance_reaction" = "Buy **Stars** and send them to {channel} to support their posts.";
 "lng_credits_small_balance_subscribe" = "Buy **Stars** and subscribe to **{channel}** and other channels.";
+"lng_credits_small_balance_star_gift" = "Buy **Stars** to send gifts to {user} and other contacts.";
 "lng_credits_small_balance_fallback" = "Buy **Stars** to unlock content and services on Telegram.";
 "lng_credits_purchase_blocked" = "Sorry, you can't purchase this item with Telegram Stars.";
 "lng_credits_enough" = "You have enough stars at the moment. {link}";
@@ -3011,6 +3015,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_gift_stars_about" = "Give {name} gifts that can be kept on your profile or converted to Stars. {link}";
 "lng_gift_stars_link" = "What are Stars >";
 "lng_gift_stars_limited" = "limited";
+"lng_gift_stars_sold_out" = "sold out";
 "lng_gift_stars_tabs_all" = "All Gifts";
 "lng_gift_stars_tabs_limited" = "Limited";
 "lng_gift_send_title" = "Send a Gift";
@@ -3044,6 +3049,9 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_gift_display_done_hide" = "The gift is now hidden from your profile page.";
 "lng_gift_got_stars#one" = "You got **{count} Star** for this gift.";
 "lng_gift_got_stars#other" = "You got **{count} Stars** for this gift.";
+"lng_gift_sold_out_title" = "Sold Out!";
+"lng_gift_sold_out_text#one" = "All {count} gift was already sold.";
+"lng_gift_sold_out_text#other" = "All {count} gifts were already sold.";
 
 "lng_accounts_limit_title" = "Limit Reached";
 "lng_accounts_limit1#one" = "You have reached the limit of **{count}** connected account.";
@@ -3315,7 +3323,6 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_allow_bot" = "Allow";
 "lng_allow_bot_webview_details" = "More about this bot {emoji}";
 "lng_allow_bot_webview_details_about" = "To launch this web app, you will connect to its website.\n\nIt will be able to access your **IP address** and basic device info.";
-"lng_allow_bot_webview" = "{bot_name} would like to open its web app to proceed.\n\nIt will be able to access your **IP address** and basic device info.";
 "lng_url_auth_open_confirm" = "Do you want to open {link}?";
 "lng_url_auth_login_option" = "Log in to {domain} as {user}";
 "lng_url_auth_allow_messages" = "Allow {bot} to send me messages";
@@ -5915,6 +5922,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_admin_log_slow_mode_seconds#few" = "{count} seconds";
 "lng_admin_log_slow_mode_seconds#many" = "{count} seconds";
 "lng_admin_log_slow_mode_seconds#other" = "{count} seconds";
+"lng_allow_bot_webview" = "{bot_name} would like to open its web app to proceed.\n\nIt will be able to access your **IP address** and basic device info.";
 "lng_archived_chats#zero" = "{count} chats";
 "lng_archived_chats#one" = "{count} chat";
 "lng_archived_chats#two" = "{count} chats";
@@ -6618,6 +6626,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_gift_sent_about#two" = "You spent **{count}** Stars from your balance.";
 "lng_gift_sent_about#few" = "You spent **{count}** Stars from your balance.";
 "lng_gift_sent_about#many" = "You spent **{count}** Stars from your balance.";
+"lng_gift_sold_out_text#zero" = "All {count} gifts were already sold.";
+"lng_gift_sold_out_text#two" = "All {count} gifts were already sold.";
+"lng_gift_sold_out_text#few" = "All {count} gifts were already sold.";
+"lng_gift_sold_out_text#many" = "All {count} gifts were already sold.";
 "lng_gift_stars_title#zero" = "{count} Stars";
 "lng_gift_stars_title#two" = "{count} Stars";
 "lng_gift_stars_title#few" = "{count} Stars";
@@ -7363,6 +7375,10 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_add_more_after_upgrade#few" = "You will be able to add up to {count} members after you upgrade your group to a supergroup.";
 "lng_profile_add_more_after_upgrade#many" = "You will be able to add up to {count} members after you upgrade your group to a supergroup.";
 "lng_profile_add_more_after_upgrade#other" = "You will be able to add up to {count} members after you upgrade your group to a supergroup.";
+"lng_profile_administrators#zero" = "{count} administrators";
+"lng_profile_administrators#two" = "{count} administrators";
+"lng_profile_administrators#few" = "{count} administrators";
+"lng_profile_administrators#many" = "{count} administrators";
 "lng_profile_audios#zero" = "{count} voice messages";
 "lng_profile_audios#two" = "{count} voice messages";
 "lng_profile_audios#few" = "{count} voice messages";
