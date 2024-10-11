@@ -8064,7 +8064,7 @@ list of reactions.</string>
     <string name="Gift2MessageOptional">Enter Message (Optional)</string>
     <string name="Gift2MessagePremiumInfo">Only %s will see your message.</string>
     <string name="Gift2Hide">Hide My Name</string>
-    <string name="Gift2HideInfo">You can hide your name and message from visitors to %1$s`s profile. %1$s will still see your name and message.</string>
+    <string name="Gift2HideInfo">You can hide your name and message from visitors to %1$s\'s profile. %1$s will still see your name and message.</string>
     <string name="Gift2Send_one">Send a Gift for &#11088;&#65039;%d</string>
     <string name="Gift2Send_other">Send a Gift for &#11088;&#65039;%d</string>
     <string name="Gift2SendPremium">Send a Gift for %s</string>

@@ -169,6 +169,7 @@
     
     
     
+    
     <string name="WaitingForNetwork">Waiting for network...</string>
     <string name="Connecting">Connecting...</string>
     <string name="Connected">Connected</string>
@@ -537,8 +538,9 @@
     <string name="ActionCreateChannel">Channel created</string>
     <string name="ActionGiftInbound">un1 sent you a gift for **un2**</string>
     <string name="ActionGiftOutbound">You have sent a gift for **un2**</string>
-    <string name="ActionGiftPremiumTitle">Telegram Premium</string>
-    <string name="ActionGiftPremiumSubtitle">for {0}</string>
+    
+    
+    
     <string name="ActionGiftPremiumView">View</string>
     <string name="ActionStarGiveawayPrizeTitle">Congratulations!</string>
     <string name="ActionStarGiveawayPrize_one">You won a prize in a giveaway organized by **un1**.\n\nYour prize is **{0} Star**.</string>
@@ -775,7 +777,7 @@
     
     
     
-    
+    <string name="UserRemovedFromChatHint">**{0}** removed from **{1}**.</string>
     <!--polls-->
     <string name="NewPoll">New Poll</string>
     
@@ -936,13 +938,30 @@
     <string name="EventLogPromotedRemovedTitle">Title</string>
     <string name="EventLogPromotedPinMessages">Pin messages</string>
     <string name="EventLogFilterAll">All actions</string>
+    <string name="EventLogFilterNewRestrictions">New Exceptions</string>
     <string name="EventLogFilterNewAdmins">Admin rights</string>
-    
+    <string name="EventLogFilterNewMembers">New Members</string>
+    <string name="EventLogFilterNewSubscribers">New Subscribers</string>
+    <string name="EventLogFilterGroupInfo">Group Info</string>
+    <string name="EventLogFilterChannelInfo">Channel Info</string>
     <string name="EventLogFilterDeletedMessages">Deleted Messages</string>
     <string name="EventLogFilterEditedMessages">Edited Messages</string>
     <string name="EventLogFilterPinnedMessages">Pinned Messages</string>
     <string name="EventLogFilterLeavingMembers">Members leaving</string>
+    <string name="EventLogFilterLeavingMembers2">Members Left the Group</string>
+    <string name="EventLogFilterLeavingSubscribers2">Subscribers Left the Channel</string>
+    <string name="EventLogFilterSectionMembers">Members And Admins</string>
+    <string name="EventLogFilterSectionSubscribers">Subscribers And Admins</string>
     
+    <string name="EventLogFilterSectionAdmin">New Admin Rights</string>
+    <string name="EventLogFilterSectionMessages">Messages</string>
+    <string name="EventLogFilterSectionGroupSettings">Group Settings</string>
+    <string name="EventLogFilterSectionChannelSettings">Channel Settings</string>
+    <string name="EventLogFilterByActions">Filter actions by type</string>
+    <string name="EventLogFilterByAdmins">Filter actions by admins</string>
+    <string name="EventLogFilterByAdminsAll">Show Actions by All Admins</string>
+    <string name="EventLogFilterCalls">Video Chats</string>
+    <string name="EventLogFilterInvites">Invite Links</string>
     <string name="EventLogToggledSlowmodeOn">un1 set the slow mode timer to {0}</string>
     <string name="EventLogToggledSlowmodeOff">un1 disabled the slow mode</string>
     <string name="EventLogStartedVoiceChat">un1 started a video chat</string>
@@ -960,6 +979,8 @@
     <string name="EventLogSwitchToGroup">un1 disabled topics</string>
     <string name="EventLogCreateTopic">un1 created topic un2</string>
     <string name="EventLogEditTopic">un1 changed topic name from un2 to un3</string>
+    
+    
     <string name="EventLogDeleteTopic">un1 deleted topic un2</string>
     <string name="EventLogPinTopic">un1 pinned topic un2</string>
     <string name="EventLogUnpinTopic">un1 unpinned topic un2</string>
@@ -1667,7 +1688,9 @@
     <string name="SortedByLastSeen">Sorted by last seen time</string>
     
     
-    <string name="NoContactsYet">You have no contacts on Telegram yet</string>
+    
+    
+    
     
     
     
@@ -3464,8 +3487,8 @@
     <string name="Call">Call</string>
     <string name="VideoCall">Video Call</string>
     <string name="Copy">Copy</string>
-    
-    
+    <string name="Restrict">Restrict</string>
+    <string name="Ban">Ban</string>
     <string name="Rename">Rename</string>
     <string name="Delete">Delete</string>
     <string name="Start">Start</string>
@@ -3886,10 +3909,10 @@
     
     <string name="VoipOngoingAlertTitle">Another call in progress</string>
     <string name="VoipOngoingAlert">End call with **{0}** and start a new one with **{1}**?</string>
-    
+    <string name="VoipOngoingAlert2">End call with **{0}** and start a video chat in **{1}**?</string>
     <string name="VoipOngoingChatAlertTitle">Another video chat in progress</string>
     <string name="VoipOngoingChatAlert">Leave video chat in **{0}** and start a new one in **{1}**?</string>
-    
+    <string name="VoipOngoingChatAlert2">Leave video chat in **{0}** and call **{1}**?</string>
     
     
     
@@ -4007,7 +4030,7 @@
     
     
     
-    
+    <string name="StartVoipChatTitle">Video Chat</string>
     
     <string name="StartVoipChannelTitle">Live Stream</string>
     <string name="StartVoipChatPermission">Manage Live Streams</string>
@@ -4135,21 +4158,21 @@
     
     
     
+    <string name="VoipStreamStart">To stream video with another app,\nenter the server URL and Stream Key\nin your streaming app.</string>
     
     
-    
-    
-    
-    
-    
-    
+    <string name="VoipChatStreamWithAnotherApp">You can also stream with **another app &gt;**</string>
+    <string name="VoipChatStreamWithAnotherAppDescription">Once you start broadcasting in your streaming app, tap Start Streaming below.</string>
+    <string name="VoipChatStreamServerUrl">Server URL</string>
+    <string name="VoipChatStreamKey">Stream Key</string>
+    <string name="VoipGroupStartVoiceChat">Start Video Chat</string>
     <string name="VoipGroupScheduleVoiceChat">Schedule Video Chat</string>
     
     
     
     
-    
-    
+    <string name="VoipChannelStartVoiceChat">Start Live Stream</string>
+    <string name="VoipChannelStartStreaming">Start Streaming</string>
     <string name="VoipChannelScheduleVoiceChat">Schedule Live Stream</string>
     <string name="VoipGroupStartNow">Start Now</string>
     <string name="VoipGroupSetReminder">Set Reminder</string>
@@ -4222,45 +4245,45 @@
     <string name="NoRtmpStreamFromAppOwner">**Oops!** Telegram doesn\'t see any stream coming from your streaming app.\n\nPlease make sure you entered the right Server URL and Stream Key in your app.</string>
     <string name="NoRtmpStreamFromAppViewer">{0} is currently not broadcasting live stream data to Telegram.</string>
     <!--invite links-->
-    
-    
-    
-    
-    
+    <string name="ManageInviteLinks">Manage Invite Links</string>
+    <string name="ManageLinksInfoHelp">You can create additional invite links that have a limited time or number of users.</string>
+    <string name="ManageLinksInfoHelpPaid">You can create additional invite links that have a limited time, number of uses or require a paid subscription.</string>
+    <string name="PrimaryLinkHelp">Anyone on Telegram will be able to join your group by following this link.</string>
+    <string name="PrimaryLinkHelpChannel">Anyone on Telegram will be able to join your channel by following this link.</string>
     <string name="EditLink">Edit Link</string>
     
+    <string name="NoLimit">No limit</string>
+    <string name="LimitByPeriod">Limit by time period</string>
+    <string name="LimitNumberOfUses">Limit by number of users</string>
+    <string name="NewLink">New Link</string>
     
-    
-    
-    
-    
-    
-    
-    
+    <string name="UsesLimitHint">Enter Custom Limit</string>
+    <string name="TimeLimitHelp">You can make the link expire after a certain time.</string>
+    <string name="UsesLimitHelp">You can make the link work only for a certain number of users.</string>
     
     <string name="Expired">Expired</string>
     
-    
+    <string name="LinkCreatedeBy">Link created by</string>
     
     
     <string name="Revoked">Revoked</string>
     
+    <string name="ExpireAfter">Expire After</string>
     
-    
-    
-    
+    <string name="RevokedLinks">Revoked Links</string>
+    <string name="DeleteLink">Delete Link</string>
     
     
     
     
     <string name="CreateNewLink">Create a New Link</string>
+    <string name="DeleteAllRevokedLinks">Delete All Revoked Links</string>
+    <string name="NoOneJoined">No one joined</string>
     
     
     
-    
-    
-    
-    
+    <string name="DeleteLinkHelp">This will delete link.</string>
+    <string name="DeleteAllRevokedLinkHelp">This will delete all revoked links.</string>
     
     <string name="LinksCreatedByOtherAdmins">Links created by other admins</string>
     
@@ -4313,14 +4336,14 @@
     
     
     
-    
-    
-    
-    
+    <string name="PeopleJoined_one">{0} person joined</string>
+    <string name="PeopleJoined_other">{0} people joined</string>
+    <string name="PeopleJoinedRemaining_one">{0} remaining</string>
+    <string name="PeopleJoinedRemaining_other">{0} remaining</string>
     <string name="CanJoin_one">{0} can join</string>
     <string name="CanJoin_other">{0} can join</string>
-    
-    
+    <string name="DaysLeft_one">{0} day left</string>
+    <string name="DaysLeft_other">{0} days left</string>
     <string name="Chats_one">{0} chat</string>
     <string name="Chats_other">{0} chats</string>
     <string name="ChatsSelected_one">{0} chat</string>
@@ -4379,6 +4402,8 @@
     <string name="Months_other">{0} months</string>
     <string name="GiftMonths_one">{0}-month</string>
     <string name="GiftMonths_other">{0}-months</string>
+    
+    
     
     
     <string name="BoldMonths_one">**{0}** month</string>
@@ -4825,9 +4850,9 @@
     
     
     <string name="CreateNewTheme">Create a New Theme</string>
-    
-    
-    
+    <string name="ApproveNewMembers">Request Admin Approval</string>
+    <string name="ApproveNewMembersDescription">Turn this on if you want users to join only after they are approved by an admin.</string>
+    <string name="ApproveNewMembersDescriptionFrozen">You can\'t enable admin approval for links that require a monthly fee.</string>
     
     
     
@@ -4874,8 +4899,8 @@
     
     
     
-    
-    
+    <string name="LinkNameHint">Link Name (Optional)</string>
+    <string name="LinkNameHelp">Only admins will see this name.</string>
     
     
     <string name="UserAcceptedToGroupAction">un1 was accepted into the group</string>
@@ -5971,7 +5996,7 @@
     
     
     
-    <string name="BotWebViewStartPermission">To launch this web app, you will connect to its website.</string>
+    
     
     <string name="MoreAboutThisBot">More about this bot</string>
     
@@ -7575,7 +7600,7 @@
     
     
     <string name="ForwardedFrom">Forwarded from</string>
-    
+    <string name="RestrictedParticipantSending">Restricted **{0}** from sending any messages</string>
     
     
     
@@ -7922,14 +7947,14 @@
     
     
     <string name="BotPrivacyPolicy">Privacy Policy</string>
+    <string name="RequireMonthlyFee">Require Monthly Fee</string>
+    <string name="RequireMonthlyFeePriceHint">Star amount per month</string>
     
+    <string name="RequireMonthlyFeePrice">~{0}/month</string>
     
-    
-    
-    
-    
-    
-    
+    <string name="RequireMonthlyFeeInfo">Charge a subscription fee from people who join your channel via this link.</string>
+    <string name="RequireMonthlyFeeInfoLink">https://telegram.org/tos/stars</string>
+    <string name="RequireMonthlyFeeInfoFrozen">To change the subscription fee, create a new invite link with a different price.</string>
     
     
     
@@ -8061,8 +8086,8 @@
     <string name="Gift2TabAll">All Gifts</string>
     <string name="Gift2TabLimited">Limited</string>
     <string name="Gift2LimitedRibbon">limited</string>
+    
     <string name="Gift2Limited1OfRibbon">1 of {0}</string>
-    <string name="ActionGift2Received">You received a gift for **un2**</string>
     <string name="StarsGiftCompleted">Gift sent!</string>
     <string name="StarsGiftCompletedText_one">You spent **{0}** Star from your balance.</string>
     <string name="StarsGiftCompletedText_other">You spent **{0}** Stars from your balance.</string>
@@ -8087,7 +8112,7 @@
     <string name="Gift2From">From</string>
     <string name="Gift2To">To</string>
     <string name="Gift2Availability">Availability</string>
-    
+    <string name="Gift2Availability4Value_one">{0} of {1} left</string>
     
     
     
@@ -8137,6 +8162,7 @@
     
     
     <string name="StarsBuyMore">Buy More Stars</string>
+    
 
   <!-- new from translations.telegram.org -->
 
@@ -8186,6 +8212,13 @@
   <string name="ActionDeletedInviteLink">un1 deleted the invite link {0}</string>
   
   <string name="ActionEditedInviteLinkToSame">un1 edited invite link {0}</string>
+  <string name="ActionGift2Received">You received a gift for **un2**</string>
+  <string name="ActionGiftPremiumSubtitle">for {0}</string>
+  <string name="ActionGiftPremiumTitle">Telegram Premium</string>
+  
+  
+  
+  
   <string name="ActionGiftStarsTitle_zero">{0} Stars</string>
   <string name="ActionGiftStarsTitle_two">{0} Stars</string>
   <string name="ActionGiftStarsTitle_few">{0} Stars</string>
@@ -8881,6 +8914,7 @@
   
   
   
+  <string name="BotWebViewStartPermission">To launch this web app, you will connect to its website.</string>
   
   
   
@@ -8924,9 +8958,27 @@
   <string name="BusinessRepliesMore_many">+{0} more</string>
   <string name="BusinessRepliesNameReserved">This shortcut name is reserved.</string>
   
+  
+  
+  
+  
+  
+  
+  <string name="CanJoin_zero">{0} can join</string>
+  <string name="CanJoin_two">{0} can join</string>
+  <string name="CanJoin_few">{0} can join</string>
+  <string name="CanJoin_many">{0} can join</string>
+  
+  
+  
   <string name="CantBoostWithGiftedPremium">Can\'t boost with gifted Premium!</string>
   <string name="CantBoostWithGiftedPremiumDescription">Because your **Telegram Premium** subscription was gifted to you, you can\'t use it to boost channels.</string>
-
+  
+  
+  
+  
+  
+  
   <string name="ChangeColors">Change colors</string>
   
   <string name="ChannelAddMembers">Add members</string>
@@ -9080,10 +9132,10 @@
   
   
   
-  
-  
-  
-  
+  <string name="DaysLeft_zero">{0} days left</string>
+  <string name="DaysLeft_two">{0} days left</string>
+  <string name="DaysLeft_few">{0} days left</string>
+  <string name="DaysLeft_many">{0} days left</string>
   
   
   
@@ -9407,6 +9459,23 @@
   
   
   
+  <string name="Gift2Availability3Value">{0} of {1} left</string>
+  <string name="Gift2Availability4Value_zero">{0} of {1} left</string>
+  <string name="Gift2Availability4Value_two">{0} of {1} left</string>
+  <string name="Gift2Availability4Value_few">{0} of {1} left</string>
+  <string name="Gift2Availability4Value_many">{0} of {1} left</string>
+  <string name="Gift2Availability4Value_other">{0} of {1} left</string>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
@@ -9434,10 +9503,18 @@
   
   
   
+  
+  
+  
+  
   <string name="Gift2Send_zero">Send a Gift for &#11088;&#65039; {0}</string>
   <string name="Gift2Send_two">Send a Gift for &#11088;&#65039; {0}</string>
   <string name="Gift2Send_few">Send a Gift for &#11088;&#65039; {0}</string>
   <string name="Gift2Send_many">Send a Gift for &#11088;&#65039; {0}</string>
+  
+  
+  
+  
   <string name="Gift2ToBalance_zero">Convert to {0} Stars</string>
   <string name="Gift2ToBalance_two">Convert to {0} Stars</string>
   <string name="Gift2ToBalance_few">Convert to {0} Stars</string>
@@ -9527,6 +9604,10 @@
   <string name="InviteChannelRestrictedUsers2_two">**{0} users** can only be invited via link, but you don\'t have permission to share invite links to this channel.</string>
   <string name="InviteChannelRestrictedUsers2_few">**{0} users** can only be invited via link, but you don\'t have permission to share invite links to this channel.</string>
   <string name="InviteChannelRestrictedUsers2_many">**{0} users** can only be invited via link, but you don\'t have permission to share invite links to this channel.</string>
+  <string name="InviteLinkCount_zero">{0} invite links</string>
+  <string name="InviteLinkCount_two">{0} invite links</string>
+  <string name="InviteLinkCount_few">{0} invite links</string>
+  <string name="InviteLinkCount_many">{0} invite links</string>
   
   
   
@@ -9768,6 +9849,9 @@
   <string name="NoBlockedGroup">Banned users are removed from the group and can only come back if added by an admin. Invite links don\'t work for them.</string>
   
   
+  <string name="NoContactsYet">You have no contacts on Telegram yet</string>
+  
+  
   
   
   
@@ -9891,14 +9975,14 @@
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
+  <string name="PeopleJoined_zero">{0} people joined</string>
+  <string name="PeopleJoined_two">{0} people joined</string>
+  <string name="PeopleJoined_few">{0} people joined</string>
+  <string name="PeopleJoined_many">{0} people joined</string>
+  <string name="PeopleJoinedRemaining_zero">{0} remaining</string>
+  <string name="PeopleJoinedRemaining_two">{0} remaining</string>
+  <string name="PeopleJoinedRemaining_few">{0} remaining</string>
+  <string name="PeopleJoinedRemaining_many">{0} remaining</string>
   <string name="PeopleNearby">People Nearby</string>
   
   
@@ -10954,14 +11038,18 @@
   <string name="FolderLinkExpiredAlert">The folder link has expired.</string>
   <string name="Formatting">Formatting</string>
   <string name="ForwardSelected">Forward Selected</string>
-  <string name="Gift2Availability3Value">{0} of {1} left</string>
   <string name="Gift2AvailabilityValue">{0} of {1} left</string>
   <string name="Gift2AvailabilityValueNone">None of {0} left</string>
+  <string name="Gift2SoldOut">sold out</string>
+  <string name="Gift2SoldOutTitle">Sold Out!</string>
   <string name="GroupUpgradedFrom">Group upgraded to supergroup. Click here to view older history.</string>
   <string name="GroupUpgradedTo">Group upgraded to supergroup.</string>
   <string name="InAppPreviewInfo">Hover your cursor on a chat to preview the latest message.</string>
   <string name="InstallBetaUpdates">Install Beta Updates</string>
   <string name="InterfaceScale">Interface scale</string>
+  <string name="LimitByPeriodCustom">Custom</string>
+  <string name="LimitNumberOfUsesCustom">Custom</string>
+  <string name="LinkName">Link Name</string>
   <string name="LiteOptionsTransparencyEffects">Transparency Effects</string>
   <string name="LoginWithQrCode">Quick log in using QR code</string>
   <string name="LoginWithQrCodeSkip">Log in by phone number</string>
@@ -10984,6 +11072,9 @@
   <string name="NoEmojiPack">No emoji pack</string>
   <string name="NoStickerSet">No sticker set</string>
   <string name="NoText">No text</string>
+  <string name="NotFoundCamera">No cameras found</string>
+  <string name="NotFoundMicrophone">No microphones found</string>
+  <string name="NotFoundSpeakers">No devices found</string>
   <string name="NotificationExceptionsAlwaysOff">Always Off</string>
   <string name="NotificationExceptionsAlwaysOn">Always On</string>
   <string name="NotificationExceptionsPreviewAlwaysOff">Always Off</string>
@@ -10998,6 +11089,9 @@
   <string name="OpenSupergroup">Open Supergroup</string>
   <string name="OpenTelegram">Open Telegram</string>
   <string name="OpenWith">Open With</string>
+  <string name="PermissionNoAudioCalls">Unigram needs microphone access so that you can have calls. Please enable it in Settings.</string>
+  <string name="PermissionNoAudioVideoCalls">Unigram needs microphone and camera access so that you can have video calls. Please enable it in Settings.</string>
+  <string name="PermissionNoVideoCalls">Unigram needs camera access so that you can have video calls. Please enable it in Settings.</string>
   <string name="PhotoOrVideo">Photo or Video</string>
   <string name="PlayerAudioMute">Mute</string>
   <string name="PlayerAudioUnmute">Unmute</string>
@@ -11097,140 +11191,15 @@
   <string name="VoipUserBatteryIsLow">{0}\'s battery level is low</string>
   <string name="VoipVideo2">video</string>
   <string name="YourNameColor">Your Name Color</string>
-
-  <string name="VoipOngoingAlert2">End call with **{0}** and start a video chat in **{1}**?</string>
-  <string name="VoipOngoingChatAlert2">Leave video chat in **{0}** and call **{1}**?</string>
-
-  <string name="VoipGroupStartVoiceChat">Start Video Chat</string>
-  <string name="VoipChatStreamWithAnotherApp">You can also stream with **another app &gt;**</string>
-  <string name="VoipChannelStartVoiceChat">Start Live Stream</string>
-  <string name="StartVoipChatTitle">Video Chat</string>
-
-  <string name="Streaming">Streaming</string>
-  <string name="VoipStreamStart">To stream video with another app,\nenter the server URL and Stream Key\nin your streaming app.</string>
-  <string name="VoipChatStreamWithAnotherAppDescription">Once you start broadcasting in your streaming app, tap Start Streaming below.</string>
-  <string name="VoipChatStreamServerUrl">Server URL</string>
-  <string name="VoipChatStreamKey">Stream Key</string>
-  <string name="VoipChannelStartStreaming">Start Streaming</string>
-
-  <string name="Gift2Availability4Value_one">{0} of {1} left</string>
-  <string name="Gift2Availability4Value_other">{0} of {1} left</string>
-  <string name="Gift2SoldOut">sold out</string>
-  <string name="Gift2SoldOutTitle">Sold Out!</string>
-  
-  
-
-  <string name="PermissionNoAudioCalls">Unigram needs microphone access so that you can have calls. Please enable it in Settings.</string>
-  <string name="PermissionNoVideoCalls">Unigram needs camera access so that you can have video calls. Please enable it in Settings.</string>
-  <string name="PermissionNoAudioVideoCalls">Unigram needs microphone and camera access so that you can have video calls. Please enable it in Settings.</string>
-
-  <string name="NotFoundCamera">No cameras found</string>
-  <string name="NotFoundMicrophone">No microphones found</string>
-  <string name="NotFoundSpeakers">No devices found</string>
-
-  <string name="EventLogFilterByActions">Filter actions by type</string>
-  <string name="EventLogFilterByAdmins">Filter actions by admins</string>
-  <string name="EventLogFilterSectionChannelSettings">Channel Settings</string>
-  <string name="EventLogFilterSectionGroupSettings">Group Settings</string>
-  <string name="EventLogFilterSectionMembers">Members And Admins</string>
-  <string name="EventLogFilterSectionMessages">Messages</string>
-  <string name="EventLogFilterSectionSubscribers">Subscribers And Admins</string>
-
-  <string name="EventLogFilterSectionAdmin">New Admin Rights</string>
-  <string name="EventLogFilterNewMembers">New Members</string>
-  <string name="EventLogFilterNewRestrictions">New Exceptions</string>
-  <string name="EventLogFilterNewSubscribers">New Subscribers</string>
-  <string name="EventLogFilterLeavingMembers2">Members Left the Group</string>
-  <string name="EventLogFilterLeavingSubscribers2">Subscribers Left the Channel</string>
-  <string name="EventLogFilterChannelInfo">Channel Info</string>
-  <string name="EventLogFilterGroupInfo">Group Info</string>
-  <string name="EventLogFilterInvites">Invite Links</string>
-  <string name="EventLogFilterCalls">Video Chats</string>
-  <string name="EventLogFilterByAdminsAll">Show Actions by All Admins</string>
-
-  <string name="PrimaryLinkHelp">Anyone on Telegram will be able to join your group by following this link.</string>
-  <string name="PrimaryLinkHelpChannel">Anyone on Telegram will be able to join your channel by following this link.</string>
-  <string name="LinksCreatedByOtherAdmins">Links created by other admins</string>
-  <string name="RevokedLinks">Revoked Links</string>
-  <string name="DeleteAllRevokedLinks">Delete All Revoked Links</string>
-
-  <string name="PeopleJoined_one">{0} person joined</string>
-  <string name="PeopleJoined_other">{1} people joined</string>
-  <string name="PeopleJoinedRemaining_one">{0} remaining</string>
-  <string name="PeopleJoinedRemaining_other">{0} remaining</string>
-  <string name="InviteLinkCount_zero">{0} invite links</string>
-  <string name="InviteLinkCount_two">{0} invite links</string>
-  <string name="InviteLinkCount_few">{0} invite links</string>
-  <string name="InviteLinkCount_many">{0} invite links</string>
-  <string name="CanJoin_zero">{0} can join</string>
-  <string name="CanJoin_two">{0} can join</string>
-  <string name="CanJoin_few">{0} can join</string>
-  <string name="CanJoin_many">{0} can join</string>
-  <string name="CanJoin_one">{0} can join</string>
-  <string name="CanJoin_other">{0} can join</string>
-  <string name="DaysLeft_one">{0} day left</string>
-  <string name="DaysLeft_other">{0} days left</string>
-  <string name="NoOneJoined">No one joined</string>
-
-  <string name="RevokeAlert">Are you sure you want to revoke this link? Once the link is revoked, no one will be able to join using it.</string>
-  <string name="DeleteLinkHelp">This will delete link.</string>
-  <string name="DeleteLink">Delete Link</string>
-  <string name="DeleteAllRevokedLinkHelp">This will delete all revoked links.</string>
-
-  <string name="LinkNameHelp">Only you and other admins will see this name.</string>
-  <string name="LinkNameHint">Link Name (Optional)</string>
-  <string name="LinkName">Link Name</string>
-
-  <string name="ApproveNewMembers">Request Admin Approval</string>
-  <string name="ApproveNewMembersDescription">Turn this on if you want users to join only after they are approved by an admin.</string>
-  <string name="ApproveNewMembersDescriptionFrozen">You can\'t enable admin approval for links that require a monthly fee.</string>
-
-  <string name="LimitByPeriod">Limit by time period</string>
-  <string name="LimitNumberOfUses">Limit by number of users</string>
-  <string name="TimeLimitHelp">You can make the link expire after a certain time.</string>
-  <string name="UsesLimitHelp">You can make the link work only for a certain number of users.</string>
-
-  <string name="RequireMonthlyFee">Require Monthly Fee</string>
-  <string name="RequireMonthlyFeePriceHint">Star amount per month</string>
-  <string name="RequireMonthlyFeePrice">~{0}/month</string>
-  <string name="RequireMonthlyFeeInfo">Charge a subscription fee from people who join your channel via this link.</string>
-  <string name="RequireMonthlyFeeInfoLink">https://telegram.org/tos/stars</string>
-  <string name="RequireMonthlyFeeInfoFrozen">To change the subscription fee, create a new invite link with a different price.</string>
-  <string name="NoLimit">No limit</string>
-  <string name="LimitByPeriodCustom">Custom</string>
-  <string name="LimitNumberOfUsesCustom">Custom</string>
-
-  <string name="UsesLimitHint">Enter Custom Limit</string>
-  <string name="ExpireAfter">Expire After</string>
-  <string name="NewLink">New Link</string>
-
-  <string name="ManageInviteLinks">Manage Invite Links</string>
-  <string name="ManageLinksInfoHelp">You can create additional invite links that have a limited time or number of uses.</string>
-  <string name="ManageLinksInfoHelpPaid">You can create additional invite links that have a limited time, number of uses or require a paid subscription.</string>
-  <string name="LinkCreatedeBy">Link created by</string>
-  <string name="Restrict">Restrict</string>
-  <string name="Ban">Ban</string>
-
-  <string name="UserRemovedFromChatHint">**{0}** removed from **{1}**.</string>
-  <string name="RestrictedParticipantSending">Restricted **{0}** from sending any messages</string>
-
+  <string name="Gift2SoldOutHint_one">All {0} gifts were already sold.</string>
+  <string name="Gift2SoldOutHint_other">All {0} gifts were already sold.</string>
+  <string name="TextUndo">Undo</string>
+  <string name="VoipCallBusy2">Busy</string>
 
   <!-- new from translations.telegram.org -->
 
-  <string name="DaysLeft_zero">{0} days left</string>
-  <string name="DaysLeft_two">{0} days left</string>
-  <string name="DaysLeft_few">{0} days left</string>
-  <string name="DaysLeft_many">{0} days left</string>
-  <string name="Gift2Availability4Value_zero">{0} of {1} left</string>
-  <string name="Gift2Availability4Value_two">{0} of {1} left</string>
-  <string name="Gift2Availability4Value_few">{0} of {1} left</string>
-  <string name="Gift2Availability4Value_many">{0} of {1} left</string>
-  <string name="PeopleJoined_zero">{1} people joined</string>
-  <string name="PeopleJoined_two">{1} people joined</string>
-  <string name="PeopleJoined_few">{1} people joined</string>
-  <string name="PeopleJoined_many">{1} people joined</string>
-  <string name="PeopleJoinedRemaining_zero">{0} remaining</string>
-  <string name="PeopleJoinedRemaining_two">{0} remaining</string>
-  <string name="PeopleJoinedRemaining_few">{0} remaining</string>
-  <string name="PeopleJoinedRemaining_many">{0} remaining</string>
+  <string name="Gift2SoldOutHint_zero">All {0} gifts were already sold.</string>
+  <string name="Gift2SoldOutHint_two">All {0} gifts were already sold.</string>
+  <string name="Gift2SoldOutHint_few">All {0} gifts were already sold.</string>
+  <string name="Gift2SoldOutHint_many">All {0} gifts were already sold.</string>
 </resources>
