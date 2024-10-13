@@ -11196,8 +11196,39 @@
   <string name="TextUndo">Undo</string>
   <string name="VoipCallBusy2">Busy</string>
 
+  <string name="FilterShowMoreChats_one">Show {0} More Chat</string>
+  <string name="FilterShowMoreChats_other">Show {0} More Chats</string>
+  <string name="FilterInviteLinksHintNew">Share access to some of this folder’s groups and channels with others.</string>
+
+  <string name="FilterDiscardTitle">Unsaved Changes</string>
+  <string name="FilterDiscardAlert">You have edited this folder. Apply changes?</string>
+  <string name="FilterDiscardNewTitle">Create Folder</string>
+  <string name="FilterDiscardNewAlert">You have not finished creating the folder yet. Create now?</string>
+  <string name="FilterDiscardNewSave">Create</string>
+  <string name="PassportDiscard">Discard</string>
+
+  <string name="PmEditedDateTimeAt">edited {0} at {1}</string>
+  <string name="PmEditedTodayAt">edited at {0}</string>
+  <string name="PmEditedYesterdayAt">edited yesterday at {0}</string>
+  <string name="PmFwdOriginalDateTimeAt">original {0} at {1}</string>
+  <string name="PmFwdOriginalTodayAt">original at {0}</string>
+  <string name="PmFwdOriginalYesterdayAt">original yesterday at {0}</string>
+
+  <string name="Reported2">Telegram moderators will review your report. Thank you!</string>
+
+  <string name="TelegramPremiumUserDialogTitle">**{0}** is a subscriber of Telegram Premium.</string>
+  <string name="TelegramPremiumUserDialogSubtitle">Owners of **Telegram Premium** accounts have exclusive access to multiple additional features.</string>
+  <string name="TelegramPremiumUserStatusDialogTitle">This is {0}\'s current status from {1}.</string>
+  <string name="TelegramPremiumUserStatusDialogSubtitle">Emoji statuses are a premium feature. Other features included in **Telegram Premium**:</string>
+  <string name="TelegramPremiumUserStatusDefaultDialogTitle">This is {0}\'s current status.</string>
+
+
   <!-- new from translations.telegram.org -->
 
+  <string name="FilterShowMoreChats_zero">Show {0} More Chats</string>
+  <string name="FilterShowMoreChats_two">Show {0} More Chats</string>
+  <string name="FilterShowMoreChats_few">Show {0} More Chats</string>
+  <string name="FilterShowMoreChats_many">Show {0} More Chats</string>
   <string name="Gift2SoldOutHint_zero">All {0} gifts were already sold.</string>
   <string name="Gift2SoldOutHint_two">All {0} gifts were already sold.</string>
   <string name="Gift2SoldOutHint_few">All {0} gifts were already sold.</string>
