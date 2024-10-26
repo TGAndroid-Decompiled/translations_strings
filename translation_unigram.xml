@@ -1768,7 +1768,7 @@
     <string name="AddContact">Add to contacts</string>
     <string name="AddContactTitle">Add Contact</string>
     
-    <string name="ContactNotRegistered">{0} is not on Telegram yet, would you like to invite them to join?</string>
+    <string name="ContactNotRegistered">{0} is not on Telegram yet.</string>
     <string name="Invite">Invite</string>
     <string name="Block">BLOCK</string>
     
@@ -11233,4 +11233,61 @@
   <string name="Gift2SoldOutHint_two">All {0} gifts were already sold.</string>
   <string name="Gift2SoldOutHint_few">All {0} gifts were already sold.</string>
   <string name="Gift2SoldOutHint_many">All {0} gifts were already sold.</string>
+
+  <string name="AccDescrMentionReaction">With new reaction</string>
+
+  <string name="BotsMenuTitle">Menu</string>
+  <string name="NoContactsYet2">You have no contacts\non Telegram yet</string>
+  <string name="NoContactsYet2Sub">Invite friends to try Telegram or search\npeople by username.</string>
+  <string name="JumpToDate">Jump to Date</string>
+  <string name="AccDescrCloseSearch">Close search</string>
+  <string name="GroupCreateDiscussionDefaultName">{0} chat</string>
+
+  <string name="formatterGiveawayMonthDay">MMMM dd</string>
+  <string name="formatterWeek">ddd</string>
+  <string name="formatterMonth">MMM dd</string>
+  <string name="formatterYear">dd.MM.yy</string>
+  <string name="formatterMonthYear">MMMM yyyy</string>
+  <string name="chatDate">MMMM d</string>
+  <string name="chatFullDate">MMMM d, yyyy</string>
+
+  <string name="ActionGiftPremiumTitle2_one">{0} Month Premium</string>
+  <string name="ActionGiftPremiumTitle2_other">{0} Months Premium</string>
+  <string name="ActionGiftPremiumText">Subscription for exclusive Telegram features.</string>
+
+  <string name="Gift2MessageOptional">Enter Message (Optional)</string>
+  <string name="Gift2MessagePremiumInfo">Only {0} will see your message.</string>
+  <string name="Gift2SendPremium">Send a Gift for {0}</string>
+
+  <string name="TelegramPremiumUserGiftedPremiumDialogTitleWithPlural">**{0}** has gifted you a {1} subscription to Telegram Premium.</string>
+  <string name="TelegramPremiumUserGiftedPremiumDialogTitleWithPluralSomeone">Someone has gifted you a {0} subscription to Telegram Premium.</string>
+  <string name="TelegramPremiumUserGiftedPremiumDialogSubtitle">You now have access to additional features.</string>
+  <string name="TelegramPremiumUserGiftedPremiumOutboundDialogTitleWithPlural">You gifted **{0}** a {1} subscription to\nTelegram Premium.</string>
+  <string name="TelegramPremiumUserGiftedPremiumOutboundDialogSubtitle">**{0}** now has access to additional features.</string>
+
+  <string name="Gift2Months_zero">{0}-months</string>
+  <string name="Gift2Months_two">{0}-months</string>
+  <string name="Gift2Months_few">{0}-months</string>
+  <string name="Gift2Months_many">{0}-months</string>
+  <string name="Gift2Months_one">{0}-month</string>
+  <string name="Gift2Months_other">{0}-months</string>
+
+  <string name="ChatDoubleClickAction">Double Click Action</string>
+  <string name="DoubleClickReply">Reply</string>
+  <string name="DoubleClickReact">Add Reaction</string>
+  <string name="QuickReactionInfo2">Quickly react to a message by double clicking on it.</string>
+
+  <string name="VoipVideoScreenSharing">You are sharing your screen</string>
+
+  <string name="WebAppShareStoryNotSupported">Sharing to Stories is not supported on Desktop. Please use one of Telegram\'s mobile apps.</string>
+
+  <string name="AddStickersNotFound">Stickers not found</string>
+
+
+  <!-- new from translations.telegram.org -->
+
+  <string name="ActionGiftPremiumTitle2_zero">{0} Months Premium</string>
+  <string name="ActionGiftPremiumTitle2_two">{0} Months Premium</string>
+  <string name="ActionGiftPremiumTitle2_few">{0} Months Premium</string>
+  <string name="ActionGiftPremiumTitle2_many">{0} Months Premium</string>
 </resources>

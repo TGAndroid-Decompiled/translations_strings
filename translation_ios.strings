@@ -1632,8 +1632,8 @@
 "Channel.JoinChannel" = "Join";
 "Forward.ChannelReadOnly" = "Sorry, you can't post to this channel.";
 
-"Channel.ErrorAccessDenied" = "Sorry, this channel is private.";
-"Group.ErrorAccessDenied" = "Sorry, this group is private.";
+"Channel.ErrorAccessDenied" = "This channel is unavailable.";
+"Group.ErrorAccessDenied" = "This group is unavailable.";
 "CommentsGroup.ErrorAccessDenied" = "Sorry, you can't access this chat because you were banned by an admin.";
 "Conversation.InputTextBroadcastPlaceholder" = "Broadcast";
 
