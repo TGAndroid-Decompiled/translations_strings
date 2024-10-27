@@ -13077,7 +13077,7 @@ Sorry for the inconvenience.";
 "Report.Title.Bot" = "Report Bot";
 "Report.Comment.Placeholder" = "Add Comment";
 "Report.Comment.Placeholder.Optional" = "Add Comment (Optional)";
-"Report.Comment.Info" = "Please help us by telling what is wrong with the message you have selected.";
+"Report.Comment.Info" = "Please help us by telling what is wrong with the message you are reporting.";
 "Report.Send" = "Send Report";
 
 "Notification.PremiumGift.MonthsTitle_1" = "%@ Month Premium";
