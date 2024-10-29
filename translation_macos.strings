@@ -9348,7 +9348,7 @@
 
 "Conversation.PinnedGiveaway.Finished.Winners_countable" = "%d";
 "Conversation.PinnedGiveaway.Finished.Winners_zero" = "%@ winners were selected";
-"Conversation.PinnedGiveaway.Finished.Winners_one" = "%@ winners was selected";
+"Conversation.PinnedGiveaway.Finished.Winners_one" = "%@ winner was selected";
 "Conversation.PinnedGiveaway.Finished.Winners_two" = "%@ winners were selected";
 "Conversation.PinnedGiveaway.Finished.Winners_few" = "%@ winners were selected";
 "Conversation.PinnedGiveaway.Finished.Winners_many" = "%@ winners were selected";
