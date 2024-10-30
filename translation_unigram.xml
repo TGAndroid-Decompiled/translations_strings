@@ -11283,6 +11283,104 @@
 
   <string name="AddStickersNotFound">Stickers not found</string>
 
+  <string name="RemoveManyEmojiCount_zero">Remove {0} emoji</string>
+  <string name="RemoveManyEmojiCount_two">Remove {0} emoji</string>
+  <string name="RemoveManyEmojiCount_few">Remove {0} emoji</string>
+  <string name="RemoveManyEmojiCount_many">Remove {0} emoji</string>
+  <string name="RemoveManyEmojiCount_one">Remove emoji</string>
+  <string name="RemoveManyEmojiCount_other">Remove {0} emoji</string>
+  <string name="RemoveManyEmojiPacksCount_zero">Remove {0} emoji packs</string>
+  <string name="RemoveManyEmojiPacksCount_two">Remove {0} emoji packs</string>
+  <string name="RemoveManyEmojiPacksCount_few">Remove {0} emoji packs</string>
+  <string name="RemoveManyEmojiPacksCount_many">Remove {0} emoji packs</string>
+  <string name="RemoveManyEmojiPacksCount_one">Remove emoji pack</string>
+  <string name="RemoveManyEmojiPacksCount_other">Remove {0} emoji packs</string>
+  <string name="RemoveManyStickersCount_zero">Remove {0} stickers</string>
+  <string name="RemoveManyStickersCount_two">Remove {0} stickers</string>
+  <string name="RemoveManyStickersCount_few">Remove {0} stickers</string>
+  <string name="RemoveManyStickersCount_many">Remove {0} stickers</string>
+  <string name="RemoveManyStickersCount_one">Remove sticker</string>
+  <string name="RemoveManyStickersCount_other">Remove {0} stickers</string>
+  <string name="AddManyEmojiCount_zero">Add {0} emoji</string>
+  <string name="AddManyEmojiCount_two">Add {0} emoji</string>
+  <string name="AddManyEmojiCount_few">Add {0} emoji</string>
+  <string name="AddManyEmojiCount_many">Add {0} emoji</string>
+  <string name="AddManyEmojiCount_one">Add emoji</string>
+  <string name="AddManyEmojiCount_other">Add {0} emoji</string>
+  <string name="AddManyEmojiPacksCount_zero">Add {0} emoji packs</string>
+  <string name="AddManyEmojiPacksCount_two">Add {0} emoji packs</string>
+  <string name="AddManyEmojiPacksCount_few">Add {0} emoji packs</string>
+  <string name="AddManyEmojiPacksCount_many">Add {0} emoji packs</string>
+  <string name="AddManyEmojiPacksCount_one">Add emoji pack</string>
+  <string name="AddManyEmojiPacksCount_other">Add {0} emoji packs</string>
+  <string name="AddManyStickersCount_zero">Add {0} stickers</string>
+  <string name="AddManyStickersCount_two">Add {0} stickers</string>
+  <string name="AddManyStickersCount_few">Add {0} stickers</string>
+  <string name="AddManyStickersCount_many">Add {0} stickers</string>
+  <string name="AddManyStickersCount_one">Add sticker</string>
+  <string name="AddManyStickersCount_other">Add {0} stickers</string>
+  <string name="AddStickersInstalled">New stickers added</string>
+  <string name="AddStickersInstalledInfo">{0} has been added to your stickers.</string>
+  <string name="AddEmojiInstalled">Emoji added.</string>
+  <string name="AddEmojiInstalledInfo">{0} has been added to your emoji packs.</string>
+  <string name="AddEmojiMultipleInstalledInfo_one">{0} pack has been added to your emoji.</string>
+  <string name="AddEmojiMultipleInstalledInfo_other">{0} packs have been added to your emoji.</string>
+  <string name="AddEmojiMultipleInstalledInfo_zero">{0} packs have been added to your emoji.</string>
+  <string name="AddEmojiMultipleInstalledInfo_two">{0} packs have been added to your emoji.</string>
+  <string name="AddEmojiMultipleInstalledInfo_few">{0} packs have been added to your emoji.</string>
+  <string name="AddEmojiMultipleInstalledInfo_many">{0} packs have been added to your emoji.</string>
+  <string name="StickersRemoved">Stickers removed</string>
+  <string name="StickersRemovedInfo">{0} is no longer in your stickers.</string>
+  <string name="EmojiRemoved">Emoji removed.</string>
+  <string name="EmojiRemovedInfo">{0} is no longer in your emoji.</string>
+  <string name="EmojiRemovedMultipleInfo_one">{0} pack is no longer in your emoji.</string>
+  <string name="EmojiRemovedMultipleInfo_other">{0} packs are no longer in your emoji.</string>
+  <string name="EmojiRemovedMultipleInfo_zero">{0} packs are no longer in your emoji.</string>
+  <string name="EmojiRemovedMultipleInfo_two">{0} packs are no longer in your emoji.</string>
+  <string name="EmojiRemovedMultipleInfo_few">{0} packs are no longer in your emoji.</string>
+  <string name="EmojiRemovedMultipleInfo_many">{0} packs are no longer in your emoji.</string>
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+
 
   <!-- new from translations.telegram.org -->
 
