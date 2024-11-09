@@ -11340,46 +11340,148 @@
   <string name="EmojiRemovedMultipleInfo_few">{0} packs are no longer in your emoji.</string>
   <string name="EmojiRemovedMultipleInfo_many">{0} packs are no longer in your emoji.</string>
 
-  
-  
-  
-  
-  
-  
+  <string name="StarsTransactionFloodskip">Paid Broadcast</string>
+  <string name="StarsTransactionFloodskipMessages_one">{0} Message</string>
+  <string name="StarsTransactionFloodskipMessages_other">{0} Messages</string>
+  <string name="StarsTransactionFloodskipNumberName">Messages</string>
+  <string name="StarsTransactionFloodskipNumber_one">{0}</string>
+  <string name="StarsTransactionFloodskipNumber_other">{0}</string>
+
+  <string name="GiftPremiumAboutThisLink">This link allows you or **anyone you choose** to activate a {0}.</string>
+  <string name="GiftPremiumAboutThisLinkEnd">**Telegram Premium** subscription</string>
+  <string name="GiftPremiumActivateErrorText">You can activate this gift code after {0} or **send the link** to a friend.</string>
+  <string name="GiftPremiumActivateErrorTitle">You already have Telegram Premium</string>
+  <string name="GiftPremiumActivateForFree">Activate For Free</string>
+
+  <string name="GiftPremiumUseGiftBtn">Use Gift</string>
+
+  <string name="Gift2SoldOutSheetFirstSale">First Sale</string>
+  <string name="Gift2SoldOutSheetLastSale">Last Sale</string>
+  <string name="Gift2SoldOutSheetSubtitle">This gift has been sold out</string>
+  <string name="Gift2SoldOutSheetTitle">Unavailable</string>
+  <string name="Gift2SoldOutSheetValue">Value</string>
+  <string name="Gift2Value">Value</string>
+  <string name="Gift2ButtonSell_one">sell for {0} Star</string>
+  <string name="Gift2ButtonSell_other">sell for {0} Stars</string>
+
+  <string name="ScheduledTimeApprox">appx. {0}</string>
+  <string name="VideoConversionAction">The video will be published once converted and optimized</string>
+  <string name="VideoConversionDone">Video published.</string>
+  <string name="VideoConversionDoneView">View</string>
+  <string name="VideoConversionInfo">The video will be published once converted and optimized.</string>
+  <string name="VideoConversionNowSend">Send Anyway</string>
+  <string name="VideoConversionNowText">This video hasn\'t been converted and optimized yet. If you send it now, the viewers of the video may experience slow download speed.</string>
+  <string name="VideoConversionNowTitle">Wait!</string>
+  <string name="VideoConversionText">The video will be published after it\'s optimized for the best viewing experience.</string>
+  <string name="VideoConversionTimeInfo">Processing video may take a few minutes.</string>
+  <string name="VideoConversionTitle">Improving Video...</string>
+
+  <string name="Gift2ConvertText2_one">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} day**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
+  <string name="Gift2ConvertText2_other">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} days**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
+  <string name="Gift2Info2Expired_one">You can keep this {0} Star gift in your Profile.</string>
+  <string name="Gift2Info2Expired_other">You can keep this {0} Stars gift in your Profile.</string>
+
+  <string name="NoResult">No results</string>
+  <string name="NoResultFoundFor2">There were no results for \"{0}\".\nTry a new search.</string>
+
+  <string name="ChannelAdminSettings">Channel Settings</string>
+
+  <string name="MonetizationTransactionsStars">Stars Transactions</string>
+  <string name="MonetizationTransactionsTON">TON Transactions</string>
+
+  <string name="BotAdWhat">what\'s this?</string>
+
+  <string name="AboutRevenueSharingAds">About These Ads</string>
+  <string name="ReportAd">Report Ad</string>
+  <string name="ReportAdLearnMore">Learn more about our [Ad Policies and Guidelines](https://ads.telegram.org/guidelines).</string>
+  <string name="AdReported">We will review this ad to ensure it matches our **Ad Policies and Guidelines**.</string>
+  <string name="AdHidden">You will no longer see ads from Telegram.</string>
+  <string name="RevenueSharingAdsAlertSubtitle">Telegram Ads are very different from ads on other platforms. Ads such as this one:</string>
+  <string name="RevenueSharingAdsInfo1Title">Respect Your Privacy</string>
+  <string name="RevenueSharingAdsInfo1Subtitle">Ads on Telegram do not use your personal information and are based on the channel in which you see them.</string>
+  <string name="RevenueSharingAdsInfo2Title">Help the Channel Creator</string>
+  <string name="RevenueSharingAdsInfo2Subtitle">50% of the revenue from Telegram Ads goes to the owner of the channel where they are displayed.</string>
+  <string name="RevenueSharingAdsInfo3Title">Can Be Removed</string>
+  <string name="RevenueSharingAdsInfo3Subtitle">You can turn off ads by subscribing to **Telegram Premium**, and Level {0} channels can remove them for their subscribers.</string>
+  <string name="RevenueSharingAdsInfo3SubtitleBot">You can turn off ads by subscribing to **Telegram Premium**.</string>
+  <string name="RevenueSharingAdsInfo4Title">Can I Launch an Ad?</string>
+  <string name="RevenueSharingAdsInfo4Subtitle2">Anyone can create an ad to display in this channel — with minimal budgets. Check out the **Telegram Ad Platform** for details. {0}</string>
+  <string name="RevenueSharingAdsInfo4SubtitleLearnMore">**Learn More &gt;**</string>
+  <string name="RevenueSharingAdsAlertButton">Understood</string>
+  <string name="PromoteUrl">https://ads.telegram.org</string>
+  <string name="SponsoredMessageSponsor">Advertiser Info</string>
+  <string name="SponsoredMessageSponsorReportable">Sponsor Info</string>
+  <string name="HideAd">Hide</string>
+
+  <string name="AttachOnceAudio">One-time Voice Message</string>
+  <string name="AttachOnceRound">One-time Video Message</string>
+  <string name="ReverseOrder">Reverse Order</string>
+
+  <string name="TranslateLanguageAR">Arabic</string>
+  <string name="TranslateLanguageBE">Belarusian</string>
+  <string name="TranslateLanguageCA">Catalan</string>
+  <string name="TranslateLanguageCS">Czech</string>
+  <string name="TranslateLanguageDE">German</string>
+  <string name="TranslateLanguageEN">English</string>
+  <string name="TranslateLanguageEO">Esperanto</string>
+  <string name="TranslateLanguageES">Spanish</string>
+  <string name="TranslateLanguageFA">Persian</string>
+  <string name="TranslateLanguageFI">Finnish</string>
+  <string name="TranslateLanguageFR">French</string>
+  <string name="TranslateLanguageHE">Hebrew</string>
+  <string name="TranslateLanguageHR">Croatian</string>
+  <string name="TranslateLanguageHU">Hungarian</string>
+  <string name="TranslateLanguageID">Indonesian</string>
+  <string name="TranslateLanguageIT">Italian</string>
+  <string name="TranslateLanguageJA">Japanese</string>
+  <string name="TranslateLanguageKO">Korean</string>
+  <string name="TranslateLanguageML">Malayalam</string>
+  <string name="TranslateLanguageMS">Malay</string>
+  <string name="TranslateLanguageNL">Dutch</string>
+  <string name="TranslateLanguageNO">Norwegian</string>
+  <string name="TranslateLanguagePO">Polish</string>
+  <string name="TranslateLanguagePT">Portuguese</string>
+  <string name="TranslateLanguageRO">Romanian</string>
+  <string name="TranslateLanguageRU">Russian</string>
+  <string name="TranslateLanguageSK">Slovak</string>
+  <string name="TranslateLanguageSR">Serbian</string>
+  <string name="TranslateLanguageSV">Swedish</string>
+  <string name="TranslateLanguageTA">Tamil</string>
+  <string name="TranslateLanguageTR">Turkish</string>
+  <string name="TranslateLanguageUK">Ukrainian</string>
+  <string name="TranslateLanguageUZ">Uzbek</string>
+  <string name="TranslateLanguageZH">Chinese</string>
 
   
   
   
   
-  
 
-  
+  <string name="BotWebViewAddToStart">Add to Start</string>
+  <string name="BotWebViewRemoveFromStart">Remove from Start</string>
+  <string name="BotWebViewEnterFullScreen">Enter Full Screen</string>
+  <string name="BotWebViewExitFullScreen">Exit Full Screen</string>
 
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
+  <string name="BoostingBoostsGroupByUserServiceMsg">{0} boosted the group</string>
+  <string name="BoostingBoostsChannelByUserServiceMsg">{0} boosted the channel</string>
+  <string name="BoostingBoostsGroupByYouServiceMsg">You boosted the group</string>
+  <string name="BoostingBoostsChannelByYouServiceMsg">You boosted the channel</string>
+  <string name="BoostingBoostsGroupByYouServiceMsgCount_other">You boosted the group {0} times</string>
+  <string name="BoostingBoostsGroupByYouServiceMsgCount_zero">You boosted the group {0} times</string>
+  <string name="BoostingBoostsGroupByYouServiceMsgCount_one"></string>
+  <string name="BoostingBoostsGroupByYouServiceMsgCount_two">You boosted the group {0} times</string>
+  <string name="BoostingBoostsGroupByYouServiceMsgCount_few">You boosted the group {0} times</string>
+  <string name="BoostingBoostsGroupByYouServiceMsgCount_many">You boosted the group {0} times</string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_zero"></string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_one"></string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_two"></string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_few"></string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_many"></string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_zero"></string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_one"></string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_two"></string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_few"></string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_many"></string>
 
 
   <!-- new from translations.telegram.org -->
@@ -11388,4 +11490,26 @@
   <string name="ActionGiftPremiumTitle2_two">{0} Months Premium</string>
   <string name="ActionGiftPremiumTitle2_few">{0} Months Premium</string>
   <string name="ActionGiftPremiumTitle2_many">{0} Months Premium</string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_other"></string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_other"></string>
+  <string name="Gift2ButtonSell_zero">sell for {0} Stars</string>
+  <string name="Gift2ButtonSell_two">sell for {0} Stars</string>
+  <string name="Gift2ButtonSell_few">sell for {0} Stars</string>
+  <string name="Gift2ButtonSell_many">sell for {0} Stars</string>
+  <string name="Gift2ConvertText2_zero">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} days**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
+  <string name="Gift2ConvertText2_two">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} days**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
+  <string name="Gift2ConvertText2_few">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} days**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
+  <string name="Gift2ConvertText2_many">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} days**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
+  <string name="Gift2Info2Expired_zero">You can keep this {0} Stars gift in your Profile.</string>
+  <string name="Gift2Info2Expired_two">You can keep this {0} Stars gift in your Profile.</string>
+  <string name="Gift2Info2Expired_few">You can keep this {0} Stars gift in your Profile.</string>
+  <string name="Gift2Info2Expired_many">You can keep this {0} Stars gift in your Profile.</string>
+  <string name="StarsTransactionFloodskipMessages_zero">{0} Messages</string>
+  <string name="StarsTransactionFloodskipMessages_two">{0} Messages</string>
+  <string name="StarsTransactionFloodskipMessages_few">{0} Messages</string>
+  <string name="StarsTransactionFloodskipMessages_many">{0} Messages</string>
+  <string name="StarsTransactionFloodskipNumber_zero">{0}</string>
+  <string name="StarsTransactionFloodskipNumber_two">{0}</string>
+  <string name="StarsTransactionFloodskipNumber_few">{0}</string>
+  <string name="StarsTransactionFloodskipNumber_many">{0}</string>
 </resources>

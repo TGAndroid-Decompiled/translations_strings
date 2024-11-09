@@ -471,7 +471,7 @@
 "Gallery.Context.Original" = "Original";
 
 "Gallery.Context.Alert.Downloaded" = "Downloaded. [Show in Finder](finder)";
-"Gallery.Context.Alert.Downloading" = "Downloading. [Show in Manager](manager)";
+"Gallery.Context.Alert.Downloading" = "Downloading. [Show in Downloads](manager)";
 
 
 "Chat.Cancel" = "Cancel";
@@ -10416,7 +10416,7 @@
 "Business.Links.Name.Info" = "Add a name for this link that only you will see.";
 
 
-"Monetization.Header.Bot" = "Telegram shares 50%@ of the revenue from ads displayed in your bot. [Learn More >]()";
+"Monetization.Header.Bot" = "Telegram shares 50%@ of the revenue from ads displayed in your bot as rewards. [Learn More >]()";
 
 
 
@@ -11489,7 +11489,7 @@
 "Star.Transaction.ConvertAlert.OK" = "Convert";
 
 
-"Star.Transaction.ConvertAlert.TooLate" = "Sorry, you cant convert this gift to stars anymore.";
+"Star.Transaction.ConvertAlert.TooLate" = "Sorry, you can't convert this gift to stars anymore.";
 
 
 "Star.Transaction.Value" = "Value";
