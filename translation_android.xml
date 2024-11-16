@@ -8348,7 +8348,7 @@ list of reactions.</string>
     <string name="BotProfilePermissionLocation">Geolocation</string>
     <string name="BotProfilePermissionEmojiStatus">Emoji Status</string>
     <string name="BotProfilePermissionBiometry">Biometry</string>
-    <string name="BotLocationPermissionRequestGranted">**%s** can now access to your location</string>
+    <string name="BotLocationPermissionRequestGranted">**%s** can now access your location</string>
     <string name="BotLocationPermissionRequestDeniedApp">**%s** can no longer access to your location since you restricted Telegram from accessing it.</string>
     <string name="BotLocationPermissionRequestDeniedAppSettings">Change in Settings \&gt;</string>
     <string name="BotEmojiStatusPermissionRequestGranted">**%s** can now set your emoji status at any time.</string>
