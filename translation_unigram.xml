@@ -11483,6 +11483,22 @@
   <string name="BoostingBoostsChannelByYouServiceMsgCount_few"></string>
   <string name="BoostingBoostsChannelByYouServiceMsgCount_many"></string>
 
+  <string name="MediaShowPhotos">Show Photos</string>
+  <string name="MediaShowVideos">Show Videos</string>
+
+  <string name="NotificationPreviewLine1">Dino Rex</string>
+  <string name="NotificationPreviewLine2">It\'s morning in Tokyo &#128526;</string>
+  <string name="NotificationPreviewName">Name</string>
+  <string name="NotificationPreviewText">Text</string>
+  <string name="NotificationPreviewReply">Reply</string>
+  <string name="NotificationPreviewAttribution">via Unigram</string>
+
+  <string name="BlockUserAlert">Do you want to block **{0}** from messaging and calling you on Telegram?</string>
+  <string name="BlockUserTitle">Block {0}</string>
+  <string name="BlockContact">Block user</string>
+  <string name="DeleteReportSpam">Report spam</string>
+  <string name="DeleteThisChat">Delete this chat</string>
+
 
   <!-- new from translations.telegram.org -->
 
