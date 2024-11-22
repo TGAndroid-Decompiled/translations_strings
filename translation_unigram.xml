@@ -2273,6 +2273,7 @@
     <string name="BadgeNumber">Badge Counter</string>
     <string name="BadgeNumberShow">Show Badge Icon</string>
     <string name="BadgeNumberMutedChats">Include Muted Chats</string>
+    <string name="BadgeNumberMutedChatsFolders">Include Muted Chats in Folder Counters</string>
     <string name="BadgeNumberUnread">Count Unread Messages</string>
     
     <string name="Long">Long</string>
@@ -11452,10 +11453,10 @@
   <string name="TranslateLanguageUZ">Uzbek</string>
   <string name="TranslateLanguageZH">Chinese</string>
 
-  
-  
-  
-  
+  <string name="BotEmojiStatusConfirm">Confirm</string>
+  <string name="BotEmojiStatusText">Do you want to set this emoji status suggested by **{0}**?</string>
+  <string name="BotEmojiStatusTextFor">Do you want to set this emoji status suggested by **{0}** for {1}?</string>
+  <string name="BotEmojiStatusTitle">Set Emoji Status</string>
 
   <string name="BotWebViewAddToStart">Add to Start</string>
   <string name="BotWebViewRemoveFromStart">Remove from Start</string>
@@ -11472,16 +11473,18 @@
   <string name="BoostingBoostsGroupByYouServiceMsgCount_two">You boosted the group {0} times</string>
   <string name="BoostingBoostsGroupByYouServiceMsgCount_few">You boosted the group {0} times</string>
   <string name="BoostingBoostsGroupByYouServiceMsgCount_many">You boosted the group {0} times</string>
-  <string name="BoostingBoostsChannelByUserServiceMsgCount_zero"></string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_zero">{1} boosted the channel {0} times</string>
   <string name="BoostingBoostsChannelByUserServiceMsgCount_one"></string>
-  <string name="BoostingBoostsChannelByUserServiceMsgCount_two"></string>
-  <string name="BoostingBoostsChannelByUserServiceMsgCount_few"></string>
-  <string name="BoostingBoostsChannelByUserServiceMsgCount_many"></string>
-  <string name="BoostingBoostsChannelByYouServiceMsgCount_zero"></string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_two">{1} boosted the channel {0} times</string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_few">{1} boosted the channel {0} times</string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_many">{1} boosted the channel {0} times</string>
+  <string name="BoostingBoostsChannelByUserServiceMsgCount_other">{1} boosted the channel {0} times</string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_zero">You boosted the channel {0} times</string>
   <string name="BoostingBoostsChannelByYouServiceMsgCount_one"></string>
-  <string name="BoostingBoostsChannelByYouServiceMsgCount_two"></string>
-  <string name="BoostingBoostsChannelByYouServiceMsgCount_few"></string>
-  <string name="BoostingBoostsChannelByYouServiceMsgCount_many"></string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_two">You boosted the channel {0} times</string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_few">You boosted the channel {0} times</string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_many">You boosted the channel {0} times</string>
+  <string name="BoostingBoostsChannelByYouServiceMsgCount_other">You boosted the channel {0} times</string>
 
   <string name="MediaShowPhotos">Show Photos</string>
   <string name="MediaShowVideos">Show Videos</string>
@@ -11499,6 +11502,20 @@
   <string name="DeleteReportSpam">Report spam</string>
   <string name="DeleteThisChat">Delete this chat</string>
 
+  <string name="PrivacyGifts">Gifts</string>
+  <string name="PrivacyGiftsTitle">Who can display gifts on my profile</string>
+  <string name="PrivacyGiftsInfo">Choose whether gifts from specific senders need your approval before they’re visible to others on your profile.</string>
+  <string name="PrivacyMiniapps">Mini Apps &amp; Bots</string>
+  <string name="PrivacyMiniappsText">all bots</string>
+  <string name="PrivacyValueBots">Mini Apps</string>
+  <string name="PrivacyValueBotsAnd">Mini Apps &amp; {0}</string>
+  <string name="PrivacyValueOnlyBots">Mini Apps</string>
+  <string name="PrivacyValueEveryoneExceptBots">Except Mini Apps</string>
+  <string name="PrivacyExcludeBotUsers">Mini Apps</string>
+  <string name="PrivacyBotUsersAnd">Mini Apps &amp; {0}</string>
+  <string name="PrivacyContactsAndBotUsers">Contacts &amp; Mini Apps</string>
+  <string name="CustomShareGiftsInfo">You can add users or entire groups as exceptions that will override the settings above.</string>
+
 
   <!-- new from translations.telegram.org -->
 
@@ -11506,8 +11523,6 @@
   <string name="ActionGiftPremiumTitle2_two">{0} Months Premium</string>
   <string name="ActionGiftPremiumTitle2_few">{0} Months Premium</string>
   <string name="ActionGiftPremiumTitle2_many">{0} Months Premium</string>
-  <string name="BoostingBoostsChannelByUserServiceMsgCount_other"></string>
-  <string name="BoostingBoostsChannelByYouServiceMsgCount_other"></string>
   <string name="Gift2ButtonSell_zero">sell for {0} Stars</string>
   <string name="Gift2ButtonSell_two">sell for {0} Stars</string>
   <string name="Gift2ButtonSell_few">sell for {0} Stars</string>
@@ -11528,4 +11543,13 @@
   <string name="StarsTransactionFloodskipNumber_two">{0}</string>
   <string name="StarsTransactionFloodskipNumber_few">{0}</string>
   <string name="StarsTransactionFloodskipNumber_many">{0}</string>
+
+  <string name="BotShareMessage">Share Message</string>
+  <string name="BotShareMessageInfo">{0} mini app suggests you to send this message to a chat you select.</string>
+  <string name="BotShareMessagePreview">Message preview</string>
+  <string name="BotShareMessageShare">Share with...</string>
+
+  <string name="AccDescrYouReactedWith">You reacted with {0}</string>
+  <string name="AccDescrReactedWith">{0} reacted with {1}</string>
+
 </resources>
