@@ -11320,7 +11320,7 @@
 "Username.Username" = "USERNAME";
 "Username.UsernameIsAvailable" = "%@ is available.";
 "Username.UsernamePurchaseAvailable" = "**This username is already taken.** However, it is currently available for purchase. [Learn more...]()";
-"VerificationCodes.DescriptionText" = "This chat is used to receive verification codes from third-party services.";
+"VerificationCodes.DescriptionText" = "Third-party services, like websites and stores, can send verification codes to your phone number via Telegram instead of SMS. Such codes will appear in this chat.\n\nIf you didn't request any codes — don't worry! Most likely, someone made a mistake when entering their number.";
 "VideoChat.RecordingSaved" = "Video chat recording saved to **Saved Messages**.";
 "VideoChat.ScheduleButtonTitle" = "Schedule Video Chat";
 "VoiceChat.AddBio" = "Add Bio";

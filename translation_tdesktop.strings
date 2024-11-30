@@ -290,6 +290,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_error_cant_add_admin_invite" = "You can't add this user as an admin because they are not a member of this group and you are not allowed to add them.";
 "lng_error_cant_add_admin_unban" = "Sorry, you can't add this user as an admin because they are in the Removed Users list and you can't unban them.";
 "lng_error_cant_ban_admin" = "You can't ban this user because they are an admin in this group and you are not allowed to demote them.";
+"lng_error_cant_reply_other" = "This message can't be replied in another chat.";
 "lng_error_admin_limit" = "Sorry, you've reached the maximum number of admins for this group.";
 "lng_error_admin_limit_channel" = "Sorry, you've reached the maximum number of admins for this channel.";
 "lng_error_post_link_invalid" = "Unfortunately, you can't access this message. You aren't a member of the chat where it was posted.";
@@ -298,6 +299,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_error_nocopy_group" = "Sorry, copying from this group is disabled by admins.";
 "lng_error_nocopy_channel" = "Sorry, copying from this channel is disabled by admins.";
 "lng_error_nocopy_story" = "Sorry, the creator of this story disabled copying.";
+"lng_error_schedule_limit" = "Sorry, you can't schedule more than 100 messages.";
 "lng_sure_add_admin_invite" = "This user is not a member of this group. Add them to the group and promote them to admin?";
 "lng_sure_add_admin_invite_channel" = "This user is not a subscriber of this channel. Add them to the channel and promote them to admin?";
 "lng_sure_add_admin_unremove" = "This user is currently restricted or removed. Are you sure you want to promote them?";
@@ -1473,6 +1475,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_profile_enable_notifications" = "Notifications";
 "lng_profile_send_message" = "Send Message";
 "lng_profile_open_app" = "Open App";
+"lng_profile_open_app_short" = "Open";
 "lng_profile_open_app_about" = "By launching this mini app, you agree to the {terms}.";
 "lng_profile_open_app_terms" = "Terms of Service for Mini Apps";
 "lng_profile_bot_permissions_title" = "Allow access to";
@@ -1861,6 +1864,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_action_payment_init_recurring_for" = "You successfully transferred {amount} to {user} for {invoice} and allowed future recurring payments";
 "lng_action_payment_init_recurring" = "You successfully transferred {amount} to {user} and allowed future recurring payments";
 "lng_action_payment_used_recurring" = "You were charged {amount} via recurring payment";
+"lng_action_payment_bot_done" = "Bot connected to this account received {amount}";
+"lng_action_payment_bot_recurring" = "Bot connected to this account received {amount} via recurring payment";
 "lng_action_took_screenshot" = "{from} took a screenshot!";
 "lng_action_you_took_screenshot" = "You took a screenshot!";
 "lng_action_bot_allowed_from_domain" = "You allowed this bot to message you when you logged in on {domain}.";
@@ -2296,6 +2301,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_premium_summary_about_business" = "Upgrade your account with business features such as location, opening hours and quick replies.";
 "lng_premium_summary_subtitle_effects" = "Message Effects";
 "lng_premium_summary_about_effects" = "Add over 500 animated effects to private messages.";
+"lng_premium_summary_subtitle_filter_tags" = "Tag Your Chats";
+"lng_premium_summary_about_filter_tags" = "Display folder names for each chat in the chat list.";
 "lng_premium_summary_bottom_subtitle" = "About Telegram Premium";
 "lng_premium_summary_bottom_about" = "While the free version of Telegram already gives its users more than any other messaging application, **Telegram Premium** pushes its capabilities even further.\n\n**Telegram Premium** is a paid option, because most Premium Features require additional expenses from Telegram to third parties such as data center providers and server manufacturers. Contributions from **Telegram Premium** users allow us to cover such costs and also help Telegram stay free for everyone.";
 "lng_premium_summary_button" = "Subscribe for {cost} per month";
@@ -2444,6 +2451,12 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_box_out_media#other" = "Do you want to unlock {media} in {chat} for **{count} Stars**?";
 "lng_credits_box_out_media_user#one" = "Do you want to unlock {media} from {user} for **{count} Star**?";
 "lng_credits_box_out_media_user#other" = "Do you want to unlock {media} from {user} for **{count} Stars**?";
+"lng_credits_box_out_subscription_bot#one" = "Do you want to subscribe to **{title}** in **{recipient}** for **{count}** star per month?";
+"lng_credits_box_out_subscription_bot#other" = "Do you want to subscribe to **{title}** in **{recipient}** for **{count}** stars per month?";
+"lng_credits_box_out_subscription_business#one" = "Do you want to subscribe to **{title}** from **{recipient}** for **{count}** star per month?";
+"lng_credits_box_out_subscription_business#other" = "Do you want to subscribe to **{title}** from **{recipient}** for **{count}** stars per month?";
+"lng_credits_box_out_subscription_confirm#one" = "Subscribe for {emoji} {count} / month";
+"lng_credits_box_out_subscription_confirm#other" = "Subscribe for {emoji} {count} / month";
 "lng_credits_box_out_photo" = "a photo";
 "lng_credits_box_out_photos#one" = "{count} photo";
 "lng_credits_box_out_photos#other" = "{count} photos";
@@ -2504,6 +2517,8 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_subscriber_subtitle" = "appx. {total} per month";
 
 "lng_credits_subscription_row_to" = "Subscription";
+"lng_credits_subscription_row_to_bot" = "Bot";
+"lng_credits_subscription_row_to_business" = "Business";
 "lng_credits_subscription_row_from" = "Subscribed";
 
 "lng_credits_subscription_row_next_on" = "Renews";
@@ -2514,13 +2529,16 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_subscription_on_about" = "If you cancel now, you will still be able to access your subscription until {date}.";
 
 "lng_credits_subscription_off_button" = "Renew Subscription";
+"lng_credits_subscription_off_rejoin_button" = "Subscribe again";
 "lng_credits_subscription_off_about" = "You have canceled your subscription.";
+"lng_credits_subscription_off_by_bot_about" = "{bot} has canceled your subscription.";
 
 "lng_credits_subscription_status_on" = "renews on {date}";
 "lng_credits_subscription_status_off" = "expires on {date}";
 "lng_credits_subscription_status_none" = "expired on {date}";
 "lng_credits_subscription_status_off_right" = "canceled";
 "lng_credits_subscription_status_none_right" = "expired";
+"lng_credits_subscription_status_off_by_bot_right" = "canceled\nby bot";
 
 "lng_credits_small_balance_title#one" = "{count} Star Needed";
 "lng_credits_small_balance_title#other" = "{count} Stars Needed";
@@ -3056,7 +3074,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_gift_premium_features" = "See Features >";
 "lng_gift_premium_label" = "Premium";
 "lng_gift_stars_subtitle" = "Gift Stars";
-"lng_gift_stars_about" = "Give {name} gifts that can be kept on your profile or converted to Stars. {link}";
+"lng_gift_stars_about" = "Give {name} gifts that can be kept on the profile or converted to Stars. {link}";
 "lng_gift_stars_link" = "What are Stars >";
 "lng_gift_stars_limited" = "limited";
 "lng_gift_stars_sold_out" = "sold out";
@@ -5140,10 +5158,20 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_filters_view_subtitle" = "Tabs view";
 "lng_filters_vertical" = "Tabs on the left";
 "lng_filters_horizontal" = "Tabs at the top";
+"lng_filters_enable_tags" = "Show Folder Tags";
+"lng_filters_enable_tags_about" = "Display folder names for each chat in the chat list.";
+"lng_filters_enable_tags_about_premium" = "Subscribe to **{link}** to display folder names for each chat in the chat list.";
+"lng_filters_tag_color_subtitle" = "Folder color in chat list";
+"lng_filters_tag_color_about" = "Choose a color for the tag of this folder.";
+"lng_filters_tag_color_no" = "No Tag";
 
 "lng_filters_delete_sure" = "Are you sure you want to delete this folder? This will also deactivate all the invite links created to share this folder.";
 "lng_filters_link" = "Share Folder";
 "lng_filters_link_has" = "Invite links";
+
+"lng_filters_checkbox_remove_bot" = "Remove bot from all folders";
+"lng_filters_checkbox_remove_group" = "Remove group from all folders";
+"lng_filters_checkbox_remove_channel" = "Remove channel from all folders";
 
 "lng_filters_link_create" = "Create an Invite Link";
 "lng_filters_link_cant" = "You can’t share folders which include or exclude specific chat types like 'Groups', 'Contacts', etc.";
@@ -6405,6 +6433,18 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_credits_box_out_photos#two" = "{count} photos";
 "lng_credits_box_out_photos#few" = "{count} photos";
 "lng_credits_box_out_photos#many" = "{count} photos";
+"lng_credits_box_out_subscription_bot#zero" = "Do you want to subscribe to **{title}** in **{recipient}** for **{count}** stars per month?";
+"lng_credits_box_out_subscription_bot#two" = "Do you want to subscribe to **{title}** in **{recipient}** for **{count}** stars per month?";
+"lng_credits_box_out_subscription_bot#few" = "Do you want to subscribe to **{title}** in **{recipient}** for **{count}** stars per month?";
+"lng_credits_box_out_subscription_bot#many" = "Do you want to subscribe to **{title}** in **{recipient}** for **{count}** stars per month?";
+"lng_credits_box_out_subscription_business#zero" = "Do you want to subscribe to **{title}** from **{recipient}** for **{count}** stars per month?";
+"lng_credits_box_out_subscription_business#two" = "Do you want to subscribe to **{title}** from **{recipient}** for **{count}** stars per month?";
+"lng_credits_box_out_subscription_business#few" = "Do you want to subscribe to **{title}** from **{recipient}** for **{count}** stars per month?";
+"lng_credits_box_out_subscription_business#many" = "Do you want to subscribe to **{title}** from **{recipient}** for **{count}** stars per month?";
+"lng_credits_box_out_subscription_confirm#zero" = "Subscribe for {emoji} {count} / month";
+"lng_credits_box_out_subscription_confirm#two" = "Subscribe for {emoji} {count} / month";
+"lng_credits_box_out_subscription_confirm#few" = "Subscribe for {emoji} {count} / month";
+"lng_credits_box_out_subscription_confirm#many" = "Subscribe for {emoji} {count} / month";
 "lng_credits_box_out_sure#zero" = "Do you want to buy **\"{text}\"** in **{bot}** for **{count} Stars**?";
 "lng_credits_box_out_sure#two" = "Do you want to buy **\"{text}\"** in **{bot}** for **{count} Stars**?";
 "lng_credits_box_out_sure#few" = "Do you want to buy **\"{text}\"** in **{bot}** for **{count} Stars**?";
