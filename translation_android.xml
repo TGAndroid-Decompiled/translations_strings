@@ -8085,8 +8085,8 @@ list of reactions.</string>
     <string name="StarsSubscriptionExpiredInfo">Your subscription expired on %s.</string>
     <string name="StarsSubscriptionRefulfill">Join Channel</string>
     <string name="StarsSubscriptionRefulfillInfo">You left the channel, but can still return until %s.</string>
-    <string name="StarsSubscriptionBotRefulfill">Refulfill Subscription</string>
-    <string name="StarsSubscriptionBotRefulfillInfo">You can still refulfill subscription back until %s.</string>
+    <string name="StarsSubscriptionBotRefulfill">Renew Subscription</string>
+    <string name="StarsSubscriptionBotRefulfillInfo">You can still renew your subscription until %s.</string>
     <string name="StarsSubscriptionExpiredHintTitle2_one">&#11088;&#65039;%1$d Star needed for %2$s</string>
     <string name="StarsSubscriptionExpiredHintTitle2_other">&#11088;&#65039;%1$d Stars needed for %2$s</string>
     <string name="StarsSubscriptionExpiredHintText">Insufficient funds to cover your subscription.</string>
