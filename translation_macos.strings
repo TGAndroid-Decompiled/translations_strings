@@ -10966,7 +10966,7 @@
 "Star.Transaction.Gift" = "Gift";
 
 
-"Star.Transaction.Commission" = "Commision";
+"Star.Transaction.Commission" = "Commission";
 
 
 "Star.Transaction.Tos" = "Review the [Terms of Services](https://telegram.org/tos/stars) for Stars.";
@@ -11742,7 +11742,7 @@
 "AffiliateSetup.AlertTerminate.Text" = "If you end your affiliate program:\n\n• Any referral links already shared will be disabled in 24 hours.\n\n• All participating affiliates will be notified.\n\n• You will be able to start a new affiliate program only in 24 hours.";
 "AffiliateSetup.AlertTerminate.Action" = "End Anyway";
 "AffiliateSetup.AlertApply.Title" = "Warning";
-"AffiliateSetup.AlertApply.Text" = "Once you start the affiliate program, you won't be able to decrease its commission or duration. You can only increase these parameters or end the program, whuch will disable all previously distributed referral links.";
+"AffiliateSetup.AlertApply.Text" = "Once you start the affiliate program, you won't be able to decrease its commission or duration. You can only increase these parameters or end the program, which will disable all previously distributed referral links.";
 "AffiliateSetup.AlertApply.SectionCommission" = "Commission";
 "AffiliateSetup.AlertApply.SectionDuration" = "Duration";
 "AffiliateSetup.AlertApply.Action" = "Start";
@@ -11780,7 +11780,7 @@
 "AffiliateSetup.SuggestedSectionEmpty" = "No available programs yet.\nPlease check the page later.";
 
 "AffiliateSetup.TitleNew" = "Affiliate Program";
-"AffiliateSetup.TextNew" = "Affiliate Program";
+"AffiliateSetup.TextNew" = "Reward those who help grow your user base.";
 "AffiliateSetup.TitleJoin" = "Affiliate Programs";
 "AffiliateSetup.TextJoin" = "Earn a commission each time a user who first accessed a mini app through your referral link spends **Stars** within it.";
 
@@ -11799,7 +11799,7 @@
 "AffiliateSetup.IntroJoin.Text3" = "Choose a mini app below, get your referral link, and start earning Stars.";
 
 "AffiliateProgram.ToastLinkCopied.Title" = "Link copied to clipboard";
-"AffiliateProgram.ToastLinkCopied.Text" = "Share this link and earn **%1$@** of what people who use it spend in **%2$@!";
+"AffiliateProgram.ToastLinkCopied.Text" = "Share this link and earn **%1$@** of what people who use it spend in **%2$@**!";
 
 "AffiliateProgram.DurationLifetime" = "Lifetime";
 
@@ -11811,8 +11811,8 @@
 "AffiliateProgram.PeerTypeSelf" = "personal account";
 
 "AffiliateProgram.JoinTitle" = "Affiliate Program";
-"AffiliateProgram.JoinTerms" = "By joining this program, you agree to the [terms and conditions](https://telegram.org/terms) of Affiliate Programs.";
-"AffiliateProgram.DailyRevenueText" = "The average daily revenue per user: #**%@**";
+"AffiliateProgram.JoinTerms" = "By joining this program, you agree to the [terms and conditions](https://telegram.org/tos/affiliate-program) of Affiliate Programs.";
+"AffiliateProgram.DailyRevenueText" = "App's average daily revenue per user: #**%@**";
 
 "AffiliateProgram.LinkTitle" = "Referral Link";
 "AffiliateProgram.LinkSubtitleLifetime" = "Share this link with your users to earn a **{commission}** commission on their spending in **{bot}** **forever** after they follow your link.";
@@ -11824,8 +11824,8 @@
 "AffiliateProgram.JoinSubtitleLifetime" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it **forever**.";
 "AffiliateProgram.JoinSubtitleMonths_1" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **1 month.**";
 "AffiliateProgram.JoinSubtitleMonths_any" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **%d months.**";
-"AffiliateProgram.JoinSubtitleYears_1" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **1 month.**";
-"AffiliateProgram.JoinSubtitleYears_any" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **%d months.**";
+"AffiliateProgram.JoinSubtitleYears_1" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **1 year**.";
+"AffiliateProgram.JoinSubtitleYears_any" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **%d years**.";
 
 "AffiliateProgram.CommistionDestinationText" = "Commission will be sent to:";
 
@@ -11854,7 +11854,7 @@
 "AffiliatePrograms.Empty" = "No available programs yet. Please check this page later.";
 
 
-"AffiliatePrograms.Confirm.Alert" = "Are you sure you want to leave this program";
+"AffiliatePrograms.Confirm.Alert" = "Are you sure you want to leave this program?";
 "AffiliatePrograms.Confirm.Alert.OK" = "Leave";
 
 
