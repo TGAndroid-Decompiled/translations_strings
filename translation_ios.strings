@@ -1,7 +1,5 @@
-
-"Camera.CollageRetake" = "Retake";
-"Camera.CollageDelete" = "Delete";
-
+"PUSH_STORY_HIDDEN_AUTHOR" = "New story was posted";
+"PUSH_MESSAGE_STARGIFT" = "%1$@|sent you a Gift worth of %2$@ stars";
 
 /* new from translations.telegram.org */
 
@@ -1370,8 +1368,10 @@
 "Calls.StartNewCall" = "Start New Call";
 "Calls.SubmitRating" = "Submit";
 "Calls.TabTitle" = "Calls";
+"Camera.CollageDelete" = "Delete";
 "Camera.CollageManagementTooltip" = "Tap a tile to delete or reorder it.";
 "Camera.CollageReorderingInfo" = "Hold and drag tiles to reorder them.";
+"Camera.CollageRetake" = "Retake";
 "Camera.Discard" = "Discard All";
 "Camera.FlashAuto" = "Auto";
 "Camera.FlashOff" = "Off";
