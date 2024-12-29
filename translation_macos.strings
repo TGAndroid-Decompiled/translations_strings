@@ -8575,7 +8575,7 @@
 
 
 
-"NewSessionReview.Accept.Text" = "You can check the list of your active logins in\n[Settings > Active Sessions.]()";
+"NewSessionReview.Accept.Text" = "You can check the list of your active logins in\n[Settings > Active Sessions]().";
 "NewSessionReview.Accept.Title" = "New Login Allowed";
 
 "NewSessionReview.Item.Title" = "Someone just got access to your messages!";

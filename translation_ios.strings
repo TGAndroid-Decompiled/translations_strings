@@ -2900,8 +2900,8 @@
 "ChatList.PremiumGraceTitle" = "⚠️ Don't lose access to Telegram Premium!";
 "ChatList.PremiumRestoreDiscountText" = "Your Telegram Premium has recently expired. Tap here to extend it.";
 "ChatList.PremiumRestoreDiscountTitle" = "Get Premium back with up to %@ off";
-"ChatList.PremiumXmasGiftText" = "Celebrate with your family and friends by giving them Telegram Premium.";
-"ChatList.PremiumXmasGiftTitle" = "Eid Mubarak! ✨";
+"ChatList.PremiumXmasGiftText" = "Surprise them with gifts for Christmas.";
+"ChatList.PremiumXmasGiftTitle" = "Congratulate **your friends**! 🎄";
 "ChatList.PsaAlert.covid" = "This message provides you with a public service announcement in relation to the ongoing COVID-19 pandemic. Learn more about this initiative at https://telegram.org/blog/coronavirus";
 "ChatList.PsaAlert.psa" = "This is an official message from the CEO of Telegram regarding the ongoing conflict.";
 "ChatList.PsaLabel.covid" = "COVID-19";
