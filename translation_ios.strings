@@ -10026,7 +10026,7 @@ Sorry for the inconvenience.";
 "Wallpaper.NoWallpaper" = "No\nWallpaper";
 
 "ChatList.PremiumXmasGiftTitle" = "Congratulate **your friends**! 🎄";
-"ChatList.PremiumXmasGiftText" = "Surprise them with gifts for Christmas.";
+"ChatList.PremiumXmasGiftText" = "Surprise them with gifts for the New Year.";
 
 "ReassignBoost.DescriptionWithLink" = "To boost **%1$@**, reassign a previous boost or [gift Telegram Premium]() to a friend to get **%2$@** additional boosts.";
 
@@ -12778,7 +12778,7 @@ Sorry for the inconvenience.";
 "FolderLinkPreview.ToastChatsAddedTitleV2" = "Folder {folder} Updated";
 "FolderLinkPreview.ToastFolderAddedTitleV2" = "Folder {folder} Added";
 
-"Stars.Purchase.UpgradeStarGiftInfo" = "Buy Stars to upgrade yort gift into a unique collectible.";
+"Stars.Purchase.UpgradeStarGiftInfo" = "Buy Stars to upgrade your gift into a unique collectible.";
 
 "Gift.Send.Upgrade" = "Make Unique for %@";
 "Gift.Send.Upgrade.Info" = "Enable this to let %1$@ turn your gift into a unique collectible. [Learn More >]()";

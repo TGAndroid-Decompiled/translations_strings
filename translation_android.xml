@@ -6786,7 +6786,7 @@ list of reactions.</string>
     <string name="BoostingReassignBoostTextPluralWithLink_one">To boost **%2$s**, reassign a previous boost or %3$s to a friend to get **%1$d** additional boost.</string>
     <string name="BoostingReassignBoostTextPluralWithLink_other">To boost **%2$s**, reassign a previous boost or %3$s to a friend to get **%1$d** additional boosts.</string>
     <string name="BoostingReassignBoostTextLink">**gift Telegram Premium**</string>
-    <string name="BoostingPremiumChristmasSubTitle">Surprise them with gifts for Christmas.</string>
+    <string name="BoostingPremiumChristmasSubTitle">Surprise them with gifts for the New Year.</string>
     <string name="BoostingPremiumChristmasToast">You can send gifts to friends later from Settings</string>
     <string name="BoostingRemoveBoostFrom">Remove your boost from</string>
     <string name="BoostingAvailableIn">available in %1$s</string>
@@ -8606,7 +8606,7 @@ list of reactions.</string>
     <string name="BotRemoveVerificationChatText">This chat is already verified by you.\nDo you want to revoke verification?</string>
     <string name="BotSentVerifyRequest">**%s** has been notified and will receive your verification mark and description upon accepting.</string>
     <string name="BotSentRevokeVerifyRequest">**%s**\'s verification has been revoked.</string>
-    <string name="ReportSpamUserBotVerificationHint">This page is verified by the %1$s</string>
+    <string name="ReportSpamUserBotVerificationHint">This page is verified by %1$s</string>
     <string name="BotVerifierRepresentatives">This community is verified as official by the representatives of %s.</string>
     <string name="Gift2Status">Status</string>
     <string name="Gift2StatusNonUnique">Non-Unique</string>
@@ -8640,7 +8640,7 @@ list of reactions.</string>
     <string name="Gift2PriceUnique">Unique</string>
     <string name="Gift2AttributeOriginalDetails">Gifted by %1$s to %2$s on %3$s.</string>
     <string name="Gift2AttributeOriginalDetailsComment">Gifted by %1$s to %2$s on %3$s with the comment: “%4$s”</string>
-    <string name="Gift2AttributeOriginalDetailsSelf">Gifted saved by %1$s on %2$s.</string>
+    <string name="Gift2AttributeOriginalDetailsSelf">Saved by %1$s on %2$s.</string>
     <string name="Gift2AttributeOriginalDetailsSelfComment">Gifted by %1$s on %2$s with the comment: “%3$s”</string>
     <string name="Gift2AttributeOriginalDetailsNoSender">Gifted to %1$s on %2$s.</string>
     <string name="Gift2AttributeOriginalDetailsNoSenderComment">Gifted to %1$s on %2$s with the comment: “%3$s”</string>
@@ -8660,8 +8660,8 @@ list of reactions.</string>
     <string name="Gift2ExportTONUnlocksIn_one">unlocks in %d day</string>
     <string name="Gift2ExportTONUnlocksIn_other">unlocks in %d days</string>
     <string name="Gift2ExportTONUnlocksAlertTitle">Unlocking in progress</string>
-    <string name="Gift2ExportTONUnlocksAlertText_one">In %d day, youll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
-    <string name="Gift2ExportTONUnlocksAlertText_other">In %d days, youll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
+    <string name="Gift2ExportTONUnlocksAlertText_one">In %d day, you\'ll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
+    <string name="Gift2ExportTONUnlocksAlertText_other">In %d days, you\'ll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
     <string name="Gift2ExportTONUpdateRequiredTitle">Update required</string>
     <string name="Gift2ExportTONUpdateRequiredText">Please update your Telegram application to the latest version.</string>
     <string name="Gift2RarityHint">Only %s of such collectibles have this attribute</string>
@@ -10045,10 +10045,10 @@ list of reactions.</string>
   <string name="Gift2Converted_two">%d Star were sent to your balance</string>
   <string name="Gift2Converted_few">%d Star were sent to your balance</string>
   <string name="Gift2Converted_many">%d Star were sent to your balance</string>
-  <string name="Gift2ExportTONUnlocksAlertText_zero">In %d days, youll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
-  <string name="Gift2ExportTONUnlocksAlertText_two">In %d days, youll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
-  <string name="Gift2ExportTONUnlocksAlertText_few">In %d days, youll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
-  <string name="Gift2ExportTONUnlocksAlertText_many">In %d days, youll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
+  <string name="Gift2ExportTONUnlocksAlertText_zero">In %d days, you\'ll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
+  <string name="Gift2ExportTONUnlocksAlertText_two">In %d days, you\'ll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
+  <string name="Gift2ExportTONUnlocksAlertText_few">In %d days, you\'ll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
+  <string name="Gift2ExportTONUnlocksAlertText_many">In %d days, you\'ll be able to send this collectible to any TON blockchain address outside Telegram for sale or auction.</string>
   <string name="Gift2ExportTONUnlocksIn_zero">unlocks in %d days</string>
   <string name="Gift2ExportTONUnlocksIn_two">unlocks in %d days</string>
   <string name="Gift2ExportTONUnlocksIn_few">unlocks in %d days</string>
