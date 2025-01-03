@@ -11938,10 +11938,10 @@
 "Gift.Send.Upgrade" = "Make Unique for %@";
 "Gift.Send.Upgrade.Info" = "Enable this to let %1$@ turn your gift into a unique collectible. [Learn More >]()";
 
-"Notification.StarsGift.Upgrade" = "%@ turned the gift from you to a unique collectible";
-"Notification.StarsGift.UpgradeYou" = "You turned the gift from %@ to a unique collectible";
+"Notification.StarsGift.Upgrade" = "%@ turned the gift from you into a unique collectible";
+"Notification.StarsGift.UpgradeYou" = "You turned the gift from %@ into a unique collectible";
 
-"Notification.StarsGift.Transfer" = "%@ transferred you a unique collectible";
+"Notification.StarsGift.Transfer" = "%@ transferred a unique collectible to you";
 "Notification.StarsGift.TransferYou" = "You transferred a unique collectible";
 
 

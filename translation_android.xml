@@ -545,10 +545,10 @@
     <string name="ActionGiftInbound">un1 sent you a gift for **un2**</string>
     <string name="ActionGiftOutbound">You have sent a gift for **un2**</string>
     <string name="ActionGiftSelf">You bought a gift for **un2**</string>
-    <string name="ActionUniqueGiftUpgradeInbound">**un1** turned the gift from you to a unique collectible</string>
-    <string name="ActionUniqueGiftUpgradeOutbound">You turned the gift from **un1** to a unique collectible</string>
-    <string name="ActionUniqueGiftUpgradeSelf">You turned the gift to a unique collectible</string>
-    <string name="ActionUniqueGiftTransferInbound">**un1** transferred you a gift!</string>
+    <string name="ActionUniqueGiftUpgradeInbound">**un1** turned the gift from you into a unique collectible</string>
+    <string name="ActionUniqueGiftUpgradeOutbound">You turned the gift from **un1** into a unique collectible</string>
+    <string name="ActionUniqueGiftUpgradeSelf">You turned the gift into a unique collectible</string>
+    <string name="ActionUniqueGiftTransferInbound">**un1** transferred a gift to you!</string>
     <string name="ActionUniqueGiftTransferOutbound">You transferred a gift to **un1**</string>
     <string name="ActionStarGiftInbound">%s sent you a gift</string>
     <string name="ActionStarGift">Gift</string>
@@ -1541,7 +1541,7 @@
     <string name="NotificationMessageText">%1$s: %2$s</string>
     <string name="NotificationMessageStarGift_one">%2$s sent you a Gift worth of %1$d Star</string>
     <string name="NotificationMessageStarGift_other">%2$s sent you a Gift worth of %1$d Stars</string>
-    <string name="NotificationMessageUniqueStarGift">%1$s transferred you a Gift!</string>
+    <string name="NotificationMessageUniqueStarGift">%1$s transferred a Gift to you!</string>
     <string name="NotificationMessageUniqueStarGiftUpgrade">%1$s upgraded your Gift</string>
     <string name="NotificationMessageFew">%1$s sent you %2$s</string>
     <string name="NotificationMessageAlbum">%1$s sent you an album</string>
