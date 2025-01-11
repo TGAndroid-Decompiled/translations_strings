@@ -11671,6 +11671,102 @@
     <string name="StarsTransactionUnknown">Unknown User</string>
     <string name="StarsTransactionUnknownLink">https://fragment.com/stars</string>
 
+    <string name="SendAnotherGift">Send Another Gift</string>
+    <string name="SendGiftTo">Send Gift to {0}</string>
+
+    <string name="Gift2ActionUpgrade">Tap “Unpack” to turn this gift to a unique collectible.</string>
+    <string name="Gift2ActionUpgradeOut">{0} can turn this gift to a unique collectible.</string>
+    <string name="Gift2Unpack">Unpack</string>
+    <string name="Gift2Status">Status</string>
+    <string name="Gift2StatusNonUnique">Non-Unique</string>
+    <string name="Gift2StatusUpgrade">upgrade</string>
+    <string name="Gift2InfoInFreeUpgrade">Upgrade this gift for free to turn it into a unique collectible.</string>
+    <string name="Gift2InfoFreeUpgrade">{0} can turn this gift to a unique collectible.</string>
+    <string name="Gift2UpgradeButton">Upgrade for &#11088;&#65039;{0}</string>
+    <string name="Gift2UpgradeButtonFree">Upgrade for Free</string>
+    <string name="Gift2Visibility">Visibility</string>
+    <string name="Gift2Visible">Visible on your page</string>
+    <string name="Gift2VisibleHide">hide</string>
+    <string name="Gift2Invisible">Not visible on your page</string>
+    <string name="Gift2InvisibleShow">show</string>
+
+    <string name="Gift2HideSelf">Hide My Name</string>
+    <string name="Gift2HideSelfInfo">Hide my name and message from visitors to my profile</string>
+    <string name="Gift2Upgrade">Make Unique for &#11088;&#65039;{0}</string>
+    <string name="Gift2UpgradeInfo">Enable this to let {0} turn your gift into a unique collectible. **Learn More &gt;**</string>
+
+    <string name="FilterNameAnimationsEnable">Enable Animations</string>
+    <string name="FilterNameAnimationsDisable">Disable Animations</string>
+
+    <string name="ActionUniqueGiftUpgradeInbound">**un1** turned the gift from you into a unique collectible</string>
+    <string name="ActionUniqueGiftUpgradeOutbound">You turned the gift from **un1** into a unique collectible</string>
+    <string name="ActionUniqueGiftUpgradeSelf">You turned the gift into a unique collectible</string>
+    <string name="ActionUniqueGiftTransferInbound">**un1** transferred a gift to you!</string>
+    <string name="ActionUniqueGiftTransferOutbound">You transferred a gift to **un1**</string>
+    <string name="ActionGiftSelf">You bought a gift for **un2**</string>
+    <string name="Gift2UniqueRibbon">gift</string>
+    <string name="Gift2UniqueTitle">Gift from {0}</string>
+    <string name="Gift2UniqueView">View</string>
+    <string name="Gift2AttributeModel">Model</string>
+    <string name="Gift2AttributeBackdrop">Backdrop</string>
+    <string name="Gift2AttributeSymbol">Symbol</string>
+    <string name="Gift2Quantity">Quantity</string>
+    <string name="Gift2QuantityIssued1_other">{0}/</string>
+    <string name="Gift2QuantityIssued2_other">{0} issued</string>
+    <string name="Gift2QuantityIssuedNone_one">None of {0} left</string>
+    <string name="Gift2QuantityIssuedNone_other">None of {0} left</string>
+    <string name="Gift2Owner">Owner</string>
+    <string name="Gift2OwnerChange">transfer</string>
+    <string name="Gift2CollectionNumber_one">Collectible #{0}</string>
+    <string name="Gift2CollectionNumber_other">Collectible #{0}</string>
+    <string name="Gift2AttributeOriginalDetails">Gifted by {0} to {1} on {2}.</string>
+    <string name="Gift2AttributeOriginalDetailsComment">Gifted by {0} to {1} on {2} with the comment: “{3}”</string>
+    <string name="Gift2AttributeOriginalDetailsSelf">Saved by {0} on {1}.</string>
+    <string name="Gift2AttributeOriginalDetailsSelfComment">Gifted by {0} on {1} with the comment: “{2}”</string>
+    <string name="Gift2AttributeOriginalDetailsNoSender">Gifted to {0} on {1}.</string>
+    <string name="Gift2AttributeOriginalDetailsNoSenderComment">Gifted to {0} on {1} with the comment: “{2}”</string>
+    <string name="Gift2RarityHint">Only {0} of such collectibles have this attribute</string>
+    <string name="Gift2Transfer">Transfer {0}</string>
+    <string name="Gift2TransferText">Do you want to transfer ownership of **{0}** to **{1}**?</string>
+    <string name="Gift2TransferPriceText_one">Do you want to transfer ownership of **{1}** to **{2}** for **{0} Star**?</string>
+    <string name="Gift2TransferPriceText_other">Do you want to transfer ownership of **{1}** to **{2}** for **{0} Stars**?</string>
+    <string name="Gift2TransferDo">Transfer</string>
+    <string name="Gift2TransferDoPrice">Transfer for &#11088;&#65039;{0}</string>
+    <string name="Gift2TransferredText">You have successfully transferred **{0}** to **{1}**.</string>
+
+    <string name="BotVerifyAccounts">Verify Accounts</string>
+    <string name="BotChooseChatToVerify">Choose Chat To Verify</string>
+    <string name="BotVerifyUserTitle">Verify User</string>
+    <string name="BotVerifyBotTitle">Verify Bot</string>
+    <string name="BotVerifyChannelTitle">Verify Channel</string>
+    <string name="BotVerifyGroupTitle">Verify Group</string>
+    <string name="BotVerifyText">Do you want to verify **{0}** with your verification mark and description?</string>
+    <string name="BotVerifyDescription">Description</string>
+    <string name="BotVerifyDescriptionInfo">You can customize your description for each account.</string>
+    <string name="BotVerifyDescriptionInfoChat">You can customize your description for each chat.</string>
+    <string name="BotRemoveVerificationTitle">Remove verification</string>
+    <string name="BotRemoveVerificationText">This account is already verified by you.\nDo you want to revoke verification?</string>
+    <string name="BotRemoveVerificationChatText">This chat is already verified by you.\nDo you want to revoke verification?</string>
+    <string name="BotSentVerifyRequest">**{0}** has been notified and will receive your verification mark and description upon accepting.</string>
+    <string name="BotSentRevokeVerifyRequest">**{0}**\'s verification has been revoked.</string>
+    <string name="BotVerifierRepresentatives">This community is verified as official by the representatives of {0}.</string>
+
+    <string name="Gift2UpgradeTitle">Upgrade Gift</string>
+    <string name="Gift2UpgradeText">Turn your gift into a unique collectible that you can transfer or auction.</string>
+    <string name="Gift2UpgradeFeature1Title">Unique</string>
+    <string name="Gift2UpgradeFeature1Text">Get a unique number, model, backdrop and a symbol for your gift.</string>
+    <string name="Gift2UpgradeFeature1TextLearn">The recipient will get a unique number, model, backdrop, and symbol for the gift.</string>
+    <string name="Gift2UpgradeFeature2Title">Transferable</string>
+    <string name="Gift2UpgradeFeature2Text">Send your upgraded gift to any of your friends on Telegram.</string>
+    <string name="Gift2UpgradeFeature2TextLearn">The recipient will be able to send the gift to anyone on Telegram.</string>
+    <string name="Gift2UpgradeFeature3Title">Tradable</string>
+    <string name="Gift2UpgradeFeatureSoon">SOON</string>
+    <string name="Gift2UpgradeFeature3Text">Sell or auction your gift on third-party NFT marketplaces.</string>
+    <string name="Gift2UpgradeFeature3TextLearn">The recipient will be able to auction the gift on third-party NFT marketplaces.</string>
+    <string name="Gift2AddSenderName">Add sender\'s name to the gift</string>
+    <string name="Gift2AddSenderNameComment">Add sender\'s name and comment</string>
+    <string name="Gift2AddMyNameName">Add my name to the gift</string>
+
 
   <!-- new from translations.telegram.org -->
 
@@ -11686,6 +11782,28 @@
   <string name="ChannelAffiliateProgramLinkOpened_two">{0} users have opened {1} through this link.</string>
   <string name="ChannelAffiliateProgramLinkOpened_few">{0} users have opened {1} through this link.</string>
   <string name="ChannelAffiliateProgramLinkOpened_many">{0} users have opened {1} through this link.</string>
+  <string name="Gift2CollectionNumber_zero">Collectible #{0}</string>
+  <string name="Gift2CollectionNumber_two">Collectible #{0}</string>
+  <string name="Gift2CollectionNumber_few">Collectible #{0}</string>
+  <string name="Gift2CollectionNumber_many">Collectible #{0}</string>
+  <string name="Gift2QuantityIssued1_zero">{0}/</string>
+  <string name="Gift2QuantityIssued1_one"></string>
+  <string name="Gift2QuantityIssued1_two">{0}/</string>
+  <string name="Gift2QuantityIssued1_few">{0}/</string>
+  <string name="Gift2QuantityIssued1_many">{0}/</string>
+  <string name="Gift2QuantityIssued2_zero">{0} issued</string>
+  <string name="Gift2QuantityIssued2_one"></string>
+  <string name="Gift2QuantityIssued2_two">{0} issued</string>
+  <string name="Gift2QuantityIssued2_few">{0} issued</string>
+  <string name="Gift2QuantityIssued2_many">{0} issued</string>
+  <string name="Gift2QuantityIssuedNone_zero">None of {0} left</string>
+  <string name="Gift2QuantityIssuedNone_two">None of {0} left</string>
+  <string name="Gift2QuantityIssuedNone_few">None of {0} left</string>
+  <string name="Gift2QuantityIssuedNone_many">None of {0} left</string>
+  <string name="Gift2TransferPriceText_zero">Do you want to transfer ownership of **{1}** to **{2}** for **{0} Stars**?</string>
+  <string name="Gift2TransferPriceText_two">Do you want to transfer ownership of **{1}** to **{2}** for **{0} Stars**?</string>
+  <string name="Gift2TransferPriceText_few">Do you want to transfer ownership of **{1}** to **{2}** for **{0} Stars**?</string>
+  <string name="Gift2TransferPriceText_many">Do you want to transfer ownership of **{1}** to **{2}** for **{0} Stars**?</string>
   <string name="LastSeenHours_zero">last seen {0} hours ago</string>
   <string name="LastSeenHours_two">last seen {0} hours ago</string>
   <string name="LastSeenHours_few">last seen {0} hours ago</string>

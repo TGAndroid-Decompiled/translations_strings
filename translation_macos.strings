@@ -3501,7 +3501,7 @@
 
 "AutoNight.Settings.Sunrise.Desc" = "Calculating sunset & sunrise times requires a one-time check of your approximate location. Note that this location is only stored locally on your device.\n\nSunset: %@\nSunrise: %@";
 "AutoNight.Settings.Sunrise.Desc.NA" = "Calculating sunset & sunrise times requires a one-time check of your approximate location. Note that this location is only stored locally on your device.\n\nSunset: N/A\nSunrise: N/A";
-"AutoNight.Settings.Title" = "Auto-Night Theme";
+"AutoNight.Settings.Title" = "Auto-Night Mode";
 "AutoNight.Settings.From" = "From";
 "AutoNight.Settings.To" = "To";
 "AutoNight.Settings.UpdateLocation" = "Update Location";
