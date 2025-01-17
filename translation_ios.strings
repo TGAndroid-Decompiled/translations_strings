@@ -10393,7 +10393,7 @@ Sorry for the inconvenience.";
 
 "Settings.About.PrivacyHelp" = "You can add a few lines about yourself. Choose who can see your bio in [Settings]().";
 
-"Attachment.Create" = "Create";
+"Attachment.Create" = "Create sticker";
 "Attachment.SelectFromFiles" = "Select from Files";
 
 "Stats.Monetization" = "Monetization";
@@ -11655,7 +11655,7 @@ Sorry for the inconvenience.";
 
 "Conversation.CodeCopied" = "Code copied to clipboard";
 
-"Stars.Purchase.StarGiftInfo" = "Buy Stars to send **%@** gifts that can be kept on the profile or converted to Stars.";
+"Stars.Purchase.StarGiftInfo" = "Buy Stars to send **%@** gifts that can be added to their profile or converted to Stars.";
 
 "SharedMedia.GiftCount_1" = "%@ gift";
 "SharedMedia.GiftCount_any" = "%@ gifts";
@@ -11663,7 +11663,7 @@ Sorry for the inconvenience.";
 "Stars.Info.Title" = "What are Stars?";
 "Stars.Info.Description" = "Telegram Stars allow users to:";
 "Stars.Info.Gift.Title" = "Send Gifts to Friends";
-"Stars.Info.Gift.Text" = "Give your friends gifts that can be kept on their profiles or converted to Stars.";
+"Stars.Info.Gift.Text" = "Give your friends gifts that can be added to their profiles or converted to Stars.";
 "Stars.Info.Miniapp.Title" = "Use Stars in Mini Apps";
 "Stars.Info.Miniapp.Text" = "Buy additional content and services in Telegram mini apps. [See Examples >]()";
 "Stars.Info.Media.Title" = "Unlock Content in Channels";
@@ -11675,13 +11675,13 @@ Sorry for the inconvenience.";
 "Gift.View.Title" = "Gift";
 "Gift.View.ReceivedTitle" = "Received Gift";
 "Gift.View.UnavailableTitle" = "Unavailable";
-"Gift.View.KeepOrConvertDescription" = "You can keep this gift in your Profile or convert it to %@. [More About Stars >]()";
+"Gift.View.KeepOrConvertDescription" = "You can add this gift to your Profile or convert it to %@. [More About Stars >]()";
 "Gift.View.KeepOrConvertDescription.Stars_1" = "%@ Star";
 "Gift.View.KeepOrConvertDescription.Stars_any" = "%@ Stars";
 "Gift.View.ConvertedDescription" = "You converted this gift to %@. [More About Stars >]()";
 "Gift.View.ConvertedDescription.Stars_1" = "%@ Star";
 "Gift.View.ConvertedDescription.Stars_any" = "%@ Stars";
-"Gift.View.OtherDescription" = "%1$@ can keep this gift in their Profile or convert it to %2$@. [More About Stars >]()";
+"Gift.View.OtherDescription" = "%1$@ can add this gift to their profile or convert it to %2$@. [More About Stars >]()";
 "Gift.View.OtherDescription.Stars_1" = "%@ Star";
 "Gift.View.OtherDescription.Stars_any" = "%@ Stars";
 "Gift.View.UnavailableDescription" = "This gift has sold out";
@@ -11699,7 +11699,7 @@ Sorry for the inconvenience.";
 "Gift.View.Availability.Of" = "%1$@ of %2$@";
 "Gift.View.Availability.NewOf" = "%1$@ of %2$@ left";
 "Gift.View.Visibility" = "Visibility";
-"Gift.View.Visibility.Visible" = "Visible on your page";
+"Gift.View.Visibility.Visible" = "Visible on your profile";
 "Gift.View.Visibility.Hide" = "hide";
 "Gift.View.Hide" = "Hide from My Page";
 "Gift.View.Display" = "Display on My Page";
@@ -11753,11 +11753,11 @@ Sorry for the inconvenience.";
 "PeerInfo.Gifts.OneOf" = "1 of %@";
 
 "Notification.StarGift.Title" = "Gift from %@";
-"Notification.StarGift.Subtitle" = "Display this gift on your page or convert it to %@.";
+"Notification.StarGift.Subtitle" = "Add this gift to your profile or convert it to %@.";
 
 "Notification.StarGift.Subtitle.Stars_1" = "%@ Star";
 "Notification.StarGift.Subtitle.Stars_any" = "%@ Stars";
-"Notification.StarGift.Subtitle.Other" = "%1$@ can keep this gift on their page or convert it to %2$@.";
+"Notification.StarGift.Subtitle.Other" = "%1$@ can add this gift to their profile or convert it to %2$@.";
 "Notification.StarGift.Subtitle.Other.Stars_1" = "%@ Star";
 "Notification.StarGift.Subtitle.Other.Stars_any" = "%@ Stars";
 "Notification.StarGift.Subtitle.Converted" = "You converted this gift to %@.";
@@ -11923,10 +11923,10 @@ Sorry for the inconvenience.";
 "Stars.Transaction.Subscription.CancelledByBot" = "Your subscription was cancelled by the bot.";
 "Stars.Transaction.Subscription.CancelledByBusiness" = "Your subscription was cancelled by the business.";
 
-"Gift.View.BotDescription" = "You can keep this gift in your Profile or hide it.";
+"Gift.View.BotDescription" = "You can add this gift to your profile or hide it.";
 
-"Notification.StarGift.Bot.Subtitle" = "Display this gift on your page.";
-"Notification.StarGift.Bot.Subtitle.Displaying" = "You are displaying this gift on your page.";
+"Notification.StarGift.Bot.Subtitle" = "Display this gift on your profile.";
+"Notification.StarGift.Bot.Subtitle.Displaying" = "You are displaying this gift on your profile.";
 
 "Privacy.Gifts" = "Gifts";
 "Privacy.Gifts.WhoCanSeeMyBio" = "WHO CAN DISPLAY GIFTS ON MY PROFILE";
@@ -11942,7 +11942,7 @@ Sorry for the inconvenience.";
 "PeerInfo.Permissions.Title" = "ALLOW ACCESS TO";
 "PeerInfo.Permissions.EmojiStatus" = "Emoji Status";
 "PeerInfo.Permissions.Geolocation" = "Geolocation";
-"PeerInfo.Permissions.Biometry" = "Biometry";
+"PeerInfo.Permissions.Biometry" = "Biometrics";
 
 "Stars.Transaction.Subscription" = "Subscription";
 "Stars.Transaction.Subscription.Bot" = "Bot";
@@ -11961,25 +11961,25 @@ Sorry for the inconvenience.";
 "WebApp.Emoji.DurationText" = "Do you want to set this emoji status suggested by **%1$@** for **%2$@**?";
 "WebApp.Emoji.Confirm" = "Confirm";
 
-"WebApp.Emoji.Succeed" = "Your emoji status was updated.";
+"WebApp.Emoji.Succeed" = "Emoji status updated.";
 "WebApp.Emoji.DurationSucceed" = "Emoji status set for %@.";
 
-"WebApp.EmojiPermission.Text" = "**%1$@** requests access to set your **emoji status**. You will be able to revoke this access in the profile page of **%2$@**.";
+"WebApp.EmojiPermission.Text" = "**%1$@** requests access your **emoji status**. You can revoke this access anytime on the profile page of **%2$@**.";
 "WebApp.EmojiPermission.Allow" = "Allow";
 "WebApp.EmojiPermission.Decline" = "Decline";
 "WebApp.EmojiPermission.Succeed" = "**%@** can now set your emoji status anytime.";
 "WebApp.EmojiPermission.Undo" = "Undo";
 
-"WebApp.LocationPermission.Text" = "**%1$@** requests access to your **location**. You will be able to revoke this access in the profile page of **%2$@**.";
+"WebApp.LocationPermission.Text" = "**%1$@** requests access to your **location**. You can revoke this access anytime on the profile page of **%2$@**.";
 "WebApp.LocationPermission.Allow" = "Allow";
 "WebApp.LocationPermission.Decline" = "Decline";
-"WebApp.LocationPermission.Succeed" = "**%@** can now have access to your location.";
+"WebApp.LocationPermission.Succeed" = "**%@** can now access your location.";
 "WebApp.LocationPermission.Undo" = "Undo";
 
 "WebApp.Download.Photo" = "Download Photo";
 "WebApp.Download.Video" = "Download Video";
 "WebApp.Download.Document" = "Download Document";
-"WebApp.Download.Text" = "**%1$@** suggests you to download **%2$@**%3$@.";
+"WebApp.Download.Text" = "**%1$@** offers you to download **%2$@**%3$@.";
 "WebApp.Download.Download" = "Download";
 "WebApp.Download.Cancel" = "Cancel";
 
@@ -12015,7 +12015,7 @@ Sorry for the inconvenience.";
 "MediaPicker.InvertCaption.Updated.Down.Text" = "Text will be shown below the media.";
 
 "AffiliateSetup.AlertTerminate.Title" = "Warning";
-"AffiliateSetup.AlertTerminate.Text" = "If you end your affiliate program:\n\n• Any referral links already shared will be disabled in 24 hours.\n\n• All participating affiliates will be notified.\n\n• You will be able to start a new affiliate program only in 24 hours.";
+"AffiliateSetup.AlertTerminate.Text" = "If you end your affiliate program:\n\n• Any referral links already shared will be disabled in 24 hours.\n\n• All participating affiliates will be notified.\n\n• You will not be able to start a new affiliate program for 24 hours.";
 "AffiliateSetup.AlertTerminate.Action" = "End Anyway";
 "AffiliateSetup.AlertApply.Title" = "Warning";
 "AffiliateSetup.AlertApply.Text" = "Once you start the affiliate program, you won't be able to decrease its commission or duration. You can only increase these parameters or end the program, which will disable all previously distributed referral links.";
@@ -12267,8 +12267,8 @@ Sorry for the inconvenience.";
 "Notification.StarGift.Subtitle.Refunded" = "This gift cannot be converted to Stars because the payment related to it was refunded.";
 "Notification.StarGift.Subtitle.Downgraded" = "This gift was downgraded because a request to refund the payment related to this gift was made, and the money was returned.";
 
-"Notification.StarGift.Subtitle.Upgrade" = "Tap \"Unpack\" to turn this gift to a unique collectible.";
-"Notification.StarGift.Subtitle.Upgrade.Other" = "%1$@ can turn this gift to a unique collectible.";
+"Notification.StarGift.Subtitle.Upgrade" = "Tap \"Unpack\" to turn this gift into a unique collectible.";
+"Notification.StarGift.Subtitle.Upgrade.Other" = "%1$@ can turn this gift into a unique collectible.";
 
 "Notification.StarGift.Subtitle.Upgraded" = "This gift was upgraded.";
 
@@ -12295,7 +12295,7 @@ Sorry for the inconvenience.";
 
 "Notification.StarGift.Self.Title" = "Saved Gift";
 "Notification.StarsGift.Self.Bought" = "You bought a gift for %@";
-"Notification.StarsGift.Subtitle.Self" = "You can display this gift on your page or turn it into a unique collectible and send to others.";
+"Notification.StarsGift.Subtitle.Self" = "You can add this gift to your profile or upgrade it to a unique collectible to keep or transfer.";
 
 "Gift.View.Self.Title" = "Saved Gift";
 "Gift.View.Self.Description" = "You can display this gift on your page or turn it into a unique collectible and send to others.";

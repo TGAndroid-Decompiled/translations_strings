@@ -1419,6 +1419,7 @@
     <string name="FakeMessage">FAKE</string>
     <string name="ViaBot">via</string>
     <string name="MessageNotFound">Message doesn\'t exist</string>
+    <string name="UniqueGiftNotFound">Gift not found.</string>
     <string name="SlowModeHint">Slow Mode is active. You can send\nyour next message in %1$s.</string>
     <string name="TapForVideo">Tap for photo, hold for video</string>
     <string name="SendWithoutSound">Send Without Sound</string>
@@ -2962,6 +2963,7 @@
     <string name="SharedGIFsTab2">GIFs</string>
     <string name="SharedContentTitle">Shared Content</string>
     <string name="SimilarChannelsTab">Similar Channels</string>
+    <string name="SimilarBotsTab">Similar Bots</string>
     <string name="NoMedia">Share photos and videos in this chat and access them on any of your devices.</string>
     <string name="NoSharedAudio">Share music in this chat and access it on any of your devices.</string>
     <string name="NoSharedFiles">Share files and documents in this chat and access them on any of your devices.</string>
@@ -4410,6 +4412,8 @@
     <string name="ChatsException_other">%1$d chats</string>
     <string name="Channels_one">%1$d channel</string>
     <string name="Channels_other">%1$d channels</string>
+    <string name="Bots_one">%1$d bot</string>
+    <string name="Bots_other">%1$d bots</string>
     <string name="Groups_one">%1$d group</string>
     <string name="Groups_other">%1$d groups</string>
     <string name="Members_one">%1$d member</string>
@@ -6241,6 +6245,10 @@
     <string name="StorySharedToSavedMessages">Story forwarded to **Saved Messages**</string>
     <string name="StorySharedToManyChats_one">Story forwarded to **a chat**.</string>
     <string name="StorySharedToManyChats_other">Story forwarded to **%1$d chats**.</string>
+    <string name="LinkSharedToSavedMessages">Link forwarded to **Saved Messages**</string>
+    <string name="LinkSharedTo">Link forwarded to **%s**.</string>
+    <string name="LinkSharedToManyChats_one">Link forwarded to **a chat**.</string>
+    <string name="LinkSharedToManyChats_other">Link forwarded to **%1$d chats**.</string>
     <string name="StoryNotFound">This story is no longer available</string>
     <string name="StoryNotificationHidden_one">%d story was posted</string>
     <string name="StoryNotificationHidden_other">%d stories were posted</string>
@@ -6408,6 +6416,7 @@
     <string name="StealthModeCooldownHint">Please wait until **Stealth Mode** is ready to use again.</string>
     <string name="StoryViewLocation">View Location &gt;</string>
     <string name="StoryViewMessage">View Message &gt;</string>
+    <string name="StoryViewGift">Show Gift &gt;</string>
     <string name="AccDescrLike">Like</string>
     <string name="ReactionLongTapHint">Long tap for more reactions.</string>
     <string name="ReactionAddReactionsHint">Add Reactions...</string>
@@ -7027,6 +7036,7 @@ list of reactions.</string>
     <string name="ChannelProfileColorEmojiApplied">Emoji logos added to your channel profile!</string>
     <string name="CopyCode">Copy Code</string>
     <string name="SimilarChannels">Similar Channels</string>
+    <string name="SimilarBots">Similar Bots</string>
     <string name="ApplyWallpaperForMe">Apply for Me</string>
     <string name="ApplyWallpaperForMeAndPeer">Apply for Me and %s</string>
     <string name="ApplyWallpaperForChannel">Apply for %s</string>
@@ -7053,6 +7063,8 @@ list of reactions.</string>
     <string name="UnlockSimilar">Unlock more channels</string>
     <string name="MoreSimilarButton">Show More Channels</string>
     <string name="MoreSimilarText">Subscribe to **Telegram Premium**\nto unlock up to %s similar channels.</string>
+    <string name="MoreSimilarBotsButton">Show More Apps</string>
+    <string name="MoreSimilarBotsText">Subscribe to **Telegram Premium**\nto unlock up to %s similar apps.</string>
     <string name="StoryRepostCommented">commented</string>
     <string name="BoostLevel_other">Level %d</string>
     <string name="BoostLevelPlus_other">Level %d+</string>
@@ -7106,6 +7118,8 @@ list of reactions.</string>
     <string name="ReadMore">Read More</string>
     <string name="RepostedToProfile">Message reposted to your profile.</string>
     <string name="RepostedToChannelProfile">Message reposted to **%s**.</string>
+    <string name="GiftRepostedToProfile">Gift reposted to your profile.</string>
+    <string name="GiftRepostedToChannelProfile">Gift reposted to **%s**.</string>
     <string name="StorySetWallpaper">Select Wallpaper</string>
     <string name="SavedMessagesTab2">Saved</string>
     <string name="SavedDialogsTab">Chats</string>
@@ -7633,6 +7647,7 @@ list of reactions.</string>
     <string name="SearchChannels">Channels</string>
     <string name="OpenStickerSet">VIEW STICKERS</string>
     <string name="OpenEmojiSet">VIEW EMOJI</string>
+    <string name="OpenUniqueGift">VIEW COLLECTIBLE</string>
     <string name="StoriesPinned_one">Story pinned</string>
     <string name="StoriesPinned_other">%d stories pinned</string>
     <string name="StoriesUnpinned_one">Story unpinned.</string>
@@ -7659,7 +7674,7 @@ list of reactions.</string>
     <string name="NotifyAboutReactionsFrom">Notify about reactions from</string>
     <string name="NotifyAboutReactionsFromContacts">My Contacts</string>
     <string name="NotifyAboutReactionsFromEveryone">Everyone</string>
-    <string name="StickerCreateEmpty">Create</string>
+    <string name="StickerCreateEmpty">Create sticker</string>
     <string name="NoChannelsTitle">No channels yet…</string>
     <string name="NoChannelsMessage">You are not subscribed to any channel.</string>
     <string name="SetIntroSticker">Set Intro Sticker</string>
@@ -7764,8 +7779,8 @@ list of reactions.</string>
     <string name="StarsConfirmPurchaseButton_other">Confirm and Pay &#11088;&#65039; %d Stars</string>
     <string name="StarsConfirmPurchaseTOS">By purchasing you agree to the **Terms of Service**.</string>
     <string name="StarsConfirmSubscriptionTitle">Confirm Your Subscription</string>
-    <string name="StarsConfirmSubscriptionText2_one">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** star per month?</string>
-    <string name="StarsConfirmSubscriptionText2_other">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** stars per month?</string>
+    <string name="StarsConfirmSubscriptionText2_one">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** Star per month?</string>
+    <string name="StarsConfirmSubscriptionText2_other">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** Stars per month?</string>
     <string name="StarsConfirmSubscriptionButton_other">Subscribe for &#11088;&#65039; %d / month</string>
     <string name="StarsConfirmSubscriptionTOS">By subscribing you agree to the **Terms of Service**.</string>
     <string name="StarsNeededTitle_one">%d Star Needed</string>
@@ -7774,8 +7789,8 @@ list of reactions.</string>
     <string name="StarsNeededBizText">Buy **Stars** and use them on **%s** and businesses.</string>
     <string name="StarsNeededTextBuySubscription">Buy **Stars** and subscribe to **%s** and other channels.</string>
     <string name="StarsNeededTextKeepSubscription">Buy **Stars** to keep your subscription to **%s**.</string>
-    <string name="StarsNeededTextKeepBotSubscription">Buy **Stars** to keep your subscription for **%s**.</string>
-    <string name="StarsNeededTextKeepBizSubscription">Buy **Stars** to keep your subscription for **%s**.</string>
+    <string name="StarsNeededTextKeepBotSubscription">Buy **Stars** to keep your subscription to **%s**.</string>
+    <string name="StarsNeededTextKeepBizSubscription">Buy **Stars** to keep your subscription to **%s**.</string>
     <string name="StarsNeededTextReactions">Buy **Stars** to send paid reactions to **%s** and other channels.</string>
     <string name="StarsNeededTextGift">Buy **Stars** to send gifts to **%s** and other contacts.</string>
     <string name="StarsNeededTextGiftUpgrade">Buy **Stars** to upgrade your gifts.</string>
@@ -8208,7 +8223,7 @@ list of reactions.</string>
     <string name="Gift2StarsSelfInfo1">Buy yourself a gift to display on your page or reserve for later.</string>
     <string name="Gift2StarsSelfInfo2">Limited-edition gifts upgraded to collectibles can be gifted to others later.</string>
     <string name="Gift2InfoInFreeUpgrade">Upgrade this gift for free to turn it into a unique collectible.</string>
-    <string name="Gift2InfoFreeUpgrade">%s can turn this gift to a unique collectible.</string>
+    <string name="Gift2InfoFreeUpgrade">%s can turn this gift into a unique collectible.</string>
     <string name="Gift2StarsInfoLink">What are Stars &gt;</string>
     <string name="Gift2Title">Send a Gift</string>
     <string name="Gift2TitleSelf1">Buy a Gift</string>
@@ -8235,19 +8250,19 @@ list of reactions.</string>
     <string name="Gift2ActionTitleAnonymous">You received a gift!</string>
     <string name="Gift2ActionConvertRefundedText">This gift cannot be converted to Stars because the payment related to it was refunded.</string>
     <string name="Gift2ActionUpgradeRefundedText">This gift was downgraded because a request to refund the payment related to this gift was made, and the money was returned.</string>
-    <string name="Gift2ActionInfo_one">Display this gift on your page or convert it to %d Star.</string>
-    <string name="Gift2ActionInfo_other">Display this gift on your page or convert it to %d Stars.</string>
-    <string name="Gift2ActionBotInfo">You can display this gift on your page.</string>
-    <string name="Gift2ActionSavedInfo">You kept this gift on your page.</string>
-    <string name="Gift2ActionBotSavedInfo">This gift is now visible on your page.</string>
+    <string name="Gift2ActionInfo_one">Add this gift to your profile or convert it to %d Star.</string>
+    <string name="Gift2ActionInfo_other">Add this gift to your profile or convert it to %d Stars.</string>
+    <string name="Gift2ActionBotInfo">You can add this gift to your profile.</string>
+    <string name="Gift2ActionSavedInfo">You added this gift to your profile.</string>
+    <string name="Gift2ActionBotSavedInfo">This gift is now visible on your profile.</string>
     <string name="Gift2ActionConvertedInfo_one">You converted this gift to %d Star.</string>
     <string name="Gift2ActionConvertedInfo_other">You converted this gift to %d Stars.</string>
-    <string name="Gift2ActionSelfInfo_one">Display this gift on your page or convert it to %1$d Star.</string>
-    <string name="Gift2ActionSelfInfo_other">Display this gift on your page or convert it to %1$d Stars.</string>
-    <string name="Gift2ActionSelfInfoNoConvert">Display this gift on your page.</string>
-    <string name="Gift2ActionSelfInfoUpgrade">You can display this gift on your page or turn it into a unique collectible and send to others.</string>
-    <string name="Gift2ActionOutInfo_one">**%2$s** can display this gift on their page or convert it to %1$d Star.</string>
-    <string name="Gift2ActionOutInfo_other">**%2$s** can display this gift on their page or convert it to %1$d Stars.</string>
+    <string name="Gift2ActionSelfInfo_one">Add this gift to your profile or convert it to %1$d Star.</string>
+    <string name="Gift2ActionSelfInfo_other">Add this gift to your profile or convert it to %1$d Stars.</string>
+    <string name="Gift2ActionSelfInfoNoConvert">Add this gift to your profile.</string>
+    <string name="Gift2ActionSelfInfoUpgrade">You can add this gift to your profile or upgrade it to a unique collectible to keep or transfer.</string>
+    <string name="Gift2ActionOutInfo_one">**%2$s** can add this gift to their profile or convert it to %1$d Star.</string>
+    <string name="Gift2ActionOutInfo_other">**%2$s** can add this gift to their profile or convert it to %1$d Stars.</string>
     <string name="Gift2ActionOutInfoNoConvert">**%s** can display this gift on their page.</string>
     <string name="Gift2ActionOutInfoUpgrade">**%s** can display this gift on their page or convert it to unique collectible.</string>
     <string name="Gift2StarsCount_one">%d Star</string>
@@ -8271,36 +8286,35 @@ list of reactions.</string>
     <string name="Gift2TitleReceived">Received Gift</string>
     <string name="Gift2TitleSaved">Saved Gift</string>
     <string name="TelegramPremiumShort">Premium</string>
-    <string name="Gift2Info2Out_one">%2$s can keep this gift in their Profile or convert it to **%1$d** Star.</string>
-    <string name="Gift2Info2Out_other">%2$s can keep this gift in their Profile or convert it to **%1$d** Stars.</string>
-    <string name="Gift2Info2OutUpgrade">%1$s can keep this gift in their Profile or upgrade to unique collectible.</string>
-    <string name="Gift2Info2OutExpired">%1$s can keep this gift in their Profile.</string>
-    <string name="Gift2Info2_one">You can keep this gift in your Profile or convert it to **%1$d** Star within **%2$s**.</string>
-    <string name="Gift2Info2_other">You can keep this gift in your Profile or convert it to **%1$d** Stars within **%2$s**.</string>
-    <string name="Gift2Info2Expired_one">You can keep this %d Star gift in your Profile.</string>
-    <string name="Gift2Info2Expired_other">You can keep this %d Stars gift in your Profile.</string>
+    <string name="Gift2Info2Out_one">%2$s can add this gift to their profile or convert it to **%1$d** Star.</string>
+    <string name="Gift2Info2Out_other">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
+    <string name="Gift2Info2OutUpgrade">%1$s can add this gift to their Profile or upgrade it to a unique collectible.</string>
+    <string name="Gift2Info2OutExpired">%1$s can add this gift to their Profile.</string>
+    
+    
+    <string name="Gift2Info2Expired_one">You can add this gift of %d Stars to your profile.</string>
+    <string name="Gift2Info2Expired_other">You can add this gift of  %d Stars to your profile.</string>
     <string name="Gift2Info2BotRemove">You can remove this gift from your Profile.</string>
-    <string name="Gift2Info2BotKeep">You can keep this gift in your Profile.</string>
+    <string name="Gift2Info2BotKeep">You can add this gift to your profile or hide it.</string>
     <string name="Gift2Info2RemoveUpgrade">You can remove this gift from your Profile or upgrade to unique collectible.</string>
-    <string name="Gift2Info2KeepUpgrade">You can keep this gift in your Profile or upgrade to unique collectible.</string>
-    <string name="Gift2InfoOut_one">%2$s can keep this gift in profile or convert it to **%1$d** Star.</string>
-    <string name="Gift2InfoOut_other">%2$s can keep this gift in profile or convert it to **%1$d** Stars.</string>
+    <string name="Gift2Info2KeepUpgrade">You can add this gift to your Profile or upgrade it to a unique collectible.</string>
+    <string name="Gift2InfoOut_one">%2$s can add this gift to their profile or convert it to **%1$d** Star.</string>
+    <string name="Gift2InfoOut_other">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
     <string name="Gift2InfoConverted_one">You converted this gift to **%d** Star.</string>
     <string name="Gift2InfoConverted_other">You converted this gift to **%d** Stars.</string>
     <string name="Gift2InfoOutConverted_one">%2$s converted this gift to **%d** Star.</string>
     <string name="Gift2InfoOutConverted_other">%2$s converted this gift to **%d** Stars.</string>
-    <string name="Gift2InfoOutPinned">%1$s kept this gift in their Profile.</string>
+    <string name="Gift2InfoOutPinned">%1$s added this gift to their profile.</string>
     <string name="Gift2SenderHidden">Only you can see the sender\'s name.</string>
-    <string name="Gift2ProfileVisible">This gift is visible to visitors of your page.</string>
-    <string name="Gift2ProfileVisible2">This gift is visible to visitors of your page. **View &gt;**</string>
-    <string name="Gift2ProfileInvisible">This gift is hidden. Only you can see it.</string>
+    
+    
     <string name="Gift2More">**More about Stars &gt;**</string>
     <string name="Gift2From">From</string>
     <string name="Gift2To">To</string>
     <string name="Gift2Visibility">Visibility</string>
-    <string name="Gift2Visible">Visible on your page</string>
+    <string name="Gift2Visible">Visible on your profile</string>
     <string name="Gift2VisibleHide">hide</string>
-    <string name="Gift2Invisible">Not visible on your page</string>
+    <string name="Gift2Invisible">Not visible on your profile</string>
     <string name="Gift2InvisibleShow">show</string>
     <string name="Gift2Availability">Availability</string>
     <string name="Gift2Quantity">Quantity</string>
@@ -8326,7 +8340,7 @@ list of reactions.</string>
     <string name="ExplainStarsTitle">What are Stars?</string>
     <string name="ExplainStarsTitle2">Telegram Stars allow users to:</string>
     <string name="ExplainStarsFeature1Title">Send Gifts to Friends</string>
-    <string name="ExplainStarsFeature1Text">Give your friends gifts that can be kept on their profiles or converted to Stars.</string>
+    <string name="ExplainStarsFeature1Text">Give your friends gifts that can be added to their profiles or converted to Stars.</string>
     <string name="ExplainStarsFeature2Title">Use Stars in mini apps</string>
     <string name="ExplainStarsFeature2Text">Buy additional content and services in Telegram mini apps. **See Examples &gt;**</string>
     <string name="ExplainStarsFeature3Title">Unlock content in channels</string>
@@ -8443,8 +8457,8 @@ list of reactions.</string>
     <string name="BotEmojiStatusSetRequestForHour_other">%d hours</string>
     <string name="BotEmojiStatusSetRequestForDay_one">%d day</string>
     <string name="BotEmojiStatusSetRequestForDay_other">%d days</string>
-    <string name="BotEmojiStatusPermissionRequest">**%1$s** requests access to set your **emoji status**. You will be able to revoke this access on the profile page of **%2$s**.</string>
-    <string name="BotLocationPermissionRequest">**%1$s** requests access to your location. You will be able to revoke this access in the profile page of **%2$s**.</string>
+    <string name="BotEmojiStatusPermissionRequest">**%1$s** requests access to your **emoji status**. You can revoke this access anytime on the profile page of **%2$s**.</string>
+    <string name="BotLocationPermissionRequest">**%1$s** requests access to your location. You can revoke this access anytime on the profile page of **%2$s**.</string>
     <string name="BotEmojiStatusPermissionAllow">Allow</string>
     <string name="BotEmojiStatusPermissionDecline">Decline</string>
     <string name="BotLocationPermissionAllow">Allow</string>
@@ -8453,17 +8467,17 @@ list of reactions.</string>
     <string name="BotProfilePermissions">Allow access to</string>
     <string name="BotProfilePermissionLocation">Geolocation</string>
     <string name="BotProfilePermissionEmojiStatus">Emoji Status</string>
-    <string name="BotProfilePermissionBiometry">Biometry</string>
+    <string name="BotProfilePermissionBiometry">Biometrics</string>
     <string name="BotLocationPermissionRequestGranted">**%s** can now access your location</string>
-    <string name="BotLocationPermissionRequestDeniedApp">**%s** can no longer access to your location since you restricted Telegram from accessing it.</string>
+    <string name="BotLocationPermissionRequestDeniedApp">**%s** can no longer access your location since you restricted Telegram from accessing it.</string>
     <string name="BotLocationPermissionRequestDeniedAppSettings">Change in Settings \&gt;</string>
     <string name="BotEmojiStatusPermissionRequestGranted">**%s** can now set your emoji status at any time.</string>
-    <string name="BotEmojiStatusUpdated">Your emoji status is updated.</string>
+    <string name="BotEmojiStatusUpdated">Emoji status updated.</string>
     <string name="BotFullscreenBack">Back</string>
     <string name="BotFullscreenClose">Close</string>
     <string name="BotDownloads">Downloads</string>
     <string name="BotDownloadFileTitle">Download Document</string>
-    <string name="BotDownloadFileText">**%s** offers you download the following file:</string>
+    <string name="BotDownloadFileText">**%s** offers you to download the following file:</string>
     <string name="BotDownloadFileDownload">Download</string>
     <string name="BotShareMessage">Share Message</string>
     <string name="BotShareMessagePreview">Message preview</string>
@@ -8500,13 +8514,13 @@ list of reactions.</string>
     <string name="AffiliateProgramExistingProgramsText">Explore what other mini apps offer.</string>
     <string name="AffiliateProgramStart">Start Affiliate Program</string>
     <string name="AffiliateProgramStartInfo">By creating an affiliate program, you agree to the **Terms and Conditions** of Affiliate Programs.</string>
-    <string name="AffiliateProgramStartInfoLink">https://telegram.org/privacy</string>
+    <string name="AffiliateProgramStartInfoLink">https://telegram.org/tos/affiliate-program</string>
     <string name="AffiliateProgramStartAvailableIn">Available in %s</string>
     <string name="AffiliateProgramStartAlertText">Once you start the affiliate program, you won\'t be able to decrease its commission or duration. You can only increase these parameters or end the program, which will disable all previously distributed referral links.</string>
     <string name="AffiliateProgramStartAlertButton">Start</string>
     <string name="AffiliateProgramUpdate">Update Affiliate Program</string>
     <string name="AffiliateProgramUpdateInfo">By updating an affiliate program, you agree to the **Terms and Conditions** of Affiliate Programs.</string>
-    <string name="AffiliateProgramUpdateInfoLink">https://telegram.org/privacy</string>
+    <string name="AffiliateProgramUpdateInfoLink">https://telegram.org/tos/affiliate-program</string>
     <string name="AffiliateProgramUpdateAlertText">This change is irreversible. You won\'t be able to reduce commission or duration. You can only increase these parameters or end the program, which will disable all previously shared referral links.</string>
     <string name="AffiliateProgramUpdateAlertButton">Update</string>
     <string name="AffiliateProgramAlert">Warning</string>
@@ -8514,7 +8528,7 @@ list of reactions.</string>
     <string name="AffiliateProgramStopText">If you end your affiliate program:</string>
     <string name="AffiliateProgramStopText1">Any referral links already shared will be disabled in **24** hours.</string>
     <string name="AffiliateProgramStopText2">All participants affiliates will be notified.</string>
-    <string name="AffiliateProgramStopText3">You will be able to start a new affiliate program only in **24** hours.</string>
+    <string name="AffiliateProgramStopText3">You will have to wait **24** hours until you can start a new affiliate program.</string>
     <string name="AffiliateProgramStopButton">End Anyway</string>
     <string name="ChannelAffiliatePrograms">Affiliate Programs</string>
     <string name="ChannelAffiliateProgramTitle">Affiliate Programs</string>
@@ -8590,7 +8604,7 @@ list of reactions.</string>
     <string name="SearchMessagesFilterChannelsFrom">From channels</string>
     <string name="SearchMessagesFilterEmptyTitle">No results</string>
     <string name="SearchMessagesFilterEmptyText">There were no results for \"%s\".\nTry a new search.</string>
-    <string name="SearchMessagesFilterEmptySearchAll">Search in All Messages</string>
+    <string name="SearchMessagesFilterEmptySearchAll">Search in All Chats</string>
     <string name="BotVerifyAccounts">Verify Accounts</string>
     <string name="BotChooseChatToVerify">Choose Chat To Verify</string>
     <string name="BotVerifyUserTitle">Verify User</string>
@@ -8623,6 +8637,21 @@ list of reactions.</string>
     <string name="Gift2UpgradeFeatureSoon">SOON</string>
     <string name="Gift2UpgradeFeature3Text">Sell or auction your gift on third-party NFT marketplaces.</string>
     <string name="Gift2UpgradeFeature3TextLearn">The recipient will be able to auction the gift on third-party NFT marketplaces.</string>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <string name="Gift2LearnMoreTitle">Make Unique</string>
     <string name="Gift2LearnMoreText">Let %s turn your gift into a unique collectible.</string>
     <string name="Gift2UpgradeButton">Upgrade for &#11088;&#65039;%d</string>
@@ -8633,17 +8662,17 @@ list of reactions.</string>
     <string name="Gift2CollectionNumber_one">Collectible #%d</string>
     <string name="Gift2CollectionNumber_other">Collectible #%d</string>
     <string name="Gift2Owner">Owner</string>
-    <string name="Gift2OwnerChange">transfer</string>
+    <string name="Gift2OwnerChange">change</string>
     <string name="Gift2AttributeModel">Model</string>
     <string name="Gift2AttributeBackdrop">Backdrop</string>
     <string name="Gift2AttributeSymbol">Symbol</string>
     <string name="Gift2PriceUnique">Unique</string>
     <string name="Gift2AttributeOriginalDetails">Gifted by %1$s to %2$s on %3$s.</string>
-    <string name="Gift2AttributeOriginalDetailsComment">Gifted by %1$s to %2$s on %3$s with the comment: “%4$s”</string>
+    <string name="Gift2AttributeOriginalDetailsComment">Gifted by %1$s to %2$s on %3$s with the comment: \"%4$s\"</string>
     <string name="Gift2AttributeOriginalDetailsSelf">Saved by %1$s on %2$s.</string>
-    <string name="Gift2AttributeOriginalDetailsSelfComment">Gifted by %1$s on %2$s with the comment: “%3$s”</string>
+    <string name="Gift2AttributeOriginalDetailsSelfComment">Gifted by %1$s on %2$s with the comment: \"%3$s\"</string>
     <string name="Gift2AttributeOriginalDetailsNoSender">Gifted to %1$s on %2$s.</string>
-    <string name="Gift2AttributeOriginalDetailsNoSenderComment">Gifted to %1$s on %2$s with the comment: “%3$s”</string>
+    <string name="Gift2AttributeOriginalDetailsNoSenderComment">Gifted to %1$s on %2$s with the comment: \"%3$s\"</string>
     <string name="Gift2Transfer">Transfer %s</string>
     <string name="Gift2TransferText">Do you want to transfer ownership of **%1$s** to **%2$s**?</string>
     <string name="Gift2TransferPriceText_one">Do you want to transfer ownership of **%2$s** to **%3$s** for **%1$d Star**?</string>
@@ -8673,9 +8702,14 @@ list of reactions.</string>
     <string name="Gift2SelfInfoUpgrade">You can display this gift on your page or turn it into a unique collectible and send to others.</string>
     <string name="Gift2SelfInfoConvert_one">Display this gift on your page or convert it to **%d Star**.</string>
     <string name="Gift2SelfInfoConvert_other">Display this gift on your page or convert it to **%d Stars**.</string>
-    <string name="Gift2SelfInfo">You can display this gift on your page.</string>
-    <string name="Gift2ActionUpgrade">Tap “Unpack” to turn this gift to a unique collectible.</string>
+    
+    
+    <string name="Gift2SelfInfo">You can add this gift to your profile.</string>
+    <string name="Gift2ActionUpgrade">Tap \"Unpack\" to turn this gift into a unique collectible.</string>
     <string name="Gift2ActionUpgradeOut">%s can turn this gift to a unique collectible.</string>
+    
+    
+    
 
   <!-- new from translations.telegram.org -->
 
@@ -9448,6 +9482,10 @@ list of reactions.</string>
   <string name="BotUsersShort_few">%d users</string>
   <string name="BotUsersShort_many">%d users</string>
   <string name="BotWebViewStartPermission">To launch this web app, you will connect to its website.</string>
+  <string name="Bots_zero">%1$d bots</string>
+  <string name="Bots_two">%1$d bots</string>
+  <string name="Bots_few">%1$d bots</string>
+  <string name="Bots_many">%1$d bots</string>
   <string name="BrowserSettingsHistoryPages_zero">%d pages</string>
   <string name="BrowserSettingsHistoryPages_two">%d pages</string>
   <string name="BrowserSettingsHistoryPages_few">%d pages</string>
@@ -9992,18 +10030,18 @@ list of reactions.</string>
   <string name="Gift2ActionConvertedInfo_two">You converted this gift to %d Stars.</string>
   <string name="Gift2ActionConvertedInfo_few">You converted this gift to %d Stars.</string>
   <string name="Gift2ActionConvertedInfo_many">You converted this gift to %d Stars.</string>
-  <string name="Gift2ActionInfo_zero">Display this gift on your page or convert it to %d Stars.</string>
-  <string name="Gift2ActionInfo_two">Display this gift on your page or convert it to %d Stars.</string>
-  <string name="Gift2ActionInfo_few">Display this gift on your page or convert it to %d Stars.</string>
-  <string name="Gift2ActionInfo_many">Display this gift on your page or convert it to %d Stars.</string>
-  <string name="Gift2ActionOutInfo_zero">**%2$s** can display this gift on their page or convert it to %1$d Stars.</string>
-  <string name="Gift2ActionOutInfo_two">**%2$s** can display this gift on their page or convert it to %1$d Stars.</string>
-  <string name="Gift2ActionOutInfo_few">**%2$s** can display this gift on their page or convert it to %1$d Stars.</string>
-  <string name="Gift2ActionOutInfo_many">**%2$s** can display this gift on their page or convert it to %1$d Stars.</string>
-  <string name="Gift2ActionSelfInfo_zero">Display this gift on your page or convert it to %1$d Stars.</string>
-  <string name="Gift2ActionSelfInfo_two">Display this gift on your page or convert it to %1$d Stars.</string>
-  <string name="Gift2ActionSelfInfo_few">Display this gift on your page or convert it to %1$d Stars.</string>
-  <string name="Gift2ActionSelfInfo_many">Display this gift on your page or convert it to %1$d Stars.</string>
+  <string name="Gift2ActionInfo_zero">Add this gift to your profile or convert it to %d Stars.</string>
+  <string name="Gift2ActionInfo_two">Add this gift to your profile or convert it to %d Stars.</string>
+  <string name="Gift2ActionInfo_few">Add this gift to your profile or convert it to %d Stars.</string>
+  <string name="Gift2ActionInfo_many">Add this gift to your profile or convert it to %d Stars.</string>
+  <string name="Gift2ActionOutInfo_zero">**%2$s** can add this gift to their profile or convert it to %1$d Stars.</string>
+  <string name="Gift2ActionOutInfo_two">**%2$s** can add this gift to their profile or convert it to %1$d Stars.</string>
+  <string name="Gift2ActionOutInfo_few">**%2$s** can add this gift to their profile or convert it to %1$d Stars.</string>
+  <string name="Gift2ActionOutInfo_many">**%2$s** can add this gift to their profile or convert it to %1$d Stars.</string>
+  <string name="Gift2ActionSelfInfo_zero">Add this gift to your profile or convert it to %1$d Stars.</string>
+  <string name="Gift2ActionSelfInfo_two">Add this gift to your profile or convert it to %1$d Stars.</string>
+  <string name="Gift2ActionSelfInfo_few">Add this gift to your profile or convert it to %1$d Stars.</string>
+  <string name="Gift2ActionSelfInfo_many">Add this gift to your profile or convert it to %1$d Stars.</string>
   <string name="Gift2Availability2Value">%1$s of %2$s left</string>
   <string name="Gift2Availability2ValueNone_zero">0 of %1$d left</string>
   <string name="Gift2Availability2ValueNone_two">0 of %1$d left</string>
@@ -10053,37 +10091,39 @@ list of reactions.</string>
   <string name="Gift2ExportTONUnlocksIn_two">unlocks in %d days</string>
   <string name="Gift2ExportTONUnlocksIn_few">unlocks in %d days</string>
   <string name="Gift2ExportTONUnlocksIn_many">unlocks in %d days</string>
-  <string name="Gift2Info_zero">You can keep this gift in your Profile or convert it to **%d** Stars.</string>
-  <string name="Gift2Info_one">You can keep this gift in your Profile or convert it to **%d** Star.</string>
-  <string name="Gift2Info_two">You can keep this gift in your Profile or convert it to **%d** Stars.</string>
-  <string name="Gift2Info_few">You can keep this gift in your Profile or convert it to **%d** Stars.</string>
-  <string name="Gift2Info_many">You can keep this gift in your Profile or convert it to **%d** Stars.</string>
-  <string name="Gift2Info_other">You can keep this gift in your Profile or convert it to **%d** Stars.</string>
-  <string name="Gift2Info2_zero">You can keep this gift in your Profile or convert it to **%1$d** Stars within **%2$s**.</string>
-  <string name="Gift2Info2_two">You can keep this gift in your Profile or convert it to **%1$d** Stars within **%2$s**.</string>
-  <string name="Gift2Info2_few">You can keep this gift in your Profile or convert it to **%1$d** Stars within **%2$s**.</string>
-  <string name="Gift2Info2_many">You can keep this gift in your Profile or convert it to **%1$d** Stars within **%2$s**.</string>
-  <string name="Gift2Info2Expired_zero">You can keep this %d Stars gift in your Profile.</string>
-  <string name="Gift2Info2Expired_two">You can keep this %d Stars gift in your Profile.</string>
-  <string name="Gift2Info2Expired_few">You can keep this %d Stars gift in your Profile.</string>
-  <string name="Gift2Info2Expired_many">You can keep this %d Stars gift in your Profile.</string>
-  <string name="Gift2Info2Out_zero">%2$s can keep this gift in their Profile or convert it to **%1$d** Stars.</string>
-  <string name="Gift2Info2Out_two">%2$s can keep this gift in their Profile or convert it to **%1$d** Stars.</string>
-  <string name="Gift2Info2Out_few">%2$s can keep this gift in their Profile or convert it to **%1$d** Stars.</string>
-  <string name="Gift2Info2Out_many">%2$s can keep this gift in their Profile or convert it to **%1$d** Stars.</string>
+  <string name="Gift2Info_zero">You can add this gift to your profile or convert it to **%d** Stars.</string>
+  <string name="Gift2Info_one">You can add this gift to your profile or convert it to **%d** Star.</string>
+  <string name="Gift2Info_two">You can add this gift to your profile or convert it to **%d** Stars.</string>
+  <string name="Gift2Info_few">You can add this gift to your profile or convert it to **%d** Stars.</string>
+  <string name="Gift2Info_many">You can add this gift to your profile or convert it to **%d** Stars.</string>
+  <string name="Gift2Info_other">You can add this gift to your profile or convert it to **%d** Stars.</string>
+  <string name="Gift2Info2_zero">You can add this gift to your profile or convert it to **%1$d** Stars within **%2$s**.</string>
+  <string name="Gift2Info2_one">You can add this gift to your profile or convert it to **%1$d** Star within **%2$s**.</string>
+  <string name="Gift2Info2_two">You can add this gift to your profile or convert it to **%1$d** Stars within **%2$s**.</string>
+  <string name="Gift2Info2_few">You can add this gift to your profile or convert it to **%1$d** Stars within **%2$s**.</string>
+  <string name="Gift2Info2_many">You can add this gift to your profile or convert it to **%1$d** Stars within **%2$s**.</string>
+  <string name="Gift2Info2_other">You can add this gift to your profile or convert it to **%1$d** Stars within **%2$s**.</string>
+  <string name="Gift2Info2Expired_zero">You can add this gift of  %d Stars to your profile.</string>
+  <string name="Gift2Info2Expired_two">You can add this gift of  %d Stars to your profile.</string>
+  <string name="Gift2Info2Expired_few">You can add this gift of  %d Stars to your profile.</string>
+  <string name="Gift2Info2Expired_many">You can add this gift of  %d Stars to your profile.</string>
+  <string name="Gift2Info2Out_zero">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
+  <string name="Gift2Info2Out_two">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
+  <string name="Gift2Info2Out_few">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
+  <string name="Gift2Info2Out_many">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
   <string name="Gift2InfoConverted_zero">You converted this gift to **%d** Stars.</string>
   <string name="Gift2InfoConverted_two">You converted this gift to **%d** Stars.</string>
   <string name="Gift2InfoConverted_few">You converted this gift to **%d** Stars.</string>
   <string name="Gift2InfoConverted_many">You converted this gift to **%d** Stars.</string>
-  <string name="Gift2InfoOut_zero">%2$s can keep this gift in profile or convert it to **%1$d** Stars.</string>
-  <string name="Gift2InfoOut_two">%2$s can keep this gift in profile or convert it to **%1$d** Stars.</string>
-  <string name="Gift2InfoOut_few">%2$s can keep this gift in profile or convert it to **%1$d** Stars.</string>
-  <string name="Gift2InfoOut_many">%2$s can keep this gift in profile or convert it to **%1$d** Stars.</string>
+  <string name="Gift2InfoOut_zero">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
+  <string name="Gift2InfoOut_two">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
+  <string name="Gift2InfoOut_few">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
+  <string name="Gift2InfoOut_many">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
   <string name="Gift2InfoOutConverted_zero">%2$s converted this gift to **%d** Stars.</string>
   <string name="Gift2InfoOutConverted_two">%2$s converted this gift to **%d** Stars.</string>
   <string name="Gift2InfoOutConverted_few">%2$s converted this gift to **%d** Stars.</string>
   <string name="Gift2InfoOutConverted_many">%2$s converted this gift to **%d** Stars.</string>
-  <string name="Gift2InfoPinned">You kept this gift in your Profile.</string>
+  <string name="Gift2InfoPinned">You added this gift to your profile.</string>
   <string name="Gift2Months_zero">%1$d-months</string>
   <string name="Gift2Months_two">%1$d-months</string>
   <string name="Gift2Months_few">%1$d-months</string>
@@ -10092,6 +10132,9 @@ list of reactions.</string>
   <string name="Gift2Notification_two">sent a Gift worth of %d Stars</string>
   <string name="Gift2Notification_few">sent a Gift worth of %d Stars</string>
   <string name="Gift2Notification_many">sent a Gift worth of %d Stars</string>
+  <string name="Gift2ProfileInvisible">This gift is hidden. Only you can see it.</string>
+  <string name="Gift2ProfileVisible">This gift is visible on your profile.</string>
+  <string name="Gift2ProfileVisible2">This gift is visible to visitors of your page. **View &gt;**</string>
   <string name="Gift2QuantityIssued1_zero">%d/</string>
   <string name="Gift2QuantityIssued1_one"></string>
   <string name="Gift2QuantityIssued1_two">%d/</string>
@@ -10294,6 +10337,10 @@ list of reactions.</string>
   <string name="Likes_two">%d likes</string>
   <string name="Likes_few">%d likes</string>
   <string name="Likes_many">%d likes</string>
+  <string name="LinkSharedToManyChats_zero">Link forwarded to **%1$d chats**.</string>
+  <string name="LinkSharedToManyChats_two">Link forwarded to **%1$d chats**.</string>
+  <string name="LinkSharedToManyChats_few">Link forwarded to **%1$d chats**.</string>
+  <string name="LinkSharedToManyChats_many">Link forwarded to **%1$d chats**.</string>
   <string name="Links_zero">%1$d links</string>
   <string name="Links_two">%1$d links</string>
   <string name="Links_few">%1$d links</string>
@@ -11089,10 +11136,10 @@ list of reactions.</string>
   <string name="StarsConfirmSubscriptionButton_two">Subscribe for &#11088;&#65039; %d / month</string>
   <string name="StarsConfirmSubscriptionButton_few">Subscribe for &#11088;&#65039; %d / month</string>
   <string name="StarsConfirmSubscriptionButton_many">Subscribe for &#11088;&#65039; %d / month</string>
-  <string name="StarsConfirmSubscriptionText2_zero">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** stars per month?</string>
-  <string name="StarsConfirmSubscriptionText2_two">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** stars per month?</string>
-  <string name="StarsConfirmSubscriptionText2_few">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** stars per month?</string>
-  <string name="StarsConfirmSubscriptionText2_many">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** stars per month?</string>
+  <string name="StarsConfirmSubscriptionText2_zero">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** Stars per month?</string>
+  <string name="StarsConfirmSubscriptionText2_two">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** Stars per month?</string>
+  <string name="StarsConfirmSubscriptionText2_few">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** Stars per month?</string>
+  <string name="StarsConfirmSubscriptionText2_many">Do you want to subscribe to **%2$s** in **%3$s** for **%1$d** Stars per month?</string>
   <string name="StarsCount_zero">%d Stars</string>
   <string name="StarsCount_two">%d Stars</string>
   <string name="StarsCount_few">%d Stars</string>

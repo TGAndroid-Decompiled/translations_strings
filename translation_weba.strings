@@ -1375,7 +1375,7 @@
 "ActionStarGiftTitle" = "{user} sent you a Gift for {count} Stars";
 "ActionStarGiftOutTitle" = "You have sent a gift for {count} Stars";
 "ActionStarGiftOutDescription" = "{user} can display this gift on their page or convert it to {count} Stars.";
-"ActionStarGiftDescription" = "Display this gift on your page or convert it to {count} Stars.";
+"ActionStarGiftDescription" = "Add this gift to your profile or convert it to {count} Stars.";
 "ActionStarGiftDisplaying" = "You kept this gift on your page.";
 "GiftTo" = "Gift to";
 "GiftFrom" = "Gift from";
@@ -1412,9 +1412,9 @@
 "BotSuggestedStatusFor" = "Do you want to set this emoji status suggested by **{bot}** for **{duration}**?";
 "BotSuggestedStatus" = "Do you want to set this emoji status suggested by **{bot}**?";
 "BotSuggestedStatusTitle" = "Set Emoji Status";
-"BotSuggestedStatusUpdated" = "Your emoji status is updated.";
+"BotSuggestedStatusUpdated" = "Emoji status updated.";
 "BotDownloadFileTitle" = "Download File";
-"BotDownloadFileDescription" = "**{bot}** suggests you to download **{filename}**";
+"BotDownloadFileDescription" = "**{bot}** offers you to download **{filename}**";
 "BotDownloadFileButton" = "Download";
 "PrivacyGifts" = "Gifts";
 "PrivacyGiftsTitle" = "Who can display gifts on my profile?"

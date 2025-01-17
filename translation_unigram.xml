@@ -7740,7 +7740,7 @@
     <string name="BotStarsAvailableBalance">Available balance</string>
     <string name="BotStarsOverviewInfo">Stars from your total balance can be used for ads or withdrawn as rewards 21 days after they are earned.</string>
     <string name="BotStarsWithdrawInfo">You can collect rewards for Stars using Fragment, or use Stars to advertise your bot. You cannot withdraw less than 1000 stars. **Learn more &gt;**</string>
-    <string name="BotStarsWithdrawInfoLink">https://telegram.org/privacy</string>
+    <string name="BotStarsWithdrawInfoLink">https://telegram.org/tos/affiliate-program</string>
     
     
     
@@ -8073,8 +8073,8 @@
     <string name="Gift2ActionTitle">Gift from {0}</string>
     <string name="Gift2ActionTitleInAnonymous">{0} received a gift!</string>
     <string name="Gift2ActionTitleAnonymous">You received a gift!</string>
-    <string name="Gift2ActionInfo_one">Display this gift on your page or convert it to {0} Star.</string>
-    <string name="Gift2ActionInfo_other">Display this gift on your page or convert it to {0} Stars.</string>
+    <string name="Gift2ActionInfo_one">Add this gift to your profile or convert it to {0} Star.</string>
+    <string name="Gift2ActionInfo_other">Add this gift to your profile or convert it to {0} Stars.</string>
     <string name="Gift2ActionSavedInfo">You kept this gift on your page.</string>
     <string name="Gift2ActionConvertedInfo_one">You converted this gift to {0} Star.</string>
     <string name="Gift2ActionConvertedInfo_other">You converted this gift to {0} Stars.</string>
@@ -8105,12 +8105,12 @@
     <string name="Gift2InfoOut_other">{1} can keep this gift in profile or convert it to **{0}** Stars.</string>
     <string name="Gift2InfoConverted_one">You converted this gift to **{0}** Star.</string>
     <string name="Gift2InfoConverted_other">You converted this gift to **{0}** Stars.</string>
-    <string name="Gift2InfoPinned">You kept this gift in your Profile.</string>
+    <string name="Gift2InfoPinned">You added this gift to your profile.</string>
     
     
     
     
-    <string name="Gift2ProfileVisible">This gift is visible to visitors of your page.</string>
+    <string name="Gift2ProfileVisible">This gift is visible on your profile.</string>
     <string name="Gift2ProfileInvisible">This gift is hidden. Only you can see it.</string>
     
     <string name="Gift2From">From</string>
@@ -9450,10 +9450,10 @@
   <string name="Gift2ActionConvertedInfo_two">You converted this gift to {0} Stars.</string>
   <string name="Gift2ActionConvertedInfo_few">You converted this gift to {0} Stars.</string>
   <string name="Gift2ActionConvertedInfo_many">You converted this gift to {0} Stars.</string>
-  <string name="Gift2ActionInfo_zero">Display this gift on your page or convert it to {0} Stars.</string>
-  <string name="Gift2ActionInfo_two">Display this gift on your page or convert it to {0} Stars.</string>
-  <string name="Gift2ActionInfo_few">Display this gift on your page or convert it to {0} Stars.</string>
-  <string name="Gift2ActionInfo_many">Display this gift on your page or convert it to {0} Stars.</string>
+  <string name="Gift2ActionInfo_zero">Add this gift to your profile or convert it to {0} Stars.</string>
+  <string name="Gift2ActionInfo_two">Add this gift to your profile or convert it to {0} Stars.</string>
+  <string name="Gift2ActionInfo_few">Add this gift to your profile or convert it to {0} Stars.</string>
+  <string name="Gift2ActionInfo_many">Add this gift to your profile or convert it to {0} Stars.</string>
   <string name="Gift2ActionOutInfo_zero">**{1}** can display this gift on their page or convert it to {0} Stars.</string>
   <string name="Gift2ActionOutInfo_two">**{1}** can display this gift on their page or convert it to {0} Stars.</string>
   <string name="Gift2ActionOutInfo_few">**{1}** can display this gift on their page or convert it to {0} Stars.</string>
@@ -11382,8 +11382,8 @@
 
   <string name="Gift2ConvertText2_one">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} day**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
   <string name="Gift2ConvertText2_other">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} days**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
-  <string name="Gift2Info2Expired_one">You can keep this {0} Star gift in your Profile.</string>
-  <string name="Gift2Info2Expired_other">You can keep this {0} Stars gift in your Profile.</string>
+  <string name="Gift2Info2Expired_one">You can add this gift of {0} Star gift to your profile.</string>
+  <string name="Gift2Info2Expired_other">You can add this gift of {0} Stars to your profile.</string>
 
   <string name="NoResult">No results</string>
   <string name="NoResultFoundFor2">There were no results for \"{0}\".\nTry a new search.</string>
@@ -11534,10 +11534,10 @@
   <string name="Gift2ConvertText2_two">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} days**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
   <string name="Gift2ConvertText2_few">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} days**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
   <string name="Gift2ConvertText2_many">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} days**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
-  <string name="Gift2Info2Expired_zero">You can keep this {0} Stars gift in your Profile.</string>
-  <string name="Gift2Info2Expired_two">You can keep this {0} Stars gift in your Profile.</string>
-  <string name="Gift2Info2Expired_few">You can keep this {0} Stars gift in your Profile.</string>
-  <string name="Gift2Info2Expired_many">You can keep this {0} Stars gift in your Profile.</string>
+  <string name="Gift2Info2Expired_zero">You can add this gift of {0} Stars to your profile.</string>
+  <string name="Gift2Info2Expired_two">You can add this gift of {0} Stars to your profile.</string>
+  <string name="Gift2Info2Expired_few">You can add this gift of {0} Stars to your profile.</string>
+  <string name="Gift2Info2Expired_many">You can add this gift of {0} Stars to your profile.</string>
   <string name="StarsTransactionFloodskipMessages_zero">{0} Messages</string>
   <string name="StarsTransactionFloodskipMessages_two">{0} Messages</string>
   <string name="StarsTransactionFloodskipMessages_few">{0} Messages</string>
@@ -11588,20 +11588,20 @@
   <string name="AffiliateProgramStopText">If you end your affiliate program:</string>
   <string name="AffiliateProgramStopText1">Any referral links already shared will be disabled in **24** hours.</string>
   <string name="AffiliateProgramStopText2">All participants affiliates will be notified.</string>
-  <string name="AffiliateProgramStopText3">You will be able to start a new affiliate program only in **24** hours.</string>
+  <string name="AffiliateProgramStopText3">You will have to wait **24** hours until you can start a new affiliate program.</string>
   <string name="AffiliateProgramStart">Start Affiliate Program</string>
   <string name="AffiliateProgramStartAlertButton">Start</string>
   <string name="AffiliateProgramStartAlertText">Once you start the affiliate program, you won\'t be able to decrease its commission or duration. You can only increase these parameters or end the program, which will disable all previously distributed referral links.</string>
   <string name="AffiliateProgramStartAvailableIn">Available in {0}</string>
   <string name="AffiliateProgramStartInfo">By creating an affiliate program, you agree to the **Terms and Conditions** of Affiliate Programs.</string>
-  <string name="AffiliateProgramStartInfoLink">https://telegram.org/privacy</string>
+  <string name="AffiliateProgramStartInfoLink">https://telegram.org/tos/affiliate-program</string>
   <string name="AffiliateProgramStartedText">Any Telegram user, channel owner or mini app developer can now join your program.</string>
   <string name="AffiliateProgramStartedTitle">Affiliate program started</string>
   <string name="AffiliateProgramUpdate">Update Affiliate Program</string>
   <string name="AffiliateProgramUpdateAlertButton">Update</string>
   <string name="AffiliateProgramUpdateAlertText">This change is irreversible. You won\'t be able to reduce commission or duration. You can only increase these parameters or end the program, which will disable all previously shared referral links.</string>
   <string name="AffiliateProgramUpdateInfo">By updating an affiliate program, you agree to the **Terms and Conditions** of Affiliate Programs.</string>
-  <string name="AffiliateProgramUpdateInfoLink">https://telegram.org/privacy</string>
+  <string name="AffiliateProgramUpdateInfoLink">https://telegram.org/tos/affiliate-program</string>
   <string name="AffiliateProgramStartedText">Any Telegram user, channel owner or mini app developer can now join your program.</string>
   <string name="AffiliateProgramStartedTitle">Affiliate program started</string>
   <string name="AffiliateProgramEndedText">Participating affiliates have been notified. All referral links will be disabled in **24** hours.</string>
@@ -11674,18 +11674,18 @@
     <string name="SendAnotherGift">Send Another Gift</string>
     <string name="SendGiftTo">Send Gift to {0}</string>
 
-    <string name="Gift2ActionUpgrade">Tap “Unpack” to turn this gift to a unique collectible.</string>
+    <string name="Gift2ActionUpgrade">Tap “Unpack” to turn this gift into a unique collectible.</string>
     <string name="Gift2ActionUpgradeOut">{0} can turn this gift to a unique collectible.</string>
     <string name="Gift2Unpack">Unpack</string>
     <string name="Gift2Status">Status</string>
     <string name="Gift2StatusNonUnique">Non-Unique</string>
     <string name="Gift2StatusUpgrade">upgrade</string>
     <string name="Gift2InfoInFreeUpgrade">Upgrade this gift for free to turn it into a unique collectible.</string>
-    <string name="Gift2InfoFreeUpgrade">{0} can turn this gift to a unique collectible.</string>
+    <string name="Gift2InfoFreeUpgrade">{0} can turn this gift into a unique collectible.</string>
     <string name="Gift2UpgradeButton">Upgrade for &#11088;&#65039;{0}</string>
     <string name="Gift2UpgradeButtonFree">Upgrade for Free</string>
     <string name="Gift2Visibility">Visibility</string>
-    <string name="Gift2Visible">Visible on your page</string>
+    <string name="Gift2Visible">Visible on your profile</string>
     <string name="Gift2VisibleHide">hide</string>
     <string name="Gift2Invisible">Not visible on your page</string>
     <string name="Gift2InvisibleShow">show</string>
@@ -11716,7 +11716,7 @@
     <string name="Gift2QuantityIssuedNone_one">None of {0} left</string>
     <string name="Gift2QuantityIssuedNone_other">None of {0} left</string>
     <string name="Gift2Owner">Owner</string>
-    <string name="Gift2OwnerChange">transfer</string>
+    <string name="Gift2OwnerChange">change</string>
     <string name="Gift2CollectionNumber_one">Collectible #{0}</string>
     <string name="Gift2CollectionNumber_other">Collectible #{0}</string>
     <string name="Gift2AttributeOriginalDetails">Gifted by {0} to {1} on {2}.</string>

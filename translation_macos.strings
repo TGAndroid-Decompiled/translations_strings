@@ -11149,17 +11149,17 @@
 "Stars.ExampleApps.Text" = "Use Stars to unlock content and services on Telegram. [See Examples >](apps)";
 "Stars.Gift.ServiceInfo" = "Use Stars to unlock content and services on Telegram.";
 
-"Stars.StarGift.Text.Incoming" = "You can keep this gift in your Profile or convert it to %1$@.";
-"Stars.StarGift.Text.Outgoing" = "%1$@ can keep this gift in Profile or convert it to %2$@.";
+"Stars.StarGift.Text.Incoming" = "You can keep this gift on your Profile or convert it to %1$@.";
+"Stars.StarGift.Text.Outgoing" = "%1$@ can add this gift to their profile or convert it to %2$@.";
 
-"Stars.StarGift.Text.KeptOnPage.Incoming" = "You kept this gift in your Profile.";
-"Stars.StarGift.Text.KeptOnPage.Outgoing" = "%1$@ kept this gift in Profile.";
+"Stars.StarGift.Text.KeptOnPage.Incoming" = "You added this gift to your profile.";
+"Stars.StarGift.Text.KeptOnPage.Outgoing" = "%1$@ added this gift to their profile.";
 
 "Stars.StarGift.Text.Converted.Incoming" = "You converted this gift to %1$@.";
 "Stars.StarGift.Text.Converted.Outgoing" = "%1$@ converted this gift to %2$@.";
 
 
-"Stars.StarGift.Text.KeepOrHide" = "You can keep this gift in your Profile or hide it.";
+"Stars.StarGift.Text.KeepOrHide" = "You can keep this gift on your profile or hide it.";
 
 
 "Stars.StarGift.Text.Link" = "[More about Stars >](stars)";
@@ -11481,7 +11481,7 @@
 "Stars.Promo.HeaderInfo" = "Telegram Stars allow users to:";
 
 "Stars.Promo.Option1.Title" = "Send Gifts to Friends";
-"Stars.Promo.Option1.Info" = "Give your friends gifts that can be kept on their profiles or converted to Stars.";
+"Stars.Promo.Option1.Info" = "Give your friends gifts that can be added to their profiles or converted to Stars.";
 
 "Stars.Promo.Option2.Title" = "Use Stars in mini apps";
 "Stars.Promo.Option2.Info" = "Buy additional content and services in Telegram mini apps. [See Examples >](examples)";
@@ -11496,7 +11496,7 @@
 "Stars.Promo.Option5.Info" = "Get new subscribers and boosts for your channels by giving away Stars.";
 
 
-"Stars.GiftPreview.Display" = "Display this gift on your page or convert it to %@";
+"Stars.GiftPreview.Display" = "Add this gift to your profile or convert it to %@";
 "Stars.GiftPreview.Customize" = "CUSTOMIZE YOUR GIFT";
 "Stars.GiftPreview.MessagePlaceholder" = "Enter Message";
 
@@ -11671,7 +11671,7 @@
 "Webapp.EmojiStatus.NotExists" = "Emoji Status Not Found";
 
 
-"Webapp.EmojiStatus.Requested" = "**%1$@** requests access to set your **emoji status**. You will be able to revoke this access in the profile page of **%2$@**.";
+"Webapp.EmojiStatus.Requested" = "**%1$@** requests access to set your **emoji status**. You can revoke this access anytime on the profile page of **%2$@**.";
 "Webapp.EmojiStatus.Requested.Allow" = "Allow";
 "Webapp.EmojiStatus.Requested.Decline" = "Decline";
 
@@ -11681,7 +11681,7 @@
 
 
 "Webapp.Document.Download" = "Download Document";
-"Webapp.Document.Download.Info" = "%1$@ suggests you to download %2$@.";
+"Webapp.Document.Download.Info" = "%1$@ offers you to download %2$@.";
 "Webapp.Document.Download.OK" = "Download";
 
 
@@ -11719,7 +11719,7 @@
 
 
 "Star.Transaction.Visibility" = "Visibility";
-"Star.Transaction.Visibility.Info" = "Visible on your page";
+"Star.Transaction.Visibility.Info" = "Visible on your profile";
 "Star.Transaction.Visibility.Hide" = "hide";
 
 
@@ -11727,7 +11727,7 @@
 "WebApp.LocationPermission.Text" = "**%1$@** requests access to your **location**. You will be able to revoke this access in the profile page of **%2$@**.";
 "WebApp.LocationPermission.Allow" = "Allow";
 "WebApp.LocationPermission.Decline" = "Decline";
-"WebApp.LocationPermission.Succeed" = "**%@** can now have access to your location.";
+"WebApp.LocationPermission.Succeed" = "**%@** can now access your location.";
 
 "WebApp.LocationPermission.DeniedError" = "Permission Denied";
 "WebApp.LocationPermission.DisabledError" = "Location service is not available";
@@ -11743,7 +11743,7 @@
 
 
 "AffiliateSetup.AlertTerminate.Title" = "Warning";
-"AffiliateSetup.AlertTerminate.Text" = "If you end your affiliate program:\n\n• Any referral links already shared will be disabled in 24 hours.\n\n• All participating affiliates will be notified.\n\n• You will be able to start a new affiliate program only in 24 hours.";
+"AffiliateSetup.AlertTerminate.Text" = "If you end your affiliate program:\n\n• Any referral links already shared will be disabled in 24 hours.\n\n• All participating affiliates will be notified.\n\n• You will not be able to start a new affiliate program for 24 hours.";
 "AffiliateSetup.AlertTerminate.Action" = "End Anyway";
 "AffiliateSetup.AlertApply.Title" = "Warning";
 "AffiliateSetup.AlertApply.Text" = "Once you start the affiliate program, you won't be able to decrease its commission or duration. You can only increase these parameters or end the program, which will disable all previously distributed referral links.";
@@ -11820,7 +11820,7 @@
 
 "AffiliateProgram.MonthlyText" = "Monthly users";
 
-"AffiliateProgram.Alert.Connected" = "You have successfully connected to the referral program";
+"AffiliateProgram.Alert.Connected" = "You have successfully connected to the affiliate program";
 
 
 "AffiliateProgram.LinkTitle" = "Referral Link";
@@ -11872,12 +11872,12 @@
 
 
 "AffiliateProgram.UserCountFooter_countable" = "%d %@";
-"AffiliateProgram.UserCountFooter_zero" = "%d user opened %@ through this link.";
+"AffiliateProgram.UserCountFooter_zero" = "%d users opened %@ through this link.";
 "AffiliateProgram.UserCountFooter_one" = "%d user opened %@ through this link.";
-"AffiliateProgram.UserCountFooter_two" = "%d user opened %@ through this link.";
-"AffiliateProgram.UserCountFooter_few" = "%d user opened %@ through this link.";
-"AffiliateProgram.UserCountFooter_many" = "%d user opened %@ through this link.";
-"AffiliateProgram.UserCountFooter_other" = "%d user opened %@ through this link.";
+"AffiliateProgram.UserCountFooter_two" = "%d users opened %@ through this link.";
+"AffiliateProgram.UserCountFooter_few" = "%d users opened %@ through this link.";
+"AffiliateProgram.UserCountFooter_many" = "%d users opened %@ through this link.";
+"AffiliateProgram.UserCountFooter_other" = "%d users opened %@ through this link.";
 "AffiliateProgram.UserCountFooter_ZeroValueHolder" = "No one opened %@ through this link yet.";
 
 
@@ -12039,7 +12039,7 @@
 "Admins.Creator" = "Owner";
 "AffiliateProgram.JoinSubtitleLifetime" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it **forever**.";
 "AffiliateProgram.JoinSubtitleMonths_1" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **1 month.**";
-"AffiliateProgram.JoinSubtitleMonths_any" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **%d months.**";
+"AffiliateProgram.JoinSubtitleMonths_any" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **%d months**.";
 "AffiliateProgram.JoinSubtitleYears_1" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **1 year**.";
 "AffiliateProgram.JoinSubtitleYears_any" = "**{bot}** will share **{commission}** of the revenue from each user you refer to it for **%d years**.";
 "AffiliateProgram.LinkSubtitleLifetime" = "Share this link with your users to earn a **{commission}** commission on their spending in **{bot}** **forever** after they follow your link.";
