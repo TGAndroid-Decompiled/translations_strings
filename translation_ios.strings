@@ -1,3 +1,262 @@
+"PhoneNumberHelp.Help" = "You can change your Telegram number here. Your account and all your cloud data — messages, media, contacts, etc. will be moved to the new number.";
+"PhoneNumberHelp.Alert" = "Users will see your new number if they have it in their address book or your privacy settings allow them to see it. You can modify this in Settings > Privacy and Security > Phone number.";
+"PhoneNumberHelp.ChangeNumber" = "Change Number";
+
+"ChangePhoneNumberNumber.Title" = "Change Number";
+"ChangePhoneNumberNumber.NewNumber" = "NEW NUMBER";
+"ChangePhoneNumberNumber.Help" = "Your new number will receive a confirmation code via call or SMS.";
+"ChangePhoneNumberNumber.NumberPlaceholder" = "Enter your new number";
+
+"ChangePhoneNumberCode.Code" = "YOUR CODE";
+"ChangePhoneNumberCode.CodePlaceholder" = "Code";
+"ChangePhoneNumberCode.Help" = "We have sent you an SMS with the code";
+"ChangePhoneNumberCode.CallTimer" = "Telegram will call you in %@";
+"ChangePhoneNumberCode.RequestingACall" = "Requesting a call from Telegram...";
+"ChangePhoneNumberCode.Called" = "Telegram dialed your number";
+
+"LoginPassword.Title" = "Your Password";
+"LoginPassword.PasswordPlaceholder" = "Password";
+"LoginPassword.InvalidPasswordError" = "Invalid password, please try again.";
+"LoginPassword.FloodError" = "Too many attempts, please try again later.";
+"LoginPassword.ForgotPassword" = "Forgot password?";
+"LoginPassword.PasswordHelp" = "Two-Step Verification enabled. Your account is protected with an additional password.";
+"LoginPassword.ResetAccount" = "Reset Account";
+
+"QuickSend.Photos_1" = "Send 1 Photo";
+"QuickSend.Photos_2" = "Send %@ Photos";
+"QuickSend.Photos_3_10" = "Send %@ Photos";
+"QuickSend.Photos_any" = "Send %@ Photos";
+"QuickSend.Photos_many" = "Send %@ Photos";
+"QuickSend.Photos_0" = "Send %@ Photos";
+
+"Share.Title" = "Share";
+"Forward.ConfirmMultipleFiles_1" = "Send 1 file to {target}?";
+"Forward.ConfirmMultipleFiles_2" = "Send %@ files to {target}?";
+"Forward.ConfirmMultipleFiles_3_10" = "Send %@ files to {target}?";
+"Forward.ConfirmMultipleFiles_any" = "Send %@ files to {target}?";
+"Forward.ConfirmMultipleFiles_many" = "Send %@ files to {target}?";
+"Forward.ConfirmMultipleFiles_0" = "Send %@ files to {target}?";
+
+"Notification.Reply" = "Reply";
+"Notification.Mute1h" = "Mute for 1 hour";
+"Notification.Mute1hMin" = "Mute for 1h";
+"Conversation.ContextMenuShare" = "Share";
+"Conversation.ContextMenuLookUp" = "Look Up";
+
+"SharedMedia.TitleAll" = "Shared Media";
+
+"SharedMedia.Photo_1" = "1 photo";
+"SharedMedia.Photo_2" = "%@ photos";
+"SharedMedia.Photo_3_10" = "%@ photos";
+"SharedMedia.Photo_any" = "%@ photos";
+"SharedMedia.Photo_many" = "%@ photos";
+"SharedMedia.Photo_0" = "%@ photos";
+
+"SharedMedia.Video_1" = "1 video";
+"SharedMedia.Video_2" = "%@ videos";
+"SharedMedia.Video_3_10" = "%@ videos";
+"SharedMedia.Video_any" = "%@ videos";
+"SharedMedia.Video_many" = "%@ videos";
+"SharedMedia.Video_0" = "%@ videos";
+
+"SharedMedia.File_1" = "1 file";
+"SharedMedia.File_2" = "%@ files";
+"SharedMedia.File_3_10" = "%@ files";
+"SharedMedia.File_any" = "%@ files";
+"SharedMedia.File_many" = "%@ files";
+"SharedMedia.File_0" = "%@ files";
+
+"SharedMedia.Generic_1" = "1 media file";
+"SharedMedia.Generic_2" = "%@ media files";
+"SharedMedia.Generic_3_10" = "%@ media files";
+"SharedMedia.Generic_any" = "%@ media files";
+"SharedMedia.Generic_many" = "%@ media files";
+"SharedMedia.Generic_0" = "%@ media files";
+
+"FileSize.B" = "%@ B";
+"FileSize.KB" = "%@ KB";
+"FileSize.MB" = "%@ MB";
+"FileSize.GB" = "%@ GB";
+
+"DownloadingStatus" = "downloading %@ of %@";
+
+"Time.MonthOfYear_m1" = "January %@";
+"Time.MonthOfYear_m2" = "February %@";
+"Time.MonthOfYear_m3" = "March %@";
+"Time.MonthOfYear_m4" = "April %@";
+"Time.MonthOfYear_m5" = "May %@";
+"Time.MonthOfYear_m6" = "June %@";
+"Time.MonthOfYear_m7" = "July %@";
+"Time.MonthOfYear_m8" = "August %@";
+"Time.MonthOfYear_m9" = "September %@";
+"Time.MonthOfYear_m10" = "October %@";
+"Time.MonthOfYear_m11" = "November %@";
+"Time.MonthOfYear_m12" = "December %@";
+
+"Time.PreciseDate_m1" = "Jan %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m2" = "Feb %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m3" = "Mar %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m4" = "Apr %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m5" = "May %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m6" = "Jun %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m7" = "Jul %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m8" = "Aug %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m9" = "Sep %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m10" = "Oct %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m11" = "Nov %1$@, %2$@ at %3$@";
+"Time.PreciseDate_m12" = "Dec %1$@, %2$@ at %3$@";
+
+"Time.MediumDate" = "%1$@ at %2$@";
+
+
+
+
+
+
+
+
+"MuteFor.Hours_1" = "Mute for 1 hour";
+"MuteFor.Hours_2" = "Mute for %@ hours";
+"MuteFor.Hours_3_10" = "Mute for %@ hours";
+"MuteFor.Hours_any" = "Mute for %@ hours";
+"MuteFor.Hours_many" = "Mute for %@ hours";
+"MuteFor.Hours_0" = "Mute for %@ hours";
+
+"MuteFor.Days_1" = "Mute for 1 day";
+"MuteFor.Days_2" = "Mute for %@ days";
+"MuteFor.Days_3_10" = "Mute for %@ days";
+"MuteFor.Days_any" = "Mute for %@ days";
+"MuteFor.Days_many" = "Mute for %@ days";
+"MuteFor.Days_0" = "Mute for %@ days";
+
+"MutedForTime.Minutes_1" = "1 minute";
+"MutedForTime.Minutes_any" = "%@ minutes";
+
+"MutedForTime.Hours_1" = "1 hour";
+"MutedForTime.Hours_any" = "%@ hours";
+
+"MutedForTime.Days_1" = "1 day";
+"MutedForTime.Days_any" = "%@ days";
+
+"MuteExpires.Minutes_1" = "in 1 minute";
+"MuteExpires.Minutes_2" = "in %@ minutes";
+"MuteExpires.Minutes_3_10" = "in %@ minutes";
+"MuteExpires.Minutes_any" = "in %@ minutes";
+"MuteExpires.Minutes_many" = "in %@ minutes";
+"MuteExpires.Minutes_0" = "in %@ minutes";
+
+"MuteExpires.Hours_1" = "in 1 hour";
+"MuteExpires.Hours_2" = "in %@ hours";
+"MuteExpires.Hours_3_10" = "in %@ hours";
+"MuteExpires.Hours_any" = "in %@ hours";
+"MuteExpires.Hours_many" = "in %@ hours";
+"MuteExpires.Hours_0" = "in %@ hours";
+
+"MuteExpires.Days_1" = "in 1 day";
+"MuteExpires.Days_2" = "in %@ days";
+"MuteExpires.Days_3_10" = "in %@ days";
+"MuteExpires.Days_any" = "in %@ days";
+"MuteExpires.Days_many" = "in %@ days";
+"MuteExpires.Days_0" = "in %@ days";
+
+"SharedMedia.EmptyTitle" = "No media files yet";
+"SharedMedia.EmptyText" = "Share photos and videos in this chat\n— or this paperclip stays unhappy.";
+"SharedMedia.EmptyFilesText" = "You can send and receive\nfiles of any type up to 2 GB each\nand access them anywhere.";
+
+"ShareFileTip.Title" = "Sharing Files";
+"ShareFileTip.Text" = "You can share **uncompressed** media files from your Camera Roll here.\n\nTo share files of any other type, open them on your %@ (e.g. in your browser), tap **Open in...** or the action button and choose Telegram.";
+"ShareFileTip.CloseTip" = "Close Tip";
+
+"DialogList.SearchSectionDialogs" = "Chats and Contacts";
+"DialogList.SearchSectionChats" = "Chats";
+"DialogList.SearchSectionGlobal" = "Global Search";
+"DialogList.SearchSectionMessages" = "Messages";
+
+"Username.LinkHint" = "This link opens a chat with you:[\nhttps://t.me/%@]";
+"Username.LinkCopied" = "Link copied to clipboard.";
+
+"SharedMedia.DeleteItemsConfirmation_1" = "Delete media file?";
+"SharedMedia.DeleteItemsConfirmation_2" = "Delete %@ media files?";
+"SharedMedia.DeleteItemsConfirmation_3_10" = "Delete %@ media files?";
+"SharedMedia.DeleteItemsConfirmation_any" = "Delete %@ media files?";
+"SharedMedia.DeleteItemsConfirmation_many" = "Delete %@ media files?";
+"SharedMedia.DeleteItemsConfirmation_0" = "Delete %@ media files?";
+
+"PrivacySettings.Passcode" = "Passcode Lock";
+"PasscodeSettings.Title" = "Passcode Lock";
+"PasscodeSettings.TurnPasscodeOn" = "Turn Passcode On";
+"PasscodeSettings.TurnPasscodeOff" = "Turn Passcode Off";
+"PasscodeSettings.ChangePasscode" = "Change Passcode";
+"PasscodeSettings.Help" = "When a passcode is set, a lock icon appears on the chats page. Tap it to lock your Telegram app.\n\nNote: if you forget your passcode, you'll need to reinstall the app. All your Secret Chats will be lost.";
+"PasscodeSettings.UnlockWithTouchId" = "Unlock with Touch ID";
+"PasscodeSettings.SimplePasscode" = "Simple Passcode";
+"PasscodeSettings.SimplePasscodeHelp" = "A simple passcode is a 4 digit number.";
+"PasscodeSettings.EncryptData" = "Encrypt Local Database";
+"PasscodeSettings.EncryptDataHelp" = "Experimental feature, use with caution. Encrypt your local Telegram data, using a derivative of your passcode as the key.";
+
+"EnterPasscode.EnterTitle" = "Enter your Telegram Passcode";
+"EnterPasscode.ChangeTitle" = "Change Passcode";
+"EnterPasscode.EnterPasscode" = "Enter your Telegram Passcode";
+"EnterPasscode.EnterNewPasscodeNew" = "Enter a passcode";
+"EnterPasscode.EnterNewPasscodeChange" = "Enter your new passcode";
+"EnterPasscode.RepeatNewPasscode" = "Re-enter your new passcode";
+"EnterPasscode.EnterCurrentPasscode" = "Enter your current passcode";
+"EnterPasscode.TouchId" = "Unlock Telegram";
+
+"DialogList.PasscodeLockHelp" = "Tap to lock Telegram";
+
+"PasscodeSettings.AutoLock" = "Auto-Lock";
+"PasscodeSettings.AutoLock.Disabled" = "Disabled";
+"PasscodeSettings.AutoLock.IfAwayFor_1minute" = "If away for 1 min";
+"PasscodeSettings.AutoLock.IfAwayFor_5minutes" = "If away for 5 min";
+"PasscodeSettings.AutoLock.IfAwayFor_1hour" = "If away for 1 hour";
+"PasscodeSettings.AutoLock.IfAwayFor_5hours" = "If away for 5 hours";
+
+"PasscodeSettings.FailedAttempts_1" = "%@ Failed Passcode Attempt";
+"PasscodeSettings.FailedAttempts_2" = "%@ Failed Passcode Attempts";
+"PasscodeSettings.FailedAttempts_3_10" = "%@ Failed Passcode Attempts";
+"PasscodeSettings.FailedAttempts_any" = "%@ Failed Passcode Attempts";
+"PasscodeSettings.FailedAttempts_many" = "%@ Failed Passcode Attempts";
+"PasscodeSettings.FailedAttempts_0" = "%@ Failed Passcode Attempts";
+"PasscodeSettings.TryAgainIn1Minute" = "Try again in 1 minute";
+
+"AccessDenied.Title" = "Please Allow Access";
+
+"AccessDenied.Contacts" = "Telegram messaging is based on your existing contact list.\n\nPlease go to your device‘s settings > Privacy > Contacts and set Telegram to ON.";
+
+"AccessDenied.VoiceMicrophone" = "Telegram needs access to your microphone so that you can send voice messages.\n\nPlease go to your device‘s settings > Privacy > Microphone and set Telegram to ON.";
+
+"AccessDenied.VideoMicrophone" = "Telegram needs access to your microphone so that you can record sound in videos recording.\n\nPlease go to your device‘s settings > Privacy > Microphone and set Telegram to ON.";
+
+"AccessDenied.MicrophoneRestricted" = "Microphone access is restricted for Telegram.\n\nPlease go to your device‘s settings > General > Restrictions > Microphone and set Telegram to ON.";
+
+
+"AccessDenied.Camera" = "Telegram needs camera access so that you can take photos and videos.\n\nPlease go to your device settings > Privacy > Camera and set Telegram to ON.";
+
+"AccessDenied.CameraRestricted" = "Camera access is restricted for Telegram.\n\nPlease go to your device‘s settings > General > Restrictions > Camera and set Telegram to ON.";
+
+"AccessDenied.CameraDisabled" = "Camera access is globally restricted on your phone.\n\nPlease go to Settings > General > Restrictions and set Camera to ON";
+
+"AccessDenied.PhotosAndVideos" = "Telegram needs access to your photo library so that you can send photos and videos.\n\nPlease go to your device‘s settings > Privacy > Photos and set Telegram to ON.";
+
+"AccessDenied.SaveMedia" = "Telegram needs access to your photo library so that you can save photos and videos.\n\nPlease go to your device‘s settings > Privacy > Photos and set Telegram to ON.";
+
+"AccessDenied.PhotosRestricted" = "Photo access is restricted for Telegram.\n\nPlease go to your device settings > General > Restrictions > Photos and set Telegram to ON.";
+
+"AccessDenied.LocationDenied" = "Telegram needs access to your location so that you can share it with your contacts.\n\nPlease go to your device‘s settings > Privacy > Location Services and set Telegram to ON.";
+
+"AccessDenied.LocationDisabled" = "Telegram needs access to your location so that you can share it with your contacts.\n\nPlease go to your device‘s settings > Privacy > Location Services and set it to ON.";
+
+"AccessDenied.LocationTracking" = "Telegram needs access to your location so that you can share it with your friends.\n\nPlease go to your device‘s settings > Privacy > Location Services and set it to ON.";
+
+"AccessDenied.Settings" = "Settings";
+
+"WebSearch.RecentClearConfirmation" = "Are you sure you want to clear recent images?";
+
+"FeatureDisabled.Oops" = "Oops";
+
+"Conversation.ContextMenuReply" = "Reply";
+
 "ForwardedMessages_1" = "Forwarded message";
 "ForwardedMessages_2" = "%@ forwarded messages";
 "ForwardedMessages_3_10" = "%@ forwarded messages";
@@ -11701,8 +11960,8 @@ Sorry for the inconvenience.";
 "Gift.View.Visibility" = "Visibility";
 "Gift.View.Visibility.Visible" = "Visible on your profile";
 "Gift.View.Visibility.Hide" = "hide";
-"Gift.View.Hide" = "Hide from My Page";
-"Gift.View.Display" = "Display on My Page";
+"Gift.View.Hide" = "Hide from my profile";
+"Gift.View.Display" = "Add to My Profile";
 "Gift.View.Convert" = "Convert to %@";
 "Gift.View.Convert.Stars_1" = "%@ Star";
 "Gift.View.Convert.Stars_any" = "%@ Stars";
@@ -11710,12 +11969,12 @@ Sorry for the inconvenience.";
 "Gift.View.NameHidden" = "Only you can see the sender's name.";
 "Gift.View.NameAndMessageHidden" = "Only you can see the sender's name and message.";
 
-"Gift.View.DisplayedInfo" = "The gift is visible on your Page. [View >]()";
+"Gift.View.DisplayedInfo" = "The gift is visible on your profile. [View >]()";
 "Gift.View.HiddenInfo" = "This gift is hidden. Only you can see it.";
 
 "Gift.Displayed.Title" = "Gift Saved to Profile";
-"Gift.Displayed.Text" = "The gift is now displayed in [your profile]().";
-"Gift.Displayed.NewText" = "The gift is now shown on your Page.";
+"Gift.Displayed.Text" = "This gift is now visible on [your profile]().";
+"Gift.Displayed.NewText" = "The gift is now shown on your profile.";
 "Gift.Displayed.View" = "View";
 "Gift.Hidden.Title" = "Gift Removed from Profile";
 "Gift.Hidden.Text" = "The gift is no longer displayed in [your profile]().";
@@ -11754,7 +12013,7 @@ Sorry for the inconvenience.";
 
 "Notification.StarGift.Title" = "Gift from %@";
 "Notification.StarGift.Subtitle" = "Add this gift to your profile or convert it to %@.";
-
+"Notification.StarGift.Subtitle.Channel" = "Add this gift to your channel's profile or convert it to %@.";
 "Notification.StarGift.Subtitle.Stars_1" = "%@ Star";
 "Notification.StarGift.Subtitle.Stars_any" = "%@ Stars";
 "Notification.StarGift.Subtitle.Other" = "%1$@ can add this gift to their profile or convert it to %2$@.";
@@ -11763,7 +12022,7 @@ Sorry for the inconvenience.";
 "Notification.StarGift.Subtitle.Converted" = "You converted this gift to %@.";
 "Notification.StarGift.Subtitle.Converted.Stars_1" = "%@ Star";
 "Notification.StarGift.Subtitle.Converted.Stars_any" = "%@ Stars";
-"Notification.StarGift.Subtitle.Displaying" = "You are displaying this gift on your page. You can also convert it to %@.";
+"Notification.StarGift.Subtitle.Displaying" = "You added this gift to your profile. You can also convert it to %@.";
 "Notification.StarGift.Subtitle.Displaying.Stars_1" = "%@ Star";
 "Notification.StarGift.Subtitle.Displaying.Stars_any" = "%@ Stars";
 "Notification.StarGift.OneOf" = "1 of %@";
@@ -11782,6 +12041,9 @@ Sorry for the inconvenience.";
 "Gift.Send.Remains_any" = "%@ left";
 "Gift.Send.Sold_1" = "%@ sold";
 "Gift.Send.Sold_any" = "%@ sold";
+"Gift.Send.Success" = "You sent a gift to **%1$@** for **%2$@**.";
+"Gift.Send.Success.Stars_1" = "%@ Star";
+"Gift.Send.Success.Stars_any" = "%@ Stars";
 
 "Gift.Send.ErrorUnknown" = "An error occurred. Please try again.";
 "Gift.Send.ErrorOutOfStock" = "Sorry, this gift is sold out. Please choose another gift.";
@@ -12158,11 +12420,12 @@ Sorry for the inconvenience.";
 
 "Conversation.ContextMenuSendGiftTo" = "Send Gift to %@";
 "Conversation.ContextMenuSendAnotherGift" = "Send Another Gift";
+"Conversation.ContextMenuBuyGift" = "Buy Yourself a Gift";
 
 "Gift.View.Status" = "Status";
 "Gift.View.Status.NonUnique" = "Non-Unique";
 "Gift.View.Status.Upgrade" = "upgrade";
-"Gift.View.DisplayedInfoHide" = "The gift is visible on your Page. [Hide >]()";
+"Gift.View.DisplayedInfoHide" = "The gift is visible on your profile. [Hide >]()";
 "Gift.View.HiddenInfoShow" = "This gift is hidden. Only you can see it. [Show >]()";
 
 "Gift.Upgrade.Title" = "Upgrade Gift";
@@ -12215,7 +12478,7 @@ Sorry for the inconvenience.";
 "Gift.Transfer.UnlockPending.Text.Days_any" = "%@ days";
 
 "Gift.Transfer.UpdateRequired.Title" = "Update Required";
-"Gift.Transfer.UpdateRequired.Text" = "Please update your Telegram application to the latest version.";
+"Gift.Transfer.UpdateRequired.Text" = "The Telegram version that enables gift transfers to the blockchain is currently under review by the App Store. Please wait a few days.";
 
 "Gift.Transfer.Confirmation.Title" = "Confirm Transfer";
 "Gift.Transfer.Confirmation.TextFree" = "Do you want to transfer ownership of **%1$@** to **%2$@**?";
@@ -12287,7 +12550,7 @@ Sorry for the inconvenience.";
 "ChatList.EmptyResult.SearchInAll" = "Search in All Messages";
 
 "Gift.Options.GiftSelf.Title" = "Buy a Gift";
-"Gift.Options.GiftSelf.Text" = "Buy yourself a gift to display on your page or reserve for later.\n\nLimited-edition gifts upgraded to collectibles can be gifted to others later.";
+"Gift.Options.GiftSelf.Text" = "Buy yourself a gift to add to your profile or reserve for later.\n\nLimited-edition gifts upgraded to collectibles can be gifted to others.";
 
 "Gift.SendSelf.Title" = "Gift to Myself";
 "Gift.SendSelf.HideMyName" = "Hide My Name";
@@ -12298,7 +12561,7 @@ Sorry for the inconvenience.";
 "Notification.StarsGift.Subtitle.Self" = "You can add this gift to your profile or upgrade it to a unique collectible to keep or transfer.";
 
 "Gift.View.Self.Title" = "Saved Gift";
-"Gift.View.Self.Description" = "You can display this gift on your page or turn it into a unique collectible and send to others.";
+"Gift.View.Self.Description" = "You can add this gift to your profile or turn it into a unique transferable collectible.";
 
 "BotVerification.Verify.Placeholder" = "This page is verified by %@";
 
@@ -12326,6 +12589,7 @@ Sorry for the inconvenience.";
 
 "Premium.Gift.ContactSelection.ThisIsYou" = "THIS IS YOU";
 "Premium.Gift.ContactSelection.BuySelf" = "buy yourself a gift";
+"Premium.Gift.ContactSelection.TransferSelf" = "send yourself a gift";
 
 "Gift.View.Outgoing.NameHidden" = "Only %@ can see your name.";
 "Gift.View.Outgoing.NameAndMessageHidden" = "Only %@ can see your name and message.";
@@ -12339,22 +12603,30 @@ Sorry for the inconvenience.";
 
 "Camera.OpenChat" = "Open Chat";
 
+"Gift.Wear.Wear" = "Wear %@";
+"Gift.Wear.GetBenefits" = "and get these benefits:";
+"Gift.Wear.Badge.Title" = "Radiant Badge";
+"Gift.Wear.Badge.Text" = "This gift will be displayed next to your name with a glittering icon.";
+"Gift.Wear.Badge.ChannelText" = "This gift will be displayed next to your channel's name with a glittering icon.";
+"Gift.Wear.Design.Title" = "Unique Profile Design";
+"Gift.Wear.Design.Text" = "Your profile will have the same backdrop and symbol as this gift.";
+"Gift.Wear.Design.ChannelText" = "Your channel's profile will have the same backdrop and symbol as this gift.";
+"Gift.Wear.Proof.Title" = "Proof of Ownership";
+"Gift.Wear.Proof.Text" = "Tapping the icon next to your name will show the gift's owner and attributes.";
+"Gift.Wear.Proof.ChannelText" = "Tapping the icon next to your channel's name will show the gift's owner and attributes.";
+"Gift.Wear.Start" = "Start Wearing";
 
+"Gift.View.Header.Transfer" = "transfer";
+"Gift.View.Header.Wear" = "wear";
+"Gift.View.Header.TakeOff" = "take off";
+"Gift.View.Header.Share" = "share";
 
+"Gift.View.PutOn" = "You put on %@";
+"Gift.View.TookOff" = "You took off %@";
 
+"Gift.View.TooltipPremiumWearing" = "Subscribe to [Telegram Premium]() to wear collectibles.";
 
-
-
-
-
-
-
-
-
-
-
-
-
+"Conversation.AddToContactsLong" = "Add to Contacts";
 
 "PeerInfo.PaneRecommendedBots" = "Similar Bots";
 
@@ -12377,26 +12649,99 @@ Sorry for the inconvenience.";
 "Gift.View.Context.CopyLink" = "Copy Link";
 "Gift.View.Context.Transfer" = "Transfer";
 
+"Gift.Withdraw.Title" = "Manage with Fragment";
+"Gift.Withdraw.Text" = "You can use Fragment, a third-party service, to transfer **%@** to the TON blockchain. After that, you can manage it as an NFT with any TON wallet application.\n\nYou can also move such NFTs back to your Telegram account via Fragment.";
+"Gift.Withdraw.Proceed" = "Open Fragment";
+
+"ChatListFilter.NameEnableAnimations" = "Enable Animations";
+"ChatListFilter.NameDisableAnimations" = "Disable Animations";
+
+"Chat.SendGiftTooltip" = "Tap here to send a gift";
+
+"ChannelBoost.Table.WearGift" = "Wear Unique Collectibles";
+
+"ChannelBoost.WearGift" = "Wear Item";
+"ChannelBoost.WearGiftLevelText" = "Your channel needs **Level %1$@** to wear collectibles.";
+
+"PeerInfo.Gifts.SendGift" = "Send Gift";
+"PeerInfo.Gifts.ChannelNotify" = "Notify About New Gifts";
+"PeerInfo.Gifts.ChannelNotifyTooltip" = "Telegram will send you a message when your channel receives a gift.";
+"PeerInfo.Gifts.ChannelNotifyDisabledTooltip" = "You will not be notified when your channel receives a gift.";
+
+"Notification.StarsGift.Channel.Sent" = "%1$@ sent a gift to %2$@ for %3$@";
+
+"Gift.View.Display.Channel" = "Add to Profile";
+"Gift.View.DisplayedInfoHide.Channel" = "The gift is visible on your channel's profile. [Hide >]()";
+"Gift.View.HiddenInfo.Channel" = "This item is hidden from visitors to your channel.";
+"Gift.View.HiddenInfoShow.Channel" = "This item is hidden from visitors to your channel. [Show >]()";
+
+"Gift.View.UniqueHiddenInfo" = "This gift is not visible on your profile.";
+"Gift.View.UniqueHiddenInfo.Channel" = "This gift is not visible on your channel's profile.";
+
+"Gift.View.KeepOrConvertDescription.Channel" = "Your channel can add this gift to its profile or convert it to %@. [More About Stars >]()";
+"Gift.View.KeepUpgradeOrConvertDescription.Channel" = "Your channel can keep this gift, upgrade it, or sell it for %@. [More About Stars >]()";
+
+"MediaPicker.UseAnEmoji" = "Use an Emoji";
+"MediaPicker.SetNewPhoto" = "Set new profile photo";
+"MediaPicker.ChooseCover" = "Choose Cover";
+"MediaPicker.RemovePhoto" = "Remove Photo";
+
+"EmojiInput.SectionTitleCollectibles" = "COLLECTIBLES";
+
+"Gift.Options.GiftChannel.Title" = "Send a Gift";
+"Gift.Options.GiftChannel.Text" = "Select a gift to show appreciation for **%@**.";
+
+"Gift.SendChannel.Title" = "Gift Preview";
+"Gift.SendChannel.HideMyName.Info" = "Hide my name and message from visitors to this channel. The channel admins will still see them.";
+
+"Media.EditCover" = "Edit Cover";
+"Media.ChooseFromGallery" = "Choose From Gallery";
+"Media.SelectFrame" = "Select Frame";
+"Media.SaveCover" = "Save Cover";
+
+"Gift.Withdraw.SecurityCheck" = "Security Check";
+"Gift.Withdraw.SecurityRequirements" = "Gift withdrawals are only available if:\n\n• Two-Step verification was enabled for your account more than **7 days** ago.\n\n• You logged in on this device more than **24 hours** ago.";
+"Gift.Withdraw.ComeBackLater" = "\n\nPlease come back later.";
+"Gift.Withdraw.SetupTwoStepAuth" = "Enable Two-Step Verification";
+
+"Gift.Withdraw.EnterPassword.Title" = "Enter Password";
+"Gift.Withdraw.EnterPassword.Text" = "Please enter your Two-Step Verification password to complete this action.";
+"Gift.Withdraw.EnterPassword.Done" = "Proceed";
+
+"PeerInfo.Gifts.SortByValue" = "Sort by Value";
+"PeerInfo.Gifts.SortByDate" = "Sort by Date";
+"PeerInfo.Gifts.Unlimited" = "Unlimited";
+"PeerInfo.Gifts.Limited" = "Limited";
+"PeerInfo.Gifts.Unique" = "Unique";
+"PeerInfo.Gifts.Displayed" = "Displayed";
+"PeerInfo.Gifts.Hidden" = "Hidden";
+
+"PeerInfo.Gifts.NoResults" = "No Matching Gifts";
+"PeerInfo.Gifts.NoResults.ViewAll" = "View All Gifts";
+
+"Gift.Displayed.ChannelText" = "The gift is now visible on the channel's profile.";
+"Gift.Hidden.ChannelText" = "The gift is now hidden from the channel's profile.";
+
+"Gift.Upgrade.AddChannelName" = "Add channel name to the gift";
+
+"AffiliateProgram.OpenBot" = "View %@";
+
+"AvatarUpload.StatusUploading" = "Your photo is uploading.";
+"AvatarUpload.StatusDone" = "Your photo is now set.";
+"AvatarUpload.ViewAction" = "View";
+
+"Notification.StarGift.TitleShort" = "Gift";
+"Notification.StarsGift.SentSomeone" = "Someone sent you a gift";
+"Notification.StarsGift.UpgradeChannel" = "A gift was turned into a unique collectible";
+
+
+
 
 /* new from translations.telegram.org */
 
 "AUTH_REGION" = "Login from a new device %1$@, location: %2$@";
 "AUTH_REGION_SEPARATED" = "New login|from unrecognized device %1$@, location: %2$@";
 "AUTH_UNKNOWN_SEPARATED" = "New login|from unrecognized device %1$@";
-"AccessDenied.Camera" = "Telegram needs camera access so that you can take photos and videos.\n\nPlease go to your device settings > Privacy > Camera and set Telegram to ON.";
-"AccessDenied.CameraDisabled" = "Camera access is globally restricted on your phone.\n\nPlease go to Settings > General > Restrictions and set Camera to ON";
-"AccessDenied.CameraRestricted" = "Camera access is restricted for Telegram.\n\nPlease go to your device‘s settings > General > Restrictions > Camera and set Telegram to ON.";
-"AccessDenied.Contacts" = "Telegram messaging is based on your existing contact list.\n\nPlease go to your device‘s settings > Privacy > Contacts and set Telegram to ON.";
-"AccessDenied.LocationDenied" = "Telegram needs access to your location so that you can share it with your contacts.\n\nPlease go to your device‘s settings > Privacy > Location Services and set Telegram to ON.";
-"AccessDenied.LocationDisabled" = "Telegram needs access to your location so that you can share it with your contacts.\n\nPlease go to your device‘s settings > Privacy > Location Services and set it to ON.";
-"AccessDenied.MicrophoneRestricted" = "Microphone access is restricted for Telegram.\n\nPlease go to your device‘s settings > General > Restrictions > Microphone and set Telegram to ON.";
-"AccessDenied.PhotosAndVideos" = "Telegram needs access to your photo library so that you can send photos and videos.\n\nPlease go to your device‘s settings > Privacy > Photos and set Telegram to ON.";
-"AccessDenied.PhotosRestricted" = "Photo access is restricted for Telegram.\n\nPlease go to your device settings > General > Restrictions > Photos and set Telegram to ON.";
-"AccessDenied.SaveMedia" = "Telegram needs access to your photo library so that you can save photos and videos.\n\nPlease go to your device‘s settings > Privacy > Photos and set Telegram to ON.";
-"AccessDenied.Settings" = "Settings";
-"AccessDenied.Title" = "Please Allow Access";
-"AccessDenied.VideoMicrophone" = "Telegram needs access to your microphone so that you can record sound in videos recording.\n\nPlease go to your device‘s settings > Privacy > Microphone and set Telegram to ON.";
-"AccessDenied.VoiceMicrophone" = "Telegram needs access to your microphone so that you can send voice messages.\n\nPlease go to your device‘s settings > Privacy > Microphone and set Telegram to ON.";
 "Activity.RecordingAudio" = "recording voice";
 "Activity.RecordingVideoMessage" = "recording video";
 "Activity.UploadingDocument" = "sending a file";
@@ -12670,16 +13015,6 @@ Sorry for the inconvenience.";
 "Camera.Retake" = "Retake";
 "Camera.SquareMode" = "SQUARE";
 "Camera.VideoMode" = "VIDEO";
-"ChangePhoneNumberCode.CallTimer" = "Telegram will call you in %@";
-"ChangePhoneNumberCode.Called" = "Telegram dialed your number";
-"ChangePhoneNumberCode.Code" = "YOUR CODE";
-"ChangePhoneNumberCode.CodePlaceholder" = "Code";
-"ChangePhoneNumberCode.Help" = "We have sent you an SMS with the code";
-"ChangePhoneNumberCode.RequestingACall" = "Requesting a call from Telegram...";
-"ChangePhoneNumberNumber.Help" = "Your new number will receive a confirmation code via call or SMS.";
-"ChangePhoneNumberNumber.NewNumber" = "NEW NUMBER";
-"ChangePhoneNumberNumber.NumberPlaceholder" = "Enter your new number";
-"ChangePhoneNumberNumber.Title" = "Change Number";
 "Channel.AdminLog.BanSendGifs" = "Send GIFs";
 "Channel.AdminLog.BanSendStickers" = "Send Stickers";
 "Channel.AdminLog.CanChangeInviteLink" = "Invite Users Via Link";
@@ -13086,14 +13421,11 @@ Sorry for the inconvenience.";
 "Conversation.ContextMenuListened_2" = "%@ Listened";
 "Conversation.ContextMenuListened_3_10" = "%@ Listened";
 "Conversation.ContextMenuListened_many" = "%@ Listened";
-"Conversation.ContextMenuLookUp" = "Look Up";
 "Conversation.ContextMenuMore" = "More...";
-"Conversation.ContextMenuReply" = "Reply";
 "Conversation.ContextMenuSeen_0" = "%@ Seen";
 "Conversation.ContextMenuSeen_2" = "%@ Seen";
 "Conversation.ContextMenuSeen_3_10" = "%@ Seen";
 "Conversation.ContextMenuSeen_many" = "%@ Seen";
-"Conversation.ContextMenuShare" = "Share";
 "Conversation.ContextMenuWatched_0" = "%@ Listened";
 "Conversation.ContextMenuWatched_2" = "%@ Listened";
 "Conversation.ContextMenuWatched_3_10" = "%@ Listened";
@@ -13230,13 +13562,8 @@ Sorry for the inconvenience.";
 "DialogList.MultipleTypingSuffix" = "%d are typing";
 "DialogList.NoMessagesText" = "Start messaging by tapping the pencil button in the top right corner or go to the Contacts section.";
 "DialogList.NoMessagesTitle" = "You have no conversations yet";
-"DialogList.PasscodeLockHelp" = "Tap to lock Telegram";
 "DialogList.SearchLabel" = "Search chats";
 "DialogList.SearchLabelCompact" = "Search";
-"DialogList.SearchSectionChats" = "Chats";
-"DialogList.SearchSectionDialogs" = "Chats and Contacts";
-"DialogList.SearchSectionGlobal" = "Global Search";
-"DialogList.SearchSectionMessages" = "Messages";
 "DialogList.SingleRecordingAudioSuffix" = "%@ is recording";
 "DialogList.SingleRecordingVideoMessageSuffix" = "%@ is recording video";
 "DialogList.SingleTypingSuffix" = "%@ is typing";
@@ -13256,7 +13583,6 @@ Sorry for the inconvenience.";
 "DownloadList.RemoveFileAlertTitle_2" = "Remove %@ Downloads?";
 "DownloadList.RemoveFileAlertTitle_3_10" = "Remove %@ Downloads?";
 "DownloadList.RemoveFileAlertTitle_many" = "Remove %@ Downloads?";
-"DownloadingStatus" = "downloading %@ of %@";
 "ENCRYPTED_MESSAGE" = "You have a new message%1$@";
 "ENCRYPTION_ACCEPT" = "Your secret chat was accepted%1$@";
 "ENCRYPTION_REQUEST" = "New secret chat request%1$@";
@@ -13282,19 +13608,6 @@ Sorry for the inconvenience.";
 "EmojiPacks.UnarchiveEmojiPacksConfirmation_many" = "Unarchive %@ Packs";
 "EncryptionKey.Description" = "This image and text were derived from the encryption key for this secret chat with %1$@.\n\nIf they look the same on %2$@'s device, end-to-end encryption is guaranteed.\n\nLearn more at telegram.org";
 "EncryptionKey.Title" = "Encryption Key";
-"EnterPasscode.ChangeTitle" = "Change Passcode";
-"EnterPasscode.EnterCurrentPasscode" = "Enter your current passcode";
-"EnterPasscode.EnterNewPasscodeChange" = "Enter your new passcode";
-"EnterPasscode.EnterNewPasscodeNew" = "Enter a passcode";
-"EnterPasscode.EnterPasscode" = "Enter your Telegram Passcode";
-"EnterPasscode.EnterTitle" = "Enter your Telegram Passcode";
-"EnterPasscode.RepeatNewPasscode" = "Re-enter your new passcode";
-"EnterPasscode.TouchId" = "Unlock Telegram";
-"FeatureDisabled.Oops" = "Oops";
-"FileSize.B" = "%@ B";
-"FileSize.GB" = "%@ GB";
-"FileSize.KB" = "%@ KB";
-"FileSize.MB" = "%@ MB";
 "FolderLinkPreview.ChatSectionHeader_0" = "%d CHATS IN THIS FOLDER";
 "FolderLinkPreview.ChatSectionHeader_2" = "%d CHATS IN THIS FOLDER";
 "FolderLinkPreview.ChatSectionHeader_3_10" = "%d CHATS IN THIS FOLDER";
@@ -13347,12 +13660,6 @@ Sorry for the inconvenience.";
 "ForcedPasswordSetup.Intro.DismissText_2" = "Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every **%@ days**.";
 "ForcedPasswordSetup.Intro.DismissText_3_10" = "Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every **%@ days**.";
 "ForcedPasswordSetup.Intro.DismissText_many" = "Proceed without a password? If you do not set a password, you will only be able to log into your account via SMS once every **%@ days**.";
-"Forward.ConfirmMultipleFiles_0" = "Send %@ files to {target}?";
-"Forward.ConfirmMultipleFiles_1" = "Send 1 file to {target}?";
-"Forward.ConfirmMultipleFiles_2" = "Send %@ files to {target}?";
-"Forward.ConfirmMultipleFiles_3_10" = "Send %@ files to {target}?";
-"Forward.ConfirmMultipleFiles_many" = "Send %@ files to {target}?";
-"Forward.ConfirmMultipleFiles_any" = "Send %@ files to {target}?";
 "ForwardedAuthorsOthers_0" = "%@ and %@ others";
 "ForwardedAuthorsOthers_1" = "%@ and 1 other";
 "ForwardedAuthorsOthers_2" = "%@ and %@ others";
@@ -13401,6 +13708,10 @@ Sorry for the inconvenience.";
 "Gift.Send.Sold_2" = "%@ sold";
 "Gift.Send.Sold_3_10" = "%@ sold";
 "Gift.Send.Sold_many" = "%@ sold";
+"Gift.Send.Success.Stars_0" = "%@ Stars";
+"Gift.Send.Success.Stars_2" = "%@ Stars";
+"Gift.Send.Success.Stars_3_10" = "%@ Stars";
+"Gift.Send.Success.Stars_many" = "%@ Stars";
 "Gift.Transfer.Confirmation.Text.Stars_0" = "%@ Stars";
 "Gift.Transfer.Confirmation.Text.Stars_2" = "%@ Stars";
 "Gift.Transfer.Confirmation.Text.Stars_3_10" = "%@ Stars";
@@ -13574,13 +13885,6 @@ Sorry for the inconvenience.";
 "Login.SmsRequestState1" = "Sending you an SMS in %d:%.2d";
 "Login.UnknownError" = "An error occurred, please try again later.";
 "Login.WillCallYou" = "Telegram will call you in %@";
-"LoginPassword.FloodError" = "Too many attempts, please try again later.";
-"LoginPassword.ForgotPassword" = "Forgot password?";
-"LoginPassword.InvalidPasswordError" = "Invalid password, please try again.";
-"LoginPassword.PasswordHelp" = "Two-Step Verification enabled. Your account is protected with an additional password.";
-"LoginPassword.PasswordPlaceholder" = "Password";
-"LoginPassword.ResetAccount" = "Reset Account";
-"LoginPassword.Title" = "Your Password";
 "MESSAGES" = "%1$@ sent you %2$@ messages";
 "MESSAGES_SEPARATED" = "%1$@|sent you %2$@ messages";
 "MESSAGE_AUDIO" = "%1$@ sent you a voice message";
@@ -13807,54 +14111,18 @@ Sorry for the inconvenience.";
 "Month.ShortNovember" = "Nov";
 "Month.ShortOctober" = "Oct";
 "Month.ShortSeptember" = "Sep";
-"MuteExpires.Days_0" = "in %@ days";
-"MuteExpires.Days_1" = "in 1 day";
-"MuteExpires.Days_2" = "in %@ days";
-"MuteExpires.Days_3_10" = "in %@ days";
-"MuteExpires.Days_many" = "in %@ days";
-"MuteExpires.Days_any" = "in %@ days";
-"MuteExpires.Hours_0" = "in %@ hours";
-"MuteExpires.Hours_1" = "in 1 hour";
-"MuteExpires.Hours_2" = "in %@ hours";
-"MuteExpires.Hours_3_10" = "in %@ hours";
-"MuteExpires.Hours_many" = "in %@ hours";
-"MuteExpires.Hours_any" = "in %@ hours";
-"MuteExpires.Minutes_0" = "in %@ minutes";
-"MuteExpires.Minutes_1" = "in 1 minute";
-"MuteExpires.Minutes_2" = "in %@ minutes";
-"MuteExpires.Minutes_3_10" = "in %@ minutes";
-"MuteExpires.Minutes_many" = "in %@ minutes";
-"MuteExpires.Minutes_any" = "in %@ minutes";
-"MuteFor.Days_0" = "Mute for %@ days";
-"MuteFor.Days_1" = "Mute for 1 day";
-"MuteFor.Days_2" = "Mute for %@ days";
-"MuteFor.Days_3_10" = "Mute for %@ days";
-"MuteFor.Days_many" = "Mute for %@ days";
-"MuteFor.Days_any" = "Mute for %@ days";
-"MuteFor.Hours_0" = "Mute for %@ hours";
-"MuteFor.Hours_1" = "Mute for 1 hour";
-"MuteFor.Hours_2" = "Mute for %@ hours";
-"MuteFor.Hours_3_10" = "Mute for %@ hours";
-"MuteFor.Hours_many" = "Mute for %@ hours";
-"MuteFor.Hours_any" = "Mute for %@ hours";
 "MutedForTime.Days_0" = "%@ days";
-"MutedForTime.Days_1" = "1 day";
 "MutedForTime.Days_2" = "%@ days";
 "MutedForTime.Days_3_10" = "%@ days";
 "MutedForTime.Days_many" = "%@ days";
-"MutedForTime.Days_any" = "%@ days";
 "MutedForTime.Hours_0" = "%@ hours";
-"MutedForTime.Hours_1" = "1 hour";
 "MutedForTime.Hours_2" = "%@ hours";
 "MutedForTime.Hours_3_10" = "%@ hours";
 "MutedForTime.Hours_many" = "%@ hours";
-"MutedForTime.Hours_any" = "%@ hours";
 "MutedForTime.Minutes_0" = "%@ minutes";
-"MutedForTime.Minutes_1" = "1 minute";
 "MutedForTime.Minutes_2" = "%@ minutes";
 "MutedForTime.Minutes_3_10" = "%@ minutes";
 "MutedForTime.Minutes_many" = "%@ minutes";
-"MutedForTime.Minutes_any" = "%@ minutes";
 "NEW_CHANNEL_MESSAGES_SEPARATED_0" = "%1$@|posted %2$d messages";
 "NEW_CHANNEL_MESSAGES_SEPARATED_1" = "%1$@|posted a message";
 "NEW_CHANNEL_MESSAGES_SEPARATED_2" = "%1$@|posted %2$d messages";
@@ -13971,8 +14239,6 @@ Sorry for the inconvenience.";
 "Notification.MessageLifetimeChangedOutgoing" = "You set the self-destruct timer to %1$@";
 "Notification.MessageLifetimeRemoved" = "%1$@ disabled the self-destruct timer";
 "Notification.MessageLifetimeRemovedOutgoing" = "You disabled the self-destruct timer";
-"Notification.Mute1h" = "Mute for 1 hour";
-"Notification.Mute1hMin" = "Mute for 1h";
 "Notification.NewAuthDetected" = "%1$@,\nWe detected a login to your account from a new device on %2$@, %3$@ at %4$@.\n\nDevice: %5$@\nLocation: %6$@\n\nIf this wasn't you, you can go to Settings > Devices and terminate that session.\n\nIf you think that somebody logged in to your account against your will, you can enable Two-Step Verification in Privacy and Security settings.\n\nSincerely,\nThe Telegram Team";
 "Notification.PremiumGift.Months_0" = "%@ months";
 "Notification.PremiumGift.Months_2" = "%@ months";
@@ -13993,7 +14259,6 @@ Sorry for the inconvenience.";
 "Notification.RemovedGroupPhoto" = "%@ removed group photo";
 "Notification.RenamedChannel" = "Channel renamed";
 "Notification.RenamedChat" = "%@ renamed group";
-"Notification.Reply" = "Reply";
 "Notification.SecretChatMessageScreenshot" = "%@ took a screenshot!";
 "Notification.SecretChatScreenshot" = "Screenshot taken!";
 "Notification.StarGift.Subtitle.Converted.Stars_0" = "%@ Stars";
@@ -14478,29 +14743,6 @@ Sorry for the inconvenience.";
 "PUSH_STORY_NOTEXT" = "%1$@|posted a story";
 "PUSH_VIDEO_CALL_MISSED" = "%1$@|You missed a video call";
 "PUSH_VIDEO_CALL_REQUEST" = "%1$@|is calling you!";
-"PasscodeSettings.AutoLock" = "Auto-Lock";
-"PasscodeSettings.AutoLock.Disabled" = "Disabled";
-"PasscodeSettings.AutoLock.IfAwayFor_1hour" = "If away for 1 hour";
-"PasscodeSettings.AutoLock.IfAwayFor_1minute" = "If away for 1 min";
-"PasscodeSettings.AutoLock.IfAwayFor_5hours" = "If away for 5 hours";
-"PasscodeSettings.AutoLock.IfAwayFor_5minutes" = "If away for 5 min";
-"PasscodeSettings.ChangePasscode" = "Change Passcode";
-"PasscodeSettings.EncryptData" = "Encrypt Local Database";
-"PasscodeSettings.EncryptDataHelp" = "Experimental feature, use with caution. Encrypt your local Telegram data, using a derivative of your passcode as the key.";
-"PasscodeSettings.FailedAttempts_0" = "%@ Failed Passcode Attempts";
-"PasscodeSettings.FailedAttempts_1" = "%@ Failed Passcode Attempt";
-"PasscodeSettings.FailedAttempts_2" = "%@ Failed Passcode Attempts";
-"PasscodeSettings.FailedAttempts_3_10" = "%@ Failed Passcode Attempts";
-"PasscodeSettings.FailedAttempts_many" = "%@ Failed Passcode Attempts";
-"PasscodeSettings.FailedAttempts_any" = "%@ Failed Passcode Attempts";
-"PasscodeSettings.Help" = "When a passcode is set, a lock icon appears on the chats page. Tap it to lock your Telegram app.\n\nNote: if you forget your passcode, you'll need to reinstall the app. All your Secret Chats will be lost.";
-"PasscodeSettings.SimplePasscode" = "Simple Passcode";
-"PasscodeSettings.SimplePasscodeHelp" = "A simple passcode is a 4 digit number.";
-"PasscodeSettings.Title" = "Passcode Lock";
-"PasscodeSettings.TryAgainIn1Minute" = "Try again in 1 minute";
-"PasscodeSettings.TurnPasscodeOff" = "Turn Passcode Off";
-"PasscodeSettings.TurnPasscodeOn" = "Turn Passcode On";
-"PasscodeSettings.UnlockWithTouchId" = "Unlock with Touch ID";
 "Passport.Scans" = "SCANS";
 "PassportKit.Button.GetTelegramAlertInstall" = "Install";
 "PassportKit.Button.GetTelegramAlertMessage" = "You need to have Telegram Messenger installed to use Telegram Passport";
@@ -14554,9 +14796,6 @@ Sorry for the inconvenience.";
 "PeerStatusExpiration.Minutes_3_10" = "Your status expires in %@ minutes";
 "PeerStatusExpiration.Minutes_many" = "Your status expires in %@ minutes";
 "PhoneLabel.Title" = "Label";
-"PhoneNumberHelp.Alert" = "Users will see your new number if they have it in their address book or your privacy settings allow them to see it. You can modify this in Settings > Privacy and Security > Phone number.";
-"PhoneNumberHelp.ChangeNumber" = "Change Number";
-"PhoneNumberHelp.Help" = "You can change your Telegram number here. Your account and all your cloud data — messages, media, contacts, etc. will be moved to the new number.";
 "PhotoEditor.BlurToolLinear" = "Linear";
 "PhotoEditor.BlurToolOff" = "Off";
 "PhotoEditor.BlurToolRadial" = "Radial";
@@ -14644,7 +14883,6 @@ Sorry for the inconvenience.";
 "PrivacySettings.LastSeenNobody" = "Nobody";
 "PrivacySettings.LastSeenNobodyPlus" = "Nobody (+%@)";
 "PrivacySettings.LastSeenTitle" = "Last Seen & Online";
-"PrivacySettings.Passcode" = "Passcode Lock";
 "PrivacySettings.PrivacyTitle" = "PRIVACY";
 "PrivacySettings.SecurityTitle" = "SECURITY";
 "PrivacySettings.Title" = "Privacy and Security";
@@ -14673,12 +14911,6 @@ Sorry for the inconvenience.";
 "QuickReply.SelectedTitle_2" = "%d Selected";
 "QuickReply.SelectedTitle_3_10" = "%d Selected";
 "QuickReply.SelectedTitle_many" = "%d Selected";
-"QuickSend.Photos_0" = "Send %@ Photos";
-"QuickSend.Photos_1" = "Send 1 Photo";
-"QuickSend.Photos_2" = "Send %@ Photos";
-"QuickSend.Photos_3_10" = "Send %@ Photos";
-"QuickSend.Photos_many" = "Send %@ Photos";
-"QuickSend.Photos_any" = "Send %@ Photos";
 "ReassignBoost.Boosts_0" = "%@ boosts are reassigned";
 "ReassignBoost.Boosts_2" = "%@ boosts are reassigned";
 "ReassignBoost.Boosts_3_10" = "%@ boosts are reassigned";
@@ -14758,39 +14990,14 @@ Sorry for the inconvenience.";
 "Settings.Title" = "Settings";
 "Settings.Username" = "Username";
 "Settings.UsernameEmpty" = "Add";
-"Share.Title" = "Share";
-"ShareFileTip.CloseTip" = "Close Tip";
-"ShareFileTip.Text" = "You can share **uncompressed** media files from your Camera Roll here.\n\nTo share files of any other type, open them on your %@ (e.g. in your browser), tap **Open in...** or the action button and choose Telegram.";
-"ShareFileTip.Title" = "Sharing Files";
 "SharedMedia.CommonGroupCount_0" = "%@ groups in common";
 "SharedMedia.CommonGroupCount_2" = "%@ groups in common";
 "SharedMedia.CommonGroupCount_3_10" = "%@ groups in common";
 "SharedMedia.CommonGroupCount_many" = "%@ groups in common";
-"SharedMedia.DeleteItemsConfirmation_0" = "Delete %@ media files?";
-"SharedMedia.DeleteItemsConfirmation_1" = "Delete media file?";
-"SharedMedia.DeleteItemsConfirmation_2" = "Delete %@ media files?";
-"SharedMedia.DeleteItemsConfirmation_3_10" = "Delete %@ media files?";
-"SharedMedia.DeleteItemsConfirmation_many" = "Delete %@ media files?";
-"SharedMedia.DeleteItemsConfirmation_any" = "Delete %@ media files?";
-"SharedMedia.EmptyFilesText" = "You can send and receive\nfiles of any type up to 2 GB each\nand access them anywhere.";
-"SharedMedia.EmptyText" = "Share photos and videos in this chat\n— or this paperclip stays unhappy.";
-"SharedMedia.EmptyTitle" = "No media files yet";
-"SharedMedia.File_0" = "%@ files";
-"SharedMedia.File_1" = "1 file";
-"SharedMedia.File_2" = "%@ files";
-"SharedMedia.File_3_10" = "%@ files";
-"SharedMedia.File_many" = "%@ files";
-"SharedMedia.File_any" = "%@ files";
 "SharedMedia.FileCount_0" = "%@ files";
 "SharedMedia.FileCount_2" = "%@ files";
 "SharedMedia.FileCount_3_10" = "%@ files";
 "SharedMedia.FileCount_many" = "%@ files";
-"SharedMedia.Generic_0" = "%@ media files";
-"SharedMedia.Generic_1" = "1 media file";
-"SharedMedia.Generic_2" = "%@ media files";
-"SharedMedia.Generic_3_10" = "%@ media files";
-"SharedMedia.Generic_many" = "%@ media files";
-"SharedMedia.Generic_any" = "%@ media files";
 "SharedMedia.GifCount_0" = "%@ GIFs";
 "SharedMedia.GifCount_2" = "%@ GIFs";
 "SharedMedia.GifCount_3_10" = "%@ GIFs";
@@ -14807,12 +15014,6 @@ Sorry for the inconvenience.";
 "SharedMedia.MusicCount_2" = "%@ music files";
 "SharedMedia.MusicCount_3_10" = "%@ music files";
 "SharedMedia.MusicCount_many" = "%@ music files";
-"SharedMedia.Photo_0" = "%@ photos";
-"SharedMedia.Photo_1" = "1 photo";
-"SharedMedia.Photo_2" = "%@ photos";
-"SharedMedia.Photo_3_10" = "%@ photos";
-"SharedMedia.Photo_many" = "%@ photos";
-"SharedMedia.Photo_any" = "%@ photos";
 "SharedMedia.PhotoCount_0" = "%@ photos";
 "SharedMedia.PhotoCount_2" = "%@ photos";
 "SharedMedia.PhotoCount_3_10" = "%@ photos";
@@ -14833,13 +15034,6 @@ Sorry for the inconvenience.";
 "SharedMedia.SimilarChannelCount_2" = "%@ channels";
 "SharedMedia.SimilarChannelCount_3_10" = "%@ channels";
 "SharedMedia.SimilarChannelCount_many" = "%@ channels";
-"SharedMedia.TitleAll" = "Shared Media";
-"SharedMedia.Video_0" = "%@ videos";
-"SharedMedia.Video_1" = "1 video";
-"SharedMedia.Video_2" = "%@ videos";
-"SharedMedia.Video_3_10" = "%@ videos";
-"SharedMedia.Video_many" = "%@ videos";
-"SharedMedia.Video_any" = "%@ videos";
 "SharedMedia.VideoCount_0" = "%@ videos";
 "SharedMedia.VideoCount_2" = "%@ videos";
 "SharedMedia.VideoCount_3_10" = "%@ videos";
@@ -15161,31 +15355,6 @@ Sorry for the inconvenience.";
 "Time.AfterYears_2" = "%@ years";
 "Time.AfterYears_3_10" = "%@ years";
 "Time.AfterYears_many" = "%@ years";
-"Time.MediumDate" = "%1$@ at %2$@";
-"Time.MonthOfYear_m1" = "January %@";
-"Time.MonthOfYear_m10" = "October %@";
-"Time.MonthOfYear_m11" = "November %@";
-"Time.MonthOfYear_m12" = "December %@";
-"Time.MonthOfYear_m2" = "February %@";
-"Time.MonthOfYear_m3" = "March %@";
-"Time.MonthOfYear_m4" = "April %@";
-"Time.MonthOfYear_m5" = "May %@";
-"Time.MonthOfYear_m6" = "June %@";
-"Time.MonthOfYear_m7" = "July %@";
-"Time.MonthOfYear_m8" = "August %@";
-"Time.MonthOfYear_m9" = "September %@";
-"Time.PreciseDate_m1" = "Jan %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m10" = "Oct %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m11" = "Nov %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m12" = "Dec %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m2" = "Feb %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m3" = "Mar %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m4" = "Apr %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m5" = "May %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m6" = "Jun %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m7" = "Jul %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m8" = "Aug %1$@, %2$@ at %3$@";
-"Time.PreciseDate_m9" = "Sep %1$@, %2$@ at %3$@";
 "Time.TimerDays_0" = "%@-day";
 "Time.TimerDays_2" = "%@-day";
 "Time.TimerDays_3_10" = "%@-day";
@@ -15280,8 +15449,6 @@ Sorry for the inconvenience.";
 "Username.InvalidTaken" = "Sorry, this username is already taken.";
 "Username.InvalidTooShort" = "Usernames must have at least 5 characters.";
 "Username.InvalidValue" = "Sorry, this username is invalid.";
-"Username.LinkCopied" = "Link copied to clipboard.";
-"Username.LinkHint" = "This link opens a chat with you:[\nhttps://t.me/%@]";
 "Username.Placeholder" = "Your Username";
 "Username.Title" = "Username";
 "Username.UsernameIsAvailable" = "%@ is available.";
@@ -15328,7 +15495,6 @@ Sorry for the inconvenience.";
 "WebApp.Send" = "Send";
 "WebSearch.GIFs" = "GIFs";
 "WebSearch.Images" = "Images";
-"WebSearch.RecentClearConfirmation" = "Are you sure you want to clear recent images?";
 "WebSearch.RecentSectionClear" = "Clear";
 "WebSearch.RecentSectionTitle" = "Recent";
 "Weekday.ShortFriday" = "Fri";

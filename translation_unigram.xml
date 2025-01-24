@@ -8075,7 +8075,7 @@
     <string name="Gift2ActionTitleAnonymous">You received a gift!</string>
     <string name="Gift2ActionInfo_one">Add this gift to your profile or convert it to {0} Star.</string>
     <string name="Gift2ActionInfo_other">Add this gift to your profile or convert it to {0} Stars.</string>
-    <string name="Gift2ActionSavedInfo">You kept this gift on your page.</string>
+    <string name="Gift2ActionSavedInfo">You added this gift to your profile.</string>
     <string name="Gift2ActionConvertedInfo_one">You converted this gift to {0} Star.</string>
     <string name="Gift2ActionConvertedInfo_other">You converted this gift to {0} Stars.</string>
     <string name="Gift2ActionOutInfo_one">**{1}** can display this gift on their page or convert it to {0} Star.</string>
@@ -8120,8 +8120,8 @@
     
     
     
-    <string name="Gift2ProfileMakeVisible">Display on my Page</string>
-    <string name="Gift2ProfileMakeInvisible">Hide from my Page</string>
+    <string name="Gift2ProfileMakeVisible">Add to my profile</string>
+    <string name="Gift2ProfileMakeInvisible">Hide from my profile</string>
     <string name="Gift2ToBalance_one">Convert to {0} Star</string>
     <string name="Gift2ToBalance_other">Convert to {0} Stars</string>
     <string name="Gift2ConvertTitle">Convert Gift to Stars</string>
@@ -8141,7 +8141,7 @@
     
     
     <string name="Gift2MadePublicTitle">Gift Shown</string>
-    <string name="Gift2MadePublic">Gift is now visible in **your profile**.</string>
+    <string name="Gift2MadePublic">This gift is now visible on **your profile**.</string>
     <string name="Gift2MadePrivateTitle">Gift Hidden</string>
     <string name="Gift2MadePrivate">Gift is now hidden in **your profile**.</string>
     <string name="Gift2ConvertedTitle">Converted Gift</string>
@@ -11687,7 +11687,7 @@
     <string name="Gift2Visibility">Visibility</string>
     <string name="Gift2Visible">Visible on your profile</string>
     <string name="Gift2VisibleHide">hide</string>
-    <string name="Gift2Invisible">Not visible on your page</string>
+    <string name="Gift2Invisible">Not visible on your profile</string>
     <string name="Gift2InvisibleShow">show</string>
 
     <string name="Gift2HideSelf">Hide My Name</string>
