@@ -3128,7 +3128,7 @@
 "Gift.Wear.Design.Text" = "Your profile will have the same backdrop and symbol as this gift.";
 "Gift.Wear.Design.ChannelText" = "Your channel's profile will have the same backdrop and symbol as this gift.";
 "Gift.Wear.Proof.Title" = "Proof of Ownership";
-"Gift.Wear.Proof.Text" = "Tapping the icon next to your name will show the gift's owner and attributes.";
+"Gift.Wear.Proof.Text" = "Clicking the icon next to your name will show the gift's owner and attributes.";
 "Gift.Wear.Proof.ChannelText" = "Clicking the icon next to your channel's name will show the gift's owner and attributes.";
 "Gift.Wear.Start" = "Start Wearing";
 

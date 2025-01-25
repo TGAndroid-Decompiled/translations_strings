@@ -3409,7 +3409,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_gift_wear_badge_about" = "This gift will be displayed next to your name with a glittering icon.";
 "lng_gift_wear_badge_about_channel" = "This gift will be displayed next to your channel's name with a glittering icon.";
 "lng_gift_wear_proof_title" = "Proof of Ownership";
-"lng_gift_wear_proof_about" = "Tapping the icon next to your name will show the gift's owner and attributes.";
+"lng_gift_wear_proof_about" = "Clicking the icon next to your name will show the gift's owner and attributes.";
 "lng_gift_wear_proof_about_channel" = "Clicking the icon next to your channel's name will show the gift's owner and attributes.";
 "lng_gift_wear_start" = "Start Wearing";
 "lng_gift_wear_subscribe" = "Subscribe to {link} to wear collectibles.";
@@ -5968,6 +5968,7 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_channel_earn_learn_coin_link" = "https://telegram.org/blog/monetization-for-channels";
 "lng_channel_earn_chart_top_hours" = "Ad impressions";
 "lng_channel_earn_chart_revenue" = "Ad rewards";
+"lng_channel_earn_chart_overriden_detail_credits" = "Rewards in Stars";
 "lng_channel_earn_chart_overriden_detail_currency" = "Rewards in TON";
 "lng_channel_earn_chart_overriden_detail_usd" = "Rewards in USD";
 "lng_channel_earn_currency_history" = "TON Transactions";

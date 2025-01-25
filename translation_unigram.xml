@@ -11382,7 +11382,7 @@
 
   <string name="Gift2ConvertText2_one">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} day**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
   <string name="Gift2ConvertText2_other">Do you want to convert this gift from **{1}** to **{2}**?\n\nConversion is available for the next **{0} days**.\n\nThis action cannot be undone. This will permanently destroy the gift.</string>
-  <string name="Gift2Info2Expired_one">You can add this gift of {0} Star gift to your profile.</string>
+  <string name="Gift2Info2Expired_one">You can add this gift of {0} Star to your profile.</string>
   <string name="Gift2Info2Expired_other">You can add this gift of {0} Stars to your profile.</string>
 
   <string name="NoResult">No results</string>

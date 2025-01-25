@@ -8327,8 +8327,8 @@ list of reactions.</string>
     <string name="Gift2Info3_other">You can add this gift to your profile or convert it to **%1$d** Stars.</string>
     <string name="Gift2Info3Channel_one">Your channel can add this gift to its profile or convert it to **%1$d** Star.</string>
     <string name="Gift2Info3Channel_other">Your channel can add this gift to its profile or convert it to **%1$d** Stars.</string>
-    <string name="Gift2Info2Expired_one">You can add this gift of %d Stars to your profile.</string>
-    <string name="Gift2Info2Expired_other">You can add this gift of  %d Stars to your profile.</string>
+    <string name="Gift2Info2Expired_one">You can add this gift of %d Star to your profile.</string>
+    <string name="Gift2Info2Expired_other">You can add this gift of %d Stars to your profile.</string>
     <string name="Gift2Info2ChannelExpired_one">Your channel can add this gift of %d Star to its profile.</string>
     <string name="Gift2Info2ChannelExpired_other">Your channel can add this gift of %d Stars to its profile.</string>
     <string name="Gift2Info2BotRemove">You can remove this gift from your Profile.</string>
@@ -10195,10 +10195,10 @@ list of reactions.</string>
   <string name="Gift2Info2ChannelExpired_two">Your channel can add this gift of %d Stars to its profile.</string>
   <string name="Gift2Info2ChannelExpired_few">Your channel can add this gift of %d Stars to its profile.</string>
   <string name="Gift2Info2ChannelExpired_many">Your channel can add this gift of %d Stars to its profile.</string>
-  <string name="Gift2Info2Expired_zero">You can add this gift of  %d Stars to your profile.</string>
-  <string name="Gift2Info2Expired_two">You can add this gift of  %d Stars to your profile.</string>
-  <string name="Gift2Info2Expired_few">You can add this gift of  %d Stars to your profile.</string>
-  <string name="Gift2Info2Expired_many">You can add this gift of  %d Stars to your profile.</string>
+  <string name="Gift2Info2Expired_zero">You can add this gift of %d Stars to your profile.</string>
+  <string name="Gift2Info2Expired_two">You can add this gift of %d Stars to your profile.</string>
+  <string name="Gift2Info2Expired_few">You can add this gift of %d Stars to your profile.</string>
+  <string name="Gift2Info2Expired_many">You can add this gift of %d Stars to your profile.</string>
   <string name="Gift2Info2Out_zero">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
   <string name="Gift2Info2Out_two">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
   <string name="Gift2Info2Out_few">%2$s can add this gift to their profile or convert it to **%1$d** Stars.</string>
