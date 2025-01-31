@@ -244,6 +244,7 @@
 "SavedMessagesInfo" = "Forward here to save";
 "BlockedListNotFound" = "No users found.";
 "TextCopied" = "Text copied to clipboard.";
+
 "Copy" = "Copy";
 "ChatListDeleteAndLeaveGroupConfirmation" = "Are you sure you want to leave and delete {chat}?";
 "ChannelLeaveAlertWithName" = "Are you sure you want to leave **{chat}**?";
@@ -670,13 +671,20 @@
 "ErrorSendRestrictedStickersAll" = "Sorry, sending stickers is not allowed in this group.";
 "ErrorPhoneNumberInvalid" = "Invalid phone number, please try again.";
 "ErrorCodeInvalid" = "Invalid code, please try again.";
+
 "ErrorIncorrectPassword" = "Invalid password, please try again.";
 "ErrorPasswordFlood" = "Too many attempts, please try again later.";
 "ErrorPhoneBanned" = "This phone number is banned.";
-"ErrorFlood_one" = "Too many attempts, please try again in {hour} hour";
-"ErrorFlood_other" = "Too many attempts, please try again in {hour} hours";
+
+
 "ErrorUnexpected" = "Unexpected error";
 "ErrorUnexpectedMessage" = "Unexpected error: {error}";
+
+
+
+
+
+
 "NoStickers" = "No stickers yet";
 "ClearRecentEmoji" = "Clear recent emoji?";
 "TextFormatAddLinkTitle" = "Add Link";
@@ -1361,6 +1369,7 @@
 "StarsGiftHeaderSelf" = "Buy a Gift";
 "StarGiftDescription" = "Give {user} gifts that can be kept on the profile or converted to Stars.";
 "StarGiftDescriptionSelf" = "Buy yourself a gift to add to your profile or reserve for later.\n\nLimited-edition gifts upgraded to collectibles can be gifted to others.";
+
 "GiftLimited" = "limited";
 "GiftDiscount" = "-{percent}%";
 "GiftSoldCount" = "{count} sold";
@@ -1369,22 +1378,23 @@
 "GiftMessagePlaceholder" = "Enter Message (Optional)";
 "GiftHideMyName" = "Hide My Name";
 "GiftHideNameDescription" = "Hide my name and message from visitors to {profile}'s profile. {receiver} will still see your name and message.";
+
 "GiftSend" = "Send a Gift for {amount}";
 "GiftInfoSent" = "Sent Gift";
 "GiftInfoReceived" = "Received Gift";
 "GiftInfoTitle" = "Gift";
 "GiftInfoDescription_one" = "You can keep this gift in your Profile or convert it to **{amount}** Star.";
 "GiftInfoDescription_other" = "You can keep this gift in your Profile or convert it to **{amount}** Stars.";
-"GiftInfoDescriptionOut_one" = "{user} can keep this gift in profile or convert it to **{amount}** Star.";
-"GiftInfoDescriptionOut_other" = "{user} can keep this gift in profile or convert it to **{amount}** Stars.";
+
+
 "GiftInfoDescriptionUpgrade_one" = "You can keep this gift, upgrade it, or sell it for **{amount}** Star.";
 "GiftInfoDescriptionUpgrade_other" = "You can keep this gift, upgrade it, or sell it for **{amount}** Stars.";
 "GiftInfoDescriptionConverted_one" = "You converted this gift to **{amount}** Star.";
 "GiftInfoDescriptionConverted_other" = "You converted this gift to **{amount}** Stars.";
-"GiftInfoDescriptionOutConverted_one" = "{user} converted this gift to **{amount}** Star.";
-"GiftInfoDescriptionOutConverted_other" = "{user} converted this gift to **{amount}** Stars.";
+
+
 "GiftInfoDescriptionFreeUpgrade" = "Upgrade this gift for free to turn it to a unique collectible.";
-"GiftInfoDescriptionFreeUpgradeOut" = "{user} can turn this gift to a unique collectible";
+
 "GiftInfoDescriptionUpgraded" = "This gift was turned into a unique collectible.";
 "GiftInfoFrom" = "From";
 "GiftInfoDate" = "Date";
@@ -1392,14 +1402,16 @@
 "GiftInfoConvert_one" = "Convert to {amount} Star";
 "GiftInfoConvert_other" = "Convert to {amount} Stars";
 "GiftInfoConvertTitle" = "Convert Gift to Stars";
-"GiftInfoConvertDescription1" = "Do you want to convert this gift from **{user}** to **{amount}**?";
+
 "GiftInfoConvertDescription2" = "This action cannot be undone. This will permanently destroy the gift.";
 "GiftInfoConvertDescriptionPeriod_one" = "Conversion is available for the next **{count} days**.";
 "GiftInfoConvertDescriptionPeriod_other" = "Conversion is available for the next **{count} days**.";
 "GiftInfoSaved" = "This gift is visible on your profile. {link}";
+"GiftInfoHidden" = "This gift is hidden. Only you can see it. {link}";
+
+
 "GiftInfoSavedHide" = "Hide >";
 "GiftInfoSavedShow" = "Show >";
-"GiftInfoHidden" = "This gift is hidden. Only you can see it. {link}";
 "GiftInfoAvailability" = "Availability";
 "GiftInfoAvailabilityValue_one" = "{count} of {total} left";
 "GiftInfoAvailabilityValue_other" = "{count} of {total} left";
@@ -1415,15 +1427,16 @@
 "GiftAttributeModel" = "Model";
 "GiftAttributeBackdrop" = "Backdrop";
 "GiftAttributeSymbol" = "Symbol";
-"GiftInfoOriginalInfo" = "Gifted to {user} on {date}.";
-"GiftInfoOriginalInfoSender" = "Gifted by {sender} to {user} on {date}.";
-"GiftInfoOriginalInfoText" = "Gifted to {user} on {date} with comment \"{text}\".";
-"GiftInfoOriginalInfoTextSender" = "Gifted by {sender} to {user} on {date} with comment \"{text}\".";
+
+
+
+
 "GiftInfoStatus" = "Status";
 "GiftInfoStatusNonUnique" = "Non-Unique";
 "GiftInfoViewUpgraded" = "View Upgraded Gift";
 "GiftInfoUpgradeBadge" = "upgrade";
 "GiftInfoUpgradeForFree" = "Upgrade For Free";
+
 "GiftUpgradeUniqueTitle" = "Unique";
 "GiftUpgradeUniqueDescription" = "Turn your gift into a unique collectible that you can transfer or auction.";
 "GiftUpgradeTransferableTitle" = "Transferable";
@@ -1431,7 +1444,7 @@
 "GiftUpgradeTradeableTitle" = "Tradeable";
 "GiftUpgradeTradeableDescription" = "Sell or auction your gift on third-party NFT marketplaces.";
 "GiftUpgradeTitle" = "Make unique";
-"GiftUpgradeText" = "Let {peer} turn your gift into a unique collectible.";
+
 "GiftUpgradeTextOwn" = "Turn your gift into a unique collectible that you can transfer or auction.";
 "GiftUpgradeKeepDetails" = "Keep sender's name and comment";
 "GiftUpgradeButton" = "Upgrade for {amount}";
@@ -1440,7 +1453,13 @@
 "GiftMakeUnique" = "Make unique for {stars}";
 "GiftMakeUniqueAcc" = "Make unique";
 "GiftMakeUniqueDescription" = "Enable this to let {user} turn your gift into a unique collectible. {link}";
+
 "GiftMakeUniqueLink" = "Learn More >";
+
+
+
+
+
 "StarsAmount" = "⭐️{amount}";
 "StarsAmountText_one" = "{amount} Star";
 "StarsAmountText_other" = "{amount} Stars";
@@ -1457,14 +1476,15 @@
 "MiniAppsMoreTabs_other" = "{botName} & {count} Others";
 "PrizeCredits2_one" = "Your prize is {count} Star.";
 "PrizeCredits2_other" = "Your prize is {count} Stars.";
-"ActionStarGiftTitle" = "{user} sent you a Gift for {count} Stars";
+
 "ActionStarGiftOutTitle" = "You have sent a gift for {count} Stars";
-"ActionStarGiftOutDescription2_one" = "{user} can add this gift to their profile or convert it to {count} Star.";
-"ActionStarGiftOutDescription2_other" = "{user} can add this gift to their profile or convert it to {count} Stars.";
+
+
 "ActionStarGiftDescription2_one" = "Add this gift to your profile or convert it to {count} Star.";
 "ActionStarGiftDescription2_other" = "Add this gift to your profile or convert it to {count} Stars.";
 "ActionStarGiftDisplaying" = "You added this gift to your profile.";
-"ActionStarGiftOutDescriptionUpgrade" = "{user} can turn this gift to a unique collectible.";
+
+
 "ActionStarGiftDescriptionUpgrade" = "Tap “Unpack” to turn this gift to a unique collectible.";
 "ActionStarGiftUpgraded" = "This gift was upgraded.";
 "ActionStarGiftUnpack" = "Unpack";
@@ -1580,6 +1600,10 @@
 "AuthContinueOnThisLanguage" = "Continue in English";
 
 
+
+
+
+
 /* new from translations.telegram.org */
 
 "ActionStarGiftDescription2_zero" = "Add this gift to your profile or convert it to {count} Stars.";
@@ -1587,9 +1611,13 @@
 "ActionStarGiftDescription2_few" = "Add this gift to your profile or convert it to {count} Stars.";
 "ActionStarGiftDescription2_many" = "Add this gift to your profile or convert it to {count} Stars.";
 "ActionStarGiftOutDescription2_zero" = "{user} can add this gift to their profile or convert it to {count} Stars.";
+"ActionStarGiftOutDescription2_one" = "{user} can add this gift to their profile or convert it to {count} Star.";
 "ActionStarGiftOutDescription2_two" = "{user} can add this gift to their profile or convert it to {count} Stars.";
 "ActionStarGiftOutDescription2_few" = "{user} can add this gift to their profile or convert it to {count} Stars.";
 "ActionStarGiftOutDescription2_many" = "{user} can add this gift to their profile or convert it to {count} Stars.";
+"ActionStarGiftOutDescription2_other" = "{user} can add this gift to their profile or convert it to {count} Stars.";
+"ActionStarGiftOutDescriptionUpgrade" = "{user} can turn this gift to a unique collectible.";
+"ActionStarGiftTitle" = "{user} sent you a Gift for {count} Stars";
 "Answer_zero" = "{count} answers";
 "Answer_two" = "{count} answers";
 "Answer_few" = "{count} answers";
@@ -1643,9 +1671,11 @@
 "DeleteForMeChatHint_few" = "This will delete them just for you, not for other participants of the chat.";
 "DeleteForMeChatHint_many" = "This will delete them just for you, not for other participants of the chat.";
 "ErrorFlood_zero" = "Too many attempts, please try again in {hour} hours";
+"ErrorFlood_one" = "Too many attempts, please try again in {hour} hour";
 "ErrorFlood_two" = "Too many attempts, please try again in {hour} hours";
 "ErrorFlood_few" = "Too many attempts, please try again in {hour} hours";
 "ErrorFlood_many" = "Too many attempts, please try again in {hour} hours";
+"ErrorFlood_other" = "Too many attempts, please try again in {hour} hours";
 "FolderLinkNotificationAddedSubtitle_zero" = "You also joined {count} chats";
 "FolderLinkNotificationAddedSubtitle_two" = "You also joined {count} chats";
 "FolderLinkNotificationAddedSubtitle_few" = "You also joined {count} chats";
@@ -1674,6 +1704,7 @@
 "GiftInfoConvert_two" = "Convert to {amount} Stars";
 "GiftInfoConvert_few" = "Convert to {amount} Stars";
 "GiftInfoConvert_many" = "Convert to {amount} Stars";
+"GiftInfoConvertDescription1" = "Do you want to convert this gift from **{user}** to **{amount}**?";
 "GiftInfoConvertDescriptionPeriod_zero" = "Conversion is available for the next **{count} days**.";
 "GiftInfoConvertDescriptionPeriod_two" = "Conversion is available for the next **{count} days**.";
 "GiftInfoConvertDescriptionPeriod_few" = "Conversion is available for the next **{count} days**.";
@@ -1686,18 +1717,28 @@
 "GiftInfoDescriptionConverted_two" = "You converted this gift to **{amount}** Stars.";
 "GiftInfoDescriptionConverted_few" = "You converted this gift to **{amount}** Stars.";
 "GiftInfoDescriptionConverted_many" = "You converted this gift to **{amount}** Stars.";
+"GiftInfoDescriptionFreeUpgradeOut" = "{user} can turn this gift to a unique collectible";
 "GiftInfoDescriptionOut_zero" = "{user} can keep this gift in profile or convert it to **{amount}** Stars.";
+"GiftInfoDescriptionOut_one" = "{user} can keep this gift in profile or convert it to **{amount}** Star.";
 "GiftInfoDescriptionOut_two" = "{user} can keep this gift in profile or convert it to **{amount}** Stars.";
 "GiftInfoDescriptionOut_few" = "{user} can keep this gift in profile or convert it to **{amount}** Stars.";
 "GiftInfoDescriptionOut_many" = "{user} can keep this gift in profile or convert it to **{amount}** Stars.";
+"GiftInfoDescriptionOut_other" = "{user} can keep this gift in profile or convert it to **{amount}** Stars.";
 "GiftInfoDescriptionOutConverted_zero" = "{user} converted this gift to **{amount}** Stars.";
+"GiftInfoDescriptionOutConverted_one" = "{user} converted this gift to **{amount}** Star.";
 "GiftInfoDescriptionOutConverted_two" = "{user} converted this gift to **{amount}** Stars.";
 "GiftInfoDescriptionOutConverted_few" = "{user} converted this gift to **{amount}** Stars.";
 "GiftInfoDescriptionOutConverted_many" = "{user} converted this gift to **{amount}** Stars.";
+"GiftInfoDescriptionOutConverted_other" = "{user} converted this gift to **{amount}** Stars.";
 "GiftInfoDescriptionUpgrade_zero" = "You can keep this gift, upgrade it, or sell it for **{amount}** Stars.";
 "GiftInfoDescriptionUpgrade_two" = "You can keep this gift, upgrade it, or sell it for **{amount}** Stars.";
 "GiftInfoDescriptionUpgrade_few" = "You can keep this gift, upgrade it, or sell it for **{amount}** Stars.";
 "GiftInfoDescriptionUpgrade_many" = "You can keep this gift, upgrade it, or sell it for **{amount}** Stars.";
+"GiftInfoOriginalInfo" = "Gifted to {user} on {date}.";
+"GiftInfoOriginalInfoSender" = "Gifted by {sender} to {user} on {date}.";
+"GiftInfoOriginalInfoText" = "Gifted to {user} on {date} with comment \"{text}\".";
+"GiftInfoOriginalInfoTextSender" = "Gifted by {sender} to {user} on {date} with comment \"{text}\".";
+"GiftUpgradeText" = "Let {peer} turn your gift into a unique collectible.";
 "GroupInfoParticipantCount_zero" = "{count} members";
 "GroupInfoParticipantCount_two" = "{count} members";
 "GroupInfoParticipantCount_few" = "{count} members";

@@ -7080,8 +7080,8 @@ list of reactions.</string>
     <string name="UnlockSimilar">Unlock more channels</string>
     <string name="MoreSimilarButton">Show More Channels</string>
     <string name="MoreSimilarText">Subscribe to **Telegram Premium**\nto unlock up to %s similar channels.</string>
-    <string name="MoreSimilarBotsButton">Show More Apps</string>
-    <string name="MoreSimilarBotsText">Subscribe to **Telegram Premium**\nto unlock up to %s similar apps.</string>
+    <string name="MoreSimilarBotsButton">Show More Bots</string>
+    <string name="MoreSimilarBotsText">Subscribe to **Telegram Premium**\nto unlock up to %s similar bots.</string>
     <string name="StoryRepostCommented">commented</string>
     <string name="BoostLevel_other">Level %d</string>
     <string name="BoostLevelPlus_other">Level %d+</string>
