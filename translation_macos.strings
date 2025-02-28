@@ -7325,7 +7325,7 @@
 "PrivacySettingsController.Forwards.CustomHelp" = "You can restrict who can add a link to your account when forwarding your messages.";
 "PrivacySettingsController.Forwards.NeverAllow.Title" = "Never Allow";
 "PrivacySettingsController.Forwards.WhoCanForward" = "WHO CAN ADD A LINK TO MY ACCOUNT WHEN FORWARDING MY MESSAGES";
-"PrivacySettingsController.Gifts.CustomHelp" = "Choose whether gifts from specific senders need your approval before they've visible to others on your profile.";
+"PrivacySettingsController.Gifts.CustomHelp" = "Choose whether gifts from specific senders need your approval before they're visible to others on your profile.";
 "PrivacySettingsController.Gifts.WhoCanSee" = "WHO CAN DISPLAY GIFTS ON MY PROFILE";
 "PrivacySettingsController.GroupDescription" = "You can restrict who can add you to groups and channels with granular precision.";
 "PrivacySettingsController.GroupHeader" = "WHO CAN ADD ME TO GROUP CHATS";

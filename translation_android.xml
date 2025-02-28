@@ -1300,6 +1300,7 @@
     <string name="ReportMessagesCount">REPORT %1$s</string>
     <string name="ReportChat">Report</string>
     <string name="ReportBot">Report</string>
+    <string name="ReportProfilePhoto">Report</string>
     <string name="ReportChatSent">Report sent.</string>
     <string name="ReportTitleSpam">Report Spam</string>
     <string name="ReportTitleFake">Report Fake</string>
@@ -4478,8 +4479,8 @@
     <string name="Lifetime">Lifetime</string>
     <string name="GiftMonths_one">%1$d-month</string>
     <string name="GiftMonths_other">%1$d-months</string>
-    <string name="Gift2Months_one">%1$d-month</string>
-    <string name="Gift2Months_other">%1$d-months</string>
+    <string name="Gift2Months_one">%1$d month</string>
+    <string name="Gift2Months_other">%1$d months</string>
     <string name="PrepaidGiveawayMonths_one">%1$d-month</string>
     <string name="PrepaidGiveawayMonths_other">%1$d-month</string>
     <string name="BoldMonths_one">**%1$d** month</string>
@@ -5315,7 +5316,7 @@
     <string name="GiftPremiumAboutThisLink">This link allows you or **anyone you choose** to activate a %1$s.</string>
     <string name="GiftPremiumAboutThisLinkEnd">**Telegram Premium** subscription</string>
     <string name="GiftPremiumWhatsIncluded">What\'s included</string>
-    <string name="GiftPremiumEventAdsTitle">Congratulate **your friends**! &#127876;</string>
+    <string name="GiftPremiumEventAdsTitle">New **Gifts** Drop &#127873;</string>
     <string name="GiftTelegramPremiumTitle">Gift Telegram Premium</string>
     <string name="GiftTelegramPremiumOrStarsTitle">Gift Premium or Stars</string>
     <string name="GiftTelegramPremiumDescription">Give **%1$s** access to exclusive features with **Telegram Premium**.</string>
@@ -5443,6 +5444,7 @@
     <string name="AccDescrCustomEmoji">Custom emoji</string>
     <string name="RecentlyUsed">Recently Used</string>
     <string name="PopularReactions">Popular</string>
+    <string name="EmojiPackCollectibles">Collectibles</string>
     <string name="ReactionsLongtapHint">Hold emoji to send a super reaction</string>
     <string name="EmojiLongtapHint">Hold an emoji to set a timer</string>
     <string name="EmojiStatusExpireHint">Your status expires %s</string>
@@ -6118,6 +6120,7 @@
     <string name="ProfileMyStoriesTab">Posted</string>
     <string name="ProfileMyStoriesCount_one">%d posted story</string>
     <string name="ProfileMyStoriesCount_other">%d posted stories</string>
+    <string name="ProfileMyStories">My Stories</string>
     <string name="ProfileStoriesArchive">Story Archive</string>
     <string name="ProfileStoriesArchiveTab">Archive</string>
     <string name="ProfileStoriesArchiveHint">Only you can see archived stories unless you choose to post them to your profile.</string>
@@ -6808,7 +6811,7 @@ list of reactions.</string>
     <string name="BoostingReassignBoostTextPluralWithLink_one">To boost **%2$s**, reassign a previous boost or %3$s to a friend to get **%1$d** additional boost.</string>
     <string name="BoostingReassignBoostTextPluralWithLink_other">To boost **%2$s**, reassign a previous boost or %3$s to a friend to get **%1$d** additional boosts.</string>
     <string name="BoostingReassignBoostTextLink">**gift Telegram Premium**</string>
-    <string name="BoostingPremiumChristmasSubTitle">Surprise them with gifts for the New Year.</string>
+    <string name="BoostingPremiumChristmasSubTitle">Surprise your friends with limited-edition gifts!</string>
     <string name="BoostingPremiumChristmasToast">You can send gifts to friends later from Settings</string>
     <string name="BoostingRemoveBoostFrom">Remove your boost from</string>
     <string name="BoostingAvailableIn">available in %1$s</string>
@@ -7570,7 +7573,7 @@ list of reactions.</string>
     <string name="ProfileBirthday">Date of Birth</string>
     <string name="ProfileBirthdayToday">Birthday today</string>
     <string name="PrivacyGifts">Gifts</string>
-    <string name="PrivacyGiftsTitle">Who can display gifts on my profile</string>
+    <string name="PrivacyGiftsTitle">Automatically display gifts from</string>
     <string name="PrivacyGiftsInfo">Choose whether gifts from specific senders need your approval before they’re visible to others on your profile.</string>
     <string name="PrivacyBirthday">Date of Birth</string>
     <string name="PrivacyBirthdayTitle">Who can see my date of birth?</string>
@@ -8173,7 +8176,7 @@ list of reactions.</string>
     <string name="StarsSentText_other">You reacted with **%d** stars.</string>
     <string name="StarsSentUndo">Undo</string>
     <string name="StarsReactionTitle">React with Stars</string>
-    
+    <string name="StarsReactionTitle2">Star Reaction</string>
     <string name="StarsReactionText">Choose how many Stars you want to send to **%s** to support this post.</string>
     <string name="StarsReactionTextSent_one">You sent **%1$d** Star to support this post.</string>
     <string name="StarsReactionTextSent_other">You sent **%1$d** Stars to support this post.</string>
@@ -8237,7 +8240,7 @@ list of reactions.</string>
     <string name="Gift2Premium">Gift Premium</string>
     <string name="Gift2PremiumInfo">Give **%s** access to exclusive features with Telegram Premium.</string>
     <string name="Gift2PremiumInfoLink">See Features &gt;</string>
-    <string name="Gift2Stars">Gift Stars</string>
+    <string name="Gift2Stars">Send a Gift</string>
     <string name="Gift2StarsInfo">Give **%s** gifts that can be kept on the profile or converted to Stars.</string>
     <string name="Gift2StarsSelf">Buy a gift</string>
     <string name="Gift2StarsSelfInfo1">Buy yourself a gift to add to your profile or reserve for later.</string>
@@ -8295,6 +8298,8 @@ list of reactions.</string>
     <string name="Gift2StarsCount_one">%d Star</string>
     <string name="Gift2StarsCount_other">%d Stars</string>
     <string name="ProfileGifts">Gifts</string>
+    <string name="ProfileGiftsNotFoundTitle">No matching gifts</string>
+    <string name="ProfileGiftsNotFoundButton">View All Gifts</string>
     <string name="ProfileGiftsInfo">These gifts were sent to you by other users.\nTap on a gift to convert it to Stars or change its privacy settings.</string>
     <string name="ProfileGiftsCount_one">%d gift</string>
     <string name="ProfileGiftsCount_other">%d gifts</string>
@@ -8346,7 +8351,7 @@ list of reactions.</string>
     <string name="Gift2InfoOutConverted_one">%2$s converted this gift to **%d** Star.</string>
     <string name="Gift2InfoOutConverted_other">%2$s converted this gift to **%d** Stars.</string>
     <string name="Gift2InfoOutPinned">%1$s added this gift to their profile.</string>
-    <string name="Gift2SenderHidden">Only you can see the sender\'s name.</string>
+    <string name="Gift2SenderHidden">Only you can see the sender\'s name and message.</string>
     <string name="Gift2ProfileVisible3">This gift is visible on your profile. **Hide &gt;**</string>
     <string name="Gift2ProfileInvisible3">This gift is hidden from your page. **Show &gt;**</string>
     <string name="Gift2ChannelProfileVisible3">This gift is visible on your channel\'s profile. **Hide &gt;**</string>
@@ -8730,6 +8735,8 @@ list of reactions.</string>
     <string name="Gift2AttributeOriginalDetailsNoSender">Gifted to %1$s on %2$s.</string>
     <string name="Gift2AttributeOriginalDetailsNoSenderComment">Gifted to %1$s on %2$s with the comment: \"%3$s\"</string>
     <string name="Gift2Transfer">Transfer %s</string>
+    <string name="Gift2TransferShort">Transfer Gift</string>
+    <string name="VideoChooseCover">Choose cover</string>
     <string name="Gift2TransferText">Do you want to transfer ownership of **%1$s** to **%2$s**?</string>
     <string name="Gift2TransferPriceText_one">Do you want to transfer ownership of **%2$s** to **%3$s** for **%1$d Star**?</string>
     <string name="Gift2TransferPriceText_other">Do you want to transfer ownership of **%2$s** to **%3$s** for **%1$d Stars**?</string>
@@ -8786,6 +8793,10 @@ list of reactions.</string>
     <string name="VideoShareAddTimestamp">Start at %s</string>
     <string name="VideoStartsAt">Starts at %s</string>
     <string name="Gift2InBlockchain">This gift is on the TON Blockchain. **View &gt;**</string>
+    <string name="EditorSetCover">Edit Cover</string>
+    <string name="EditorSetCoverTitle">Select Frame</string>
+    <string name="EditorSetCoverGallery">Choose from Gallery</string>
+    <string name="EditorSetCoverSave">Save Cover</string>
 
   <!-- new from translations.telegram.org -->
 
@@ -9320,7 +9331,7 @@ list of reactions.</string>
   <string name="BoostingGroupWillReceiveBoost_two">this group will receive %d boosts</string>
   <string name="BoostingGroupWillReceiveBoost_few">this group will receive %d boosts</string>
   <string name="BoostingGroupWillReceiveBoost_many">this group will receive %d boosts</string>
-  <string name="BoostingPremiumChristmasTitle">Congratulate **your friends**! &#127876;</string>
+  <string name="BoostingPremiumChristmasTitle">New **Gifts** Drop &#127873;</string>
   <string name="BoostingPreparedGiveawaySubscriptions">%1$d subscriptions for %2$s</string>
   <string name="BoostingPreparedGiveawaySubscriptionsPlural_zero">%1$d subscriptions for %2$s</string>
   <string name="BoostingPreparedGiveawaySubscriptionsPlural_two">%1$d subscriptions for %2$s</string>
@@ -10228,10 +10239,10 @@ list of reactions.</string>
   <string name="Gift2InfoOutConverted_few">%2$s converted this gift to **%d** Stars.</string>
   <string name="Gift2InfoOutConverted_many">%2$s converted this gift to **%d** Stars.</string>
   <string name="Gift2InfoPinned">You added this gift to your profile.</string>
-  <string name="Gift2Months_zero">%1$d-months</string>
-  <string name="Gift2Months_two">%1$d-months</string>
-  <string name="Gift2Months_few">%1$d-months</string>
-  <string name="Gift2Months_many">%1$d-months</string>
+  <string name="Gift2Months_zero">%1$d months</string>
+  <string name="Gift2Months_two">%1$d months</string>
+  <string name="Gift2Months_few">%1$d months</string>
+  <string name="Gift2Months_many">%1$d months</string>
   <string name="Gift2Notification_zero">sent a Gift worth of %d Stars</string>
   <string name="Gift2Notification_two">sent a Gift worth of %d Stars</string>
   <string name="Gift2Notification_few">sent a Gift worth of %d Stars</string>
@@ -10900,7 +10911,6 @@ list of reactions.</string>
   <string name="ProfileGiftsCount_two">%d gifts</string>
   <string name="ProfileGiftsCount_few">%d gifts</string>
   <string name="ProfileGiftsCount_many">%d gifts</string>
-  <string name="ProfileMyStories">My Stories</string>
   <string name="ProfileMyStoriesCount_zero">%d posted stories</string>
   <string name="ProfileMyStoriesCount_two">%d posted stories</string>
   <string name="ProfileMyStoriesCount_few">%d posted stories</string>
