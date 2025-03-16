@@ -1972,7 +1972,7 @@
 "PremiumPreviewLastSeen" = "Last Seen Times";
 "PremiumPreviewLastSeenDescription" = "View the last seen and read times of others even if you hide yours.";
 "PremiumPreviewMessagePrivacy" = "Message Privacy";
-"PremiumPreviewMessagePrivacyDescription" = "Restrict people you don't know from sending you messages.";
+"PremiumPreviewMessagePrivacyDescription" = "Limit messages from strangers or charge for incoming messages.";
 "PremiumPreviewTags" = "Tags for Messages";
 "PremiumPreviewTagsDescription2" = "Organize your Saved Messages with tags for quicker access.";
 "MessageContainsReactionPack" = "This reaction is an emoji from %s pack.";

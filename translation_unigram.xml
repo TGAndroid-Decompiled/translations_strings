@@ -7162,7 +7162,7 @@
     <string name="PremiumPreviewLastSeen">Last Seen Times</string>
     <string name="PremiumPreviewLastSeenDescription">View the last seen and read times of others even if you hide yours.</string>
     <string name="PremiumPreviewMessagePrivacy">Message Privacy</string>
-    <string name="PremiumPreviewMessagePrivacyDescription">Restrict people you don\'t know from sending you messages.</string>
+    <string name="PremiumPreviewMessagePrivacyDescription">Limit messages from strangers or charge for incoming messages.</string>
     <string name="TelegramBusiness">Telegram Business</string>
     <string name="TelegramBusinessSubtitle">Subscribe to **Telegram Premium** to unlock these additional business features.</string>
     <string name="TelegramBusinessSubtitleTemp">Turn your account into a **business page** with these additional features.\nThe benefits of Telegram Business are **temporarily included** with Telegram Premium.</string>
@@ -8106,7 +8106,8 @@
     <string name="Gift2InfoConverted_one">You converted this gift to **{0}** Star.</string>
     <string name="Gift2InfoConverted_other">You converted this gift to **{0}** Stars.</string>
     <string name="Gift2InfoPinned">You added this gift to your profile.</string>
-    
+    <string name="Gift2Info2OutExpired">{0} can add this gift to their Profile.</string>
+
     
     
     
@@ -11767,9 +11768,121 @@
     <string name="Gift2AddSenderNameComment">Add sender\'s name and comment</string>
     <string name="Gift2AddMyNameName">Add my name to the gift</string>
 
+    <string name="Gift2TabInStock">In Stock</string>
+    <string name="Gift2TransferOption">Transfer</string>
+    <string name="UniqueGiftNotFound">Gift was not found</string>
+    <string name="StoryViewGift">Show Gift &gt;</string>
+    <string name="SimilarBotsTab">Similar Bots</string>
+
+    <string name="Gift2FilterDisplayed">Displayed</string>
+    <string name="Gift2FilterHidden">Hidden</string>
+    <string name="Gift2FilterLimited">Limited</string>
+    <string name="Gift2FilterSortByDate">Sort By Date</string>
+    <string name="Gift2FilterSortByValue">Sort By Value</string>
+    <string name="Gift2FilterUnique">Unique</string>
+    <string name="Gift2FilterUnlimited">Unlimited</string>
+
+    <string name="ContactsAndFee">Paid</string>
+    <string name="ContactsAndPremium">Contacts &amp; Premium</string>
+    <string name="PrivateMessagesChargePrice">Charge for Messages</string>
+    <string name="PrivateMessagesChargePriceInfo">Charge a fee for messages from people outside your contacts or those you haven\'t messaged first.</string>
+    <string name="PrivateMessagesExceptions">Remove Fee</string>
+    <string name="PrivateMessagesExceptionsHeader">Exceptions</string>
+    <string name="PrivateMessagesExceptionsInfo">Add users or entire groups who won\'t be charged for sending messages to you.</string>
+    <string name="PrivateMessagesPriceHeader">Set your price per message</string>
+    <string name="PrivateMessagesPriceInfo">You will receive {0}% of the selected fee (~{1}) for each incoming message.</string>
+    <string name="CheckPrivacyCallsText">You\'ve restricted who can message you, but anyone can still call you. Would you like to review these settings?</string>
+    <string name="CheckPrivacyCallsTitle">Call Settings</string>
+    <string name="CheckPrivacyInviteText">You\'ve restricted who can message you, but anyone can still invite you to groups and channels. Would you like to review these settings?</string>
+    <string name="CheckPrivacyInviteTitle">Invitation Settings</string>
+    <string name="CheckPrivacyReview">Review</string>
+
+    <string name="MessageLockedStarsConfirmMessage1_one">**{1}** charges **{0}** Star per message.</string>
+    <string name="MessageLockedStarsConfirmMessage1_other">**{1}** charges **{0}** Stars per message.</string>
+    <string name="MessageLockedStarsConfirmMessage2Many1_one">Would you like to pay **{0}** Star</string>
+    <string name="MessageLockedStarsConfirmMessage2Many1_other">Would you like to pay **{0}** Stars</string>
+    <string name="MessageLockedStarsConfirmMessage2Many2_one">to send {0} message?</string>
+    <string name="MessageLockedStarsConfirmMessage2Many2_other">to send {0} messages?</string>
+    <string name="MessageLockedStarsConfirmMessage2One_one">Would you like to pay **{0}** Star to send one message?</string>
+    <string name="MessageLockedStarsConfirmMessage2One_other">Would you like to pay **{0}** Stars to send one message?</string>
+    <string name="MessageLockedStarsConfirmMessageDontAsk">Don\'t ask me again</string>
+    <string name="MessageLockedStarsConfirmMessageMulti1_one">You selected **{0}** chat that charge Stars for messages.</string>
+    <string name="MessageLockedStarsConfirmMessageMulti1_other">You selected **{0}** chats that charge Stars for messages.</string>
+    <string name="MessageLockedStarsConfirmMessageMulti2Messages_one">**{0}** message</string>
+    <string name="MessageLockedStarsConfirmMessageMulti2Messages_other">**{0}** messages</string>
+    <string name="MessageLockedStarsConfirmMessageMulti2_one">Would you like to pay **{0}** Star to send {1}?</string>
+    <string name="MessageLockedStarsConfirmMessageMulti2_other">Would you like to pay **{0}** Stars to send {1}?</string>
+    <string name="MessageLockedStarsConfirmMessagePay_one">Pay for {0} Message</string>
+    <string name="MessageLockedStarsConfirmMessagePay_other">Pay for {0} Messages</string>
+    <string name="MessageLockedStarsConfirmTitle">Confirm Payment</string>
+    <string name="ContactInfoCommonGroups">Shared groups</string>
+    <string name="ContactInfoIsContact">Contact</string>
+    <string name="ContactInfoIsNotContact">Not a contact</string>
+    <string name="ContactInfoLocation">Location</string>
+    <string name="ContactInfoPhone">Phone number</string>
+    <string name="ContactInfoRegistration">Registration</string>
+    <string name="ContactInfoNotVerified">Not an official account</string>
+    <string name="ContactInfoUserUpdatedName">User updated name {0}</string>
+    <string name="ContactInfoUserUpdatedPhoto">User updated photo {0}</string>
+
+    <string name="HourAgo">an hour ago</string>
+    <string name="HoursAgo_one">{0} hour ago</string>
+    <string name="HoursAgo_other">{0} hours ago</string>
+    <string name="MinuteAgo">a minute ago</string>
+    <string name="MinutesAgo_one">{0} minute ago</string>
+    <string name="MinutesAgo_other">{0} minutes ago</string>
+    <string name="MonthAgo">a month ago</string>
+    <string name="MonthsAgo_one">{0} month ago</string>
+    <string name="MonthsAgo_other">{0} months ago</string>
+    <string name="YearAgo">a year ago</string>
+    <string name="YearsAgo_one">{0} year ago</string>
+    <string name="YearsAgo_other">{0} years ago</string>
+    <string name="DayAgo">a day ago</string>
+    <string name="DaysAgo_one">{0} day ago</string>
+    <string name="DaysAgo_other">{0} days ago</string>
+    <string name="LessMinuteAgo">just now</string>
+
+    <string name="GroupMessagesChargePrice">Charge Stars for Messages</string>
+    <string name="GroupMessagesChargePriceInfo">If you turn this on, regular members of the group will have to pay Stars to send messages.</string>
+    <string name="GroupMessagesPriceHeader">Set price per message</string>
+    <string name="GroupMessagesPriceInfo">Your group will receive {0}% of the selected fee (~{1}) for each incoming message.</string>
+
+    <string name="Gift2HideGift">Hide</string>
+    <string name="Gift2Pin">Pin</string>
+    <string name="Gift2Unpin">Unpin</string>
+    <string name="Gift2ShowGift">Show</string>
+    <string name="Gift2PinnedSubtitle">Now it will always be shown on top.</string>
+    <string name="Gift2PinnedTitle">Gift pinned</string>
+
+    <string name="ReportSpamUserEmojiStatusHint2">{0} is a mark for **Premium subscribers &gt;**</string>
+    <string name="MessageLockedStarsRemoveFee">{0} must pay &#11088;&#65039; {1} for each message to you.\n**Remove Fee**</string>
+
+    <string name="RemoveMessageFeeMessage">Are you sure you want to allow **{0}** to message you for free?</string>
+    <string name="RemoveMessageFeeRefund_one">Refund the already paid {0} Star</string>
+    <string name="RemoveMessageFeeRefund_other">Refund the already paid {0} Stars</string>
+    <string name="RemoveMessageFeeTitle">Remove Fee</string>
+    <string name="Confirm">Confirm</string>
+
+    <string name="TypeMessageForStars">Message for &#11088;&#65039;{0}</string>
+    <string name="Gift2MessageStarsInfo">Your balance is &#11088;&#65039;{0}.</string>
+    <string name="Gift2MessageStarsInfoLink">**Get More Stars &gt;**</string>
+
+    <string name="BoostingGiveawayMsgInfoPlural1_one">**{0}** Telegram Premium</string>
+    <string name="BoostingGiveawayMsgInfoPlural1_other">**{0}** Telegram Premium</string>
+    <string name="BoostingGiveawayMsgInfoPlural2_one">Subscription for {1}.</string>
+    <string name="BoostingGiveawayMsgInfoPlural2_other">Subscriptions for {1}.</string>
+
 
   <!-- new from translations.telegram.org -->
 
+  <string name="BoostingGiveawayMsgInfoPlural1_zero">**{0}** Telegram Premium</string>
+  <string name="BoostingGiveawayMsgInfoPlural1_two">**{0}** Telegram Premium</string>
+  <string name="BoostingGiveawayMsgInfoPlural1_few">**{0}** Telegram Premium</string>
+  <string name="BoostingGiveawayMsgInfoPlural1_many">**{0}** Telegram Premium</string>
+  <string name="BoostingGiveawayMsgInfoPlural2_zero">Subscriptions for {1}.</string>
+  <string name="BoostingGiveawayMsgInfoPlural2_two">Subscriptions for {1}.</string>
+  <string name="BoostingGiveawayMsgInfoPlural2_few">Subscriptions for {1}.</string>
+  <string name="BoostingGiveawayMsgInfoPlural2_many">Subscriptions for {1}.</string>
   <string name="ChannelAffiliateProgramJoinText_Months_zero">{0} months</string>
   <string name="ChannelAffiliateProgramJoinText_Months_two">{0} months</string>
   <string name="ChannelAffiliateProgramJoinText_Months_few">{0} months</string>
@@ -11782,6 +11895,10 @@
   <string name="ChannelAffiliateProgramLinkOpened_two">{0} users have opened {1} through this link.</string>
   <string name="ChannelAffiliateProgramLinkOpened_few">{0} users have opened {1} through this link.</string>
   <string name="ChannelAffiliateProgramLinkOpened_many">{0} users have opened {1} through this link.</string>
+  <string name="DaysAgo_zero">{0} days ago</string>
+  <string name="DaysAgo_two">{0} days ago</string>
+  <string name="DaysAgo_few">{0} days ago</string>
+  <string name="DaysAgo_many">{0} days ago</string>
   <string name="Gift2CollectionNumber_zero">Collectible #{0}</string>
   <string name="Gift2CollectionNumber_two">Collectible #{0}</string>
   <string name="Gift2CollectionNumber_few">Collectible #{0}</string>
@@ -11804,6 +11921,10 @@
   <string name="Gift2TransferPriceText_two">Do you want to transfer ownership of **{1}** to **{2}** for **{0} Stars**?</string>
   <string name="Gift2TransferPriceText_few">Do you want to transfer ownership of **{1}** to **{2}** for **{0} Stars**?</string>
   <string name="Gift2TransferPriceText_many">Do you want to transfer ownership of **{1}** to **{2}** for **{0} Stars**?</string>
+  <string name="HoursAgo_zero">{0} hours ago</string>
+  <string name="HoursAgo_two">{0} hours ago</string>
+  <string name="HoursAgo_few">{0} hours ago</string>
+  <string name="HoursAgo_many">{0} hours ago</string>
   <string name="LastSeenHours_zero">last seen {0} hours ago</string>
   <string name="LastSeenHours_two">last seen {0} hours ago</string>
   <string name="LastSeenHours_few">last seen {0} hours ago</string>
@@ -11812,4 +11933,62 @@
   <string name="LastSeenMinutes_two">last seen {0} minutes ago</string>
   <string name="LastSeenMinutes_few">last seen {0} minutes ago</string>
   <string name="LastSeenMinutes_many">last seen {0} minutes ago</string>
+  <string name="MessageLockedStarsConfirmMessage1_zero">**{1}** charges **{0}** Stars per message.</string>
+  <string name="MessageLockedStarsConfirmMessage1_two">**{1}** charges **{0}** Stars per message.</string>
+  <string name="MessageLockedStarsConfirmMessage1_few">**{1}** charges **{0}** Stars per message.</string>
+  <string name="MessageLockedStarsConfirmMessage1_many">**{1}** charges **{0}** Stars per message.</string>
+  <string name="MessageLockedStarsConfirmMessage2Many1_zero">Would you like to pay **{0}** Stars</string>
+  <string name="MessageLockedStarsConfirmMessage2Many1_two">Would you like to pay **{0}** Stars</string>
+  <string name="MessageLockedStarsConfirmMessage2Many1_few">Would you like to pay **{0}** Stars</string>
+  <string name="MessageLockedStarsConfirmMessage2Many1_many">Would you like to pay **{0}** Stars</string>
+  <string name="MessageLockedStarsConfirmMessage2Many2_zero">to send {0} messages?</string>
+  <string name="MessageLockedStarsConfirmMessage2Many2_two">to send {0} messages?</string>
+  <string name="MessageLockedStarsConfirmMessage2Many2_few">to send {0} messages?</string>
+  <string name="MessageLockedStarsConfirmMessage2Many2_many">to send {0} messages?</string>
+  <string name="MessageLockedStarsConfirmMessage2One_zero">Would you like to pay **{0}** Stars to send one message?</string>
+  <string name="MessageLockedStarsConfirmMessage2One_two">Would you like to pay **{0}** Stars to send one message?</string>
+  <string name="MessageLockedStarsConfirmMessage2One_few">Would you like to pay **{0}** Stars to send one message?</string>
+  <string name="MessageLockedStarsConfirmMessage2One_many">Would you like to pay **{0}** Stars to send one message?</string>
+  <string name="MessageLockedStarsConfirmMessageMulti1_zero">You selected **{0}** chats that charge Stars for messages.</string>
+  <string name="MessageLockedStarsConfirmMessageMulti1_two">You selected **{0}** chats that charge Stars for messages.</string>
+  <string name="MessageLockedStarsConfirmMessageMulti1_few">You selected **{0}** chats that charge Stars for messages.</string>
+  <string name="MessageLockedStarsConfirmMessageMulti1_many">You selected **{0}** chats that charge Stars for messages.</string>
+  <string name="MessageLockedStarsConfirmMessageMulti2_zero">Would you like to pay **{0}** Stars to send {1}?</string>
+  <string name="MessageLockedStarsConfirmMessageMulti2_two">Would you like to pay **{0}** Stars to send {1}?</string>
+  <string name="MessageLockedStarsConfirmMessageMulti2_few">Would you like to pay **{0}** Stars to send {1}?</string>
+  <string name="MessageLockedStarsConfirmMessageMulti2_many">Would you like to pay **{0}** Stars to send {1}?</string>
+  <string name="MessageLockedStarsConfirmMessageMulti2Messages_zero">**{0}** messages</string>
+  <string name="MessageLockedStarsConfirmMessageMulti2Messages_two">**{0}** messages</string>
+  <string name="MessageLockedStarsConfirmMessageMulti2Messages_few">**{0}** messages</string>
+  <string name="MessageLockedStarsConfirmMessageMulti2Messages_many">**{0}** messages</string>
+  <string name="MessageLockedStarsConfirmMessagePay_zero">Pay for {0} Messages</string>
+  <string name="MessageLockedStarsConfirmMessagePay_two">Pay for {0} Messages</string>
+  <string name="MessageLockedStarsConfirmMessagePay_few">Pay for {0} Messages</string>
+  <string name="MessageLockedStarsConfirmMessagePay_many">Pay for {0} Messages</string>
+  <string name="MinutesAgo_zero">{0} minutes ago</string>
+  <string name="MinutesAgo_two">{0} minutes ago</string>
+  <string name="MinutesAgo_few">{0} minutes ago</string>
+  <string name="MinutesAgo_many">{0} minutes ago</string>
+  <string name="MonthsAgo_zero">{0} months ago</string>
+  <string name="MonthsAgo_two">{0} months ago</string>
+  <string name="MonthsAgo_few">{0} months ago</string>
+  <string name="MonthsAgo_many">{0} months ago</string>
+  <string name="RemoveMessageFeeRefund_zero">Refund the already paid {0} Stars</string>
+  <string name="RemoveMessageFeeRefund_two">Refund the already paid {0} Stars</string>
+  <string name="RemoveMessageFeeRefund_few">Refund the already paid {0} Stars</string>
+  <string name="RemoveMessageFeeRefund_many">Refund the already paid {0} Stars</string>
+  <string name="YearsAgo_zero">{0} years ago</string>
+  <string name="YearsAgo_two">{0} years ago</string>
+  <string name="YearsAgo_few">{0} years ago</string>
+  <string name="YearsAgo_many">{0} years ago</string>
+  <string name="GiftsPinLimit_one">You can\'t pin more than {0} gift.</string>
+  <string name="GiftsPinLimit_other">You can\'t pin more than {0} gifts.</string>
+
+
+  <!-- new from translations.telegram.org -->
+
+  <string name="GiftsPinLimit_zero">You can\'t pin more than {0} gifts.</string>
+  <string name="GiftsPinLimit_two">You can\'t pin more than {0} gifts.</string>
+  <string name="GiftsPinLimit_few">You can\'t pin more than {0} gifts.</string>
+  <string name="GiftsPinLimit_many">You can\'t pin more than {0} gifts.</string>
 </resources>
