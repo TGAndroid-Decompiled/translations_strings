@@ -7706,8 +7706,8 @@
 "ChatList.FolderUpdates.Title_many" = "%d New Chats Available";
 "ChatList.FolderUpdates.Title_other" = "%d New Chats Available";
 "ChatList.FolderUpdates.Title_countable" = "%d";
-"ChatList.FreezeAccount" = "Your account was frozen for serious infringement of [Telegrams Terms and Condition](https://telegram.org/tos). Your account is in read-only mode now (since %1$@). You can still appeal to [@SpamBot](%2$@) if you believe there was a mistake. If we don't hear from you until %3$@, your account will be deactivated completely and terminated.";
-"ChatList.FreezeAccount.Alert" = "Your account was frozen for serious infringement of [Telegrams Terms and Condition](https://telegram.org/tos). Your account is in read-only mode now (since %1$@). You can still appeal to @SpamBot if you believe there was a mistake. If we don't hear from you until %3$@, your account will be deactivated completely and terminated.";
+"ChatList.FreezeAccount" = "Your account has been frozen for a serious violation of Telegram's [Terms and Conditions](https://telegram.org/tos). Your account is now in read-only mode (since %1$@). You can appeal via [@SpamBot](%2$@) if you believe this was a mistake. If we don't hear from you until %3$@, your account will be fully deactivated and terminated.";
+"ChatList.FreezeAccount.Alert" = "Your account has been frozen for a serious violation of Telegram's [Terms and Conditions](https://telegram.org/tos). Your account is now in read-only mode (since %1$@). You can appeal via [@SpamBot](%2$@) if you believe this was a mistake. If we don't hear from you until %3$@, your account will be fully deactivated and terminated.";
 "ChatList.FreezeAccount.Alert.Appeal" = "Appeal";
 "ChatList.FreezeAccount.Alert.Title" = "Your account was frozen";
 "ChatList.FreezeAccount.Title" = "Your account was frozen";
@@ -8705,9 +8705,9 @@
 "PeerInfo.TopicsLimitedParticipantCountText_many" = "Only groups with more than %d members can have topics enabled.";
 "PeerInfo.TopicsLimitedParticipantCountText_other" = "Only groups with more than %d members can have topics enabled.";
 "PeerInfo.TopicsLimitedParticipantCountText_countable" = "%d";
-"PeerInfo.VerificationInfo.Bot" = "This bot is verified as official by the representatives of Telegram.";
-"PeerInfo.VerificationInfo.Channel" = "This channel is verified as official by the representatives of Telegram.";
-"PeerInfo.VerificationInfo.Group" = "This group is verified as official by the representatives of Telegram.";
+"PeerInfo.VerificationInfo.Bot" = "This bot was verified by Telegram.";
+"PeerInfo.VerificationInfo.Channel" = "This channel was verified by Telegram.";
+"PeerInfo.VerificationInfo.Group" = "This group was verified by Telegram.";
 "PeerInfo.VerificationInfo.URL" = "https://telegram.org/verify";
 "PeerInfo.VerifyAccounts" = "Verify Accounts";
 "PeerList.Archive.Settings" = "Archive Settings";
