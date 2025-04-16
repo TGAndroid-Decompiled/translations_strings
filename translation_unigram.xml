@@ -5438,15 +5438,20 @@
     <string name="UsernamesChannelHelp">Drag and drop links to change the order in which they will be displayed on the channel info page.</string>
     
     <string name="NewTopic">New Topic</string>
+    <string name="CreateTopic">Create Topic</string>
     <string name="CreateTopicTitle">Choose a topic name and icon</string>
-    
+    <string name="DeleteTopics_one">Delete Topic</string>
+    <string name="DeleteTopics_other">Delete Topics</string>
+    <string name="DeleteSelectedTopic">Are you sure you want to delete {0}?</string>
+    <string name="DeleteSelectedTopics">Are you sure you want to delete these topics?</string>
+
     <string name="EnterTopicName">What do you want to discuss?</string>
     <string name="TopicCreated">Topic created</string>
     
     
     
     <string name="Discard">Discard</string>
-    <string name="EditTopic">Edit topic</string>
+    <string name="EditTopic">Edit Topic</string>
     
     
     
@@ -5454,8 +5459,8 @@
     
     
     
-    <string name="CloseTopic">Close topic</string>
-    <string name="RestartTopic">Reopen topic</string>
+    <string name="CloseTopic">Close Topic</string>
+    <string name="RestartTopic">Reopen Topic</string>
     
     
     
@@ -11983,12 +11988,93 @@
   <string name="YearsAgo_many">{0} years ago</string>
   <string name="GiftsPinLimit_one">You can\'t pin more than {0} gift.</string>
   <string name="GiftsPinLimit_other">You can\'t pin more than {0} gifts.</string>
+  <string name="AccountFrozen1Text">Your account was frozen for breaking Telegram’s Terms and Conditions.</string>
+  <string name="AccountFrozen1Title">Violation of Terms</string>
+  <string name="AccountFrozen2Text">You can access your account but can’t send messages or take actions.</string>
+  <string name="AccountFrozen2Title">Read-Only Mode</string>
+  <string name="AccountFrozen3Text">Appeal via **@SpamBot** before {0}, or your account will be deleted</string>
+  <string name="AccountFrozen3Title">Appeal Before Deactivation</string>
+  <string name="AccountFrozenAlertSubtitle">Tap to view details and submit an appeal.</string>
+  <string name="AccountFrozenAlertTitle">Your account is frozen!</string>
+  <string name="AccountFrozenBottomSubtitle">Tap to view details</string>
+  <string name="AccountFrozenBottomTitle">Your account is frozen</string>
+  <string name="AccountFrozenButtonAppeal">Submit an Appeal</string>
+  <string name="AccountFrozenButtonUnderstood">Understood</string>
+  <string name="AccountFrozenTitle">Your Account is Frozen</string>
+
+    <string name="PrivacyGiftsShowIcon">Show Gift Icon in Chats</string>
+    <string name="PrivacyGiftsShowIconInfo">Display the {0} Gift in the message input field for both participants in all chats.</string>
+    <string name="PrivacyGiftsTypeHeader">Accepted gift types</string>
+    <string name="PrivacyGiftsTypeInfo">Choose the types of gifts that you allow others to send you.</string>
+    <string name="PrivacyGiftsTypeLimited">Limited-Edition</string>
+    <string name="PrivacyGiftsTypePremium">Premium Subscription</string>
+    <string name="PrivacyGiftsTypeUnique">Unique</string>
+    <string name="PrivacyGiftsTypeUnlimited">Unlimited</string>
+    <string name="BusinessBotPermissionsGiftsSection">Manage Gifts and Stars</string>
+    <string name="BusinessBotPermissionsGiftsSell">Sell Gifts</string>
+    <string name="BusinessBotPermissionsGiftsSettings">Change Gift Settings</string>
+    <string name="BusinessBotPermissionsGiftsTransfer">Transfer and Upgrade Gifts</string>
+    <string name="BusinessBotPermissionsGiftsTransferStars">Transfer Stars</string>
+    <string name="BusinessBotPermissionsGiftsView">View Gifts</string>
+    <string name="BusinessBotPermissionsMessagesDeleteReceived">Delete Received Messages</string>
+    <string name="BusinessBotPermissionsMessagesDeleteSent">Delete Sent Messages</string>
+    <string name="BusinessBotPermissionsMessagesMarkAsRead">Mark Messages As Read</string>
+    <string name="BusinessBotPermissionsMessagesRead">Read Messages</string>
+    <string name="BusinessBotPermissionsMessagesReply">Reply to Messages</string>
+    <string name="BusinessBotPermissionsMessagesSection">Manage Messages</string>
+    <string name="BusinessBotPermissionsProfileBio">Edit Bio</string>
+    <string name="BusinessBotPermissionsProfileName">Edit Name</string>
+    <string name="BusinessBotPermissionsProfilePicture">Edit Profile Picture</string>
+    <string name="BusinessBotPermissionsProfileSection">Manage Profile</string>
+    <string name="BusinessBotPermissionsProfileUsername">Edit Username</string>
+    <string name="BusinessBotPermissionsStories">Manage Stories</string>
+    
+    <string name="PaidMessagesPriceUpdatedOut_one">You changed price to {0} Star per message</string>
+    <string name="PaidMessagesPriceUpdatedOut_other">You changed price to {0} Stars per message</string>
+    <string name="PaidMessagesPriceUpdated_one">un1 changed price to {0} Star per message</string>
+    <string name="PaidMessagesPriceUpdated_other">un1 changed price to {0} Stars per message</string>
+    <string name="PaidMessagesRefundedOut_one">You refunded {0} Star to un1</string>
+    <string name="PaidMessagesRefundedOut_other">You refunded {0} Stars to un1</string>
+    <string name="PaidMessagesRefunded_one">un1 refunded {0} Star to you</string>
+    <string name="PaidMessagesRefunded_other">un1 refunded {0} Stars to you</string>
+
+    <string name="FontFamily">Font family</string>
+
+    <string name="StarsTransactionMessageFee_one">Fee for {0} Message</string>
+    <string name="StarsTransactionMessageFee_other">Fee for {0} Messages</string>
+
+    <string name="TopicViewAsMessages">View as Messages</string>
+    <string name="TopicViewAsTopics">View as Topics</string>
 
 
   <!-- new from translations.telegram.org -->
 
+  <string name="DeleteTopics_zero">Delete Topics</string>
+  <string name="DeleteTopics_two">Delete Topics</string>
+  <string name="DeleteTopics_few">Delete Topics</string>
+  <string name="DeleteTopics_many">Delete Topics</string>
   <string name="GiftsPinLimit_zero">You can\'t pin more than {0} gifts.</string>
   <string name="GiftsPinLimit_two">You can\'t pin more than {0} gifts.</string>
   <string name="GiftsPinLimit_few">You can\'t pin more than {0} gifts.</string>
   <string name="GiftsPinLimit_many">You can\'t pin more than {0} gifts.</string>
+  <string name="PaidMessagesPriceUpdated_zero">un1 changed price to {0} Stars per message</string>
+  <string name="PaidMessagesPriceUpdated_two">un1 changed price to {0} Stars per message</string>
+  <string name="PaidMessagesPriceUpdated_few">un1 changed price to {0} Stars per message</string>
+  <string name="PaidMessagesPriceUpdated_many">un1 changed price to {0} Stars per message</string>
+  <string name="PaidMessagesPriceUpdatedOut_zero">You changed price to {0} Stars per message</string>
+  <string name="PaidMessagesPriceUpdatedOut_two">You changed price to {0} Stars per message</string>
+  <string name="PaidMessagesPriceUpdatedOut_few">You changed price to {0} Stars per message</string>
+  <string name="PaidMessagesPriceUpdatedOut_many">You changed price to {0} Stars per message</string>
+  <string name="PaidMessagesRefunded_zero">un1 refunded {0} Stars to you</string>
+  <string name="PaidMessagesRefunded_two">un1 refunded {0} Stars to you</string>
+  <string name="PaidMessagesRefunded_few">un1 refunded {0} Stars to you</string>
+  <string name="PaidMessagesRefunded_many">un1 refunded {0} Stars to you</string>
+  <string name="PaidMessagesRefundedOut_zero">You refunded {0} Stars to un1</string>
+  <string name="PaidMessagesRefundedOut_two">You refunded {0} Stars to un1</string>
+  <string name="PaidMessagesRefundedOut_few">You refunded {0} Stars to un1</string>
+  <string name="PaidMessagesRefundedOut_many">You refunded {0} Stars to un1</string>
+  <string name="StarsTransactionMessageFee_zero">Fee for {0} Messages</string>
+  <string name="StarsTransactionMessageFee_two">Fee for {0} Messages</string>
+  <string name="StarsTransactionMessageFee_few">Fee for {0} Messages</string>
+  <string name="StarsTransactionMessageFee_many">Fee for {0} Messages</string>
 </resources>
